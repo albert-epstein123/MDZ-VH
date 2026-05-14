@@ -2845,8 +2845,8 @@ mà k tốn chỗ.</name>
 <text>
 	<id>440</id>
 	<name> Chế độ "Đột biến"
-• Tăng máu zombie theo từng đảo.
-  (mỗi 2 đảo: + 50% máu)
+• Tăng máu &amp; dmg zombie theo từng đảo.
+  (đảo 3: + 50%, đảo 5: + 50%)
 • Zombie đa số có knăng đặc biệt.
 • Tăng knăng spawn zombie Tank.</name>
 </text>
