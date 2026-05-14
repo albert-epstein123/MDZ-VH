@@ -1,0 +1,3552 @@
+<?xml version="1.0" ?>
+
+<list>
+
+<!-- Main menu buttons-->
+<text>
+	<id>1</id>
+	<name>Ván mới</name>
+</text>
+
+<text>
+	<id>2</id>
+	<name>Tiếp tục</name>
+</text>
+
+<text>
+	<id>3</id>
+	<name>Thành tựu</name>
+</text>
+
+<text>
+	<id>4</id>
+	<name>Cộng đồng</name>
+</text>
+
+<text>
+	<id>5</id>
+	<name>Changelog</name>
+</text>
+
+<text>
+	<id>6</id>
+	<name>Log out</name>
+</text>
+
+<text>
+	<id>7</id>
+	<name>Tân thủ</name>
+</text>
+
+<text>
+	<id>8</id>
+	<name>Thường</name>
+</text>
+
+<text>
+	<id>9</id>
+	<name>Kỳ cựu</name>
+</text>
+
+<text>
+	<id>10</id>
+	<name>Quay lại</name>
+</text>
+
+<text>
+	<id>11</id>
+	<name>Tiếp tục</name>
+</text>
+
+<!-- Main menu player achieves labels-->
+
+<text>
+	<id>12</id>
+	<name>Số phút đã chơi: </name>
+</text>
+
+<text>
+	<id>13</id>
+	<name>Số zombie đã giết: </name>
+</text>
+
+<text>
+	<id>14</id>
+	<name>Số cướp đã giết: </name>
+</text>
+
+<text>
+	<id>15</id>
+	<name>Độ khó: </name>
+</text>
+
+<!-- Level loading-->
+
+<text>
+	<id>16</id>
+	<name>Đang tạo thế giới</name>
+</text>
+
+<text>
+	<id>18</id>
+	<name>Tạo đường (Bước 1)</name>
+</text>
+
+<text>
+	<id>19</id>
+	<name>Tạo đường (Bước 2)</name>
+</text>
+
+<text>
+	<id>20</id>
+	<name>Tạo bí mật</name>
+</text>
+
+<text>
+	<id>21</id>
+	<name>Vẽ tilemap</name>
+</text>
+
+<text>
+	<id>22</id>
+	<name>Tạo bản đồ minimap</name>
+</text>
+
+<!-- Menu btns-->
+
+<text>
+	<id>23</id>
+	<name>Về menu</name>
+</text>
+<!--
+<text>
+	<id>24</id>
+	<name>Rồi</name>
+</text>
+
+<text>
+	<id>25</id>
+	<name>Chưa</name>
+</text>
+-->
+<text>
+	<id>26</id>
+	<name>Bạn có muốn về menu ko?</name>
+</text>
+
+<!--MENU ADDITIONS -->
+
+<text>
+	<id>27</id>
+	<name>Nvật</name>
+</text>
+
+<text>
+	<id>28</id>
+	<name>Thống kê:</name>
+</text>
+
+<text>
+	<id>29</id>
+	<name>Tổng số phút đã sống: </name>
+</text>
+
+<text>
+	<id>30</id>
+	<name>Tổng số zombie đã giết: </name>
+</text>
+
+<text>
+	<id>31</id>
+	<name>Tổng số cướp đã giết: </name>
+</text>
+
+<text>
+	<id>32</id>
+	<name>Chết: </name>
+</text>
+
+<text>
+	<id>33</id>
+	<name>Cđộ Dchuyển: Nhấn</name>
+</text>
+
+<text>
+	<id>34</id>
+	<name>Cđộ Dchuyển: Cần</name>
+</text>
+
+<text>
+	<id>35</id>
+	<name>Tắt âm thanh</name>
+</text>
+
+<text>
+	<id>36</id>
+	<name>Bật âm thanh</name>
+</text>
+
+<text>
+	<id>37</id>
+	<name>Về menu</name>
+</text>
+
+<text>
+	<id>38</id>
+	<name>Đồng</name>
+</text>
+
+<text>
+	<id>39</id>
+	<name>Bạc</name>
+</text>
+
+<text>
+	<id>40</id>
+	<name>Vàng</name>
+</text>
+
+<!-- level changing dialog window -->
+
+<text>
+	<id>41</id>
+	<name>Ok</name>
+</text>
+
+<text>
+	<id>42</id>
+	<name>Bạn cần đống gỗ để sửa chiếc thuyền này.</name>
+</text>
+
+<text>
+	<id>43</id>
+	<name>Bạn cần 1 cuộn băng keo để sửa chiếc thuyền này.</name>
+</text>
+
+<text>
+	<id>44</id>
+	<name>Sửa</name>
+</text>
+
+<text>
+	<id>45</id>
+	<name>Rời</name>
+</text>
+
+<text>
+	<id>46</id>
+	<name>Bạn cthể sửa chiếc thuyền này với đống gỗ bạn đang có.</name>
+</text>
+
+<text>
+	<id>47</id>
+	<name>Bạn cthể sửa chiếc thuyền này với cuộn băng keo bạn đang có.</name>
+</text>
+
+<text>
+	<id>48</id>
+	<name>Rời đảo</name>
+</text>
+
+<text>
+	<id>49</id>
+	<name>Từ từ đã</name>
+</text>
+
+<text>
+	<id>50</id>
+	<name>Bạn có muốn đến đảo tiếp hay k? Một khi đặt chân đến đảo, bạn k thể nào về đảo trước đó đc nữa.</name>
+</text>
+
+<text>
+	<id>51</id>
+	<name>Chọn</name>
+</text>
+
+<!---->
+<text>
+	<id>52</id>
+	<name>Quảng cáo cc.</name>
+</text>
+
+<text>
+	<id>53</id>
+	<name>Đồ ăn</name>
+</text>
+
+<text>
+	<id>54</id>
+	<name>Thức uống</name>
+</text>
+
+<text>
+	<id>55</id>
+	<name>Băng gạc</name>
+</text>
+
+<text>
+	<id>56</id>
+	<name>“Hello, do you want to exchange some items? This is what I offer:”</name>
+</text>
+
+<!--
+<text>
+	<id>57</id>
+	<name>Vật: </name>
+</text>
+
+<text>
+	<id>58</id>
+	<name>Giá: </name>
+</text>
+
+<text>
+	<id>59</id>
+	<name>Từ chối</name>
+</text>
+
+<text>
+	<id>60</id>
+	<name>Chấp nhận</name>
+</text>
+
+<text>
+	<id>61</id>
+	<name>Đổi</name>
+</text>
+-->
+<text>
+	<id>62</id>
+	<name>Chọn</name>
+</text>
+
+<text>
+	<id>63</id>
+	<name>Locked</name>
+</text>
+
+<text>
+	<id>64</id>
+	<name>Đã chọn</name>
+</text>
+
+<text>
+	<id>65</id>
+	<name>Đã mở khoá nvật mới!</name>
+</text>
+
+<text>
+	<id>66</id>
+	<name>Box may include anything, from food to guns.</name>
+</text>
+
+<text>
+	<id>67</id>
+	<name>!!!!</name>
+</text>
+
+<text>
+	<id>68</id>
+	<name>Cài đặt</name>
+</text>
+
+<text>
+	<id>69</id>
+	<name>Vị trí cần</name>
+</text>
+
+<text>
+	<id>70</id>
+	<name>Ngôn ngữ</name>
+</text>
+
+<!--Billy "Red" Locked-->
+<text>
+	<id>71</id>
+	<name>Billy "Red"
+Yêu cầu: Giết 5 zombies bằng shotgun.
+Yêu cầu độ khó: -</name>
+</text>
+
+<!--Emilio "Doc" Locked-->
+<text>
+	<id>72</id>
+	<name>Emilio "Bác sĩ"
+Yêu cầu: Cầm máu 6 lần.
+Yêu cầu độ khó: -</name>
+</text>
+
+<!--Dave "Boxer" Locked-->
+<text>
+	<id>73</id>
+	<name>Dave "Boxer"
+Yêu cầu: Giết 10 zombie bằng tay k.
+Yêu cầu độ khó: -</name>
+</text>
+
+<!--Lee "Maniac" Locked-->
+<text>
+	<id>74</id>
+	<name>Lee "Điên"
+Yêu cầu: Giết 1 tên cướp bằng rìu.
+Yêu cầu độ khó: "Thường" hoặc cao hơn.</name>
+</text>
+
+<!--Sergey "Slav" Locked-->
+<text>
+	<id>75</id>
+	<name>Sergey "Ivan"
+Yêu cầu: Giết 3 người sinh tồn trong 1 lần chơi.
+Yêu cầu độ khó: "Thường" hoặc cao hơn.</name>
+</text>
+
+<!--John "Biker" Locked-->
+<text>
+	<id>76</id>
+	<name>John "Báo thủ"
+Yêu cầu: Mặc áo khoác, đội mũ bảo hiểm &amp; cầm mỏ lết cùng lúc.
+Yêu cầu độ khó: "Thường" hoặc cao hơn.</name>
+</text>
+
+<!--Ganzo "Dragon" Locked-->
+<text>
+	<id>77</id>
+	<name>Ganzo "Yakuza"
+Yêu cầu: Giết 4 kẻ thù (người) bằng 1 khẩu súng.
+Yêu cầu độ khó: "Kỳ cựu" hoặc cao hơn.</name>
+</text>
+
+<!--Tom "Survivor" Locked-->
+<text>
+	<id>78</id>
+	<name>Tom "Survivor"
+Yêu cầu: Sống sót trong 7 ngày.
+Yêu cầu độ khó: "Kỳ cựu" hoặc cao hơn.</name>
+</text>
+
+<!--Garry "Veteran" Locked-->
+<text>
+	<id>79</id>
+	<name>Garry "Veteran"
+Yêu cầu: Mặc bộ đồ Gorka, mũ Gorka trong 1 lần chơi.
+Yêu cầu độ khó: "Kỳ cựu" hoặc cao hơn.</name>
+</text>
+
+
+<text>
+	<id>80</id>
+	<name>Nvật 1
+Trang bị: Quần bò, áo thun
+Kĩ năng:  -</name>
+</text>
+
+<text>
+	<id>81</id>
+	<name>Nvật 2
+Trang bị: Quần bò, áo thun
+Kĩ năng:  -</name>
+</text>
+
+<text>
+	<id>82</id>
+	<name>Nvật 3
+Trang bị: Quần bò, áo thun
+Kĩ năng:  -</name>
+</text>
+
+<!--Billy "Red" Unlocked-->
+<text>
+	<id>83</id>
+	<name>Billy "Red"
+Trang bị: Quần bò, áo thun, khăn đội đầu
+Kĩ năng: Lvl.1 Thiện xạ</name>
+</text>
+
+<!--Emilio "Doc" Unlocked-->
+<text>
+	<id>84</id>
+	<name>Emilio "Bác sĩ"
+Trang bị: Quần y tế, áo thun, bộ truyền máu
+Kĩ năng: Lvl.1 máu+</name>
+</text>
+
+<!--Dave "Boxer" Unlocked-->
+<text>
+	<id>85</id>
+	<name>Dave "Boxer"
+Trang bị: Quần bò, áo thun, giẻ
+Kĩ năng: Lvl.1 Chặn đòn</name>
+</text>
+
+<!--Lee "Maniac" Unlocked-->
+<text>
+	<id>86</id>
+	<name>Lee "Điên"
+Trang bị: Quần bò, váy, mặt nạ khí ga, dao mổ thịt
+Kĩ năng: Lvl.1 Nhà</name>
+</text>
+
+<!--John "Biker" Unlocked-->
+<text>
+	<id>87</id>
+	<name>John "Báo thủ"
+Trang bị: Quần bò, áo khoác, mũ bảo hiểm, mỏ lết
+Kĩ năng: Lvl.1 Vận động viên
+Kĩ năng đặc biệt: Mũ bảo hiểm tìm đc đều bền hơn.</name>
+</text>
+
+<!--Sergey "Slav" Unlocked-->
+<text>
+	<id>88</id>
+	<name>Sergey "Ivan"
+Trang bị: Quần thể dục, áo khoác thể dục, mũ trùm đầu, gậy bóng chày
+Kĩ năng: Lvl.1 Oánh nhau
+Kĩ năng đặc biệt: +1 nhiệt độ.</name>
+</text>
+
+<!--Ganzo "Dragon" Unlocked-->
+<text>
+	<id>89</id>
+	<name>Ganzo "Yakuza"
+Trang bị: Quần thợ săn, cung tự chế, mũi tên hợp chất x6
+Kĩ năng: Lvl.1 Kháng lạnh, Lvl.1 Vận động viên
+Kĩ năng đặc biệt: Katana tìm đc đều bền hơn. Chạy nhanh hơn khi đang cầm nó.</name>
+</text>
+
+<!--Tom "Survivor" Unlocked-->
+<text>
+	<id>90</id>
+	<name>Tom "Người sống sót"
+Trang bị: Quần bò, áo thun, mũ cao bồi, dao săn, túi tự chế
+Kĩ năng: Lvl.1 Thợ săn, Lvl.1 Dân sinh tồn</name>
+</text>
+
+<!--Garry "Veteran" Unlocked-->
+<text>
+	<id>91</id>
+	<name>Garry "Cựu binh"
+Trang bị: Quần bò, áo thun, mũ, áo chống đạn, Colt 1911, Đạn .45 ACP x14
+Kĩ năng: Lvl.1 Thiện xạ, Lvl.1 Trinh sát</name>
+</text>
+
+<text>
+	<id>95</id>
+	<name>No connection to the airdrop center! Please restore your internet connection.</name>
+</text>
+
+<text>
+	<id>96</id>
+	<name>No connection to airdrop center!</name>
+</text>
+
+<text>
+	<id>97</id>
+	<name>Reset</name>
+</text>
+
+<text>
+	<id>98</id>
+	<name>Lưu</name>
+</text>
+
+<text>
+	<id>99</id>
+	<name>!!!</name>
+</text>
+
+<!-- Achievements-->
+
+<text>
+	<id>101</id>
+	<name>24 giờ</name>
+</text>
+
+<text>
+	<id>102</id>
+	<name>Xác ướp</name>
+</text>
+
+<text>
+	<id>103</id>
+	<name>Ma cà rồng</name>
+</text>
+
+<text>
+	<id>104</id>
+	<name>Thợ săn hộp đen</name>
+</text>
+
+<text>
+	<id>105</id>
+	<name>Tay súng</name>
+</text>
+
+<text>
+	<id>106</id>
+	<name>Cán chổi</name>
+</text>
+
+<text>
+	<id>107</id>
+	<name>Tcông công</name>
+</text>
+
+<text>
+	<id>108</id>
+	<name>Kẻ hủy diệt</name>
+</text>
+
+<text>
+	<id>109</id>
+	<name>Robin Hút</name>
+</text>
+
+<text>
+	<id>110</id>
+	<name>Super Vegan Guy</name>
+</text>
+
+<text>
+	<id>111</id>
+	<name>Sống dai thành huyền thoại</name>
+</text>
+
+<text>
+	<id>112</id>
+	<name>Người gom đồ</name>
+</text>
+
+<text>
+	<id>113</id>
+	<name>Lính súng trường</name>
+</text>
+
+<text>
+	<id>114</id>
+	<name>Thợ săn zombie</name>
+</text>
+
+<text>
+	<id>115</id>
+	<name>Người du hành</name>
+</text>
+
+<text>
+	<id>116</id>
+	<name>Tham ăn</name>
+</text>
+
+<text>
+	<id>117</id>
+	<name>Kẻ trộm</name>
+</text>
+
+<text>
+	<id>118</id>
+	<name>Lên cấp</name>
+</text>
+
+<text>
+	<id>119</id>
+	<name>Bức tường</name>
+</text>
+
+<text>
+	<id>120</id>
+	<name>Linh hồn bóng tối</name>
+</text>
+
+<text>
+	<id>121</id>
+	<name>Sát nhân tàn nhẫn</name>
+</text>
+
+<text>
+	<id>122</id>
+	<name>Ninja</name>
+</text>
+
+<text>
+	<id>123</id>
+	<name>Nông dân</name>
+</text>
+
+<text>
+	<id>124</id>
+	<name>Trú ẩn</name>
+</text>
+
+<text>
+	<id>125</id>
+	<name>Tiều phu</name>
+</text>
+
+<text>
+	<id>126</id>
+	<name>Anh em</name>
+</text>
+
+<text>
+	<id>127</id>
+	<name>Lạc đà</name>
+</text>
+
+<text>
+	<id>128</id>
+	<name>Thợ săn hươu</name>
+</text>
+
+<text>
+	<id>129</id>
+	<name>⚔️</name>
+</text>
+
+<text>
+	<id>130</id>
+	<name>🚪</name>
+</text>
+<!-- Achievements descriptions-->
+
+<text>
+	<id>151</id>
+	<name>Sống sót 1/2/3 ngày</name>
+</text>
+
+<text>
+	<id>152</id>
+	<name>Cầm máu 2/4/6 lần</name>
+</text>
+
+<text>
+	<id>153</id>
+	<name>Dùng 1/2/3 túi máu hoặc túi 
+nước muối sinh lý
+</name>
+</text>
+
+<text>
+	<id>154</id>
+	<name>Tìm thấy 1/2/3 trực thăng rơi</name>
+</text>
+
+<text>
+	<id>155</id>
+	<name>Giết 5/15/30 zombie bằng súng ngắn</name>
+</text>
+
+<text>
+	<id>156</id>
+	<name>Giết 5/15/30 zombie bằng súng săn</name>
+</text>
+
+<text>
+	<id>157</id>
+	<name>Giết 5/15/30 zombie bằng súng 
+trường tcông hoặc tiểu liên
+</name>
+</text>
+
+<text>
+	<id>158</id>
+	<name>Chịu 5/15/30 phát súng</name>
+</text>
+
+<text>
+	<id>159</id>
+	<name>Giết 5/15/30 zombie bằng cung hoặc nỏ</name>
+</text>
+
+<text>
+	<id>160</id>
+	<name>Chịu 10/20/30 phát cắn zombie hoặc sói</name>
+</text>
+
+<text>
+	<id>161</id>
+	<name>Học tất cả các kĩ năng</name>
+</text>
+
+<text>
+	<id>162</id>
+	<name>Thu hoạch 5/10/15 trái mọng</name>
+</text>
+
+<text>
+	<id>163</id>
+	<name>Giết 5/15/30 zombie bằng súng trường phát 1 hoặc súng trường khóa nòng</name>
+</text>
+
+<text>
+	<id>164</id>
+	<name>Giết 20/40/80 zombie</name>
+</text>
+
+<text>
+	<id>165</id>
+	<name>Khám phá ít nhất 1 thành phố 
+trên đảo 1/2/3 
+</name>
+</text>
+
+<text>
+	<id>166</id>
+	<name>Ăn 15/30/50 đồ ăn</name>
+</text>
+
+<text>
+	<id>167</id>
+	<name>Mở 50/100/150 cốp xe</name>
+</text>
+
+<text>
+	<id>168</id>
+	<name>Tìm đc Nuka-Cola</name>
+</text>
+
+<text>
+	<id>169</id>
+	<name>Xây 1/2/3 rào hoặc dây thép gai</name>
+</text>
+
+<text>
+	<id>170</id>
+	<name>Thắp 1/2/3 lửa trại</name>
+</text>
+
+<text>
+	<id>171</id>
+	<name>Giết 1/2/3 người</name>
+</text>
+
+<text>
+	<id>172</id>
+	<name>Ko dính dmg trong 12/24/36 giờ game</name>
+</text>
+
+<text>
+	<id>173</id>
+	<name>Trồng 5/10/15 rau</name>
+</text>
+
+<text>
+	<id>174</id>
+	<name>Dựng 1/2/3 lều</name>
+</text>
+
+<text>
+	<id>175</id>
+	<name>Chặt đứt 3/6/10 cây</name>
+</text>
+
+<text>
+	<id>176</id>
+	<name>Gặp &amp; kết đồng minh</name>
+</text>
+
+<text>
+	<id>177</id>
+	<name>Uống 10/20/30 đồ uống</name>
+</text>
+
+<text>
+	<id>178</id>
+	<name>Lột da 1/2/3 động vật</name>
+</text>
+
+<text>
+	<id>179</id>
+	<name>???</name>
+</text>
+
+<text>
+	<id>180</id>
+	<name>???</name>
+</text>
+
+<!--TUTORIAL PAD -->
+<text>
+	<id>228</id>
+	<name>Oánh nhau</name>
+</text>
+
+<text>
+	<id>229</id>
+	<name>Bạn cthể đánh bằng tay k hoặc bằng vũ khí cận chiến. Khi gần kẻ thù, nvật sẽ tự động ra đòn. Mỗi loại vũ khí có tỷ lệ gây sthương gấp ba hoặc tỷ lệ chặn đòn khác nhau.</name>
+</text>
+
+<text>
+	<id>230</id>
+	<name>Với vũ khí tầm xa, nvật bạn sẽ tự ngắm bắn. Bấm nút bắn để bắn. Bắn khi đang chạy sẽ kém chính xác hơn so với khi đứng yên.</name>
+</text>
+
+<text>
+	<id>231</id>
+	<name>Lửa trại cung cấp nhiệt, ánh sáng. Bạn cthể nấu ăn trên đó (tối đa ba lần).</name>
+</text>
+
+<text>
+	<id>232</id>
+	<name>Bạn cthể trồng cây để lấy thức ăn. Bạn cần hạt giống &amp; xẻng, chĩa hoặc cuốc để trồng.</name>
+</text>
+
+<text>
+	<id>233</id>
+	<name>Bạn cần nguyên liệu để chế tạo. Bạn cthể tìm hoặc thu thập chúng.</name>
+</text>
+
+<text>
+	<id>234</id>
+	<name>Khi bị thương, bạn cthể chảy máu. Bạn k thể hphục khi chảy máu. Hãy dùng băng gạc hoặc giẻ để cầm máu.</name>
+</text>
+
+<text>
+	<id>235</id>
+	<name>Bạn cthể mắc bệnh nếu nhiệt độ cơ thể xuống 0% (bị zombie đánh nhưng khá hiếm). Bạn k thể hphục khi bị bệnh. Để chữa khỏi bệnh, hãy sử dụng kháng sinh hoặc dtrì nhiệt độ cơ thể, lượng thức ăn, nước trên 75%.</name>
+</text>
+
+<text>
+	<id>236</id>
+	<name>Trạng thái</name>
+</text>
+
+<text>
+	<id>237</id>
+	<name>Thời tiết lạnh làm giảm nhiệt độ cơ thể. Khi về đêm, trời mưa hoặc có tuyết, nhiệt độ cơ thể bạn sẽ giảm thêm.</name>
+</text>
+
+<text>
+	<id>238</id>
+	<name>Bạn cần ăn &amp; uống để sống sót. Nếu lượng thức ăn, nước dưới 50%, bạn sẽ k thể hphục.</name>
+</text>
+
+<text>
+	<id>239</id>
+	<name>Thức ăn/Nước</name>
+</text>
+
+<text>
+	<id>240</id>
+	<name>Bản đồ</name>
+</text>
+
+<text>
+	<id>241</id>
+	<name>Bản đồ</name>
+</text>
+
+<text>
+	<id>250</id>
+	<name>Hướng dẫn</name>
+</text>
+
+<text>
+	<id>251</id>
+	<name>Chế tạo</name>
+</text>
+
+<text>
+	<id>252</id>
+	<name>Bản đồ</name>
+</text>
+
+<text>
+	<id>253</id>
+	<name>Máu</name>
+</text>
+
+<text>
+	<id>254</id>
+	<name>Bạn sẽ chết nếu hết máu. Bạn cthể mất máu nếu bị đánh hoặc trúng đạn. Bạn cũng sẽ mất máu nếu lượng thức ăn/nước/nhiệt xuống bằng k.</name>
+</text>
+
+<text>
+	<id>255</id>
+	<name>Bạn cthể cầm máu bằng băng gạc hoặc giẻ (1 số quần áo cthể xé thành giẻ).</name>
+</text>
+
+<text>
+	<id>256</id>
+	<name>Sử dụng túi máu &amp; túi nước muối sinh lý để bù máu.</name>
+</text>
+
+<text>
+	<id>257</id>
+	<name>Nếu lượng nước, thức ăn &amp; nhiệt độ cơ thể của bạn đều trên 50%, bạn sẽ bắt đầu tái tạo máu.</name>
+</text>
+
+<text>
+	<id>258</id>
+	<name>Thức ăn/Nước</name>
+</text>
+
+<text>
+	<id>259</id>
+	<name>Nhiệt</name>
+</text>
+
+<text>
+	<id>260</id>
+	<name>Trú vào trong các tòa nhà để giữ ấm.</name>
+</text>
+
+<text>
+	<id>261</id>
+	<name>Hãy tìm quần áo ấm &amp; tốt để giữ ấm.</name>
+</text>
+
+<text>
+	<id>262</id>
+	<name>Uống rượu whiskey để làm ấm cơ thể.</name>
+</text>
+
+<text>
+	<id>263</id>
+	<name>Đốt lửa trại giúp làm ấm cơ thể.</name>
+</text>
+
+<text>
+	<id>264</id>
+	<name>Hãy tìm 1 cái lều &amp; dựng nó lên để trú mưa &amp; giữ ấm 1 chút.</name>
+</text>
+
+
+<text>
+	<id>265</id>
+	<name>Tìm vật tư</name>
+</text>
+
+<text>
+	<id>266</id>
+	<name>Bạn cthể tìm thấy hầu hết các vật phẩm trong các tòa nhà.</name>
+</text>
+
+<text>
+	<id>267</id>
+	<name>Trong cốp xe, xe buýt, bạn cũng cthể tìm thấy các vật phẩm.</name>
+</text>
+
+<text>
+	<id>268</id>
+	<name>Bạn cthể thu thập các loại quả mọng trên 1 số bụi cây.</name>
+</text>
+
+
+<text>
+	<id>269</id>
+	<name>Tài nguyên</name>
+</text>
+
+<text>
+	<id>270</id>
+	<name>Bạn cthể chặt cây bằng rìu. Các loại cây khác nhau sẽ cho ra loại gỗ khác nhau.
+Tất cả các vật phẩm hữu ích khác đều cthể tìm thấy trong thế giới này.</name>
+</text>
+
+
+<text>
+	<id>271</id>
+	<name>Ban đêm</name>
+</text>
+
+<text>
+	<id>272</id>
+	<name>Hãy tìm 1 chiếc đèn đội đầu hoặc kính nhìn đêm để nhìn thấy trong đêm (cần 1 cục pin).</name>
+</text>
+
+<text>
+	<id>273</id>
+	<name>Pháo sáng cthể chiếu sáng 1 khu vực nhỏ trong 1 thời gian ngắn sau khi đc đốt.</name>
+</text>
+
+<text>
+	<id>274</id>
+	<name>Lửa trại cũng cthể chiếu sáng 1 khu vực trong thời gian dài trong đêm.</name>
+</text>
+
+
+<text>
+	<id>275</id>
+	<name>Bơm nước</name>
+</text>
+
+<text>
+	<id>276</id>
+	<name>Các cột bơm nước thường chứa 1 lượng nước. Bạn cthể uống nước từ đó, nhưng luôn nhớ rằng nguồn nước đó có hạn.</name>
+</text>
+
+<text>
+	<id>277</id>
+	<name>Bạn cũng cthể đổ nước vào chai hoặc bình đựng từ các cột bơm nước</name>
+</text>
+
+
+<text>
+	<id>278</id>
+	<name>Sửa chữa</name>
+</text>
+
+<text>
+	<id>279</id>
+	<name>Băng keo giúp tăng độ bền của 1 số trang bị lên 15%.</name>
+</text>
+
+<text>
+	<id>280</id>
+	<name>Bộ dụng cụ may vá giúp tăng 50% độ bền cho quần áo.</name>
+</text>
+
+<text>
+	<id>281</id>
+	<name>Bộ dụng cụ vệ sinh súng giúp tăng 25% độ bền cho khẩu súng của bạn.</name>
+</text>
+
+
+<text>
+	<id>282</id>
+	<name>Săn bắn</name>
+</text>
+
+<text>
+	<id>283</id>
+	<name>Bạn cthể tìm thấy hươu gần nguồn nước hoặc trong rừng. Tuy nhiên, nó rất cảnh giác với người nên bạn phải bắn hạ nó từ xa.</name>
+</text>
+
+<text>
+	<id>284</id>
+	<name>Sau khi bạn bắn hạ đc con nai, bạn cthể lột da nó bằng dao để lấy thịt (&amp; da nếu có kĩ năng "thợ săn").</name>
+</text>
+
+<text>
+	<id>285</id>
+	<name>Bạn cthể trực tiếp nướng thịt trên lửa trại.</name>
+</text>
+
+
+<text>
+	<id>286</id>
+	<name>Cung tự chế</name>
+</text>
+
+<text>
+	<id>287</id>
+	<name>Gậy + Dây = Cung</name>
+</text>
+
+<text>
+	<id>288</id>
+	<name>Que + Dao = Mũi tên</name>
+</text>
+
+
+<text>
+	<id>289</id>
+	<name>Balô tự chế</name>
+</text>
+
+<text>
+	<id>290</id>
+	<name>Dây + Bao bố = Túi tự chế (3 ô đồ)</name>
+</text>
+
+<text>
+	<id>291</id>
+	<name>Túi tự chế + 3 que (gỗ) = Balô tự chế (5 ô đồ)</name>
+</text>
+
+
+<text>
+	<id>292</id>
+	<name>Lửa trại</name>
+</text>
+
+<text>
+	<id>293</id>
+	<name>Đống gỗ + Giẻ/que/giấy = Bộ nhóm lửa trại</name>
+</text>
+
+<text>
+	<id>294</id>
+	<name>Đặt lửa trại xuống đất &amp; châm lửa bằng diêm.</name>
+</text>
+
+<text>
+	<id>295</id>
+	<name>niggaballsack
+</name>
+</text>
+
+<text>
+	<id>296</id>
+	<name>Thuyền</name>
+</text>
+
+<text>
+	<id>297</id>
+	<name>Bạn phải dùng thuyền để dchuyển từ sang hòn đảo khác. Tuy nhiên, cần phải sửa thuyền trước (bằng đống gỗ hoặc băng keo).
+	Có nhiều đảo bạn nên khám phá, nhưng hãy cẩn thận! Một khi đã đến đảo khác, bạn k thể quay lại đảo trước đó.</name>
+</text>
+
+<text>
+	<id>298</id>
+	<name>Xây dựng</name>
+</text>
+
+<text>
+	<id>299</id>
+	<name>Bạn cthể dựng lều để sưởi ấm &amp; cất đồ. Đồ đạc đc cất ở đó k bao giờ bay mất.</name>
+</text>
+
+<text>
+	<id>300</id>
+	<name>Hàng rào tự chế (Đống gỗ + 5 que) &amp; dây thép gai cthể làm chậm kẻ thù khi đi qua.</name>
+</text>
+
+<!-- INVENTORY-->
+
+<text>
+	<id>301</id>
+	<name>Đã hỏng</name>
+</text>
+
+<!-- Ammo ejecting from ranged weapon-->
+<text>
+	<id>302</id>
+	<name>Rút đạn / pin</name>
+</text>
+
+<text>
+	<id>303</id>
+	<name>Xé</name>
+</text>
+
+<!-- for NVG and headlamp-->
+<text>
+	<id>304</id>
+	<name>Bật/Tắt</name>
+</text>
+
+<!-- for fireplace kit, barberwire, landmine and beartrap -->
+<text>
+	<id>305</id>
+	<name>Đặt</name>
+</text>
+
+<text>
+	<id>306</id>
+	<name>Xếp chồng</name>
+</text>
+
+<text>
+	<id>307</id>
+	<name>Lắp (súng chính)</name>
+</text>
+
+<text>
+	<id>308</id>
+	<name>Chế túi</name>
+</text>
+
+<text>
+	<id>309</id>
+	<name>Chế cung</name>
+</text>
+
+<text>
+	<id>310</id>
+	<name>Chế mũi tên</name>
+</text>
+
+<text>
+	<id>311</id>
+	<name>Chê bộ lửa trại</name>
+</text>
+
+<text>
+	<id>312</id>
+	<name>Lau chùi</name>
+</text>
+
+<text>
+	<id>313</id>
+	<name>Cầm dao</name>
+</text>
+
+<text>
+	<id>314</id>
+	<name>Cất dao</name>
+</text>
+
+<text>
+	<id>315</id>
+	<name>Vá</name>
+</text>
+
+<text>
+	<id>316</id>
+	<name>Lắp pin</name>
+</text>
+
+<text>
+	<id>317</id>
+	<name>Chế balô</name>
+</text>
+
+<text>
+	<id>318</id>
+	<name>Ăn</name>
+</text>
+
+<text>
+	<id>319</id>
+	<name>Uống</name>
+</text>
+
+<text>
+	<id>320</id>
+	<name>Trồng</name>
+</text>
+
+<text>
+	<id>321</id>
+	<name>Lột da</name>
+</text>
+
+<!-- for waterbottle and canteen-->
+<text>
+	<id>322</id>
+	<name>Đổ đầy</name>
+</text>
+
+<text>
+	<id>323</id>
+	<name>Nấu</name>
+</text>
+
+<text>
+	<id>324</id>
+	<name>Xài</name>
+</text>
+
+<text>
+	<id>325</id>
+	<name>Cầm máu</name>
+</text>
+
+<text>
+	<id>326</id>
+	<name>Truyền máu</name>
+</text>
+
+<!-- for flare-->
+<text>
+	<id>327</id>
+	<name>Châm &amp; ném</name>
+</text>
+
+<text>
+	<id>328</id>
+	<name>Ném lựu</name>
+</text>
+
+<text>
+	<id>329</id>
+	<name>Đốt lửa trại</name>
+</text>
+
+<text>
+	<id>330</id>
+	<name>Truyền nước muối</name>
+</text>
+
+<text>
+	<id>331</id>
+	<name>Tách</name>
+</text>
+
+<text>
+	<id>332</id>
+	<name>Dùng</name>
+</text>
+
+<text>
+	<id>333</id>
+	<name>Cắn vitamin</name>
+</text>
+
+<text>
+	<id>334</id>
+	<name>Dựng rào</name>
+</text>
+
+<text>
+	<id>335</id>
+	<name>Đốt pháo</name>
+</text>
+
+<text>
+	<id>336</id>
+	<name>Crit </name>
+</text>
+
+<text>
+	<id>337</id>
+	<name>Kinh nghiệm: </name>
+</text>
+
+<text>
+	<id>338</id>
+	<name>Dò</name>
+</text>
+
+<text>
+	<id>339</id>
+	<name>Lắp (súng phụ)</name>
+</text>
+
+<!-- Perks Title and Description-->
+
+<text>
+	<id>400</id>
+	<name>Thiện xạ
+Lvl.1: + 10% knăng headshot khi bắn.
+Lvl.2: + 10% sthương headshot.</name>
+</text>
+
+<text>
+	<id>401</id>
+	<name>Trinh sát
+Lvl.1: Bạn cthể phát hiện những người sống sót từ kcách xa hơn.
+Lvl.2: Bạn cthể nhận biết phe của những người sống sót.</name>
+</text>
+
+<text>
+	<id>402</id>
+	<name>Vận động viên
+Lvl.1: + 5% tđộ dchuyển.
+Lvl.2: + 10% tđộ dchuyển.</name>
+</text>
+
+<text>
+	<id>403</id>
+	<name>Lạc đà
+Lvl.1: Lâu khát hơn 10%.
+Lvl.2: Tất cả các loại đồ uống đóng lon đều thêm +10 Nước.</name>
+</text>
+
+<text>
+	<id>404</id>
+	<name>Chuột hamster
+Lvl.1: Lâu đói hơn 10%.
+Lvl.2: Tất cả thực phẩm đóng hộp đều thêm +10 Thức ăn.</name>
+</text>
+
+<text>
+	<id>405</id>
+	<name>Kháng lạnh
+Lvl.1: Mưa &amp; tuyết làm giảm nhiệt độ ít hơn 50%.
+Lvl.2: + 2 nhiệt độ.</name>
+</text>
+
+<text>
+	<id>406</id>
+	<name>Người farm đạn
+Lvl.1: Vũ khí tìm thấy sẽ chứa ít nhất 1 viên đạn.
+Lvl.2: Chồng đạn tìm thấy sẽ đc thêm 5 viên đạn.</name>
+</text>
+
+<text>
+	<id>407</id>
+	<name>Dân sinh tồn
+Lvl.1: x2 Tốc độ hphục nếu lượng máu của bạn dưới 50%.
+Lvl.2: + 10% tđộ dchuyển khi lượng máu của bạn dưới 20%.</name>
+</text>
+
+<text>
+	<id>408</id>
+	<name>Chặn đòn
+Lvl.1: + 5% knăng chặn đòn tcông của kẻ địch trong cận chiến.
+Lvl.2: + 15% knăng chặn đòn tcông của kẻ địch trong cận chiến.</name>
+</text>
+
+<text>
+	<id>409</id>
+	<name>Oánh nhau
+Lvl.1: + 10% knăng chí mạng trong cận chiến.
+Lvl.2: + 30% sthương chí mạng trong cận chiến.</name>
+</text>
+
+<text>
+	<id>410</id>
+	<name>Kẻ cậy cốp
+Lvl.1: + 20% cơ hội tìm thấy vật phẩm trong cốp xe.
+Lvl.2: + 10% cơ hội tìm thấy 2 vật phẩm trong cốp xe.</name>
+</text>
+
+<text>
+	<id>411</id>
+	<name>Thợ săn
+Lvl.1: Động vật ít phát hiện ra bạn hơn.
+Lvl.2: Bạn có 50% cơ hội nhận thêm thịt khi lột da động vật</name>
+</text>
+
+<text>
+	<id>412</id>
+	<name>Nhà
+Lvl.1: + 50% nhiệt độ khi trú trong nhà.
+Lvl.2: Khi ngủ, lượng nước, thức ăn của bạn sẽ giảm ít hơn 30%.</name>
+</text>
+
+<text>
+	<id>413</id>
+	<name>Máu+
+Lvl.1: Giảm lượng máu mất khi chảy máu xuống 50%.
+Lvl.2: Cầm máu nhanh x2 lần.</name>
+</text>
+
+<text>
+	<id>414</id>
+	<name>Cảnh giác
+Cả 2 lvl đều cải thiện khả năng nhìn đêm của bạn.
+Lvl.1: Zombie ẩn đc đánh đâu.
+Lvl.2: Các bụi cây có quả mọng &amp; đc đánh dấu.</name>
+</text>
+
+<text>
+	<id>415</id>
+	<name>Nhà nông học
+Lvl.1: Bạn có 50% cơ hội nhận đc nhiều quả mọng hơn khi thu hái quả mọng.
+Lvl.2: Bạn có 50% cơ hội nhận đc nhiều thực phẩm hơn khi thu hoạch.</name>
+</text>
+
+<!--Hướng dẫn-->
+
+<!--
+<text>
+	<id>451</id>
+	<name>Repair this boat with wood piles to move further. Chop any tree with an axe to get wood piles.</name>
+</text>
+
+<text>
+	<id>452</id>
+	<name>Hey! This looks like some loot! Move closer to pick it up.</name>
+</text>
+
+<text>
+	<id>453</id>
+	<name>Here you can check all your items you picked up.</name>
+</text>
+
+<text>
+	<id>454</id>
+	<name>This is your hands slot, it is always available, even if you have no other gear. Use items by tapping.</name>
+</text>
+
+<text>
+	<id>455</id>
+	<name>Welcome, survivor. You are trapped on a small island, and your only chance to get to another one is to find a boat.</name>
+</text>
+
+<text>
+	<id>456</id>
+	<name>Move by tapping/drawing</name>
+</text>
+
+<text>
+	<id>457</id>
+	<name>Movement with the stick</name>
+</text>
+
+<text>
+	<id>458</id>
+	<name>Choose the movement controls mode. You can switch between them anytime.</name>
+</text>
+
+<text>
+	<id>459</id>
+	<name>As long as you keep surviving and killing enemies, you will obtain experience points (XP) to unlock perks.</name>
+</text>
+
+<text>
+	<id>460</id>
+	<name>Choose one perk and tap on the plus button. It will always be active until your character dies.</name>
+</text>
+
+<text>
+	<id>461</id>
+	<name>Use the interact button to pick up items and interact.</name>
+</text>
+
+<text>
+	<id>462</id>
+	<name>Now you have a ranged weapon, aiming happens automatically. Use this button to shoot.</name>
+</text>
+
+<text>
+	<id>463</id>
+	<name>You can reload your weapon by tapping this button. If you have suitable ammo, it will be loaded.</name>
+</text>
+
+<text>
+	<id>464</id>
+	<name>Switch between melee and ranged weapons mode.</name>
+</text>
+
+<text>
+	<id>465</id>
+	<name>It looks like you’re bleeding.
+Find a bandage or tear your t-shirt into rags.</name>
+</text>
+
+<text>
+	<id>466</id>
+	<name>Your blood level dropped to zero. Lucky for you it is only a tutorial and you will be healed now. Go on.</name>
+</text>
+
+<text>
+	<id>467</id>
+	<name>Use drag and drop to manage items in the inventory.</name>
+</text>
+
+<text>
+	<id>468</id>
+	<name>Look, that’s a firearm. It can usually be found on military locations.</name>
+</text>
+
+<text>
+	<id>469</id>
+	<name>zombie ahead! Attack it by moving closer. The fight will proceed automatically.</name>
+</text>
+
+<text>
+	<id>470</id>
+	<name>Wolves! Keep quiet, wolves are pretty dangerous, especially in packs.</name>
+</text>
+
+<text>
+	<id>471</id>
+	<name>A water pump. You can drink from it and fill up your canteen or water bottle.</name>
+</text>
+
+<text>
+	<id>472</id>
+	<name>An abandoned car. You can check the trunk for loot. Move closer to the back of the car to do so.</name>
+</text>
+
+<text>
+	<id>473</id>
+	<name>You can hunt deer and flay them with a knife to get meat.</name>
+</text>
+
+<text>
+	<id>474</id>
+	<name>You can hunt rabbits and flay them with a knife to get meat.</name>
+</text>
+
+<text>
+	<id>475</id>
+	<name>You can gather berries from some bushes, just look around.</name>
+</text>
+-->
+
+<text>
+	<id>530</id>
+	<name>Để mở khóa thành tựu, bạn phải chơi hết ván game cho đến khi
+bạn chết. Có 3 rank: "Đồng" cho cđộ tân thủ, "Bạc" cho cđộ 
+thường &amp; "Vàng" cho cđộ kỳ cựu. Bạn cthể mở khóa các thành
+tựu cấp thấp hơn nếu chọn độ khó cao hơn, nhưng ngược lại thì k. Thành tựu cấp cao hơn cũng khó mở khóa hơn.</name>
+</text>
+
+<text>
+	<id>531</id>
+	<name>Thông số</name>
+</text>
+
+<text>
+	<id>532</id>
+	<name>Kĩ năng</name>
+</text>
+
+<text>
+	<id>533</id>
+	<name>Điểm: </name>
+</text>
+
+<text>
+	<id>534</id>
+	<name>Cài đặt</name>
+</text>
+
+<text>
+	<id>535</id>
+	<name>Leaderboards</name>
+</text>
+
+<text>
+	<id>536</id>
+	<name>Điểm để mở:  </name>
+</text>
+
+<text>
+	<id>537</id>
+	<name>Quit</name>
+</text>
+
+<text>
+	<id>538</id>
+	<name>Slow internet connection!</name>
+</text>
+
+<text>
+	<id>539</id>
+	<name>Cancel</name>
+</text>
+
+<text>
+	<id>540</id>
+	<name>Are you sure you want to exit the game? Tutorial progress will not be saved.</name>
+</text>
+
+<text>
+	<id>541</id>
+	<name>Are you sure you want to exit the game? Your game will be saved.</name>
+</text>
+
+<text>
+	<id>542</id>
+	<name>Bạn đã ngỏm</name>
+</text>
+
+<text>
+	<id>543</id>
+	<name>Cumback</name>
+</text>
+
+<!--1.2.0 Content-->
+
+
+<text>
+	<id>340</id>
+	<name>Lắp pkiện</name>
+</text>
+
+<text>
+	<id>341</id>
+	<name>Tháo pkiện</name>
+</text>
+
+<text>
+	<id>342</id>
+	<name>Ống ngắm</name>
+</text>
+
+<text>
+	<id>343</id>
+	<name>Giảm thanh</name>
+</text>
+
+<text>
+	<id>344</id>
+	<name>Dây đeo đạn</name>
+</text>
+
+<text>
+	<id>345</id>
+	<name>Cưa nòng</name>
+</text>
+
+<text>
+	<id>346</id>
+	<name>Cưa nòng</name>
+</text>
+
+<text>
+	<id>347</id>
+	<name>Nhiệt</name>
+</text>
+
+<text>
+	<id>348</id>
+	<name>Giáp</name>
+</text>
+
+<text>
+	<id>349</id>
+	<name>Bạn cthể dùng bình xăng bạn đang có để đổ xăng cho chiếc thuyền này.</name>
+</text>
+
+<text>
+	<id>350</id>
+	<name>Đổ xăng</name>
+</text>
+
+<text>
+	<id>351</id>
+	<name>Bạn cần 1 bình xăng để đổ xăng cho chiếc thuyền này.</name>
+</text>
+
+<text>
+	<id>352</id>
+	<name>Bạn muốn vào boongke này ư? Bạn cthể thoát ra sau đó.</name>
+</text>
+
+<text>
+	<id>353</id>
+	<name>Bạn muốn thoát ra ư? Bạn phải đợi 30 phút để vào lại</name>
+</text>
+
+<text>
+	<id>354</id>
+	<name>Airdrops unavailable while underground.</name>
+</text>
+
+<text>
+	<id>355</id>
+	<name>You are unconscious.</name>
+</text>
+
+<text>
+	<id>356</id>
+	<name>Watch the ad to wake up.</name>
+</text>
+
+<text>
+	<id>357</id>
+	<name>Bunker will be avaliable after </name>
+</text>
+
+<text>
+	<id>358</id>
+	<name>WIKI
+</name>
+</text>
+
+<text>
+	<id>359</id>
+	<name>You are ambatocome. Your only chance to continue playing is using this adrenaline injection after watching the video ad.</name>
+</text>
+
+<text>
+	<id>360</id>
+	<name>You need internet connection to proceed.</name>
+</text>
+
+<text>
+	<id>361</id>
+	<name>Use injection</name>
+</text>
+
+<text>
+	<id>362</id>
+	<name>Bỏ nhiệm vụ</name>
+</text>
+
+<!--PAD-->
+
+<text>
+	<id>242</id>
+	<name>pkiện</name>
+</text>
+
+<text>
+	<id>243</id>
+	<name>Dây đeo đạn - tăng 30% tđộ nạp đạn</name>
+</text>
+
+<text>
+	<id>244</id>
+	<name>Kính ngắm chấm đỏ - giảm nhẹ độ phân tán</name>
+</text>
+
+<text>
+	<id>245</id>
+	<name>Ống ngắm - giảm độ phân tán &amp; tăng knăng headshot.</name>
+</text>
+
+<text>
+	<id>246</id>
+	<name>Giảm thanh - che vệt lửa đầu nòng &amp; giảm tiếng súng </name>
+</text>
+
+<!--1.3.0 Content-->
+
+<text>
+	<id>363</id>
+	<name>Sửa xe</name>
+</text>
+
+<!--Kate "Tourist" Unlocked-->
+<text>
+	<id>92</id>
+	<name>Kate "Người du hành"
+Trang bị:  Quần bò, áo mưa, balô cắm trại, đền đội đầu, pin
+Kĩ năng:  Lvl.1 Thợ săn, Lvl.1 Cảnh giác</name>
+</text>
+
+<!--Jasmine "Lumber" Unlocked-->
+<text>
+	<id>93</id>
+	<name>Jasmine "Tiều phu"
+Trang bị:  Quần thợ săn, áo thun, beret, rìu ngắn, băng keo
+Kĩ năng:  Lvl.1 Chuột hamster, Lvl.1 Lạc đà, Lvl.1 Kháng lạnh</name>
+</text>
+
+<!--Aika "Stringer" Unlocked-->
+<text>
+	<id>94</id>
+	<name>Aika "Phóng viên"
+Trang bị:  Quần bò, áo thun, mũ, áo vest phóng viên, bình nước, radio
+Kĩ năng:  Lvl.1 Trinh sát</name>
+</text>
+
+<!--Kate "Tourist" Locked-->
+<text>
+	<id>140</id>
+	<name>Kate "Người du hành"
+Yêu cầu: Tìm 2 xe khác nhau ở đảo 4 hoặc hơn.
+Yêu cầu độ khó: "Kỳ cựu" hoặc cao hơn.</name>
+</text>
+
+<!--Jasmine "Lumber" Locked-->
+<text>
+	<id>141</id>
+	<name>Jasmine "Tiều phu"
+Yêu cầu: Giảm aura xuống - 100 &amp; nâng aura lên 100 trong 1 lần chơi.
+Yêu cầu độ khó: "Kỳ cựu" hoặc cao hơn.</name>
+</text>
+
+<!--Aika "Stringer" Locked-->
+<text>
+	<id>142</id>
+	<name>Aika "Phóng viên"
+Yêu cầu: Hoàn thành 3 nhiệm vụ từ người sống sót trong 1 lần chơi.
+Yêu cầu độ khó: "Kỳ cựu" hoặc cao hơn.</name>
+</text>
+
+
+<text>
+	<id>138</id>
+	<name>Đã hoàn thành</name>
+</text>
+
+<text>
+	<id>139</id>
+	<name>Nhiệm vụ</name>
+</text>
+
+<text>
+	<id>364</id>
+	<name>Hê lô! Chúng tôi đang tìm </name>
+</text>
+
+<text>
+	<id>365</id>
+	<name>Bạn sẽ đc </name>
+</text>
+
+<text>
+	<id>366</id>
+	<name>Thank kiu! Đây là vị trí đồ của bạn.</name>
+</text>
+
+<text>
+	<id>367</id>
+	<name>Hiện tại k có nhiệm vụ nào.</name>
+</text>
+
+<text>
+	<id>368</id>
+	<name>vị trí phương tiện dchuyển.</name>
+</text>
+
+<text>
+	<id>369</id>
+	<name>vị trí boongke quân sự.</name>
+</text>
+
+<text>
+	<id>370</id>
+	<name>vị trí đặc biệt.</name>
+</text>
+
+<text>
+	<id>371</id>
+	<name>Một nhóm người sống sót đang tìm kiếm vật phẩm này: </name>
+</text>
+
+<text>
+	<id>372</id>
+	<name>Ê bạn! Chúng tôi cần sự giúp đỡ của bạn! Có 1 nhóm cướp đã lập trại cách đây k xa. Hãy băm chúng nó &amp; chúng tôi sẽ thưởng cho bạn.</name>
+</text>
+
+<text>
+	<id>373</id>
+	<name>Tìm thấy chưa bạn?</name>
+</text>
+
+<text>
+	<id>374</id>
+	<name> Aura</name>
+</text>
+
+<text>
+	<id>375</id>
+	<name>Mở</name>
+</text>
+
+<text>
+	<id>376</id>
+	<name>tọa độ của 1 chiếc thuyền tìm đc.</name>
+</text>
+
+<text>
+	<id>377</id>
+	<name>Này bạn! Chúng tôi bị phục kích &amp; đánh rơi hòm đồ. Hãy mang nó về cho chúng tôi &amp; chúng tôi sẽ thưởng cho bạn.</name>
+</text>
+
+<text>
+	<id>378</id>
+	<name>Đấm tòe mỏ bọn kia đã rồi tính bạn ơi! </name>
+</text>
+
+<text>
+	<id>379</id>
+	<name>Tìm thấy chưa bạn?</name>
+</text>
+
+<text>
+	<id>380</id>
+	<name>Спасибо (Cảm ơn)! Đây là vị trí đồ của bạn.</name>
+</text>
+
+<text>
+	<id>381</id>
+	<name>Phần thưởng của bạn: </name>
+</text>
+
+<text>
+	<id>382</id>
+	<name>Một nhóm người đã đánh mất rương đồ của họ. T cthể mang nó về, hoặc t cthể mở nó ra &amp; luộc hết đồ bên trong.</name>
+</text>
+
+<text>
+	<id>383</id>
+	<name>Một nhóm người đã nhờ t xử bọn cướp.</name>
+</text>
+
+<text>
+	<id>384</id>
+	<name>Thời gian còn lại: </name>
+</text>
+
+<text>
+	<id>385</id>
+	<name>Ngày sống sót: </name>
+</text>
+
+<text>
+	<id>386</id>
+	<name>Đã xong. T phải quay về để nhận thưởng.</name>
+</text>
+
+<text>
+	<id>387</id>
+	<name>Nhiệm vụ thất bại.</name>
+</text>
+
+<text>
+	<id>388</id>
+	<name>Bắt đầu câu cá</name>
+</text>
+
+<text>
+	<id>389</id>
+	<name>Chế cần câu</name>
+</text>
+
+<text>
+	<id>390</id>
+	<name>Kho đồ, nv</name>
+</text>
+
+<text>
+	<id>391</id>
+	<name>Vũ khí</name>
+</text>
+
+<text>
+	<id>392</id>
+	<name>MAC-10
+Yêu cầu: Giết 200 zombie bằng súng ngắn.
+Yêu cầu độ khó: "Thường" hoặc cao hơn.
+Tiến độ: </name>
+</text>
+
+<text>
+	<id>393</id>
+	<name>Saiga-12k
+Yêu cầu: Giết 150 zombie bằng shotgun.
+Yêu cầu độ khó: "Thường" hoặc cao hơn.
+Tiến độ: </name>
+</text>
+
+<text>
+	<id>394</id>
+	<name>AUG
+Yêu cầu: Giết 200 zombie bằng súng liên thanh.
+Yêu cầu độ khó: "Thường" hoặc cao hơn.
+Tiến độ: </name>
+</text>
+
+<text>
+	<id>395</id>
+	<name>MAC-10
+Đã mở khóa
+Chỗ spawn: Cửa hàng súng, chỗ xe NATO, boongke quân sự</name>
+</text>
+
+<text>
+	<id>396</id>
+	<name>Saiga-12k
+Đã mở khóa
+Chỗ spawn: Cửa hàng súng, boongke quân sự, căn cứ quân sự EAST</name>
+</text>
+
+<text>
+	<id>397</id>
+	<name>AUG
+Đã mở khóa
+Chỗ spawn: Chỗ xe NATO, boongke quân sự, căn cứ quân sự NATO</name>
+</text>
+
+<text>
+	<id>398</id>
+	<name>Vũ khí đã đc mở khóa!</name>
+</text>
+
+<!--1.4.0 Content-->
+
+<text>
+	<id>416</id>
+	<name>AS-Val
+Yêu cầu: Tìm 6 chiếc trực thăng trong 1 lần chơi.
+Yêu cầu độ khó: "Kỳ cựu" hoặc cao hơn.
+Tiến độ: </name>
+</text>
+
+<text>
+	<id>417</id>
+	<name>AS-Val
+Đã mở khóa
+Chỗ spawn: Boongke quân sự, căn cứ quân sự EAST</name>
+</text>
+
+<text>
+	<id>418</id>
+	<name>SV-98
+Yêu cầu: Headshot chết 200 zombie bằng súng trường.
+(Mosin, SKS ,SVD, R92).
+Yêu cầu độ khó: "Kỳ cựu" hoặc cao hơn.
+Tiến độ: </name>
+</text>
+
+<text>
+	<id>419</id>
+	<name>SV-98
+Đã mở khóa
+Chỗ spawn: Boongke quân sự</name>
+</text>
+
+<!--gamemode-->
+<!--
+<text>
+	<id>420</id>
+	<name></name>
+</text>
+
+<text>
+	<id>421</id>
+	<name>Call</name>
+</text>
+
+<text>
+	<id>422</id>
+	<name>Push this button when ready for next wave.</name>
+</text>
+
+<text>
+	<id>423</id>
+	<name>zombie are coming!</name>
+</text>
+
+<text>
+	<id>424</id>
+	<name>Area clear, supply drop in your area.</name>
+</text>
+
+<text>
+	<id>425</id>
+	<name>Prepare for the first wave.</name>
+</text>
+
+<text>
+	<id>426</id>
+	<name>Game mode:</name>
+</text>
+
+<text>
+	<id>427</id>
+	<name>Casual</name>
+</text>
+
+<text>
+	<id>428</id>
+	<name>Radiation</name>
+</text>
+
+<text>
+	<id>429</id>
+	<name>Battle Royale</name>
+</text>
+
+<text>
+	<id>430</id>
+	<name>Public enemy</name>
+</text>
+
+<text>
+	<id>431</id>
+	<name>Shootout</name>
+</text>
+
+<text>
+	<id>432</id>
+	<name>Invasion</name>
+</text>
+
+<text>
+	<id>433</id>
+	<name>Wildlife</name>
+</text>
+
+<text>
+	<id>434</id>
+	<name>Breach</name>
+</text>
+
+<text>
+	<id>435</id>
+	<name>Casual. After your character death you will spawn again on the current island coast.</name>
+</text>
+
+<text>
+	<id>436</id>
+	<name>Radiation. Adds radiation zones on islands.</name>
+</text>
+
+<text>
+	<id>437</id>
+	<name>Battle Royale. Adds "wall of death" zones soon from start. Increases loot spawn.</name>
+</text>
+
+<text>
+	<id>438</id>
+	<name>Public enemy. All other survivors will start to hunt you down soon after start.</name>
+</text>
+
+<text>
+	<id>439</id>
+	<name>Shootout. Almost all zombies have firearms now.</name>
+</text>
+
+<text>
+	<id>440</id>
+	<name>Invasion. More zombies everywere!</name>
+</text>
+
+<text>
+	<id>441</id>
+	<name>Wildlife. Almost all zombies replaced with wolves.</name>
+</text>
+
+<text>
+	<id>442</id>
+	<name>Breach. Protect your location from zombies as much as you can.</name>
+</text>
+
+<text>
+	<id>443</id>
+	<name>You cant unlock any characters, weapons or achievements while playing in game modes.</name>
+</text>
+
+<text>
+	<id>444</id>
+	<name>Survival</name>
+</text>
+
+<text>
+	<id>445</id>
+	<name>Special</name>
+</text>
+
+<text>
+	<id>446</id>
+	<name>Start</name>
+</text>
+
+<text>
+	<id>447</id>
+	<name>Wave</name>
+</text>
+-->
+<!---->
+
+<text>
+	<id>448</id>
+	<name>Bỏ hết đồ</name>
+</text>
+
+<text>
+	<id>449</id>
+	<name>Tháo</name>
+</text>
+
+<text>
+	<id>450</id>
+	<name>Tách</name>
+</text>
+
+<text>
+	<id>451</id>
+	<name>Cất</name>
+</text>
+
+<text>
+	<id>452</id>
+	<name>Đeo</name>
+</text>
+
+<text>
+	<id>453</id>
+	<name>Tháo</name>
+</text>
+
+<text>
+	<id>454</id>
+	<name>Bắt đầu</name>
+</text>
+<!--
+<text>
+	<id>455</id>
+	<name>Tắt</name>
+</text>
+-->
+<text>
+	<id>456</id>
+	<name>Đổ xăng</name>
+</text>
+
+<text>
+	<id>457</id>
+	<name>Đổ xăng vào bình</name>
+</text>
+<!--
+<text>
+	<id>458</id>
+	<name>"Bất tử"</name>
+</text>
+-->
+<text>
+	<id>459</id>
+	<name>Dùng</name>
+</text>
+
+<text>
+	<id>460</id>
+	<name>Lắp dây đeo súng</name>
+</text>
+
+<text>
+	<id>461</id>
+	<name>Lắp dây đeo</name>
+</text>
+
+<text>
+	<id>462</id>
+	<name>Cất vào balô</name>
+</text>
+
+<text>
+	<id>463</id>
+	<name>Bỏ</name>
+</text>
+
+<text>
+	<id>464</id>
+	<name>Cất </name>
+</text>
+
+<text>
+	<id>466</id>
+	<name>Cuốn dây thép</name>
+</text>
+
+<text>
+	<id>467</id>
+	<name>Cất dao vào giày</name>
+</text>
+<!--
+<text>
+	<id>468</id>
+	<name>"Cumback"</name>
+</text>
+-->
+<text>
+	<id>469</id>
+	<name>Cất lựu đạn</name>
+</text>
+
+<text>
+	<id>470</id>
+	<name>Cất súng</name>
+</text>
+
+<text>
+	<id>471</id>
+	<name>Buộc lựu khói</name>
+</text>
+
+<text>
+	<id>472</id>
+	<name>Bỏ dao</name>
+</text>
+<!--
+<text>
+	<id>475</id>
+	<name>"Balô da chiều"</name>
+</text>
+
+<text>
+	<id>476</id>
+	<name>"Tân thế cthực"</name>
+</text>
+-->
+<text>
+	<id>477</id>
+	<name>Tháo hộp đạn</name>
+</text>
+
+<text>
+	<id>478</id>
+	<name>Nhuộm màu</name>
+</text>
+
+<text>
+	<id>479</id>
+	<name>Tẩy màu</name>
+</text>
+
+<text>
+	<id>480</id>
+	<name>➡️ Balô / Tắt cưa máy
+</name>
+</text>
+
+<text>
+	<id>481</id>
+	<name>Dọn đất</name>
+</text>
+
+<text>
+	<id>482</id>
+	<name>Nhuộm đen</name>
+</text>
+
+<!-- Changed
+<text>
+	<id>483</id>
+	<name>➡️ Bất lợi</name>
+</text>
+
+<text>
+	<id>484</id>
+	<name>➡️ Đặc biệt</name>
+</text>
+
+<text>
+	<id>485</id>
+	<name>➡️ Có lợi</name>
+</text>
+
+<text>
+	<id>486</id>
+	<name>"Béo"</name>
+</text>
+
+<text>
+	<id>487</id>
+	<name>"Đột biến"</name>
+</text>
+-->
+<text>
+	<id>488</id>
+	<name>Tháo nhìn đêm</name>
+</text>
+
+<text>
+	<id>489</id>
+	<name>Lắp đèn pin</name>
+</text>
+
+<text>
+	<id>490</id>
+	<name>Lắp nhìn đêm</name>
+</text>
+
+<text>
+	<id>491</id>
+	<name>Tháo đèn pin</name>
+</text>
+
+<text>
+	<id>492</id>
+	<name>Đeo trc ngực</name>
+</text>
+
+<text>
+	<id>493</id>
+	<name>Chôn xác</name>
+</text>
+
+<text>
+	<id>494</id>
+	<name>Đào đất trồng</name>
+</text>
+
+<text>
+	<id>495</id>
+	<name>Gia cố xe</name>
+</text>
+
+<text>
+	<id>496</id>
+	<name>Lắp máy pđiện</name>
+</text>
+
+<text>
+	<id>497</id>
+	<name>Lắp đèn</name>
+</text>
+<!-- Changed
+<text>
+	<id>498</id>
+	<name>Cắt</name>
+</text>
+
+<text>
+	<id>499</id>
+	<name>Gắn</name>
+</text>
+
+<text>
+	<id>500</id>
+	<name>Gắn đồ lên áo</name>
+</text>
+-->
+<text>
+	<id>501</id>
+	<name>Niêm phong</name>
+</text>
+
+<text>
+	<id>502</id>
+	<name>Chế lựu đạn</name>
+</text>
+<!--Changed
+<text>
+	<id>503</id>
+	<name>"Hồi sinh"</name>
+</text>
+
+<text>
+	<id>504</id>
+	<name>"Thợ săn đồ"</name>
+</text>
+
+<text>
+	<id>505</id>
+	<name>"Chế độ xdựng"</name>
+</text>
+
+<text>
+	<id>506</id>
+	<name>"Tắm máu"</name>
+</text>
+
+<text>
+	<id>507</id>
+	<name>"Mưa đạn"</name>
+</text>
+-->
+<text>
+	<id>508</id>
+	<name>Truyền cho đồng đội</name>
+</text>
+
+<text>
+	<id>509</id>
+	<name>Xây rào thép</name>
+</text>
+
+<text>
+	<id>510</id>
+	<name>Chế độ lthanh</name>
+</text>
+
+<text>
+	<id>511</id>
+	<name>Chế độ phát 1</name>
+</text>
+
+<text>
+	<id>512</id>
+	<name>...</name>
+</text>
+
+<text>
+	<id>513</id>
+	<name>Dỡ đồ</name>
+</text>
+
+<text>
+	<id>514</id>
+	<name>Sạc</name>
+</text>
+
+<text>
+	<id>515</id>
+	<name>Tháo dỡ</name>
+</text>
+
+<text>
+	<id>516</id>
+	<name>Tháo pkiện</name>
+</text>
+
+<text>
+	<id>517</id>
+	<name>Rán trứng</name>
+</text>
+
+<text>
+	<id>518</id>
+	<name>Làm thịt xào ớt chuông</name>
+</text>
+
+<text>
+	<id>519</id>
+	<name>Làm trứng bác cà chua</name>
+</text>
+
+<text>
+	<id>520</id>
+	<name>Tiếng Việt</name>
+</text>
+
+<text>
+	<id>521</id>
+	<name>French</name>
+</text>
+
+<text>
+	<id>522</id>
+	<name>Italian</name>
+</text>
+
+<text>
+	<id>523</id>
+	<name>Tiếng anh hoạ sĩ</name>
+</text>
+
+<text>
+	<id>524</id>
+	<name>Tiếng Tây Bán Nhà</name>
+</text>
+
+<text>
+	<id>525</id>
+	<name>Tiếng Nga</name>
+</text>
+
+<text>
+	<id>526</id>
+	<name>Czech</name>
+</text>
+
+<text>
+	<id>527</id>
+	<name>Tiếng a Ronando</name>
+</text>
+
+<text>
+	<id>528</id>
+	<name>Simplified Chinese</name>
+</text>
+
+<text>
+	<id>529</id>
+	<name>Traditional Chinese</name>
+</text>
+
+<!--UPD 1.9.2-->
+
+<text>
+	<id>131</id>
+	<name>Bảo vệ toàn diện</name>
+</text>
+
+<text>
+	<id>132</id>
+	<name>Hannibal Lecter</name>
+</text>
+
+<text>
+	<id>133</id>
+	<name>Địa ngục trống rỗng</name>
+</text>
+
+<text>
+	<id>181</id>
+	<name>Trang bị găng tay, giày nbc, áo
+	bảo hộ.</name>
+</text>
+
+<text>
+	<id>182</id>
+	<name>Nấu thịt nguoi một lần.</name>
+</text>
+
+<text>
+	<id>183</id>
+	<name>Tiêu diệt tất cả các loại Zombie 
+đột biến ở độ khó "Siêu khó".</name>
+</text>
+
+<text>
+	<id>420</id>
+	<name>MGL
+Yêu cầu: Tiêu diệt zombie Tank 3 lần bằng chất nổ.
+Yêu cầu độ khó: "Huyền thoại"
+Tiến độ: </name>
+</text>
+
+<text>
+	<id>421</id>
+	<name>MGL
+Đã mở khóa
+Chỗ spawn: Boongke quân sự
+</name>
+</text>
+
+<text>
+	<id>425</id>
+	<name>Giáng sinh</name>
+</text>
+
+<text>
+	<id>426</id>
+	<name>Haloween</name>
+</text>
+
+<text>
+	<id>427</id>
+	<name>Mở rộng</name>
+</text>
+
+<text>
+	<id>428</id>
+	<name>• Zombie giáng sinh sẽ xuất hiện vào
+những ngày có tuyết rơi.
+• Mũ mới: Mũ Giáng sinh
+• Vật phẩm mới: Hộp quà Giáng Sinh</name>
+</text>
+
+<text>
+	<id>429</id>
+	<name>• Spooky
+(Hiện tại dev chưa thêm)
+</name>
+</text>
+
+<text>
+	<id>430</id>
+	<name>• Thêm một số tính năng nâng cao</name>
+</text>
+
+<text>
+	<id>431</id>
+	<name> Chế độ "Trao đổi tương xứng"
+• Cho phép bạn biến đổi vật phẩm.
+(Chi tiết ở phần thông tin (i) )</name>
+</text>
+
+<text>
+	<id>432</id>
+	<name> Chế độ "Cumback"
+• Ô trống: + 6
+• Bạn cthể chuyển đồ sang ván chơi 
+tiếp theo (cần 200 xp).
+• Đã lưu: </name>
+</text>
+
+<text>
+	<id>433</id>
+	<name> Chế độ "Xây dựng"
+• Cho phép bạn cất &amp; dựng đồ xây dựng 
+mà k tốn chỗ.</name>
+</text>
+
+<text>
+	<id>434</id>
+	<name> Chế độ "Cửa hàng vật phẩm"
+• Cho phép bạn đổi xp để lấy vật phẩm.</name>
+</text>
+
+<text>
+	<id>435</id>
+	<name> Chế độ "Bất tử"
+• Đồ, xe k bao giờ hỏng.
+(Điểm xp cthể bị giảm sau khi mở).</name>
+</text>
+
+<text>
+	<id>436</id>
+	<name> Chế độ "Balô đa chiều"
+• Cthể chứa vô hạn đồ.</name>
+</text>
+
+<text>
+	<id>437</id>
+	<name> Chế độ "Béo"
+• x2 máu, thanh đói, khát.</name>
+</text>
+
+<text>
+	<id>438</id>
+	<name> Chế độ "Hồi sinh"
+• Hồi sinh về nơi ban đầu sau khi chết.</name>
+</text>
+
+<text>
+	<id>439</id>
+	<name> Chế độ "Tận thế chân thực"
+• Ẩn thanh máu, tăng slượng zombie.</name>
+</text>
+
+<text>
+	<id>440</id>
+	<name> Chế độ "Đột biến"
+• Tăng máu zombie theo từng đảo.
+  (mỗi 2 đảo: + 50% máu)
+• Zombie đa số có knăng đặc biệt.
+• Tăng knăng spawn zombie Tank.</name>
+</text>
+
+<text>
+	<id>441</id>
+	<name> Chế độ "Trăng máu"
+•Mệt khi k ngủ.
+•Trăng máu xuất hiện cứ 7 ngày một lần.
+•Zombie sẽ biến đổi khi có trăng máu.</name>
+</text>
+
+<text>
+	<id>442</id>
+	<name> Chế độ "Mưa đạn"
+• NPC kẻ thù có súng liên thanh 
+sẽ xả đạn.
+</name>
+</text>
+
+<text>
+	<id>544</id>
+	<name>Dựng lều</name>
+</text>
+
+<text>
+	<id>545</id>
+	<name>Dựng lưới thép</name>
+</text>
+
+<text>
+	<id>546</id>
+	<name>Đặt mìn</name>
+</text>
+
+<text>
+	<id>547</id>
+	<name>Đặt claymore</name>
+</text>
+
+<text>
+	<id>548</id>
+	<name>Đặt túi đồ</name>
+</text>
+
+<text>
+	<id>549</id>
+	<name>Dựng rào</name>
+</text>
+
+<text>
+	<id>550</id>
+	<name>Dựng tấm thép</name>
+</text>
+
+<text>
+	<id>551</id>
+	<name>Dựng máy phát điện</name>
+</text>
+
+<text>
+	<id>552</id>
+	<name>Dựng đèn chiếu sáng</name>
+</text>
+
+<text>
+	<id>553</id>
+	<name>Đặt giường</name>
+</text>
+
+<!--Change from 1.8.5-->
+
+<text>
+	<id>483</id>
+	<name>Thay bản đồ</name>
+</text>
+
+<!--
+<text>
+	<id>484</id>
+	<name>- Điểm di tản</name>
+</text>
+
+<text>
+	<id>485</id>
+	<name>- Phương tiện</name>
+</text>
+-->
+<text>
+	<id>486</id>
+	<name>- Hầm trú ẩn</name>
+</text>
+
+<text>
+	<id>487</id>
+	<name>Vtrí bmật </name>
+</text>
+<text>
+	<id>497</id>
+	<name>Đặt đèn</name>
+</text>
+
+<!--
+<text>
+	<id>498</id>
+	<name>Áo hoodie vip</name>
+</text>
+
+<text>
+	<id>499</id>
+	<name>Hộp máy cưa</name>
+</text>
+
+<text>
+	<id>500</id>
+	<name>Hộp set kiếm / mũ hiệp sĩ</name>
+</text>
+-->
+<text>
+	<id>503</id>
+	<name>Hộp Colt vip</name>
+</text>
+
+<text>
+	<id>504</id>
+	<name>Hộp R11-87 giảm thanh</name>
+</text>
+
+<text>
+	<id>505</id>
+	<name>Hộp Madsen</name>
+</text>
+
+<text>
+	<id>506</id>
+	<name>Hộp MGL</name>
+</text>
+
+<text>
+	<id>468</id>
+	<name>Cất chó</name>
+</text>
+
+<text>
+	<id>507</id>
+	<name>"Siêu khó"</name>
+</text>
+	
+<text>
+	<id>473</id>
+	<name>Làm mờ bản đồ</name>
+</text>
+
+<text>
+	<id>474</id>
+	<name>Tắt mờ bản đồ</name>
+</text>
+
+<text>
+	<id>57</id>
+	<name></name>
+</text>
+
+<text>
+	<id>58</id>
+	<name>: </name>
+</text>
+
+<text>
+	<id>59</id>
+	<name>Từ chối</name>
+</text>
+
+<text>
+	<id>60</id>
+	<name>Chấp nhận</name>
+</text>
+
+<text>
+	<id>61</id>
+	<name>Thay đổi</name>
+</text>
+
+<text>
+	<id>465</id>
+	<name>Dùng </name>
+</text>
+
+<text>
+	<id>475</id>
+	<name>Sơn xe</name>
+</text>
+
+<text>
+	<id>476</id>
+	<name>Tẩy màu xe</name>
+</text>
+
+<text>
+	<id>455</id>
+	<name>➡️ Balô/Tắt máy cưa</name>
+</text>
+
+<text>
+	<id>458</id>
+	<name>Hết xăng</name>
+</text>
+
+<text>
+	<id>24</id>
+	<name>Có</name>
+</text>
+
+<text>
+	<id>25</id>
+	<name>Ko</name>
+</text>
+
+<text>
+	<id>554</id>
+	<name>Bỏ vào túi</name>
+</text>
+
+<!--WIKI-->
+
+<text>
+	<id>601</id>
+	<name>Thỏ
+	
+Chỉ là một con thỏ trắng bthường. Khi bị bắt gặp, nó sẽ phóng đi khá nhanh.
+Máu: 5
+Loot: Thịt thỏ
+</name>
+</text>
+
+<text>
+	<id>602</id>
+	<name>Hươu
+	
+Chỉ là một con hươu bthường. Khi bị bắt gặp, nó sẽ phóng đi. Tuy nhiên, nó ko nhanh như thường nghĩ.
+Máu: 80
+Loot: Thịt hươu, da
+</name>
+</text>
+
+<text>
+	<id>603</id>
+	<name>Hươu bạch tạng
+	
+Một loài hươu cực kỳ hiếm. Bộ lông tuyệt đẹp của nó trắng hơn cả tuyết.
+Máu: 80
+Loot: Thịt hươu, da
+</name>
+</text>
+
+<text>
+	<id>604</id>
+	<name>Chó sói
+	
+Vô cùng nguy hiểm &amp; ko bao giờ đi một mình.
+Máu: 50
+</name>
+</text>
+
+<text>
+	<id>605</id>
+	<name>Gà
+	
+Gà gáy ò ó o.
+Máu: 5
+Loot: Thịt gà, trứng
+</name>
+</text>
+
+<text>
+	<id>606</id>
+	<name>Cờ hó
+	
+Chó là bạn trên bàn nhậu.
+Máu: Bất tử
+Cthể trang bị cho nó vòng cổ, túi.
+</name>
+</text>
+
+<text>
+	<id>607</id>
+	<name>Zombie
+	
+Họ từng những người bthường, nhưng giờ đây điều duy nhất họ muốn là xé xác mọi thứ.
+Máu: 60
+Kĩ năng đặc biệt: -</name>
+</text>
+
+<text>
+	<id>608</id>
+	<name>Zombie hoodie
+	
+Virus đã biến zombie thành một con quái vật thực sự. Nó nhanh đến mức cthể vượt mặt bất kỳ người nào.
+Máu: 80
+Kĩ năng đặc biệt: Chạy nhanh.
+</name>
+</text>
+
+<text>
+	<id>609</id>
+	<name>Zombie ẩn thân
+	
+Ko giống những zombie khác, nó ẩn thân &amp; chỉ tcông khi bạn đến đủ gần hoặc khi có zombie hét vào bạn.
+Máu: 60
+Kĩ năng đặc biệt: Nằm ẩn thân (đc đánh dấu bằng viền đỏ khi học kĩ năng "Cảnh giác").
+</name>
+</text>
+
+<text>
+	<id>610</id>
+	<name>Zombie lính
+	
+Mạnh hơn zombie bthường là nhờ giáp phòng thân &amp; cơ thể săn chắc. Đôi khi chúng có đội mũ quân đội hoặc là mặt nạ phòng độc.
+Máu: 100
+Kĩ năng đặc biệt: -
+Loot: Mũ quân đội, mặt nạ phòng độc, dao quân đội
+</name>
+</text>
+
+<text>
+	<id>611</id>
+	<name>Zombie hazmat vàng
+	
+Từng là nhà khoa học, đc huy động để nghiên cứu, tìm ra phương pháp chữa trị bệnh dịch... Có lẽ họ chỉ làm mọi thứ tồi tệ hơn mà thôi. Bộ đồ của nó chứa đầy chất độc.
+Máu: 80
+Kĩ năng đặc biệt: Khi ngỏm, nó thải ra chất độc màu xanh, gây độc nếu giẫm phải trừ khi đeo giầy NBC.
+Loot: Bộ đồ hazmat, găng tay, giày NBC
+</name>
+</text>
+
+<text>
+	<id>612</id>
+	<name>Zombie hazmat đỏ
+	
+Cũng giống như biến thể màu vàng. Tuy nhiên chúng nhanh hơn &amp; chết người hơn so với đồng loại màu vàng của chúng.
+Máu: 120
+Kĩ năng đặc biệt: Thải ra chất độc khi di chuyển. Khi ngỏm, nó tỏa ra một bãi chất độc khá lớn, gây độc nếu giẫm phải trừ khi đeo giầy NBC.
+Loot: Bộ đồ bảo vệ loại C, găng tay, giày NBC
+</name>
+</text>
+
+<text>
+	<id>613</id>
+	<name>Zombie hét
+	
+Sau khi biến đổi, dây thanh quản của chúng mạnh hơn bất kỳ sinh vật nào từng có. Nó ko hung hăng như những thây ma khác, thay vào đó nó chỉ hét vào bất cứ ai lọt vào tầm mắt.
+Máu: 50
+Kĩ năng đặc biệt: Hét rất to, thu hút zombie tcông người sống sót.
+Loot: Băng gạc
+</name>
+</text>
+
+<text>
+	<id>614</id>
+	<name>Zombie cảnh sát
+	
+Mặc dù đã ngỏm, nó vẫn cthể bắn &amp; nạp đạn. Mặc dù nó bắn khá là kém, nhưng vẫn gây ra nhiều rắc rối cho người sống sót.
+Máu: 100
+Kĩ năng đặc biệt: Có súng lục.
+Loot: Súng (Makarov PM), đạn 9x18mm
+</name>
+</text>
+
+<text>
+	<id>615</id>
+	<name>Zombie sĩ quan
+	
+Trước tận thế, nó từng là sĩ quan cấp cao, cthể ra vào boongke cấp quân sự. Vẫn cthể bắn &amp; rất muốn khè kĩ năng này cho người sống sót.
+Máu: 120
+Kĩ năng đặc biệt: Có súng lục.
+Loot: Súng (Colt 1911, Glock 17, FNX-45), đạn (9x19mm, .45 ACP), thẻ sĩ quan
+</name>
+</text>
+
+<text>
+	<id>616</id>
+	<name>Zombie chống bạo động
+	
+Đc trang bị bộ đồ dành riêng cho lực lượng chống bạo động. Chính vì thế nên nó rất trâu &amp; đấm rất đau.
+Máu: 250
+Kĩ năng đặc biệt: -
+Loot: Đạn 9x18mm
+</name>
+</text>
+
+<text>
+	<id>617</id>
+	<name>Zombie nhảy
+	
+Virus đã khiến đôi chân của nó trở nên linh hoạt &amp; mạnh mẽ như lò xo giảm xóc, cho phép anh ta nhảy &amp; chạy tốt hơn bất kỳ vận động viên nào trước khi tận thế xảy ra.
+Máu: 150
+Kĩ năng đặc biệt: Nhảy gây dmg.
+</name>
+</text>
+
+<text>
+	<id>618</id>
+	<name>Zombie khạc nhổ
+	
+Từng là người lính hỗ trợ các nhà khoa học, có lẽ họ ko làm tốt việc cho lắm. Nó nhổ bãi chất độc, gây dmg &amp; độc khi dính phải.
+Máu: 100
+Kĩ năng đặc biệt: Nhổ chất độc
+</name>
+</text>
+
+<text>
+	<id>619</id>
+	<name>Zombie vận động viên
+	
+Từng là vận động viên, virus đã khiến chúng trở nên nguy hiểm hơn. Chúng chạy nhanh, đánh mạnh &amp; rất khó chịu vì cthể né đạn trừ khi khoảng cách rất gần.
+Máu: 100
+Kĩ năng đặc biệt: Chạy nhanh &amp; cthể né đạn.
+</name>
+</text>
+
+<text>
+	<id>620</id>
+	<name>Zombie Spetnaz
+	
+Từng là lính Spetnaz, đc đào tạo bài bản, cthể &amp; vẫn cthể tiêu diệt bất kỳ kẻ thù nào. Nhưng giờ đây kẻ thù duy nhất của hắn là loài người. Hắn chạy nhanh, đánh mạnh, trâu bò &amp; rất khó chịu vì cthể né đạn trừ khi khoảng cách rất gần.
+Máu: 120
+Kĩ năng đặc biệt: Chạy nhanh &amp; cthể né đạn.
+</name>
+</text>
+
+<text>
+	<id>621</id>
+	<name>Zombie Gorka
+	
+Zombie đc trang bị nhiều loại súng &amp; giáp gorka. Mặc dù bắn khá tệ, nhưng lại rất trâu bò. Có lẽ trang bị của hắn ko giúp ích đc gì nhiều khi còn sống, nhưng hắn vẫn đủ khoẻ để xé xác nhưng kẻ xui xẻo gặp phải.
+Máu: 175
+Kĩ năng đặc biệt: Có súng tiểu liên hoặc shotgun.
+Loot: Súng (MP5k, AKs-74u, UMP-45, M4A1, AKM, R870, AK-74), mũ Gorka, đạn (9x19mm, .45 ACP, 5.45x39mm, 5.56x45mm, 7.62x39mm, 12 Gauge)
+</name>
+</text>
+
+<text>
+	<id>622</id>
+	<name>Zombie hạng nặng
+	
+Zombie đc trang bị áo, mũ hạng nặng, Áo giáp của hắn đc chế tạo để chịu đc nhiều đòn đánh.
+Máu: 1000
+Kĩ năng đặc biệt: -
+Loot: Mũ Altyn, giáp hặng nặng
+</name>
+</text>
+
+<text>
+	<id>623</id>
+	<name>Zombie hazmat trắng 
+	
+Bộ đồ đẹp cũng ko cứu nó khỏi cái chết, &amp; việc ở trong khu vực có phóng xạ cao càng khiến nó trở nên nguy hiểm hơn.
+Máu: 1200
+Kĩ năng đặc biệt: Chạy nhanh &amp; gây độc.
+Loot: Bộ đồ NBC, găng tay, giày NBC, vitamin, đạn .308 WIN
+</name>
+</text>
+
+<text>
+	<id>624</id>
+	<name>Zombie hazmat xanh
+	
+Các nhà nghiên cứu đã thử nghiệm với bộ gen đột biến &amp; tiêm vào chính họ. Đó ko phải là ý tưởng sáng suốt nhất của họ. Chúng rất mạnh &amp; nhanh, gây độc &amp; phát nổ với chất độc khi chết.
+Máu: 2000
+Kĩ năng đặc biệt: Gây độc &amp; tỏa ra chất độc khi ngỏm, cthể tước vkhí.
+Loot: Bộ đồ CBRN, găng tay, giày NBC, adrenaline, đạn .308 WIN
+</name>
+</text>
+
+<text>
+	<id>625</id>
+	<name>Zombie Tank
+	
+Rất trâu, đấm rất thốn nhưng loot khá ngon.
+Máu: 2500 / 5000 (độ khó "Huyền thoại")
+Kĩ năng đặc biệt: Đấm thốn, skill chạy, ném đá gây dmg, ko thể đỡ đòn, làm chậm.
+Loot: Đạn 9x39mm, pkiện (băng đạn: 5.45, 5.56, 7.62, 12 Gauge ; ống nhòm: 8x, 1PN51, PVS-4 ; giảm thanh: 5.56, 5.45), hộp đựng vũ khí
+</name>
+</text>
+
+<text>
+	<id>626</id>
+	<name>Zombie giáng sinh (Chỉ spawn ở chế độ "Giáng sinh")
+	
+Con zombie này ko biết bằng cách nào đã quấn đèn Giáng sinh lên người nó, nhưng có vẻ như nó thích điều đó !
+Tương tự như zombie hét.
+Loot: Băng gạc, hộp quà, mũ giáng sinh
+</name>
+</text>
+
+<text>
+	<id>627</id>
+	<name>Người sống sót
+	
+• Trung lập: Ko tcông bạn &amp; sẵn sàng trao đổi với bạn trừ khi bạn tcông chúng hoặc aura thấp.
+• Côn đồ: Tcông công bạn, cthể mang súng.
+• Đồng đội: Team up với bạn trừ khi aura thấp.
+Máu: 100
+</name>
+</text>
+
+<text>
+	<id>628</id>
+	<name>Cướp
+	
+Những tên côn đồ nguy hiểm, đc trang bị đầy đủ, sẽ tcông bất cứ ai đến quá gần.
+Máu: 110
+Sẽ team up với bạn nếu có aura thấp.
+</name>
+</text>
+
+<text>
+	<id>629</id>
+	<name>Thủ lĩnh cướp
+	
+Thủ lĩnh của đám cướp, thường có đồ xịn.
+Máu: 250
+Sẽ team up với bạn nếu có aura thấp.
+Loot: Mũ Gorka màu đen
+</name>
+</text>
+
+<!--2.0.8-->
+
+<text>
+	<id>630</id>
+	<name>Cướp hazmat
+	
+Những tên cướp được điều đến những khu pxạ, mang cho mình trang bị xịn nhằm đối phó mỗi nguy hiểm.
+Máu: 150
+Sẽ team up với bạn nếu có aura thấp.
+</name>
+</text>
+
+<text>
+	<id>484</id>
+	<name>Cho chó sủa: tắt</name>
+</text>
+
+<text>
+	<id>485</id>
+	<name>Cho chó sủa: bật</name>
+</text>
+
+<text>
+	<id>498</id>
+	<name>Dùng (1)</name>
+</text>
+
+<text>
+	<id>499</id>
+	<name>Dùng (2)</name>
+</text>
+
+<text>
+	<id>500</id>
+	<name>Dùng (3)</name>
+</text>
+
+<text>
+	<id>649</id>
+	<name>Đảo quân sự</name>
+</text>
+
+<text>
+	<id>650</id>
+	<name>Hdẫn chơi</name>
+</text>
+
+<text>
+	<id>651</id>
+	<name>Bạn có thể dùng gỗ sửa chiếc thuyền này để đến hòn đảo tiếp theo. Hãy chặt một cái cây bằng rìu để lấy gỗ.</name>
+</text>
+
+<text>
+	<id>652</id>
+	<name>Ê, chỗ kia có vật tư kìa. Hãy chạy ra đấy để lượm.</name>
+</text>
+
+<text>
+	<id>653</id>
+	<name>Ấn nút này để mở kho đồ.</name>
+</text>
+
+<text>
+	<id>654</id>
+	<name>Đây là ô đồ. Ô này luôn có sẵn ngay cả khi ko mang trang bị gì. Nhấp vào để chọn</name>
+</text>
+
+<text>
+	<id>655</id>
+	<name>Chào mừng bạn đến với game. Hiện tại thì bạn đang bị mắc kẹt trên một hòn đảo. Cách duy nhất để đến các hòn đảo khác là tìm một chiếc thuyền hoặc cây cầu ở bờ biển phía đông.
+</name>
+</text>
+
+<text>
+	<id>656</id>
+	<name>Chạm hoặc kéo để di chuyển.</name>
+</text>
+
+<text>
+	<id>657</id>
+	<name>Sử dụng cần để di chuyển.</name>
+</text>
+
+<text>
+	<id>658</id>
+	<name>Hãy chọn kiểu di chuyển bạn ưa thích. Bạn có thể thay đổi nó trong phần cài đặt.</name>
+</text>
+
+<text>
+	<id>659</id>
+	<name>Khi giết quái, bạn sẽ được điểm xp. Dùng nó để mở khóa ký năng mới hoặc mua một số đồ nếu bật chế độ shop kinh nghiệm.</name>
+</text>
+
+<text>
+	<id>660</id>
+	<name>Hãy chọn một kỹ năng để học nó. Mỗi kỹ năng có hai cấp độ. Khi học kĩ năng, các kĩ năng mới sẽ cần nhiều xp hơn để học.</name>
+</text>
+
+<text>
+	<id>661</id>
+	<name>Ấn cái nút to đùng kia để nhặt.</name>
+</text>
+
+<text>
+	<id>662</id>
+	<name>Bây giờ bạn đã có dân chủ. Khi chọn nó, nvật sẽ tự động ngắm. Ấn nút này để bắn.</name>
+</text>
+
+<text>
+	<id>663</id>
+	<name>Khi có đạn phù hợp, hãy ấn nút này để nạp đạn.</name>
+</text>
+
+<text>
+	<id>664</id>
+	<name>Ấn nút này để chuyển vũ khí theo thứ tự:
+	
+Vkhí lạnh -> Súng chính -> Súng phụ.</name>
+</text>
+
+<text>
+	<id>665</id>
+	<name>Bạn đang chảy máu. Sử dụng băng gạc, băng cá nhân hoặc giẻ xé từ áo để cầm máu.</name>
+</text>
+
+<text>
+	<id>666</id>
+	<name>Bạn đã ngỏm. Nma trong đây thì máu của bạn sẽ hồi đầy để tiếp tục chơi. Trong game thường, khi chết là chết thật (trừ khi bật chế độ hồi sinh).</name>
+</text>
+
+<text>
+	<id>667</id>
+	<name>Bạn có thể kéo đồ để sắp xếp chúng.</name>
+</text>
+
+<text>
+	<id>668</id>
+	<name>Đã tìm thấy dân chủ. Thứ đấy thường được tìm ở khắp mọi nơi, chủ yếu ở khu quân sự, boongke hoặc cửa hàng súng.</name>
+</text>
+
+<text>
+	<id>669</id>
+	<name>Tango's spotted. Đến gần nó để nvật tự động đánh.</name>
+</text>
+
+<text>
+	<id>670</id>
+	<name>Uầy anh domixi và npc nay ae. Chúng thường đi theo bầy đàn.</name>
+</text>
+
+<text>
+	<id>671</id>
+	<name>Đây là cái cột bơm nước. Bạn có thể uống trực tiếp hoặc lấy nước vào bình.</name>
+</text>
+
+<text>
+	<id>672</id>
+	<name>Ê chỗ kia có xe này, có khả năng là trong cốp có đồ đấy! Hãy đến chỗ đó và ấn nút nhặt.</name>
+</text>
+
+<text>
+	<id>673</id>
+	<name>Bạn có thể săn hươu và dùng dao lột da chúng để lấy thịt.</name>
+</text>
+
+<text>
+	<id>674</id>
+	<name>Bạn có thể săn thỏ và dùng dao lột da chúng để lấy thịt.</name>
+</text>
+
+<text>
+	<id>675</id>
+	<name>Đấy là bụi quả mọng. Bạn có thể hái chúng.</name>
+</text>
+
+</list>
