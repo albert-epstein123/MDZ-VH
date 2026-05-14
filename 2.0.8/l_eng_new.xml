@@ -1,0 +1,4869 @@
+<?xml version="1.0" ?>
+
+<list>
+
+<!--Canned Beans-->
+<text>
+	<id>1</id>
+	<name>Một lon đậu nướng, rất ngon, bổ dưỡng.
+
+Độ no: + 30
+Lượng nước: +  5
+</name>
+</text>
+
+<!--Canned Tuna-->
+<text>
+	<id>2</id>
+	<name>Một hộp cá ngừ, mang hương vị biển cả.
+
+Độ no: + 20
+</name>
+</text>
+
+<!--Tactical Bacon-->
+<text>
+	<id>3</id>
+	<name>Một lon thịt xông khói ngon nhứt nách.
+
+Độ no: + 35
+</name>
+</text>
+
+<!--Rice-->
+<text>
+	<id>4</id>
+	<name>Một túi gạo hạt, đc đóng gói tiện lợi để dễ dàng chế biến.
+
+Độ no: + 65
+</name>
+</text>
+
+<!--Tomato-->
+<text>
+	<id>5</id>
+	<name>Cà chua. Dù nó là quả hay rau, thì nó vẫn rất ngon, cthể ăn sống hoặc nấu.
+
+Độ no: + 15
+Lượng nước: + 5
+Tối đa chứa đc: 3 quả
+Dùng để làm: Trứng bác cà chua
+Cthể trồng bằng cuốc, chĩa hoặc xẻng.
+</name>
+</text>
+
+<!--Apple-->
+<text>
+	<id>6</id>
+	<name>Một quả táo chín. Thịt chắc, ngon, k có sâu.
+
+Độ no: + 15
+Lượng nước: + 5
+Tối đa chứa đc: 3 quả
+</name>
+</text>
+
+<!--Banana-->
+<text>
+	<id>7</id>
+	<name>Chúi. Giàu kali, vitamin. Chứa Kali-40
+
+Độ no: + 15
+Lượng nước: + 5
+Tối đa chứa đc: 3 quả
+</name>
+</text>
+
+<!--Pipsi-->
+<text>
+	<id>8</id>
+	<name>Một loại đồ uống có ga vị cola. Chứa chất tạo ngọt, tạo hương, tạo màu, chất bảo quản.
+
+Lượng nước: + 30
+</name>
+</text>
+
+<!--Spite-->
+<text>
+	<id>9</id>
+	<name>Một loại đồ uống có ga vị chanh. Chứa chất tạo ngọt, tạo hương, tạo màu, chất bảo quản.
+
+Lượng nước: + 30
+</name>
+</text>
+
+<!--Kvas-->
+<text>
+	<id>10</id>
+	<name>Một loại đồ uống đc lên men từ bánh mì đen, thơm ngon, rất tốt cho sức khỏe.
+
+Lượng nước: + 50
+</name>
+</text>
+
+<!--5.56x45mm Ammo-->
+<text>
+	<id>11</id>
+	<name>Đạn 5.56x45mm cỡ trung theo tchuẩn NATO. Dùng cho súng trường, súng máy hạng nhẹ.
+
+Vkhí sdụng: M4A1, M16, L85A2, AUG A1, FAMAS F1, Mini-14, M249
+Tối đa chứa đc: 50 viên
+</name>
+</text>
+
+<!--.45 ACP Ammo-->
+<text>
+	<id>12</id>
+	<name>Đạn súng ngắn .45 ACP. Dùng cho súng ngắn, tiểu liên.
+
+Vkhí sdụng: FNX 45, Colt 1911, Mini-UZI, UMP-45, Kriss Vector, Colt 1911 vip
+Tối đa chứa đc: 60 viên
+</name>
+</text>
+
+<!--7.62x54mmR Ammo-->
+<text>
+	<id>13</id>
+	<name>Đạn 7.62x54mmR hỏa lực mạnh. Dùng cho súng trường, súng máy hạng nhẹ.
+
+Vkhí sdụng: Mosin-Nagant, Obrez Mosin, SVD Dragunov, SV-98, Madsen
+Tối đa chứa đc: 40 viên
+</name>
+</text>
+
+<!--7.62x39mm Ammo-->
+<text>
+	<id>14</id>
+	<name>Đạn 7.62x39mm cỡ trung. Dùng cho súng trường, súng máy hạng nhẹ.
+
+Vkhí sdụng: SKS, AKM, RPK
+Tối đa chứa đc: 50 viên
+</name>
+</text>
+
+<!--5.45x39mm Ammo-->
+<text>
+	<id>15</id>
+	<name>Đạn 5.45x39mm cỡ trung. Dùng cho súng trường.
+
+Vkhí sdụng: AKs-74u, AK-74, AN-94
+Tối đa chứa đc: 50 viên
+</name>
+</text>
+
+<!--.357 Magnum Ammo-->
+<text>
+	<id>16</id>
+	<name>Đạn súng lục .357 Magnum. Dùng cho súng lục, súng trường.
+
+Vkhí sdụng: Colt Python, Deagle, Mare's Leg, Rossi R92
+Tối đa chứa đc: 50 viên
+</name>
+</text>
+
+<!--12 Gauge Ammo-->
+<text>
+	<id>17</id>
+	<name>Đạn cỡ 12 Gauge chứa 5 viên bi. Dùng cho súng săn.
+
+Vkhí sdụng: IZh-43, IZh-43 cưa nòng, Remington 870, Saiga-12K, R11-87 giảm thanh
+Tối đa chứa đc: 30 viên
+</name>
+</text>
+
+<!--Bandage-->
+<text>
+	<id>18</id>
+	<name>Một cuộn băng gạc vô trùng, đc dùng để cầm máu.
+
+Tgian sdụng: 2s
+Tối đa chứa đc: 3 cuộn
+</name>
+</text>
+
+<!--Blood Bag-->
+<text>
+	<id>19</id>
+	<name>Một túi máu [O−] kèm bộ truyền dịch. Dùng để bù máu bị mất do chảy máu.
+
+Máu: + 50
+Khí huyết: + 50
+Tgian sdụng: 6s
+Cthể truyền cho đồng đội.
+</name>
+</text>
+
+<!--Flare-->
+<text>
+	<id>20</id>
+	<name>Chiếu sáng 1 khu vực nhỏ trong tgian ngắn. Cthể ném để chiếu sáng &amp; thu hút zombie.
+
+Tgian hlực: 90s
+Tối đa chứa đc: 5 cây
+Dùng để làm: Bom xăng Molotov
+</name>
+</text>
+
+<!--F1 Grenade-->
+<text>
+	<id>21</id>
+	<name>Là loại lựu đạn phân mảnh đc qđội Nga sdụng. Gây thương tích nghiêm trọng ở tầm trung, chết người ở tầm gần.
+
+Sthương: 1800       Mảnh văng: 24
+Sthương mỗi mảnh: 75
+Tgian kích nổː 2s                     
+</name>
+</text>
+
+<!--Battery-->
+<text>
+	<id>22</id>
+	<name>Một cục pin 9V thông dụng, đc dùng để cấp nguồn các thiết bị điện tử.
+</name>
+</text>
+
+<!--Campfire kit-->
+<text>
+	<id>23</id>
+	<name>Sau khi dựng, cthể sdụng tối đa 3 lần, có tgian hđộng là 3 phút.
+	
+Dùng để nướng đồ ăn, sưởi ấm cơ thể.
+</name>
+</text>
+
+<!--Matches-->
+<text>
+	<id>24</id>
+	<name>Hộp diêm dùng trong nhà bếp, dùng để nhóm lửa khi cần. Bảo quản ở nơi khô ráo &amp; tránh xa tầm tay trẻ em.
+
+Dùng để đốt lửa trại hoặc châm thuốc lá.
+</name>
+</text>
+
+<!--Whiskey-->
+<text>
+	<id>25</id>
+	<name>"Quá tê"
+
+Lượng nước: + 20
+Nhiệt: + 40
+Dùng để làm: Bom xăng Molotov
+</name>
+</text>
+
+<!--Rags-->
+<text>
+	<id>26</id>
+	<name>Một đống giẻ rách, vẫn cthể dùng để cầm máu.
+
+Tgian sdụng: 5s
+Tối đa chứa đc: 3 cuộn
+Dùng để làm: Bộ nhóm lửa trại, dây thừng
+</name>
+</text>
+
+<!--Cranberries-->
+<text>
+	<id>27</id>
+	<name>Loại quả này có màu đỏ, chín mọng, ngọt.
+
+Độ no: + 15
+Lượng nước: + 15
+Tối đa chứa đc: 5 quả
+</name>
+</text>
+
+<!--Saline Bag-->
+<text>
+	<id>28</id>
+	<name>Một bịch nước muối sinh lý kèm bộ truyền dịch. Dùng để bù máu bị mất do chảy máu.
+	
+Máu: + 25
+Khí huyết: + 25
+Tgian sdụng: 6s
+Cthể truyền cho đồng đội.
+</name>
+</text>
+
+<!--Vitamins-->
+<text>
+	<id>29</id>
+	<name>Là thực phẩm chức năng, dùng để bổ sung vitamin, tăng cường máu, phục hồi sức khỏe.
+
+Khí huyết: + 10
+Hồi máu: x 2
+Tgian hlực: 60s
+Tối đa chứa đc: 3 lọ
+</name>
+</text>
+
+<!--Nota-Cola-->
+<text>
+	<id>30</id>
+	<name>Một loại đồ uống có ga vị cola. Chứa chất tạo ngọt, tạo hương, tạo màu, chất bảo quản.
+	
+Lượng nước: + 30
+</name>
+</text>
+
+<!--Zucchini-->
+<text>
+	<id>31</id>
+	<name>Quả bí ngòi này chín vừa đủ để bạn cthể ăn sống.
+
+Độ no: + 20
+Lượng nước: + 20
+
+Cthể trồng bằng cuốc, chĩa hoặc xẻng.
+</name>
+</text>
+
+<!--Bell Pepper-->
+<text>
+	<id>32</id>
+	<name>Một quả ớt chuông xanh. K quá cay, chứa nhiều dinh dưỡng, vitamin, cthể ăn sống hoặc chín.
+
+Độ no: + 20
+Lượng nước: + 5
+Tối đa chứa đc: 3 quả
+Dùng để làm: Thịt xào ớt chuông
+Cthể trồng bằng cuốc, chĩa hoặc xẻng.
+</name>
+</text>
+
+<!--Orange-->
+<text>
+	<id>33</id>
+	<name>Một loại trái cây thuộc họ cam quýt, giàu vitamin C.
+
+Độ no: + 15
+Lượng nước: + 15
+Tối đa chứa đc: 3 quả
+</name>
+</text>
+
+<!--Heatpack-->
+<text>
+	<id>34</id>
+	<name>Túi nhiệt, giúp giữ ấm trong 1 khoảng tgian ngắn.
+
+Nhiệt: + 25
+</name>
+</text>
+
+<!--Sewing Kit-->
+<text>
+	<id>35</id>
+	<name>Bộ dụng cụ may vá đa năng, nhỏ gọn, tiện lợi, dùng để vá quần áo.
+	
++ 25% độ bền cho quần áo.
+</name>
+</text>
+
+<!--Cleaning Kit-->
+<text>
+	<id>36</id>
+	<name>Một hộp gỗ chứa các loại đồ lau chùi súng.
+
++ 25% độ bền cho súng.
+</name>
+</text>
+
+<!--Ashwood Stick-->
+<text>
+	<id>37</id>
+	<name>Một nhánh cây gỗ dài, chắc chắn, dẻo dai từ cây bản địa.
+
+Dùng để làm: Cần câu đơn giản, cung tự chế
+</name>
+</text>
+
+<!--Wooden Sticks-->
+<text>
+	<id>38</id>
+	<name>Dùng để làm mũi tên, củi nhóm lửa, hàng rào chắn. Đc thu hoạch từ cây bản địa.
+
+Tối đa chứa đc: 5 que
+Dùng để làm: Bộ nhóm lửa trại, mũi tên gỗ, balô tự chế, rào chắn gỗ
+</name>
+</text>
+
+<!--Duct Tape-->
+<text>
+	<id>39</id>
+	<name>Một loại băng dính đa năng, chắc chắn, linh hoạt.
+
++ 15% độ bền cho 1 số trang bị.
+Dùng để sửa thuyền tại đảo 2.
+Dùng để làm: Giảm thanh tự chế
+</name>
+</text>
+
+<!--Burlap Sack-->
+<text>
+	<id>40</id>
+	<name>Là thứ lý tưởng cho việc vận chuyển, cất trữ đồ. Cthể chế thêm dây rút bằng dây thừng.
+
+Dùng để làm: Túi tự chế, bạt
+Cthể chứa quả mọng, tối đa 40 quả.
+</name>
+</text>
+
+<!--Rope-->
+<text>
+	<id>41</id>
+	<name>Dây thừng chắc nịch, dùng để buộc các vật lại với nhau.
+
+Dùng để buộc vkhí cận chiến trên lưng
+Chạm vào ô tay trống, bấm nút "Tháo dây vkhí" để tháo vkhí.
+Dùng để làm: Túi tự chế, cung tự chế, cần câu đơn giản
+</name>
+</text>
+
+<!--Hunting Knife-->
+<text>
+	<id>42</id>
+	<name>Một công cụ đc tkế với đầu hơi cong, chủ yếu dùng để sơ chế thịt.
+
+Sthương: 14-24                    Tlệ chí mạng: 10%
+Tlệ đỡ đòn: 5%              Tgian hồi chiêu: 0.8s
+Dùng để lột da động vật.
+</name>
+</text>
+
+<!--Army Knife-->
+<text>
+	<id>43</id>
+	<name>Dao cđấu rất sắc bén. Rất tốt để tự vệ.
+
+Sthương: 15-25                    Tlệ chí mạng: 15%
+Tlệ đỡ đòn: 5%              Tgian hồi chiêu: 0.8s
+Dùng để lột da động vật.
+</name>
+</text>
+
+<!--Butcher Knife-->
+<text>
+	<id>44</id>
+	<name>Một con dao lớn, nặng, gỉ sét. Chủ yếu đc dùng bởi những người bán thịt.
+
+Sthương: 16-26                    Tlệ chí mạng: 20%
+Tlệ đỡ đòn: 5%              Tgian hồi chiêu: 0.8s
+Dùng để lột da động vật.
+</name>
+</text>
+
+<!--Morphine-->
+<text>
+	<id>45</id>
+	<name>Morphine giúp tăng nhịp tim, lưu lượng máu, sự tỉnh táo để chuẩn bị cho các tình huống khẩn cấp .
+
+Tdụng: Hồi đầy thanh máu, tăng 15% tđộ dchuyển. Nhưng sau 20s, giảm xuống còn 20 máu.
+Tối đa chứa đc: 3 ống
+</name>
+</text>
+
+<!--Tetracycline-->
+<text>
+	<id>46</id>
+	<name>Thuốc kháng sinh, đc dùng để điều trị bệnh truyền nhiễm, đồng thời ngăn ngừa bệnh tật.
+
+Khí huyết: + 10
+Tgian hlực: 60s
+Tdụng: Chữa, ngừa bệnh, kháng độc trong suốt tgian hlực.
+Tối đa chứa đc: 3 vỉ
+</name>
+</text>
+
+<!--Tomato Seeds Pack-->
+<text>
+	<id>47</id>
+	<name>Mọc ra tomato.
+
+Lượt sdụng: 5
+Cthể trồng bằng cuốc, chĩa hoặc xẻng.
+</name>
+</text>
+
+<!--Bell Pepper Seeds Pack-->
+<text>
+	<id>48</id>
+	<name>Mọc ra ớt chuông.
+
+Lượt sdụng: 5
+Cthể trồng bằng cuốc, chĩa hoặc xẻng.
+</name>
+</text>
+
+<!--Newspapers-->
+<text>
+	<id>49</id>
+	<name>Những tờ báo này có nhiều thông tin hữu ích như cẩm nang, bài viết về kỹ năng sinh tồn, v.v .
+
+Kinh nghiệm: + 50
+Dùng để làm: Bộ nhóm lửa trại
+</name>
+</text>
+
+<!--Woodpiles-->
+<text>
+	<id>50</id>
+	<name>Gỗ là vật liệu sinh tồn cơ bản. Lấy đc bằng cách chặt cây.
+
+Dùng để sửa thuyền tại đảo 1.
+Dùng để làm: Bộ nhóm lửa trại, rào chắn gỗ, túi đồ ẩn
+</name>
+</text>
+
+<!--Crafted Arrow-->
+<text>
+	<id>51</id>
+	<name>Thanh gỗ đc gọt bằng dao tạo thành những mũi tên hoàn chỉnh.
+
+Sthương: 37-63
+Tối đa chứa đc: 10 mũi tên
+Có 75% knăng gẫy sau khi đc bắn ra.
+</name>
+</text>
+
+<!--Composite Arrow-->
+<text>
+	<id>52</id>
+	<name>Mũi tên composite có lõi nhôm hiện đại có knăng chịu lực cao.
+
+Sthương: 56-94
+Tối đa chứa đc: 10
+K bao giờ gẫy.
+</name>
+</text>
+
+<!--Gasoline Can-->
+<text>
+	<id>53</id>
+	<name>Can kim loại, cthể chứa 1 lượng lớn xăng.
+
+Lượt sdụng: 4
+Cung cấp 25% nhiên liệu cho xe cộ, cưa máy mỗi lần sdụng.
+Cần thiết cho thuyền trên hòn đảo thứ ba.
+</name>
+</text>
+
+<!--Water Bottle-->
+<text>
+	<id>54</id>
+	<name>Chai nhựa cthể tái sdụng.
+
+Lượng nước: + 12
+Lượt sdụng: 4
+Dùng để trữ nước từ cột bơm nước, thu lượm nước mưa trên mặt đất trong khi đang mưa.
+Dùng để làm: Giảm thanh tự chế
+</name>
+</text>
+
+<!--Canteen-->
+<text>
+	<id>55</id>
+	<name>Bình nước tchuẩn trong qsự, đc qđội, người cắm trại sdụng.
+
+Lượng nước: + 25
+Lượt sdụng: 4
+Dùng để trữ nước từ cột bơm nước.
+</name>
+</text>
+
+<!--Landmine-->
+<text>
+	<id>56</id>
+	<name>Mìn chống bộ binh. Tạo ra 1 bất ngờ cho bất kỳ ai k may giẫm phải.
+
+Sthương:  1800          Sthương mỗi mảnh:  75
+Mảnh văng:  24    
+Phát nổ khi bật kỳ sinh vật nào trừ bạn, đồng đội bạn giẫm phải.
+</name>
+</text>
+
+<!--Bear Trap-->
+<text>
+	<id>57</id>
+	<name>Tuy lỗi thời nhưng vẫn hđộng hiệu quả. Nó suýt nữa làm gãy đôi chân bạn.
+
+Sthương: 200
+Cthể tái sử súng.
+Chỉ có động vật, zombie mới cthể kích hoạt chúng.
+</name>
+</text>
+
+<!--.22LR Ammo-->
+<text>
+	<id>58</id>
+	<name>Đạn .22 LR rimfire. Dùng cho các loại súng lục, súng trường cỡ nhỏ.
+
+Vkhí sdụng: Ruger 10/22, Amphibia S
+Tối đa chứa đc: 80 viên
+</name>
+</text>
+
+<!--Car Toolkit-->
+<text>
+	<id>59</id>
+	<name>Bộ dụng cụ cơ khí đc dùng để sửa chữa các phương tiện bị hỏng.
+
++ 25% độ bền cho xe cộ.
+</name>
+</text>
+
+<!--Raw Steak-->
+<text>
+	<id>60</id>
+	<name>Một miếng thịt sống từ hươu. Thịt dai, sẫm màu, rất ngon sau khi chế biến.
+
+Độ no: + 25
+Lượng nước: + 10
+50% bạn sẽ dính bệnh sau khi ăn.
+Cthể nướng trực tiếp trên lửa trại.
+Dùng để làm: Thịt xào ớt chuông
+</name>
+</text>
+
+<!--Cooked Steak-->
+<text>
+	<id>61</id>
+	<name>Thịt hươu sống đc nướng trên lửa trại. Nó mềm mọng 1 cách hoàn hảo.
+
+Độ no: + 50
+Lượng nước: + 10
+Máu: + 15
+</name>
+</text>
+
+<!--Nuka-Cola-->
+<text>
+	<id>62</id>
+	<name>Một chai Nuka-Cola, loại nước ngọt có hương vị hột nhãn (Fallout ref).
+
+Lượng nước: + 100
+Kinh nghiệm: + 200
+Hồi máu: x 2
+Tgian hlực: 60s
+</name>
+</text>
+
+<!--Energy Drink-->
+<text>
+	<id>63</id>
+	<name>Là 1 lựa chọn đơn giản để bổ sung nlượng, chứa caffeine, vitamin, hương vị Mountain Dew.
+
+Lượng nước: + 20
+Tđộ dchuyển: + 15%
+Tgian hlực: 20s
+</name>
+</text>
+
+<!--Zucchini Seeds Pack-->
+<text>
+	<id>68</id>
+	<name>Mọc ra bí ngòi.
+
+Lượt sdụng: 5
+Cthể trồng bằng cuốc, chĩa hoặc xẻng
+</name>
+</text>
+
+<!--9x19 Ammo-->
+<text>
+	<id>69</id>
+	<name>Đạn súng lục 9x19mm Parabellum. Dùng cho súng lục, súng tiểu liên.
+
+Vkhí sdụng: Glock 17, MP5K, MAC-10
+Tối đa chứa đc: 60
+</name>
+</text>
+
+<!--Barbed Wire-->
+<text>
+	<id>70</id>
+	<name>Cuộn dây thép gai dùng để làm rào chắn tường, các vật cản.
+
+Dùng để làm: Gậy bóng chày cuốn dây thép
+</name>
+</text>
+
+<!--Raw Rabbit-->
+<text>
+	<id>71</id>
+	<name>Chân sau của thỏ. Khi nấu chín, nó trở thành món ăn vặt khá ngon.
+
+Độ no: + 25
+Lượng nước: + 10
+50% bạn sẽ dính bệnh sau khi ăn.
+Dùng để làm: Thịt xào ớt chuông
+Cthể nướng trực tiếp trên lửa trại.
+</name>
+</text>
+
+<!--Cooked Rabbit-->
+<text>
+	<id>72</id>
+	<name>Đùi thỏ đc nướng trên lửa trại, mềm, thơm ngon.
+
+Độ no: + 35
+Lượng nước: + 10
+Máu: + 30
+</name>
+</text>
+
+<!--Cloud Berries-->
+<text>
+	<id>73</id>
+	<name>Quả này có mùi xạ hương đặc trưng, rất tốt cho sức khỏe.
+
+Độ no: + 10
+Lượng nước: + 10
+Hồi máu: x 2
+Tgian hlực: 30s
+Tối đa chứa đc: 5 quả
+</name>
+</text>
+
+<!--Bilberries-->
+<text>
+	<id>74</id>
+	<name>Quả này rất mọng nước, có hàm lượng nước cao nhất so với các loại quả mọng.
+
+Độ no: + 10
+Lượng nước: + 20
+Tối đa chứa đc: 5
+</name>
+</text>
+
+<!--Radio-->
+<text>
+	<id>75</id>
+	<name>Một thiết bị dùng để truyền, nhận tín hiệu vô tuyến.
+
+Mỗi lần dùng - 10% pin.
+Có 12,5% knăng tìm thấy boongke dưới lòng đất.
+</name>
+</text>
+
+<!--RDS-->
+<text>
+	<id>76</id>
+	<name>Đặc trưng bởi 1 chấm đỏ đc chiếu lên kính, k có knăng phóng đại.
+
+Tlệ headshot: + 5%
+Độ tản đạn: - 2
+Cthể lắp vào: MP5K, UMP-45, KRISS Vector, AKs-74u, AK-74, AN-94, AKM, M4A1, M16, L85A2, FN-FAL, RPK, Saiga-12K, PP-19 Bizon, OTs-14 Groza, VSS Vintorez, SV-98, Mini-14, AS-Val, M249, Nỏ
+</name>
+</text>
+
+<!--PU Scope-->
+<text>
+	<id>77</id>
+	<name>Ống ngắm 3,5x do Liên Xô sản xuất từ thời Thế chiến II.
+
+Tlệ headshot: + 15%
+Độ tản đạn: - 4
+Cthể lắp vào: SKS, Mosin-Nagant, Winchester M70, Blaze
+</name>
+</text>
+
+<!--PSO-1 Scope-->
+<text>
+	<id>78</id>
+	<name>Ống ngắm chuyên dụng cho súng bắn tỉa với độ phóng đại 4x, có phạm vi hđộng từ 100 - 1000m.
+
+Tlệ headshot: + 15%
+Độ tản đạn: - 4
+Cthể lắp vào: AKs-74u, AK-74, AN-94, AKM, RPK, PP-19 Bizon, OTs-14 Groza, VSS Vintorez, SVD
+</name>
+</text>
+
+<!--ACOG Scope-->
+<text>
+	<id>79</id>
+	<name>Ống ngắm cđấu với độ phóng đại 4x. Cthể gắn vào vkhí có hệ thống ray tchuẩn.
+
+Tlệ headshot: + 15%
+Độ tản đạn: - 4
+Cthể lắp vào: MP5K, UMP-45, KRISS Vector, M4A1, M16, L85A2, FN-FAL, SV-98, Mini-14, AS-Val, M249, Nỏ
+</name>
+</text>
+
+<!--5.45 Supressor-->
+<text>
+	<id>80</id>
+	<name>Bộ phận này đc gắn vào nòng súng, giúp giảm tiếng ồn khi bắn, đc tkế cho cỡ nòng 5.45.
+	
+Cthể lắp vào: AKs-74u, AN-94, AK-74
+</name>
+</text>
+
+<!--5.56 Supressor-->
+<text>
+	<id>81</id>
+	<name>Bộ phận này đc gắn vào nòng súng, giúp giảm tiếng ồn khi bắn, đc tkế cho cỡ nòng 5.56.
+	
+Cthể lắp vào: M4A1, M16, L85A2, AUG A1, M249
+</name>
+</text>
+
+<!--Hacksaw-->
+<text>
+	<id>82</id>
+	<name>Cái cưa tay có lưỡi cưa đc giữ căng trong khung, dùng để cắt các vật liệu như kim loại hoặc nhựa.
+
+Súng cthể cưa: Rossi R92, IZh-43, Blaze, Mosin Nagant
+</name>
+</text>
+
+<!--Bandolier-->
+<text>
+	<id>83</id>
+	<name>Dây deo đạn đc gắn vào báng súng để giữ đạn trong khi cđấu.
+
+Tđộ nạp đạn + 30%
+Cthể lắp vào: IZh-43, Remington 870, SKS, Mosin-Nagant, Rossi R92, Winchester M70, Blaze
+</name>
+</text>
+
+<!--MRE-->
+<text>
+	<id>85</id>
+	<name>Khẩu phần ăn sẵn (MRE) là khẩu phần ăn cá nhân trong qđội, dùng để cung cấp bữa ăn đầy đủ dinh dưỡng cho 1 người.
+
+Độ no: + 40
+Lượng nước: + 40
+Lượt sdụng: 2
+</name>
+</text>
+
+<!--Spinning Fishing Rod-->
+<text>
+	<id>86</id>
+	<name>Một cái cần câu cthể kéo dài. Rất dễ mang theo, giúp việc câu cá trở nên đơn giản hơn.
+	
+Lượt sdụng: 10
+</name>
+</text>
+
+<!--Simple Fishing Rod-->
+<text>
+	<id>87</id>
+	<name>Nó chỉ là gây có dây thừng nhưng lại hữu ích 1 cách đáng ngạc nhiên. Song, lại rất dễ gãy.
+
+Lượt sdụng: 4
+</name>
+</text>
+
+<!--Protective Case-->
+<text>
+	<id>88</id>
+	<name>Một chiếc hộp màu vàng, bên trong chứa vật phẩm thuộc về nhóm những người sống sót.
+
+Có chứa đồ.
+Trả lại cho họ để + aura
+Mở ra để luộc hết đồ nhưng sẽ bị - aura.
+</name>
+</text>
+
+<!--Magpul-->
+<text>
+	<id>89</id>
+	<name>Đc gắn ở cuối băng đạn, giúp việc lấy băng đạn trở nên dễ dàng hơn.
+
+Tđộ nạp đạn + 30%
+Cthể lắp vào: AKs-74u, AK-74, AN-94, AKM, M4A1, M16, L85A2, FN-FAL, AUG A1, RPK, Saiga-12K, OTs-14 Groza, VSS Vintorez, FAMAS F1, Mini-14, AS-Val
+</name>
+</text>
+
+<!--Choke-->
+<text>
+	<id>90</id>
+	<name>Bộ phận thu hẹp đầu nòng, giúp điều chỉnh hướng bắn, làm hẹp chùm đạn.
+
+Giảm độ phân tán của súng săn.
+Cthể lắp vào: IZh-43, Remington 870, Saiga-12K
+</name>
+</text>
+
+<!--Herring-->
+<text>
+	<id>91</id>
+	<name>Cá trích là loài cá nhỏ, màu bạc, sống ở tầng dưới của sông, nổi tiếng với thân hình thon gọn, vảy óng ánh.
+
+Độ no: + 10
+Lượng nước: + 10
+50% bạn sẽ dính bệnh sau khi ăn.
+Cthể nướng trực tiếp trên lửa trại.
+</name>
+</text>
+
+<!--Salmon-->
+<text>
+	<id>92</id>
+	<name>Cá hồi là loài cá nổi tiếng với tập tính di cư, dchuyển giữa mtrường nước ngọt &amp; nước mặn.
+
+Độ no: + 35
+Lượng nước: + 15
+50% bạn sẽ dính bệnh sau khi ăn.
+Cthể nướng trực tiếp trên lửa trại.
+</name>
+</text>
+
+<!--Ruffe-->
+<text>
+	<id>93</id>
+	<name>Cá Ruffe là loài cá nước ngọt nhỏ, thon, dài khoảng 10-15 cm,.
+
+Độ no: + 10
+Lượng nước: + 10
+50% bạn sẽ dính bệnh sau khi ăn.
+Cthể nướng trực tiếp trên lửa trại.
+</name>
+</text>
+
+<!--Perch-->
+<text>
+	<id>94</id>
+	<name>Cá rô đc biết đến với hai vây lưng, 1 vây gai, 1 vây mềm, là loài ăn thịt sống ở đáy biển.
+
+Độ no: + 35
+Lượng nước: + 15
+50% bạn sẽ dính bệnh sau khi ăn.
+Cthể nướng trực tiếp trên lửa trại.
+</name>
+</text>
+
+<!--Small Cooked Fillet-->
+<text>
+	<id>95</id>
+	<name>Miếng phi lê cá nhỏ nướng trên lửa trại là món ăn nhẹ ngon miệng.
+
+Độ no: + 25
+Lượng nước: + 10
+Máu: + 10
+</name>
+</text>
+
+<!--Large Cooked Fillet-->
+<text>
+	<id>96</id>
+	<name>Miếng phi lê cá đc áp chảo, chín kỹ, mềm, ngon miệng, dễ ăn.
+
+Độ no: + 50
+Lượng nước: + 10
+Máu: + 10
+</name>
+</text>
+
+<!--🍄Mushroom-->
+<text>
+	<id>97</id>
+	<name>🍄Phê hơn viên thuốc kim cương của Bánh khẢ🍄
+"ᴛᴇᴄʜɴᴏʙʟᴀᴅᴇ ɴᴇᴠᴇʀ ᴅɪᴇs"
+y҉̃̀̋̑ = ḿ̬̏ͤͅx̛̘̠̹͋ + b̬͖̏́͢                           "𝓞𝓱𝓲𝓸 𝓼𝓴𝓲𝓫𝓲𝓭𝓲 𝓰𝔂𝓪𝓽𝓽 𝓼𝓲𝓰𝓶𝓪 𝓻𝓲𝔃𝔃"
+Ｍ Ｅ Ｔ Ａ Ｍ Ｏ Ｒ Ｐ Ｈ Ｏ Ｓ Ｉ Ｓ  ∀ןıǝns      
+ᗩᒪIEᑎᔕ       ƵØm̷ƀɨɇs̷    🕴🐟 E=mc² 🍅🙊ᴮʳᵘʰ
+ʜᴜᴄᴋʟᴇ ʙᴇʀʀʏ ғɪɴɴ  ሠዐዪረዕ የቿልርቿ    😐︎♋︎●︎♋︎⬧︎♒︎■︎♓︎🙵□︎❖︎
+                      K͓̽a͓̽l͓̽a͓̽s͓̽h͓̽n͓̽i͓̽k͓̽o͓̽v͓̽       ₑₙ𝓭ₑᵣₘₐₙ 𝓬ₐₙ'ₜ ₛ𝔀ᵢₘ
+</name>
+</text>
+
+<!--Long-Range Scope-->
+<text>
+	<id>98</id>
+	<name>Ống ngắm có knăng điều chỉnh độ phóng đại lên đến 800m.
+
+Tlệ headshot: + 25%
+Độ tản đạn: - 6
+Cthể lắp vào: SKS, Mosin-Nagant, SVD Dragunov, SV-98, Winchester M70, Blaze, Mini-14, FN-FAL, AS-Val, Nỏ
+</name>
+</text>
+
+<!--Claymore-->
+<text>
+	<id>99</id>
+	<name>Mìn nổ định hướng. Chữ lồi trên thân nhắc người sdụng đặt nó về phía kẻ thù.
+
+Sthương: 1575          
+Sthương mỗi mảnh: 75
+Mảnh văng: 21  
+Khi bị kích hoạt bởi các thứ khác ngoài bạn, đồng đội, nó sẽ phát nổ &amp; bắn ra các mảnh vỡ theo hướng đc chỉ định.
+</name>
+</text>
+
+<!--9x18mm Ammo-->
+<text>
+	<id>100</id>
+	<name>Đạn súng lục Makarov 9x18mm. Dùng cho súng lục, súng tiểu liên.
+
+Vkhí sdụng: Makarov PM, Makarov PB, PP-19 Bizon
+Tối đa chứa đc: 60 viên
+</name>
+</text>
+
+<!--9x39mm Ammo-->
+<text>
+	<id>101</id>
+	<name>Đạn 9x39mm cỡ trung. Dùng cho súng trường.
+
+Vkhí sdụng: VSS Vintorez, OTs-14 Groza, AS-Val
+Tối đa chứa đc: 50 viên
+</name>
+</text>
+
+<!--Molotov Cocktail-->
+<text>
+	<id>102</id>
+	<name>Một quả bom xăng đc chế bằng cách gắn 1 cây pháo chai rượu Whiskey, đáng ngạc nhiên là nó lại có tdụng.
+</name>
+</text>
+
+<!--Flare Gun-->
+<text>
+	<id>103</id>
+	<name>Súng bắn pháo sáng dùng 1 lần, đc nạp sẵn đạn. Khi bắn, nó sẽ phát tín hiệu để nhận tiếp tế từ trên k.
+Thu hút zombie gần đó.
+</name>
+</text>
+
+<!--.50 Ammo-->
+<text>
+	<id>104</id>
+	<name>Loại đạn cỡ .50 BMG. Đc sdụng cho đại liên.
+
+Đạn dược đc dùng cho súng máy của xe Humvee.
+</name>
+</text>
+
+<!--40mm Grenade-->
+<text>
+	<id>105</id>
+	<name>Đạn phóng lựu cho súng phóng lựu. Phát nổ khi va chạm.
+
+Sthương: 540       Mảnh văng: 12
+Sthương mỗi mảnh: 45
+Vkhí sdụng: Milkor MGL, M79 Thumper, M203
+Tối đa chứa đc: 10 quả
+</name>
+</text>
+
+<!--VOG-25 Grenade-->
+<text>
+	<id>106</id>
+	<name>Đạn phóng lựu cho súng phóng lựu GP-25 của Liên Xô. Phát nổ khi va chạm.
+
+Sthương: 540       Mảnh văng: 12
+Sthương mỗi mảnh: 45
+Vkhí sdụng: GP-25
+Tối đa chứa đc: 10 quả
+Dùng để làm: Lựu đạn tự chế
+</name>
+</text>
+
+
+<!--M203-->
+<text>
+	<id>107</id>
+	<name>M203 là súng phóng lựu, đc tkế để gắn vào súng trường của NATO.
+	
+Loại lựu đạn: Đạn lựu 40mm
+Cthể lắp vào: M4A1, M16, L85A2, FN-FAL, FAMAS F1
+</name>
+</text>
+
+<!--GP-25-->
+<text>
+	<id>108</id>
+	<name>GP-25 là súng phóng lựu, đc tkế để gắn vào súng AK.
+	
+Loại lựu đạn: Đạn lựu VOG-25
+Cthể lắp vào: AK-74, AKM, AN-94
+</name>
+</text>
+
+<!--IV Kit-->
+<text>
+	<id>109</id>
+	<name>Bộ túi đựng máu, đc dùng để tự lấy máu cho lần sdụng trong tương lai.
+	
+Biến thành túi máu sau khi lấy máu.
+</name>
+</text>
+
+<!--Whetstone-->
+<text>
+	<id>110</id>
+	<name>Đá mài đc dùng để mài sắc các cạnh của nhiều loại vkhí &amp; công cụ có lưỡi.
+	
++ 25% độ bền 1 số vkhí cận chiến.
+</name>
+</text>
+
+<!--AK Grip-->
+<text>
+	<id>111</id>
+	<name>Tay cầm chiến thuật đa năng dành cho các loại súng AK.
+
+Giảm đáng kể độ giật khi bắn.
+Cthể lắp vào: AK-74, AKM, RPK
+Dùng để làm: Tay cầm AK gắn laze
+</name>
+</text>
+
+<!--Rail Grip-->
+<text>
+	<id>112</id>
+	<name>Tay cầm dành cho súng có ray Picatinny.
+
+Giảm đáng kể độ giật khi bắn.
+Cthể lắp vào: UMP-45, M4A1, L85A2, KRISS Vector
+Dùng để làm: Tay cầm gắn laze 
+</name>
+</text>
+
+<!--Map Notes-->
+<text>
+	<id>113</id>
+	<name>Bản đồ có đánh dấu chi tiết hết mọi thứ trên hòn đảo hiện tại.
+
+Dùng để đánh dấu tất cả địa điểm như trực thăng rơi, thuyền, boongke,.. trên bản đồ đảo hiện tại của bạn.
+Nếu k đc dùng trên hòn đảo này, nó sẽ biến mất khi đến hòn đảo tiếp theo.
+</name>
+</text>
+
+<!--Elderberries-->
+<text>
+	<id>114</id>
+	<name>Quả cơm cháy là loại quả mọng nhỏ, màu tím sẫm, nổi tiếng với hương thơm béo ngậy, giàu dinh dưỡng.
+
+Độ no: + 10
+Lượng nước: + 10
+Máu: + 2
+Tối đa chứa đc: 5 quả
+</name>
+</text>
+
+<!--Binoculars-->
+<text>
+	<id>115</id>
+	<name>
+</name>
+</text>
+
+<!--Scout Handbook-->
+<text>
+	<id>116</id>
+	<name>Sổ tay giới thiệu các kĩ năng như cắm trại, kỹ năng sinh tồn, sơ cứu.
+
+Kinh nghiệm: + 200
+</name>
+</text>
+
+<!--Canvas-->
+<text>
+	<id>117</id>
+	<name>Những bao bố đc cuộn lại thành cuộn bạt.
+
+Dùng để làm: Túi đồ ẩn
+</name>
+</text>
+
+<!--Adhesive Plaster-->
+<text>
+	<id>118</id>
+	<name>Một loại băng cá nhân, đc dùng để cầm máu tức thì.
+
+Tgian sdụng: 1s
+Tối đa chứa đc: 5 cái
+</name>
+</text>
+
+<!--Smoke Grenade-->
+<text>
+	<id>119</id>
+	<name>Lựu đạn khói đc phương Tây sdụng. Khói k màu, cthể che chắn hoàn toàn khỏi kẻ thù.
+</name>
+</text>
+
+<!--Cigarettes-->
+<text>
+	<id>120</id>
+	<name>Thuốc lá chứa thuốc lá makhorka có hàm lượng nicotine cao, rất mạnh, rất phổ biến từ thời Xô Viết.
+
+Nhiệt: + 5
+Tdụng: Ngăn cơn đói &amp; khát trong suốt tgian tdụng.
+Tgian hlực: 30s
++ 5 aura khi tặng cho người khác.
+Tối đa chứa đc: 10 điếu
+</name>
+</text>
+
+<!--Beer-->
+<text>
+	<id>121</id>
+	<name>Bia hơi có hương vị cthể hơi khác vẫn ngọt ngào, sảng khoái.
+
+Lượng nước: + 20
+Nhiệt: + 10
+</name>
+</text>
+
+<!--Epoxy Glue-->
+<text>
+	<id>122</id>
+	<name>Một loại keo hai thành phần độ bền cao, đc làm từ nhựa epoxy &amp; chất làm cứng.
+
++ 25% độ bền 1 số đồ.
+</name>
+</text>
+
+<!--Fertilizer-->
+<text>
+	<id>123</id>
+	<name>Đc cấu tạo từ chất hữu cơ, chất thải động vật, giàu dinh dưỡng cần cho cây trồng.
+
+Dùng để tăng tđộ sinh trưởng cho cây trồng.
+</name>
+</text>
+
+<!--Laser Sights-->
+<text>
+	<id>124</id>
+	<name>Ống laze chiếu chùm tia laze lên mục tiêu, giúp tăng tđộ ngắm, giảm giật.
+
+Tđộ ngắm bắn, tđộ phục hồi sau giật + 30%.
+Cthể lắp vào: UMP-45, KRISS Vector, AKs-74u, AK-74, AN-94, AKM, M4A1, L85A2, RPK, Mosin-Nagant, SKS, SVD Dragunov, SV-98, VSS Vintorez, AS-Val, Winchester M70, Saiga-12K, Blaze, Mini-14, AS-Val
+Dùng để làm: Tay cầm AK gắn laze, Tay cầm gắn laze
+</name>
+</text>
+
+<!--Lighter-->
+<text>
+	<id>125</id>
+	<name>Chiếc bật lửa cthể tạo lửa nhờ hệ thống đánh lửa cơ học, hđộng nhờ cơ cấu bánh xe đá lửa.
+
+Lượt sdụng: 100
+Dùng để nhóm lửa trại hoặc châm thuốc lá.
+</name>
+</text>
+
+<!--Officer's Keycard-->
+<text>
+	<id>126</id>
+	<name>Thẻ của sĩ quan. Một thứ quan trọng để truy cập vào các khu vực nhạy cảm.
+
+Dùng để mở khóa các cánh cửa đặc biệt trong boongke.
+Chỉ có tdụng với các boongke trên đảo hiện tại.
+</name>
+</text>
+
+<!--Improvised Suppressor-->
+<text>
+	<id>127</id>
+	<name>Mặc dù đc làm từ chai nhựa &amp; băng keo, nó vẫn hđộng.
+
+Cthể lắp vào: M4A1, M16, L85A2, AUG A1, FN-FAL, AKs-74u, AN-94, AK-74, AKM, FAMAS F1, Mini-14, M249
+</name>
+</text>
+
+<!--PVS-4 Night Vision Scope-->
+<text>
+	<id>128</id>
+	<name>Ống ngắm phóng đại 3,5x cthể gắn trên ray có chức năng nhìn đêm, dành riêng cho súng của NATO.
+
+Tăng knăng nhìn đêm.
+Tlệ headshot: + 15%
+Độ tản đạn: - 4
+Cthể lắp vào: MP5K, UMP-45, KRISS Vector, M4A1, M16, L85A2, FN-FAL, SV-98, Mini-14, AS-Val, M249
+</name>
+</text>
+
+<!--1PN51 Night Vision Scope-->
+<text>
+	<id>129</id>
+	<name>Ống ngắm phóng đại 3,5x gắn bên hông có chức năng nhìn đêm, dành cho súng của khối Warsaw.
+
+Tăng knăng nhìn đêm.
+Tlệ headshot: + 15%
+Độ tản đạn: - 4
+Cthể lắp vào: AKs-74u, AK-74, AN-94, AKM, RPK, PP-19 Bizon, OTs-14 Groza, VSS Vintorez, Saiga-12K
+</name>
+</text>
+
+<!--C-MAG 5.56 Drum-->
+<text>
+	<id>130</id>
+	<name>Hộp đạn 100 viên cỡ 5.56x45mm.
+
+Cthể lắp vào: M4A1, M16, AUG A1
+</name>
+</text>
+
+<!--7.62x39 Drum Mag-->
+<text>
+	<id>131</id>
+	<name>Hộp đạn 75 viên cỡ 7.62x39mm.
+
+Cthể lắp vào: AKM, RPK
+</name>
+</text>
+
+<!--Frying Pan-->
+<text>
+	<id>132</id>
+	<name>Chiếc chào huyền thoại. K biết có chặn đc đạn hay k.
+	
+Dùng để nấu: Trứng rán, trứng bác cà chua, thịt xào ớt chuông
+</name>
+</text>
+
+<!--Gas Mask-->
+<text>
+	<id>133</id>
+	<name>Một chiếc mặt nạ giúp bvệ bạn khỏi chất ô nhiễm, khí độc.
+
+Nhiệt: + 2
+Chống khí độc trong các khu vực bị ô nhiễm. 
+Độ bền của nó sẽ giảm ltục khi sdụng trong mtrường bị ô nhiễm.
+
+</name>
+</text>
+
+<!--Balaclava-->
+<text>
+	<id>134</id>
+	<name>Một loại khăn trùm đầu, dùng để bvệ mặt mà chỉ để lộ mắt &amp; miệng.
+
+Nhiệt: + 3
+</name>
+</text>
+
+<!--GP5 Gas Mask-->
+<text>
+	<id>135</id>
+	<name>Mặt nạ phòng độc toàn mặt thời Liên Xô có gắn hộp lọc, dùng để bvệ khỏi chất ô nhiễm, khí độc.
+
+Nhiệt: + 2
+Chống khí độc trong các khu vực bị ô nhiễm. 
+Tuy nhiên, độ bền của nó sẽ giảm ltục khi sdụng trong mtrường bị ô nhiễm.
+
+</name>
+</text>
+
+<!--Clown Mask-->
+<text>
+	<id>136</id>
+	<name>Đây là kiểu mặt nạ đc ưa chuộng nhất bởi những tên côn đồ trên đảo.
+
+Nhiệt: + 1
+
+</name>
+</text>
+
+<!--Mini Game Console
+<text>
+	<id>137</id>
+	<name>Dùng để thay đổi luật chơi, thêm thử thách trong game.
+</name>
+</text>
+-->
+<!--.308 WIN Ammo-->
+<text>
+	<id>138</id>
+	<name>Đạn .308 WIN hỏa lực mạnh. Dùng cho súng trường.
+
+Vkhí sdụng: Winchester M70, FN-FAL, Blaze, Longhorn
+Tối đa chứa đc: 40 viên
+</name>
+</text>
+
+<!--Sneakers-->
+<text>
+	<id>139</id>
+	<name>Một đôi giày bình thường.
+
+Tđộ dchuyển: + 5%
+Axit cthể làm hỏng nó (trừ khi đeo giầy NBC).
+</name>
+</text>
+
+<!--Woodland Boots-->
+<text>
+	<id>140</id>
+	<name>Giày này đc tkế để dchuyển trong mồi trường ẩm ướt của rừng rậm.
+
+Tđộ dchuyển: + 5%
+Giúp giữ tđộ dchuyển khi đi trên đầm lầy.
+Axit cthể làm hỏng nó (trừ khi đeo giầy NBC).
+</name>
+</text>
+
+<!--Assault Boots-->
+<text>
+	<id>141</id>
+	<name>Đc tkế cho binh sĩ trong cđấu.
+
+Tđộ dchuyển: + 10%
+Giúp giữ tđộ dchuyển khi đi trên đầm lầy.
+Cthể cất 1 con dao vào trong.
+Axit cthể làm hỏng nó (trừ khi đeo giầy NBC).
+</name>
+</text>
+
+<!--Gun Sling-->
+<text>
+	<id>142</id>
+	<name>Một chiếc dây đeo súng, cthể gắn trên hầu hết các loại súng, giúp người dùng mang thêm một khẩu súng chính, tăng cơ hội sống sót.
+	
+Giúp bạn mang thêm 1 vkhí chính trên lưng.
+Bấm vào ô trống ở slot súng chính, rồi bấm "Tháo" để tháo súng.
+</name>
+</text>
+
+<!--Charcoal Tablets-->
+<text>
+	<id>143</id>
+	<name>Viên than hoạt tính có knăng lọc bỏ độc tố.
+	
++ 50% độ bền của mặt nạ phòng độc.
+</name>
+</text>
+
+<!--Blowtorch-->
+<text>
+	<id>144</id>
+	<name>Dụng cụ gia công kim loại hđộng bằng bình khí nén đc dùng để cắt, hàn kim loại.
+	
++ 25% độ bền của xe cộ, một số vkhí cận chiến, mũ Altyn
+Dùng để gia cố xe bằng các tấm kim loại.
+</name>
+</text>
+
+<!--Ghillie Suit-->
+<text>
+	<id>145</id>
+	<name>Bộ đồ ngụy trang giúp người mặc ẩn mình trong mtrường tự nhiên.
+
+Giúp người mặc "tàng hình" khi độ bền ≥ 50%.
+Ở trạng thái này, kẻ địch sẽ k nhìn thấy bạn.
+Việc ltục dchuyển, tấn công sẽ làm hỏng ngụy trang của bạn.
+</name>
+</text>
+
+<!--Underbarrel Flashlight-->
+<text>
+	<id>146</id>
+	<name>Đèn pin gắn dưới nòng súng, dùng để chiếu sáng vào ban đêm. (Somehow nó hđộng mà k cần pin)
+
+Cthể lắp vào: UMP-45, KRISS Vector, AKs-74u, AK-74, AN-94, AKM, M4A1, L85A2, AUG A1, RPK, Mosin-Nagant, SKS, SVD Dragunov, SV-98, VSS Vintorez, Winchester M70, Saiga-12K, Blaze, Mini-14, AS-Val
+</name>
+</text>
+
+<!--Laser AK Grip-->
+<text>
+	<id>147</id>
+	<name>Tay cầm đa năng đc gắn đèn laze dành cho súng AK.
+	
+Giảm đáng kể độ giật khi bắn.
+Tđộ ngắm, tđộ kiểm soát giật: + 30%
+Cthể lắp vào: AK-74, AKM, RPK
+</name>
+</text>
+
+<!--Laser Rail Grip-->
+<text>
+	<id>148</id>
+	<name>Tay cầm đa năng đc gắn đèn laze dành cho súng có ray Picatinny.
+	
+Giảm đáng kể độ giật khi bắn.
+Tđộ ngắm, tđộ kiểm soát giật: + 30%
+Cthể lắp vào: UMP-45, KRISS Vector, M4A1, L85A2
+</name>
+</text>
+
+<!--Secondary Firearms-->
+
+<!--FNX 45-->
+<text>
+	<id>211</id>
+	<name>Một khẩu súng ngắn có tkế công thái học.
+	
+Sthương: 21-35               Độ tản đạn: 20-6
+Tđộ ngắm: 4                             Độ giật: 9
+Loại đạn: .45 ACP       Băng đạn: 15 viên
+Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--Colt 1911-->
+<text>
+	<id>212</id>
+	<name>"Chúa tạo ra con người, Colt cho họ bình đẳng." - Samuel Colt.
+	
+Sthương: 18-30               Độ tản đạn: 20-6
+Tđộ ngắm: 4                             Độ giật: 10
+Loại đạn: .45 ACP       Băng đạn: 7 viên
+Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--Colt Python-->
+<text>
+	<id>213</id>
+	<name>Súng lục ổ quay sáu viên, cthể gây sthương rất lớn.
+	
+Sthương: 34-56               Độ tản đạn: 20-6
+Tđộ ngắm: 2                             Độ giật: 15
+Loại đạn: .357 Magnum       Sức chứa: 6 viên
+Giảm tđộ dchuyển: 3
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--Glock 17-->
+<text>
+	<id>214</id>
+	<name>"Giáng long thập thất chưởng".
+	
+Sthương: 15-25               Độ tản đạn: 20-5
+Tđộ ngắm: 4                             Độ giật: 10
+Loại đạn: 9x19mm       Băng đạn: 18 viên
+Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--Amphibian S-->
+<text>
+	<id>215</id>
+	<name>AWC TM-Amphibian S là biến thể của Ruger Mk II, tích hợp giảm thanh.
+	
+Sthương: 11-19               Độ tản đạn: 20-4
+Tđộ ngắm: 4                             Độ giật: 9
+Loại đạn: .22 LR       Băng đạn: 10 viên
+Giảm tđộ dchuyển: 3
+Tgian nạp đạn: 2s
+Có bộ phận giảm thanh đc tích hợp.
+</name>
+</text>
+
+<!--Sawn-Off IZh-43-->
+<text>
+	<id>216</id>
+	<name>Súng săn nòng đôi đc cưa ngắn, kiểu gập nòng.
+	
+Sthương: 22-188               Độ tản đạn: 30-13
+Tđộ ngắm: 3                             Độ giật: 20
+Loại đạn: 12 Gauge       Sức chứa: 2 viên
+Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--Orbez Mosin-->
+<text>
+	<id>217</id>
+	<name>Phiên bản ngắn hơn của Mosin-Nagant. Sdụng hộp tiếp đạn 5 viên bên trong súng.
+	
+Sthương: 67-113               Độ tản đạn: 25-12
+Tđộ ngắm: 3                             Độ giật: 25
+Loại đạn: 7.62x54mmR       Băng đạn: 5 viên
+Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--Engraved Colt-->
+<text>
+	<id>218</id>
+	<name>Khẩu Colt 1911 này đc chạm khắc vô cùng tỉ mỉ.
+	
+Sthương: 18-30               Độ tản đạn: 20-5
+Tđộ ngắm: 4                             Độ giật: 10
+Loại đạn: .45 ACP       Băng đạn: 12 viên
+Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--MAC-10-->
+<text>
+	<id>219</id>
+	<name>Military Armament Corporation model 10 là 1 khẩu súng tiểu liên nhỏ gọn.
+	
+Sthương: 15-25               Độ tản đạn: 20-10
+Tđộ ngắm: 3                             Độ giật: 2
+Loại đạn: 9x19mm       Băng đạn: 30 viên
+Tđộ bắn: 650 viên/phút  Giảm tđộ dchuyển: 0
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--Mare's Leg-->
+<text>
+	<id>220</id>
+	<name>"Ngoài này là miền đất hoang vu, thưa bà." - Josh Randall.
+	
+Sthương: 34-56               Độ tản đạn: 25-11
+Tđộ ngắm: 3                             Độ giật: 17
+Loại đạn: .357 Magnum       Sức chứa: 7 viên
+Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--Makarov PM-->
+<text>
+	<id>221</id>
+	<name>Makarov PM là khẩu súng ngắn của Liên Xô, nổi tiếng với sự đơn giản, bền bỉ, đáng tin cậy.
+	
+Sthương: 18-30               Độ tản đạn: 20-8
+Tđộ ngắm: 4                             Độ giật: 10
+Loại đạn: 9x18mm       Băng đạn: 8 viên
+Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--Makarov PB-->
+<text>
+	<id>222</id>
+	<name>PB là biến thể của Makarov PM, đc tích hợp giảm thanh, đc dùng bởi KGB, Spetsnaz.
+	
+Sthương: 18-30               Độ tản đạn: 20-9
+Tđộ ngắm: 4                             Độ giật: 8
+Loại đạn: 9x18mm       Băng đạn: 8 viên
+Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 2s
+Có bộ phận giảm thanh đc tích hợp.
+</name>
+</text>
+
+<!--Deagle-->
+<text>
+	<id>223</id>
+	<name>Một khẩu súng ngắn uy lực mạnh, nổi tiếng với vẻ ngoài to lớn, sức sthương cao.
+	
+Sthương: 30-50               Độ tản đạn: 20-6
+Tđộ ngắm: 3                             Độ giật: 13
+Loại đạn: .357 Magnum       Băng đạn: 9 viên
+Giảm tđộ dchuyển: 2  
+</name>
+</text>
+
+<!--M79 Thumper-->
+<text>
+	<id>224</id>
+	<name>Súng phóng lựu kiểu gập nòng. Trông có vẻ lỗi thời, nhưng vẫn hiệu quả.
+	
+Sthương: 45-855               Độ tản đạn: 30-8
+Tđộ ngắm: 3                             Độ giật: 6
+Loại đạn: lựu 40mm       Sức chứa: 1 viên
+Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--Sawn-Off Blaze-->
+<text>
+	<id>225</id>
+	<name>Súng trường nạp đạn kiểu gập nòng, đã đc cắt ngắn nòng.
+	
+Sthương: 64-106               Độ tản đạn: 25-12
+Tđộ ngắm: 3                             Độ giật: 10
+Loại đạn: .308 WIN       Sức chứa: 2 viên
+Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--Longhorn-->
+<text>
+	<id>226</id>
+	<name>Khẩu súng săn bắn phát 1 kiểu gập nòng, có sẵn kính ngắm, thích hợp để săn bắn.
+	
+Sthương: 67-113               Độ tản đạn: 20-1
+Tđộ ngắm: 2                             Độ giật: 25
+Loại đạn: .308 WIN       Sức chứa: 1 viên
+Tlệ headshot: + 15%  Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--Mini-UZI-->
+<text>
+	<id>227</id>
+	<name>Một phiên bản nhỏ gọn hơn của UZI.
+	
+Sthương: 18-30               Độ tản đạn: 20-10
+Tđộ ngắm: 3                             Độ giật: 2
+Loại đạn: .45 ACP       Băng đạn: 22 viên
+Tđộ bắn: 600 viên/phút  Giảm tđộ dchuyển: 0
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--Null-->
+<text>
+	<id>230</id>
+	<name>Click to unequip the back-mounted weapon.
+</name>
+</text>
+
+<!--Primary Firearms-->
+
+<!--Mosin-Nagant-->
+<text>
+	<id>232</id>
+	<name>Một khẩu súng trường khóa nòng năm viên do Nga tkế, đc sdụng rộng rãi trong nhiều cuộc chiến.
+	
+Sthương: 67-113               Độ tản đạn: 25-3
+Tđộ ngắm: 1                             Độ giật: 20
+Loại đạn: 7.62x54mmR       Băng đạn: 5 viên
+Tđộ bắn: 46 viên/phút  Giảm tđộ dchuyển: 5
+Tgian nạp đạn: 3s
+</name>
+</text>
+
+<!--M4A1-->
+<text>
+	<id>233</id>
+	<name>Đc ptriển từ M16, nó là vkhí tchuẩn dành cho bộ binh của qđội Hoa Kỳ.
+	
+Sthương: 22-38               Độ tản đạn: 25-4
+Tđộ ngắm: 1.5                             Độ giật: 3
+Loại đạn: 5.56x45mm       Băng đạn: 30 viên
+Tđộ bắn: 600 viên/phút  Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--IZh-43-->
+<text>
+	<id>234</id>
+	<name>Một khẩu súng săn kiểu gập nòng do Nga sản xuất, dùng để săn gấu.
+	
+Sthương: 22-188               Độ tản đạn: 30-13
+Tđộ ngắm: 1                             Độ giật: 20
+Loại đạn: 12 Gauge       Sức chứa: 2 viên
+Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--AK-74-->
+<text>
+	<id>235</id>
+	<name>Là phiên bản kế nhiệm của AKM, đc tkế để cạnh tranh với M16.
+	
+Sthương: 26-44               Độ tản đạn: 25-5
+Tđộ ngắm: 1.5                             Độ giật: 4
+Loại đạn: 5.45x39mm       Băng đạn: 30 viên
+Tđộ bắn: 600 viên/phút  Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--AKM-->
+<text>
+	<id>236</id>
+	<name>Phiên bản cải tiến của AK-47 với knăng gắn phụ kiện.
+
+Sthương: 30-50               Độ tản đạn: 25-5
+Tđộ ngắm: 1.5                             Độ giật: 5
+Loại đạn: 7.62x39mm       Băng đạn: 30 viên
+Tđộ bắn: 460 viên/phút  Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--AKs-74u-->
+<text>
+	<id>237</id>
+	<name>Một biến thể cạc bin của AK-74, đc tkế nhỏ gọn, nhẹ hơn.
+	
+Sthương: 26-44               Độ tản đạn: 25-8
+Tđộ ngắm: 2                             Độ giật: 4
+Loại đạn: 5.45x39mm       Băng đạn: 30 viên
+Tđộ bắn: 750 viên/phút  Giảm tđộ dchuyển: 1 
+</name>
+</text>
+
+<!--SKS-->
+<text>
+	<id>238</id>
+	<name>Một khẩu súng cạc bin bán tự động đc tkế tại Liên Xô trong WW2.
+	
+Sthương: 34-56               Độ tản đạn: 25-4
+Tđộ ngắm: 1.5                             Độ giật: 10
+Loại đạn: 7.62x39mm       Băng đạn: 10 viên
+Tđộ bắn: 200 viên/phút  Giảm tđộ dchuyển: 4
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--L85A2-->
+<text>
+	<id>240</id>
+	<name>L85A2 là phiên bản cải tiến của SA80, chính xác &amp; đáng tin cậy hơn tiền nhiệm.
+	
+Sthương: 22-38               Độ tản đạn: 25-3
+Tđộ ngắm: 1.5                             Độ giật: 3
+Loại đạn: 5.56x45mm       Băng đạn: 30 viên
+Tđộ bắn: 500 viên/phút  Giảm tđộ dchuyển: 3
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--Remington Model 870-->
+<text>
+	<id>241</id>
+	<name>Một khẩu súng săn nạp đạn kiểu bơm của Mỹ, nổi tiếng về độ bền, độ tin cậy, tính đa dụng.
+	
+Sthương: 22-188               Độ tản đạn: 30-15
+Tđộ ngắm: 1                             Độ giật: 20
+Loại đạn: 12 Gauge       Sức chứa: 6 viên
+Tđộ bắn: 66 viên/phút  Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 3s
+</name>
+</text>
+
+<!--Improvised Bow-->
+<text>
+	<id>243</id>
+	<name>Một chiếc cung đc làm từ cành cây &amp; dây thừng. Tuy thô sơ nhưng cthể chống lại thây ma hiện đại.
+	
+Sthương: 37-94               Độ tản đạn: 25-6
+Tđộ ngắm: 2          Sức chứa: 1 mũi
+Loại tên: Tên tự chế / Tên hợp chất
+Giảm tđộ dchuyển: 3
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--Hunting Crossbow-->
+<text>
+	<id>244</id>
+	<name>Nỏ đc sơn lớp ngụy trang. Hiện đại, mạnh mẽ, chính xác, cthể săn thú lớn &amp; bắn trúng mục tiêu.
+	
+Sthương: 37-94               Độ tản đạn: 25-3
+Tđộ ngắm: 2          Sức chứa: 1 mũi
+Loại tên: Tên tự chế / Tên hợp chất
+Giảm tđộ dchuyển: 3
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--Ruger 10/22 Sporter-->
+<text>
+	<id>246</id>
+	<name>Một khẩu súng trường thanh lịch, tích hợp giảm thanh, rất phù hợp cho các hđộng giải trí.
+	
+Sthương: 15-25               Độ tản đạn: 25-4
+Tđộ ngắm: 2                             Độ giật: 8
+Loại đạn: .22 LR       Băng đạn: 30 viên
+Tđộ bắn: 300 viên/phút  Giảm tđộ dchuyển: 3
+Tgian nạp đạn: 2s
+Có bộ phận giảm thanh đc tích hợp.
+</name>
+</text>
+
+<!--Rossi R92-->
+<text>
+	<id>247</id>
+	<name>Một khẩu súng trường nạp đạn bằng cần gạt, phiên bản hiện đại của Winchester M92.
+	
+Sthương: 30-50               Độ tản đạn: 25-5
+Tđộ ngắm: 2                             Độ giật: 10
+Loại đạn: .357 Magnum       Sức chứa: 7 viên
+Tđộ bắn: 85 viên/phút  Giảm tđộ dchuyển: 3
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--SVD Dragunov-->
+<text>
+	<id>248</id>
+	<name>Súng bắn tỉa bán tự động, vận hành bằng khí nén, đc tkế bởi Yevgeny Dragunov.
+	
+Sthương: 60-100               Độ tản đạn: 25-3
+Tđộ ngắm: 1                             Độ giật: 13
+Loại đạn: 7.62x54mmR       Băng đạn: 10 viên
+Tđộ bắn: 150 viên/phút  Giảm tđộ dchuyển: 5
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--MP5K-->
+<text>
+	<id>249</id>
+	<name>Một khẩu súng tiểu liên nhỏ gọn thuộc dòng MP5. Chữ K ("Kurz") nghĩa là "ngắn" trong tiếng Đức.
+	
+Sthương: 21-35               Độ tản đạn: 20-10
+Tđộ ngắm: 2                             Độ giật: 1 
+Loại đạn: 9x19mm       Băng đạn: 30 viên
+Tđộ bắn: 850 viên/phút  Giảm tđộ dchuyển: 0
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--UMP-45-->
+<text>
+	<id>251</id>
+	<name>Một phiên bản kế nhiệm nhẹ rẻ hơn cho tiểu liên MP5 nổi tiếng.
+	
+Sthương: 21-35               Độ tản đạn: 20-9
+Tđộ ngắm: 2                             Độ giật: 2
+Loại đạn: .45 ACP       Băng đạn: 30 viên
+Tđộ bắn: 650 viên/phút  Giảm tđộ dchuyển: 0
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--RPK-->
+<text>
+	<id>252</id>
+	<name>Một khẩu súng máy hạng nhẹ do Mikhail Kalashnikov tkế, là biến thể của AK-47.
+	
+Sthương: 30-50               Độ tản đạn: 25-5
+Tđộ ngắm: 1.5                             Độ giật: 6
+Loại đạn: 7.62x39mm       Băng đạn: 40 viên
+Tđộ bắn: 600 viên/phút  Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 3s
+Có giá đỡ, độ giật giảm đáng kể sau khi đứng yên 1 tgian.
+</name>
+</text>
+
+<!--FN-FAL-->
+<text>
+	<id>253</id>
+	<name>Một loại súng trường đc ptriển tại Bỉ vào năm 1953.
+	
+Sthương: 54-90               Độ tản đạn: 25-4
+Tđộ ngắm: 1.5                             Độ giật: 6
+Loại đạn: .308 WIN       Băng đạn: 20 viên
+Tđộ bắn: 600 viên/phút  Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--Saiga-12K-->
+<text>
+	<id>254</id>
+	<name>Một loại súng săn liên thanh do Nga sản xuất, nổi tiếng với tkế kiểu AK.
+	
+Sthương: 22-188               Độ tản đạn: 30-17
+Tđộ ngắm: 1                             Độ giật: 19
+Loại đạn: 12 Gauge       Băng đạn: 8 viên
+Tđộ bắn: 200 viên/phút  Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--AUG A1-->
+<text>
+	<id>255</id>
+	<name>Steyr AUG là khẩu súng trường tấn công bullpup nổi tiếng, có kính ngắm tích hợp.
+
+Sthương: 25-41               Độ tản đạn: 25-3
+Tđộ ngắm: 1.5                             Độ giật: 1.5
+Loại đạn: 5.56x45mm       Băng đạn: 30 viên
+Tđộ bắn: 650 viên/phút  Giảm tđộ dchuyển: 2.5
+Tlệ headshot: + 15%                                  
+</name>
+</text>
+
+<!--PP-19 Bizon-->
+<text>
+	<id>256</id>
+	<name>Một khẩu tiểu liên của Nga, sdụng hộp tiếp đạn xoắn ốc đặc trưng.
+	
+Sthương: 18-30               Độ tản đạn: 20-8
+Tđộ ngắm: 2                             Độ giật: 3
+Loại đạn: 9x18mm       Băng đạn: 64 viên
+Tđộ bắn: 550 viên/phút  Giảm tđộ dchuyển: 0
+Tgian nạp đạn: 3s
+</name>
+</text>
+
+<!--OTs-14 Groza-->
+<text>
+	<id>257</id>
+	<name>Một loại súng trường kết hợp với súng phóng lựu. Đc lực lượng đặc nhiệm Nga sdụng.
+	
+Sthương: 30-50               Độ tản đạn: 25-5
+Tđộ ngắm: 1.5                             Độ giật: 3
+Loại đạn: 9x39mm       Băng đạn: 30 viên
+Tđộ bắn: 600 viên/phút  Giảm tđộ dchuyển: 3
+Tgian nạp đạn: 2s
+Có sẵn súng phóng lựu GP-25.
+</name>
+</text>
+
+<!--VSS Vintorez-->
+<text>
+	<id>258</id>
+	<name>Khẩu súng bắn tỉa đc tkế cho các hđộng bí mật. Im lặng nhưng chết người.
+	
+Sthương: 37-62               Độ tản đạn: 25-2
+Tđộ ngắm: 1.5                             Độ giật: 4
+Loại đạn: 9x39mm       Băng đạn: 20 viên
+Tđộ bắn: 600 viên/phút  Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--SV-98-->
+<text>
+	<id>259</id>
+	<name>Súng bắn tỉa khóa nòng với độ chính xác hoàn hảo.
+	
+Sthương: 64-106               Độ tản đạn: 25-3
+Tđộ ngắm: 1.5                             Độ giật: 9
+Loại đạn: 7.62x54mmR       Băng đạn: 10 viên
+Tđộ bắn: 66 viên/phút  Giảm tđộ dchuyển: 5
+Tgian nạp đạn: 3s
++ 10% tlệ headshot khi nhắm.
+</name>
+</text>
+
+<!--Madsen-->
+<text>
+	<id>260</id>
+	<name>Khẩu súng máy hạng nhẹ đầu tiên trên thế giới, đc sdụng từ năm 1902. Nó đc chôn dưới chính ngôi nhà này.
+	
+Sthương: 52-87               Độ tản đạn: 25-6
+Tđộ ngắm: 1.5                             Độ giật: 6
+Loại đạn: 7.62x54mmR       Băng đạn: 30 viên
+Tđộ bắn: 500 viên/phút  Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 3s
+Có giá đỡ, độ giật giảm đáng kể sau khi đứng yên 1 tgian.
+</name>
+</text>
+
+<!--AN-94-->
+<text>
+	<id>261</id>
+	<name>Một khẩu súng trường, nổi bật là chế độ bắn 2 phát với tđộ siêu tốc.
+	
+Sthương: 28-46               Độ tản đạn: 25-4
+Tđộ ngắm: 1.5                             Độ giật: 3
+Loại đạn: 5.45x39mm       Băng đạn: 30 viên
+Tđộ bắn: 1800 viên/phút  Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--Silenced Remington 11-87-->
+<text>
+	<id>262</id>
+	<name>"Nếu quy tắc anh tuân theo đã dẫn anh đến tình cảnh này, thì quy tắc đó có ích gì?" - Anton Chigurh
+	
+Sthương: 22-188               Độ tản đạn: 30-15
+Tđộ ngắm: 1.5                             Độ giật: 20
+Loại đạn: 12 Gauge       Sức chứa: 6 viên
+Tđộ bắn: 66 viên/phút  Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 3s
+Có bộ phận giảm thanh đc tích hợp.
+</name>
+</text>
+
+<!--M16-->
+<text>
+	<id>263</id>
+	<name>M16 là súng trường dựa trên khẩu AR-15. Nó có chế độ bắn 3 viên, bắn phát 1.
+	
+Sthương: 22-38               Độ tản đạn: 25-4
+Tđộ ngắm: 1.5                             Độ giật: 3
+Loại đạn: 5.56x45mm       Băng đạn: 30
+Tđộ bắn: 1800 viên/phút Giảm tđộ dchuyển: 3
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--KRISS Vector-->
+<text>
+	<id>264</id>
+	<name>Một khẩu tiểu liên có hệ thống giảm giật độc đáo &amp; vẻ ngoài hiện đại, cùng tđộ bắn cực nhanh.
+	
+Sthương: 21-35               Độ tản đạn: 20-10
+Tđộ ngắm: 2                             Độ giật: 2
+Tđộ bắn: 1200 viên/phút  Giảm tđộ dchuyển: 0
+Tgian nạp đạn: 2s
+Loại đạn: .45 ACP       Băng đạn: 30 viên
+</name>
+</text>
+
+<!--M4A1 w/Drum-->
+<text>
+	<id>265</id>
+	<name>M4A1 đc lắp băng đạn 100 viên.
+	
+Sthương: 22-38               Độ tản đạn: 25-4
+Tđộ ngắm: 1.5                             Độ giật: 3
+Loại đạn: 5.56x45mm       Băng đạn: 100 viên
+Tđộ bắn: 600 viên/phút  Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 3s
+</name>
+</text>
+
+<!--AKM w/Drum-->
+<text>
+	<id>266</id>
+	<name>AKM đc lắp băng đạn 75 viên.
+	
+Sthương: 30-50               Độ tản đạn: 25-5
+Tđộ ngắm: 1.5                             Độ giật: 5
+Loại đạn: 7.62x39mm       Băng đạn: 75 viên
+Tđộ bắn: 460 viên/phút  Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 3s
+</name>
+</text>
+
+<!--Winchester M70-->
+<text>
+	<id>267</id>
+	<name>Winchester Model 70 là khẩu súng bắn tỉa khóa nòng, đc dùng rộng rãi trong những năm 60.
+	
+Sthương: 67-113               Độ tản đạn: 25-3
+Tđộ ngắm: 1                             Độ giật: 20
+Loại đạn: .308 WIN       Băng đạn: 5 viên
+Tđộ bắn: 46 viên/phút  Giảm tđộ dchuyển: 5
+Tgian nạp đạn: 3s
+</name>
+</text>
+
+<!--Saiga-12K w/Drum-->
+<text>
+	<id>268</id>
+	<name>Saiga-12K đc lắp băng đạn 20 viên.
+	
+Sthương: 22-188               Độ tản đạn: 30-17
+Tđộ ngắm: 1                             Độ giật: 19
+Loại đạn: 12 Gauge       Băng đạn: 20 viên
+Tđộ bắn: 200 viên/phút  Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 3s
+</name>
+</text>
+
+<!--RPK w/Drum-->
+<text>
+	<id>269</id>
+	<name>RPK đc lắp băng đạn 75 viên.
+	
+Sthương: 30-50               Độ tản đạn: 25-5
+Tđộ ngắm: 1.5                             Độ giật: 6
+Loại đạn: 7.62x39mm       Băng đạn: 75 viên
+Tđộ bắn: 600 viên/phút  Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 3s
+</name>
+</text>
+
+<!--M16 w/Drum-->
+<text>
+	<id>270</id>
+	<name>M16 đc lắp băng đạn 100 viên.
+	
+Sthương: 22-38               Độ tản đạn: 25-4
+Tđộ ngắm: 1.5                             Độ giật: 3
+Loại đạn: 5.56x45mm       Băng đạn: 30 viên
+Tđộ bắn: 1800 viên/phút Giảm tđộ dchuyển: 3
+Tgian nạp đạn: 3s
+</name>
+</text>
+
+<!--AUG A1 w/Drum-->
+<text>
+	<id>271</id>
+	<name>AUG A1 đc lắp băng đạn 100 viên.
+	
+Sthương: 25-41               Độ tản đạn: 25-3
+Tđộ ngắm: 1.5                             Độ giật: 1.5
+Loại đạn: 5.56x45mm       Băng đạn: 30 viên
+Tđộ bắn: 650 viên/phút  Giảm tđộ dchuyển: 2.5
+Tgian nạp đạn: 3s
+Tlệ headshot: + 15%
+</name>
+</text>
+
+<!--Milkor MGL-->
+<text>
+	<id>272</id>
+	<name>Một loại súng phóng lựu ổ quay 6 viên cỡ nòng 40 mm đc ptriển bởi Milkor.
+	
+Sthương: 45-855               Độ tản đạn: 30-5
+Tđộ ngắm: 1.5                             Độ giật: 4
+Loại đạn: lựu 40mm       Sức chứa: 6 viên
+Giảm tđộ dchuyển: 2.5
+Tgian nạp đạn: 4s
+</name>
+</text>
+
+<!--Blaze-->
+<text>
+	<id>273</id>
+	<name>Một loại súng săn có knăng bắn hai viên đạn gần như ngay lập tức.
+	
+Sthương: 64-106               Độ tản đạn: 25-5
+Tđộ ngắm: 1.5                             Độ giật: 6
+Loại đạn: .308 WIN       Sức chứa: 2 viên
+Giảm tđộ dchuyển: 3        
+</name>
+</text>
+
+<!--FAMAS F1-->
+<text>
+	<id>274</id>
+	<name>Đc mệnh danh là "Cây Kèn", nổi tiếng bởi tkế bullpup độc đáo, tđộ bắn cao.
+	
+Sthương: 25-41               Độ tản đạn: 25-4
+Tđộ ngắm: 1.5                             Độ giật: 3
+Loại đạn: 5.56x45mm       Băng đạn: 25 viên
+Tđộ bắn: 900 viên/phút  Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 2s
+Có giá đỡ, độ giật giảm đáng kể sau khi đứng yên 1 tgian.
+</name>
+</text>
+
+<!--Mini-14-->
+<text>
+	<id>275</id>
+	<name>Một khẩu súng trường bán tự động, đc đánh giá cao nhờ tkế cổ điển, độ tin cậy, tính đa dụng.
+	
+Sthương: 27-45               Độ tản đạn: 25-4
+Tđộ ngắm: 1.5                             Độ giật: 3
+Loại đạn: 5.56x45mm       Băng đạn: 20 viên
+Tđộ bắn: 300 viên/phút  Giảm tđộ dchuyển: 2 
+</name>
+</text>
+
+<!--AK-74 w/Drum-->
+<text>
+	<id>276</id>
+	<name>AK-74 đc lắp băng đạn 95 viên.
+	
+Sthương: 26-44               Độ tản đạn: 25-5
+Tđộ ngắm: 1.5                             Độ giật: 4
+Loại đạn: 5.45x39mm       Băng đạn: 95 viên
+Tđộ bắn: 600 viên/phút  Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 3s
+</name>
+</text>
+
+<!--AKs-74u w/Drum-->
+<text>
+	<id>277</id>
+	<name>AKs-74u đc lắp băng đạn 95 viên.
+	
+Sthương: 26-44               Độ tản đạn: 25-8
+Tđộ ngắm: 2                             Độ giật: 4
+Loại đạn: 5.45x39mm       Băng đạn: 95 viên
+Tđộ bắn: 750 viên/phút  Giảm tđộ dchuyển: 1 
+Tgian nạp đạn: 3s
+</name>
+</text>
+
+<!--Backpack-->
+
+<!--Taloon Backpack-->
+<text>
+	<id>301</id>
+	<name>Balô nhẹ, thích hợp cho các chuyến đi trong ngày. Cthể chứa thoải mái đồ đạc.
+
+Ô chứa: 5
+Cthể đựng quần áo dự phòng.
+</name>
+</text>
+
+<!--Mountain Backpack-->
+<text>
+	<id>302</id>
+	<name>Balô leo núi cao cấp đc làm từ vật liệu công nghệ cao. Rộng rãi, rất nổi bật.
+
+Ô chứa: 11
+Cthể đựng quần áo dự phòng.
+</name>
+</text>
+
+<!--Hunting Backpack-->
+<text>
+	<id>303</id>
+	<name>Balô đi săn tchuẩn với các ngăn phụ. Rất bền, thoải mái, dù có hơi lỗi thời.
+
+Ô chứa: 7
+Cthể đựng quần áo dự phòng.
+</name>
+</text>
+
+<!--School Backpack-->
+<text>
+	<id>304</id>
+	<name>Một chiếc balô cho trẻ em, đựng đc khá ít đồ.
+
+Ô chứa: 3
+</name>
+</text>
+
+<!--Improvised Sling Bag-->
+<text>
+	<id>305</id>
+	<name>Chiếc túi nhỏ gọn, đơn giản, có dây đeo, k đựng đc nhiều đồ, nhưng rất kín đáo &amp; khó để ý.
+
+Ô chứa: 4
+Cthể đựng quần áo dự phòng.
+</name>
+</text>
+
+<!--Improvised Backpack-->
+<text>
+	<id>306</id>
+	<name>Balô vải bố đc gắn khung gỗ. K quá cứng cáp nhưng rất tiện dụng.
+
+Ô chứa: 6
+Cthể đựng quần áo dự phòng.
+</name>
+</text>
+
+<!--Camping Backpack-->
+<text>
+	<id>307</id>
+	<name>Bộ lều cắm trại dân dụng. Cung cấp k gian thoải mái, cùng với k gian chứa đồ.
+
+Ô chứa: 3
+Cthể đc dựng lên để chứa đồ đạc.
+Đồ để bên trong sẽ k bao giờ bay mất.
+</name>
+</text>
+
+<!--Tortilla Backpack-->
+<text>
+	<id>308</id>
+	<name>Balô qđội thoải mái, cthể mang nhiều đồ mà kích thước vẫn nhỏ gọn.
+
+Ô chứa: 9
+Cthể đựng quần áo dự phòng.
+</name>
+</text>
+
+<!--Satchel-->
+<text>
+	<id>309</id>
+	<name>Túi đeo chéo dùng để đựng những vật dụng nhỏ. Chất liệu k bền lắm, nhưng làm đc việc.
+
+Ô chứa: 2
+Cthể đeo trước ngực, cùng với balô.
+</name>
+</text>
+
+<!--Military Satchel-->
+<text>
+	<id>310</id>
+	<name>Một chiếc túi đeo chéo nhỏ kiểu qđội dùng để đựng các công cụ sinh tồn mang theo ngày.
+
+Ô chứa: 1
+Có 3 khóa kéo, dùng để đựng dao, bật lửa, diêm, bình nước, pháo.
+Cthể đeo trước ngực, cùng với balô.
+</name>
+</text>
+
+<!--IFAK Satchel-->
+<text>
+	<id>311</id>
+	<name>Túi y tế cá nhân đeo vai, đc tkế để bảo quản thuốc, tránh chất ô nhiễm.
+
+Ô chứa: 1 
+Có 3 khóa kéo, dùng để đựng vật tư y tế.
+Cthể đeo trước ngực, cùng với balô.
+</name>
+</text>
+
+<text>
+	<id>312</id>
+	<name>Một chút magic của nhà ptriển giúp đồ của bạn dịch chuyển xuyên k gian!
+
+Ô chứa: 6
+Dùng để cất vật phẩm, trang bị bên trong để lưu lại, sdụng trong ván chơi mới.
+Dùng máy chơi game đc spawn ở đầu game để spawn kho đồ, lấy đồ trong đó. 
+</name>
+</text>
+
+<!--Pants-->
+
+<!--Jeans-->
+<text>
+	<id>351</id>
+	<name>Quần jean, còn gọi là quần denim. Là loại trang phục hiện đại, phổ biến, thông dụng nhất.
+
+Ô chứa: 2
+Nhiệt: + 5
+</name>
+</text>
+
+<!--Worker Pants-->
+<text>
+	<id>352</id>
+	<name>Quần ống rộng, dành cho công việc ngoài trời. Cthể nhận biết qua các túi ở hai bên ống quần.
+
+Ô chứa: 3
+Nhiệt: + 5
+</name>
+</text>
+
+<!--Tracksuit Pants-->
+<text>
+	<id>353</id>
+	<name>Đc tkế để tạo sự thoải mái, pvụ cho mục đích thể thao.
+Ô chứa: 1 
+Nhiệt: + 3
+</name>
+</text>
+
+<!--Gorka Pants-->
+<text>
+	<id>354</id>
+	<name>Loại quần đc đơn vị tại Gorka, Chernarus sdụng. Chúng có các túi lớn, lớp bvệ có knăng chống chịu thời tiết.
+
+Ô chứa: 3
+Nhiệt: + 8
+Giáp: + 2
+Tlệ đỡ đòn: + 10%
+</name>
+</text>
+
+<!--Paramedic Pants-->
+<text>
+	<id>355</id>
+	<name>Quần tchuẩn dành cho nhân viên cấp cứu, có các sọc phản quang sáng màu.
+
+Ô chứa: 2
+Nhiệt: + 4
+</name>
+</text>
+
+<!--Orel Pants-->
+<text>
+	<id>356</id>
+	<name>Quần đồng phục của cảnh sát OREL. Khá ấm áp, thoải mái nhưng bvệ ít.
+
+Ô chứa: 2
+Nhiệt: + 5
+Giáp: + 1 
+</name>
+</text>
+
+<!--Hunter Pants-->
+<text>
+	<id>357</id>
+	<name>Quần này đc tkế cho các thợ săn. Họa tiết rằn ri này rất lí tưởng cho việc săn bắn.
+
+Ô chứa: 3
+Nhiệt: + 6
+Giáp: + 1 
+Tlệ đỡ đòn: + 5%
+</name>
+</text>
+
+<!--Vests-->
+
+<!--Bulletproof Vest-->
+<text>
+	<id>401</id>
+	<name>Áo vest với lớp vỏ bao phủ bên ngoài tấm giáp chống đạn. Có knăng bvệ tốt.
+
+Giáp: + 8
+Tlệ đỡ đòn: + 10%
+Chặn hoàn toàn đạn khi độ bền ≥ 75%, nhưng mỗi phát sẽ làm giảm 10% độ bền.
+</name>
+</text>
+
+<!--Assault Vest-->
+<text>
+	<id>402</id>
+	<name>Áo vest đc tkế cho cđấu, dùng để mang rang bị, đạn dược, nhưng knăng bvệ còn hạn chế do lớp đệm mềm.
+
+Ô chứa: 2
+Giáp: + 3
+Tlệ đỡ đòn: + 5%
+Cthể gắn lựu đạn, tối đa 3 quả.
+</name>
+</text>
+
+<!--Press Vest-->
+<text>
+	<id>403</id>
+	<name>Áo vest có knăng hấp thụ lực va đập. Đc sdụng bởi các nhà báo trong vùng chiến sự.
+
+Ô chứa: 1 
+Giáp: + 6
+Tlệ đỡ đòn: + 5%
+</name>
+</text>
+
+<!--High Capacity Vest-->
+<text>
+	<id>404</id>
+	<name>Áo vest chiến thuật đc tkế để chứa nhiều trang bị mà vẫn linh hoạt, knăng bvệ còn hạn chế do lớp đệm mềm.
+
+Ô chứa: 3
+Giáp: + 3
+Tlệ đỡ đòn: + 5%
+Cthể gắn lựu đạn, tối đa 3 quả.
+</name>
+</text>
+
+<!--Kevlar Vest-->
+<text>
+	<id>405</id>
+	<name>Một loại áo vest cứng làm từ Kevlar, cthể chặn đạn hiệu quả mà vẫn duy trì tính cơ động &amp; knăng mang vác.
+	
+Ô chứa: 3                    Giáp: + 10
+Tlệ đỡ đòn: + 10%
+Cthể gắn lựu đạn, tối đa 3 quả.
+Chặn hoàn toàn đạn khi độ bền ≥ 75%, nhưng mỗi phát sẽ làm giảm 10% độ bền.
+</name>
+</text>
+
+<!--Soviet Vest-->
+<text>
+	<id>406</id>
+	<name>Một loại áo vest chiến thuật dành cho qđội Liên Xô, cung cấp knăng bvệ nhờ phần ngực đc kéo dài.
+
+Ô chứa: 2
+Giáp: + 8
+Tlệ đỡ đòn: + 10%
+Chặn hoàn toàn đạn khi độ bền ≥ 75%, nhưng mỗi phát sẽ làm giảm 10% độ bền.
+</name>
+</text>
+
+<!--Apron-->
+<text>
+	<id>407</id>
+	<name>Một loại đồ đc mặc bên ngoài quần áo để bvệ chúng khỏi các bụi bẩn, nội tạng, dầu mỡ, hóa chất.
+
+Ô chứa: 1 
+</name>
+</text>
+
+<!--Ghillie Suit-->
+<text>
+	<id>408</id>
+	<name>Bộ đồ ngụy trang giúp người mặc ẩn mình trong mtrường tự nhiên.
+
+Giúp người mặc "tàng hình" khi độ bền ≥ 50%.
+Ở trạng thái này, kẻ địch sẽ k nhìn thấy bạn.
+Việc ltục dchuyển, tấn công sẽ làm hỏng ngụy trang của bạn.
+</name>
+</text>
+
+<!--M Heavy Armor-->
+<text>
+	<id>409</id>
+	<name>Áo giáp qsự cao cấp đc phủ lớp hợp chất có tên gọi "Complex M", có knăng chặn đạn dễ dàng.
+
+Giáp: + 20
+Tlệ đỡ đòn: + 15%
+Chặn hoàn toàn đạn khi độ bền ≥ 75%, nhưng mỗi phát sẽ làm giảm 5% độ bền.
+</name>
+</text>
+
+<!--NBC Suit-->
+<text>
+	<id>410</id>
+	<name>Bộ đồ bảo hộ đc làm khá sơ sài có các đặc tính của bộ đồ CBRN.
+
+Khi độ bền ≥ 50%, kết hợp với găng tay, giày NBC, bộ đồ này sẽ chống mưa, chống pxạ.
+Miễn nhiễm với khí độc trong 2 phút, cần đợi thêm 2 phút sau khi hết tdụng để cthể sdụng lại.
+</name>
+</text>
+
+<!--M Kevlar CBRN Suit-->
+<text>
+	<id>411</id>
+	<name>Áo giáp Kevlar mặc ngoài bộ đồ CBRN.
+
+Ô chứa: 3                   Giáp: + 10
+Tlệ đỡ đòn: + 10%
+Có các đặc tính của bộ đồ CBRN &amp; áo kevlar.
+</name>
+</text>
+
+<!--M Heavy CBRN Suit-->
+<text>
+	<id>412</id>
+	<name>Áo giáp hạng năng mặc ngoài bộ đồ CBRN.
+
+Giáp: + 20
+Tlệ đỡ đòn: + 15%
+Có các đặc tính của bộ đồ CBRN &amp; giáp hạng nặng.
+</name>
+</text>
+
+<!--Ghillie CBRN Suit-->
+<text>
+	<id>413</id>
+	<name>Bộ đồ ngụy trang mặc ngoài bộ đồ CBRN.
+
+Có các đặc tính của bộ đồ CBRN &amp; đồ ngụy trang.
+</name>
+</text>
+
+<!--Hazmat Suit-->
+<text>
+	<id>414</id>
+	<name>Thiết bị bảo hộ cá nhân đc tkế để bvệ khỏi các hóa chất độc hại, chất độc shọc.
+	
+Khi độ bền ≥ 50%, kết hợp với găng tay, giày NBC, bộ đồ này sẽ chống mưa, chống axit.
+</name>
+</text>
+
+<!--UNK-->
+<text>
+	<id>415</id>
+	<name>Bộ đồ "hnhân, shọc, hóa học" đc tkế để bvệ toàn diện trước các mối đe dọa này.
+
+Khi độ bền ≥ 50%, kết hợp với găng tay, giày NBC, bộ đồ này sẽ chống mưa, chống pxạ.
+</name>
+</text>
+
+<!--CBRN Suit-->
+<text>
+	<id>416</id>
+	<name>Phiên bản qsự tiên tiến của bộ đồ NBC, đc chế tạo rất nhẹ, cthể mặc thêm áo bên ngoài.
+
+Cthể mặc thêm áo vest.	
+Khi độ bền ≥ 50%, kết hợp với găng tay, giày NBC, bộ đồ này sẽ chống mưa, chống pxạ.
+Miễn nhiễm với khí độc trong 2 phút, cần đợi thêm 2 phút sau khi hết tdụng để cthể sdụng lại.
+</name>
+</text>
+
+<!--"C" Level Protective Suit-->
+<text>
+	<id>417</id>
+	<name>Bộ đồ bhộ cấp C, đc tkế để bvệ toàn diện trước các mối đe dọa hnhân, shọc, hóa học
+	
+Khi độ bền ≥ 50%, kết hợp với găng tay, giày NBC, bộ đồ này sẽ chống mưa, chống pxạ.</name>
+</text>
+
+<!--Helmets-->
+<text>
+	<id>450</id>
+	<name> Bấm vào ô trống để tháo mặt nạ.
+</name>
+</text>
+
+<!--Motorcycle Helmet-->
+<text>
+	<id>451</id>
+	<name>Mũ bảo hiểm có kính dành cho các dân chơi Vỏ ngoài cứng cáp giúp hấp thụ va chạm hiệu quả.
+
+Nhiệt: + 2
+Giáp: + 3
+Tlệ đỡ đòn: + 10%
+</name>
+</text>
+
+<!--Army Helmet-->
+<text>
+	<id>452</id>
+	<name>Một loại mũ bảo hiểm lđc tkế để bvệ khỏi mảnh vỡ, va đập mạnh, phát súng nhỏ.
+
+Nhiệt: + 2
+Giáp: + 4
+Tlệ đỡ đòn: + 5%
+Miễn nhiễm với headshot, mỗi lần chặn đc sẽ làm giảm 15% độ bền của mũ.
+</name>
+</text>
+
+<!--Hard Hat-->
+<text>
+	<id>453</id>
+	<name>Mũ bảo hiểm trong xây dựng đc dùng để bvệ khỏi các mảnh vụn, lực tác động từ đồ rơi.
+
+Nhiệt: + 2
+Giáp: + 2
+Tlệ đỡ đòn: + 5%
+</name>
+</text>
+
+<!--Gas Mask-->
+<text>
+	<id>454</id>
+	<name>Một chiếc mặt nạ giúp bvệ bạn khỏi chất ô nhiễm, khí độc.
+
+Nhiệt: + 2
+Chống khí độc trong các khu vực bị ô nhiễm. 
+Độ bền của nó sẽ giảm ltục khi sdụng trong mtrường bị ô nhiễm.
+
+</name>
+</text>
+
+<!--Motorcycke Helmet 2-->
+<text>
+	<id>455</id>
+	<name>Mũ bảo hiểm có kính dành cho các dân chơi Vỏ ngoài cứng cáp giúp hấp thụ va chạm hiệu quả.
+
+Nhiệt: + 2
+Giáp: + 3
+Tlệ đỡ đòn: + 10%
+</name>
+</text>
+
+<!--Motorcycle Helmet 3-->
+<text>
+	<id>456</id>
+	<name>Mũ bảo hiểm có kính dành cho các dân chơi Vỏ ngoài cứng cáp giúp hấp thụ va chạm hiệu quả.
+
+Nhiệt: + 2
+Giáp: + 3
+Tlệ đỡ đòn: + 10%
+</name>
+</text>
+
+<!--Cap-->
+<text>
+	<id>457</id>
+	<name>Mũ mềm có vành cong, chóp tròn, có tdụng che chắn mắt khỏi ánh nắng mặt trời.
+
+Nhiệt: + 2
+</name>
+</text>
+
+<!--Beanie-->
+<text>
+	<id>458</id>
+	<name>Một chiếc mũ len k vành, mềm mại, ôm sát đầu, nổi tiếng về tính đa dụng, knăng giữ ấm.
+
+Nhiệt: + 4
+</name>
+</text>
+
+<!--Ushanka-->
+<text>
+	<id>459</id>
+	<name>Mũ lông tthống của Nga đc làm bằng lông thú, giúp giữ ấm trong thời tiết lạnh.
+
+Nhiệt: + 6
+</name>
+</text>
+
+<!--Beret-->
+<text>
+	<id>460</id>
+	<name>Một chiếc mũ beret có huy hiệu, giúp bvệ khá ít, cũng k giữ ấm tốt.
+
+Nhiệt: + 2
+</name>
+</text>
+
+<!--Balaclava-->
+<text>
+	<id>461</id>
+	<name>Một loại khăn trùm đầu, dùng để bvệ mặt mà chỉ để lộ mắt &amp; miệng.
+
+Nhiệt: + 3
+</name>
+</text>
+
+<!--Headlamp-->
+<text>
+	<id>462</id>
+	<name>Một thiết bị chiếu sáng đc đeo trên đầu với dây đeo cthể điều chỉnh.
+	
+Nhiệt: + 1
+Cần 1 cục pin để sdụng.
+</name>
+</text>
+
+<!--Cowboy Hat-->
+<text>
+	<id>463</id>
+	<name>Mũ cao bồi có chóp cao, &amp;nh rộng, đc công nhân trang trại, cao bồi sdụng.
+
+Nhiệt: + 2
+</name>
+</text>
+
+<!--Welding Mask-->
+<text>
+	<id>464</id>
+	<name>Giúp bvệ mắt, mặt, cổ khỏi tia cực tím, tia lửa, nhiệt độ cao khi hàn.
+
+Nhiệt: + 1
+Giáp: + 1
+</name>
+</text>
+
+<!--Gorka Helmet-->
+<text>
+	<id>465</id>
+	<name>Mũ bảo hiểm đc lực lượng đặc nhiệm sdụng, có tấm kính che mặt giúp bvệ mặt. 
+
+Nhiệt: + 3
+Giáp: + 5
+Tlệ đỡ đòn: + 10%
+Miễn nhiễm với headshot, mỗi lần chặn đc sẽ làm giảm 10% độ bền của mũ.
+</name>
+</text>
+
+<!--Police Cap-->
+<text>
+	<id>466</id>
+	<name>Một phần của đồng phục cảnh sát.
+
+Nhiệt: + 2
+</name>
+</text>
+
+<!--NVG-->
+<text>
+	<id>467</id>
+	<name>Kính nhìn đêm (NVG) chạy bằng pin, giúp bạn nhìn rõ trong mtrường thiếu sáng.
+Nhiệt: + 1
+Cần 1 cục pin để sdụng..
+</name>
+</text>
+
+<!--Bandana-->
+<text>
+	<id>468</id>
+	<name>Một mảnh vải đc dùng để quấn quanh đầu, rất đa dụng, cthể tạo hình.
+	
+Nhiệt: + 2
+Cthể xé thành giẻ.
+</name>
+</text>
+
+<!--Crusader Helm-->
+<text>
+	<id>469</id>
+	<name>Một chiếc mũ trụ thép che kín mặt , đc các chiến binh trung cổ sdụng.
+
+Nhiệt: + 4
+Giáp: + 5
+Tlệ đỡ đòn: + 15%
+</name>
+</text>
+
+<!--Pilot Helmet-->
+<text>
+	<id>470</id>
+	<name>Mũ bảo hiểm của phi công, có tấm che mặt bvệ, có knăng chịu đc va đập.
+
+Nhiệt: + 3
+Giáp: + 2
+Tlệ đỡ đòn: + 5%
+</name>
+</text>
+
+<!--Altyn Helmet-->
+<text>
+	<id>471</id>
+	<name>Mũ bảo hiểm với lớp vỏ titan dày 4mm, đc trang bị tấm chắn mặt, có knăng chặn đạn 1 cách dễ dàng.
+
+Nhiệt: + 3
+Giáp: + 7
+Tlệ đỡ đòn: + 10%
+Miễn nhiễm với headshot, mỗi lần chặn đc sẽ làm giảm 5% độ bền của mũ.
+</name>
+</text>
+
+<!--"Killa" Altyn Helmet-->
+<text>
+	<id>472</id>
+	<name>Mũ altyn đc sơn giống mũ "Killa" trong Escape from Tarkov.
+
+Nhiệt: + 3
+Giáp: + 7
+Tlệ đỡ đòn: + 10%
+Miễn nhiễm với headshot, mỗi lần chặn đc sẽ làm giảm 5% độ bền của mũ.
+</name>
+</text>
+
+<!--GP5 Gas Mask-->
+<text>
+	<id>473</id>
+	<name>Mặt nạ phòng độc toàn mặt thời Liên Xô có gắn hộp lọc, dùng để bvệ khỏi chất ô nhiễm, khí độc.
+
+Nhiệt: + 2
+Chống khí độc trong các khu vực bị ô nhiễm. 
+Tuy nhiên, độ bền của nó sẽ giảm ltục khi sdụng trong mtrường bị ô nhiễm.
+
+</name>
+</text>
+
+<!--Clown Mask-->
+<text>
+	<id>474</id>
+	<name>Đây là kiểu mặt nạ đc ưa chuộng nhất bởi những tên côn đồ trên đảo.
+
+Nhiệt: + 1
+</name>
+</text>
+
+<!--Assault Helmet-->
+<text>
+	<id>475</id>
+	<name>Mũ bảo hiểm chống đạn có ray gắn phụ kiện. Đc tkế để đáp ứng việc cđấu trong bóng tối.
+
+Nhiệt: + 3                    Giáp: + 3
+Tlệ đỡ đòn: + 5%                   
+Miễn nhiễm với headshot, mỗi lần chặn đc sẽ làm giảm 15% độ bền của mũ.
+Cthể lắp kính nhìn đêm, đèn pin.
+</name>
+</text>
+
+<!--Assault Helmet 2-->
+<text>
+	<id>476</id>
+	<name>Mũ bảo hiểm chống đạn có ray gắn phụ kiện. Đc tkế để đáp ứng việc cđấu trong bóng tối.
+
+Nhiệt: + 3                    Giáp: + 3
+Tlệ đỡ đòn: + 5%                  
+Miễn nhiễm với headshot, mỗi lần chặn đc sẽ làm giảm 15% độ bền của mũ.
+Cthể lắp kính nhìn đêm, đèn pin.
+</name>
+</text>
+
+<!--Assault Helmet 3-->
+<text>
+	<id>477</id>
+	<name>Mũ bảo hiểm chống đạn có ray gắn phụ kiện. Đc tkế để đáp ứng việc cđấu trong bóng tối.
+
+Nhiệt: + 3                    Giáp: + 3
+Tlệ đỡ đòn: + 5%                  
+Miễn nhiễm với headshot, mỗi lần chặn đc sẽ làm giảm 15% độ bền của mũ.
+Cthể lắp kính nhìn đêm, đèn pin.
+</name>
+</text>
+
+<!--Assault Helmet 4-->
+<text>
+	<id>478</id>
+	<name>Mũ bảo hiểm chống đạn có ray gắn phụ kiện. Đc tkế để đáp ứng việc cđấu trong bóng tối.
+
+Nhiệt: + 3                    Giáp: + 3
+Tlệ đỡ đòn: + 5%                   
+Miễn nhiễm với headshot, mỗi lần chặn đc sẽ làm giảm 15% độ bền của mũ.
+Cthể lắp kính nhìn đêm, đèn pin.
+</name>
+</text>
+
+<!--Top-Wear-->
+
+<!--Hoodie-->
+<text>
+	<id>501</id>
+	<name>Áo nỉ có mũ trùm đầu, khóa kéo dọc, hai túi lớn.
+
+Ô chứa: 2
+Nhiệt: + 5
+Cthể xé thành giẻ.
+</name>
+</text>
+
+<!--Shirt-->
+<text>
+	<id>502</id>
+	<name>Một loại áo dài tay, cài cúc, thường đc làm từ polyester &amp; cotton.
+
+Ô chứa: 1
+Nhiệt: + 3
+Cthể xé thành giẻ.
+</name>
+</text>
+
+<!--Hoodie-->
+<text>
+	<id>504</id>
+	<name>Áo nỉ có mũ trùm đầu, khóa kéo dọc, hai túi lớn.
+
+Ô chứa: 2
+Nhiệt: + 5
+Cthể xé thành giẻ.
+</name>
+</text>
+
+<!--Raincoat-->
+<text>
+	<id>505</id>
+	<name>Áo khoác làm từ chất liệu ma đe in cali, giúp bvệ phần thân trên khỏi mưa.
+
+Ô chứa: 2
+Nhiệt: + 6
+Chống mưa.
+</name>
+</text>
+
+<!--Raincoat-->
+<text>
+	<id>506</id>
+	<name>Áo khoác làm từ chất liệu ma đe in cali, giúp bvệ phần thân trên khỏi mưa.
+
+Ô chứa: 2
+Nhiệt: + 6
+Chống mưa.
+</name>
+</text>
+
+<!--Jacket-->
+<text>
+	<id>507</id>
+	<name>Áo khoác da vẻ ngoài cực ngầu, rất bền bỉ, bvệ tốt.
+
+Ô chứa: 2
+Nhiệt: + 4
+Giáp: + 2
+Tlệ đỡ đòn: + 5%
+</name>
+</text>
+
+<!--Trench Coat-->
+<text>
+	<id>509</id>
+	<name>Một loại áo khoác dài thường đc làm từ chất liệu cách nhiệt, có kiểu dáng như áo khoác qđội.
+
+Ô chứa: 1
+Nhiệt: + 9
+</name>
+</text>
+
+<!--Gorka Jacket-->
+<text>
+	<id>510</id>
+	<name>Loại áo đc đơn vị tại Gorka, Chernarus sdụng. Chúng có các túi lớn, lớp bvệ có knăng chống chịu thời tiết.
+
+Ô chứa: 3
+Nhiệt: + 8
+Giáp: + 2
+Tlệ đỡ đòn: + 10%
+</name>
+</text>
+
+<!--T-Shirt-->
+<text>
+	<id>511</id>
+	<name>Áo thun ngắn tay có cổ tròn, dáng suông. Khá bình thường.
+
+Nhiệt: + 2
+Cthể xé thành giẻ.
+</name>
+</text>
+
+<!--Paramedic Jacket-->
+<text>
+	<id>512</id>
+	<name>Áo khoác tchuẩn dành cho nhân viên cấp cứu, có các sọc phản quang sáng màu.
+	
+Ô chứa: 2
+Nhiệt: + 5
+</name>
+</text>
+
+<!--Orel Jacket-->
+<text>
+	<id>513</id>
+	<name>Áo đồng phục của cảnh sát OREL. Khá ấm áp, thoải mái nhưng bvệ ít.
+
+Ô chứa: 2
+Nhiệt: + 5
+Giáp: + 1
+</name>
+</text>
+
+<!--Tracksuit Jacket-->
+<text>
+	<id>514</id>
+	<name>Đc tkế để tạo sự thoải mái, pvụ cho mục đích thể thao.
+
+Ô chứa: 1
+Nhiệt: + 4
+</name>
+</text>
+
+<!--Dress-->
+<text>
+	<id>515</id>
+	<name>Đầm nữ thoải mái. Giúp bạn luôn xinh đẹp trong mọi hoàn cảnh.
+
+Ô chứa: 1
+Nhiệt: + 4
+Cthể xé thành giẻ.
+</name>
+</text>
+
+<!--Down Jacket-->
+<text>
+	<id>516</id>
+	<name>Chiếc áo khoác bên trong có lớp lông tơ mềm mại, mang lại cảm giác ấm áp.
+
+Ô chứa: 2
+Nhiệt: + 8
+</name>
+</text>
+
+<!--Hunter Jacket-->
+<text>
+	<id>517</id>
+	<name>Áo khoác này đc tkế cho các thợ săn. Họa tiết rằn ri này rất lí tưởng cho việc săn bắn.
+
+Ô chứa: 3
+Nhiệt: + 6
+Giáp: + 1
+Tlệ đỡ đòn: + 5%
+</name>
+</text>
+
+<!--Sweater-->
+<text>
+	<id>518</id>
+	<name>Áo len dài tay dày dặn. Rất ấm, thấm hút mồ hôi tốt, nhưng lại cực kỳ ngứa.
+
+Ô chứa: 1
+Nhiệt: + 6
+</name>
+</text>
+
+<!--Awesome Hoodie-->
+<text>
+	<id>519</id>
+	<name>Chiếc áo hoodie của người đàn ông, huyền thoại Cannedbits - Mikhail Azovskikh.
+
+Ô chứa: 3
+Nhiệt: + 8
+</name>
+</text>
+
+<!--Melee-->
+
+<!--Hands-->
+<text>
+	<id>550</id>
+	<name>Tay ko tấc sắt.
+	
+Sthương: 8-13                    Tỉ lệ chí mạng: 0%
+Tỉ lệ đỡ đòn: 0%              Tgian hồi chiều: 0.5s
+</name>
+</text>
+
+<!--Hatchet-->
+<text>
+	<id>551</id>
+	<name>Một loại dụng cụ cầm tay đơn giản với lưỡi rìu &amp; đầu búa ở mỗi bên.
+	
+Sthương: 38-63                    Tlệ chí mạng: 25%
+Tlệ đỡ đòn: 25%              Tgian hồi chiêu: 1.5s
+Dùng nó để chặt cậy.
+</name>
+</text>
+
+<!--Shovel-->
+<text>
+	<id>552</id>
+	<name>Một chiếc xẻng bình thường với đầu thép cthể dễ dàng tách cả đất &amp; sọ người.
+	
+Sthương: 19-31                    Tlệ chí mạng: 15%
+Tlệ đỡ đòn: 35%              Tgian hồi chiêu: 1.6s
+Dùng để trồng cây, đào mộ cho thi thể người.
+</name>
+</text>
+
+<!--Pipe Wrench-->
+<text>
+	<id>553</id>
+	<name>Từng đc dùng để vặn đai ốc hoặc bu lông, giờ nó đc sdụng để phang nhau.
+	
+Sthương: 23-38                    Tlệ chí mạng: 25%
+Tlệ đỡ đòn: 15%              Tgian hồi chiêu: 1.3s
+</name>
+</text>
+
+<!--Baseball Bat-->
+<text>
+	<id>554</id>
+	<name>Một chiếc gậy dùng để đánh bóng chày, là vkhí biểu tượng của ngày tận thế.
+	
+Sthương: 26-44                    Tlệ chí mạng: 25%
+Tlệ đỡ đòn: 15%              Tgian hồi chiêu: 1s
+Dùng để làm: Gậy bóng chày cuốn dây thép
+</name>
+</text>
+
+<!--Fire Axe-->
+<text>
+	<id>555</id>
+	<name>Một chiếc rìu cứu hỏa đc dùng để phá cửa, là 1 giải pháp cho thị trấn đầy zombie.
+	
+Sthương: 45-75                    Tlệ chí mạng: 25%
+Tlệ đỡ đòn: 25%              Tgian hồi chiêu: 1.6s
+Dùng để chặt cây.
+Dùng để tháo dỡ đồ đạc về nguyên liệu gốc.
+Dùng để lấy phế liệu từ phương tiện hỏng.
+</name>
+</text>
+
+<!--Crowbar-->
+<text>
+	<id>556</id>
+	<name>Một loại vkhí cận chiến bền bỉ, đa năng, cũng là công cụ dùng để cạy mở cửa, thùng hàng.
+	
+Sthương: 19-31                    Tlệ chí mạng: 25%
+Tlệ đỡ đòn: 15%              Tgian hồi chiêu: 1.2s
+</name>
+</text>
+
+<!--Butcher Knife-->
+<text>
+	<id>557</id>
+	<name>Một con dao lớn, nặng, gỉ sét. Chủ yếu đc dùng bởi những người bán thịt.
+
+Sthương: 16-26                    Tlệ chí mạng: 20%
+Tlệ đỡ đòn: 5%              Tgian hồi chiêu: 0.8s
+Dùng để lột da động vật.
+</name>
+</text>
+
+<!--Hunting Knife-->
+<text>
+	<id>558</id>
+	<name>Dao săn là 1 công cụ đc tkế với đầu hơi cong, chủ yếu dùng để sơ chế thịt.
+
+Sthương: 14-24                    Tlệ chí mạng: 10%
+Tlệ đỡ đòn: 5%              Tgian hồi chiêu: 0.8s
+Dùng để lột da động vật.
+</name>
+</text>
+
+<!--Army Knife-->
+<text>
+	<id>559</id>
+	<name>Dao cđấu rất sắc bén. Rất tốt để tự vệ.
+
+Sthương: 15-25                    Tlệ chí mạng: 15%
+Tlệ đỡ đòn: 5%              Tgian hồi chiêu: 0.8s
+Dùng để lột da động vật.
+Cthể cất nó trong giày.
+</name>
+</text>
+
+<!--Pickaxe-->
+<text>
+	<id>560</id>
+	<name>Một cái cuốc sắt! Giờ thì cthể đào kim cương rồi... À, nhầm game r cu.
+	
+Sthương: 33-55                    Tlệ chí mạng: 15%
+Tlệ đỡ đòn: 35%              Tgian hồi chiêu: 1.3s
+Dùng để trồng cây.
+</name>
+</text>
+
+<!--Pitchfork-->
+<text>
+	<id>561</id>
+	<name>Một dụng cụ gồm 1 cán dài &amp; các ngạnh dày có knăng đâm xuyên qua thịt.
+	
+Sthương: 30-50                    Tlệ chí mạng: 15%   
+Tlệ đỡ đòn: 35%              Tgian hồi chiêu: 1.2s
+Dùng để trồng cây.
+</name>
+</text>
+
+<!--Sledgehammer-->
+<text>
+	<id>562</id>
+	<name>Một cây búa với cán dài, trông rất dũng mãnh.
+	
+Sthương: 52-88                    Tlệ chí mạng: 15%   
+Tlệ đỡ đòn: 15%              Tgian hồi chiêu: 1.8s
+Dùng để tháo dỡ đồ đạc về nguyên liệu gốc.
+Dùng để lấy phế liệu từ phương tiện hỏng.
+</name>
+</text>
+
+<!--Crusader Sword-->
+<text>
+	<id>563</id>
+	<name>Thanh kiếm đc các hiệp sĩ sdụng để chống lại cái ác.
+	
+Sthương: 56-94                    Tlệ chí mạng: 35%
+Tlệ đỡ đòn: 25%              Tgian hồi chiêu: 1.5s
+Dùng để chặt cây.
+</name>
+</text>
+
+<!--Pan-->
+<text>
+	<id>564</id>
+	<name>Một chiếc chảo gang dùng để xào nấu món ăn.
+	
+Sthương: 25-41                    Tlệ chí mạng: 40%
+Tlệ đỡ đòn: 35%              Tgian hồi chiêu: 0.9s
+Dùng để nấu các món ăn.
+</name>
+</text>
+
+<!--Katana-->
+<text>
+	<id>565</id>
+	<name>Một thanh kiếm đc các samurai sdụng ở Nhật Bản thời phong kiến.
+	
+Sthương: 48-81                    Tlệ chí mạng: 35%   
+Tlệ đỡ đòn: 25%              Tgian hồi chiêu: 1.2s
+Dùng để chặt cây.
+</name>
+</text>
+
+<!--Barbed Baseball Bat-->
+<text>
+	<id>566</id>
+	<name>Một cây gậy bóng chày đc bọc bằng dây thép gai.
+	
+Sthương: 37-63                    Tlệ chí mạng: 35%
+Tlệ đỡ đòn: 20%              Tgian hồi chiêu: 1s
+</name>
+</text>
+
+<!--Chainsaw-->
+<text>
+	<id>567</id>
+	<name>HELL YEAH!!!
+Sthương: 0/10  Tlệ chí mạng: 0%/20%
+Tlệ đỡ đòn: 0%/40%  Tgian hồi chiêu: 0.1s
+Dùng để chặt cậy (cần xăng).
+Dùng để tháo dỡ đồ đạc, lấy nguyên liệu từ phương tiện hỏng &amp; đồ đã xây.(cần xăng).
+</name>
+</text>
+
+<!--Generator-->
+<text>
+	<id>568</id>
+	<name>Máy phát điện di động chạy bằng xăng. Cung cấp điện năng đủ cho 1 ngôi nhà nhỏ.
+
+Chỉ cthể nhặt, dchuyển bằng tay.
+Cthể đặt xuống, chứa xăng.
+Dùng để cung cấp điện cho các thiết bị.
+</name>
+</text>
+
+<!--Metal Plate-->
+<text>
+	<id>569</id>
+	<name>Tấm cuộn kim loại phế liệu, rất hữu ích nếu cần xây dựng những công trình lớn.
+
+Dùng để làm: Hàng rào kim loại, xe đc gia cố
+Chỉ cthể nhặt, dchuyển bằng tay.
+</name>
+</text>
+
+<!--Player's feedback for finding secret location-->
+<text>
+	<id>150</id>
+	<name>Ái chà chà cái gì đây?</name>
+</text>
+
+<text>
+	<id>151</id>
+	<name>Gọi tiếp tế</name>
+</text>
+
+<text>
+	<id>152</id>
+	<name>Nạp</name>
+</text>
+
+<text>
+	<id>153</id>
+	<name>Xe này k lắp súng máy.</name>
+</text>
+
+<text>
+	<id>154</id>
+	<name>K đc.</name>
+</text>
+
+<!--Mainmenu difficulty text-->
+<text>
+	<id>155</id>
+	<name>Chọn độ khó cho game.
+	Một số thành tựu chỉ đc mở khóa ở độ khó cao hơn.
+</name>
+</text>
+
+<text>
+	<id>156</id>
+	<name>Đạn này dùng cho súng phóng lựu.</name>
+</text>
+
+<text>
+	<id>157</id>
+	<name>Đạn: </name>
+</text>
+
+<text>
+	<id>158</id>
+	<name>Mệt quá! K làm đc.</name>
+</text>
+
+<!--not enough blood when transfusion-->
+<text>
+	<id>159</id>
+	<name>Hết máu rồi.</name>
+</text>
+
+<text>
+	<id>160</id>
+	<name>Đang chảy máu.</name>
+</text>
+
+<!--Quest Refuse-->
+<text>
+	<id>161</id>
+	<name>Hủy nhiệm vụ</name>
+</text>
+
+<!--bot's response after quest refuse or fail-->
+<text>
+	<id>162</id>
+	<name>.....</name>
+</text>
+
+<!--Friendly survivors feedback-->
+
+<!--Following-->
+<text>
+	<id>163</id>
+	<name>Okê!
+</name>
+</text>
+
+<!--Guarding-->
+<text>
+	<id>164</id>
+	<name>Cứ yên tâm đi t bảo kê.
+</name>
+</text>
+
+<!--Player feedback when sleeping-->
+
+<text>
+	<id>165</id>
+	<name>Duma còn con nào nữa!</name>
+</text>
+
+<text>
+	<id>166</id>
+	<name>Buồn ngủ vãi!</name>
+</text>
+
+<text>
+	<id>167</id>
+	<name>Bạn cthể ngủ vào ban đêm. Nếu bạn đang khỏe, bạn sẽ dậy lúc 6:00 sáng. Nếu bạn đang đói hoặc khát, bạn sẽ dậy sớm hơn.
+</name>
+</text>
+
+<text>
+	<id>168</id>
+	<name>Ngủ</name>
+</text>
+
+<text>
+	<id>169</id>
+	<name>Hiện tại bạn cthể ngủ tới: </name>
+</text>
+
+<text>
+	<id>170</id>
+	<name>Lạnh quá! K ngủ đc.</name>
+</text>
+
+<text>
+	<id>171</id>
+	<name>Đói quá! K ngủ đc.</name>
+</text>
+
+<text>
+	<id>172</id>
+	<name>Khát quá! K ngủ đc.</name>
+</text>
+
+<text>
+	<id>173</id>
+	<name>Đau quá! K ngủ đc</name>
+</text>
+
+<text>
+	<id>174</id>
+	<name>Chỗ này k ngủ đc đâu.</name>
+</text>
+
+<text>
+	<id>175</id>
+	<name>Đói quá! Khát quá! K ngủ đc.</name>
+</text>
+
+<text>
+	<id>176</id>
+	<name>Ngủ làm gì nữa! Sáng rồi!</name>
+</text>
+
+<text>
+	<id>177</id>
+	<name>T k ngủ đc.</name>
+</text>
+
+<text>
+	<id>178</id>
+	<name>Huyền thoại</name>
+</text>
+
+<text>
+	<id>179</id>
+	<name>Quá gần.</name>
+</text>
+
+<!--Character Descriptions-->
+
+<!--Xavier "Pilot" Unlocked-->
+<text>
+	<id>180</id>
+	<name>Xavier "Phi công"
+Trang bị: Mũ phi công, áo len, quần Gorka, UMP-45, đạn .45 ACP x30, pháo sáng x2
+Kĩ năng: Lvl.2 Dân sinh tồn, Lvl.1 Trinh sát</name>
+</text>
+
+<!--Xavier "Pilot" Locked-->
+<text>
+	<id>181</id>
+	<name>Xavier "Phi công"
+Yêu cầu: Tìm 13 chiếc trực thăng rơi trong 1 lần chơi.
+Yêu cầu độ khó: "Huyền thoại".</name>
+</text>
+
+<!--Rudolf "Jager" Unlocked-->
+<text>
+	<id>182</id>
+	<name>Rudolf "Thợ săn"
+Trang bị: Mũ ushanka, bộ quần áo thợ săn, dao săn, IZh-43, đạn 12 Gauge x12, cần câu xịn
+Kĩ năng: Lvl.1 Cảnh giác, Lvl.2 Thợ săn</name>
+</text>
+
+<!--Rudolf "Jager" Locked-->
+<text>
+	<id>183</id>
+	<name>Rudolf "Thợ săn"
+Yêu cầu: Giết 3 con hươu bạch tạng trong 1 lần chơi.
+Yêu cầu độ khó: "Huyền thoại".</name>
+</text>
+
+<!--Taman "Guard" Unlocked-->
+<text>
+	<id>184</id>
+	<name>Taman "Lính gác"
+Trang bị: Mũ cảnh sát, bộ quần áo OREL, AKs-74u, đạn 5.45x39mm x30, nước tăng lực
+Kĩ năng: Lvl.2 Thiện xạ, Lvl.1 Người farm đạn</name>
+</text>
+
+<!--Taman "Guard" Locked-->
+<text>
+	<id>185</id>
+	<name>Taman "Lính gác"
+Yêu cầu: Giết con khổng lồ bằng súng máy gắn trên xe humvee.
+Yêu cầu độ khó: "Huyền thoại".</name>
+</text>
+
+<!--Daria "Scientist" Unlocked-->
+<text>
+	<id>186</id>
+	<name>Daria "Nhà khoa học"
+Trang bị: Tạp dề, áo dài tay, quần lao động, tetracycline, Bộ truyền dịch, vitamin, morphine, băng gạc x3
+Kĩ năng: Lv.2 Máu+ Lv.1 Vận động viên</name>
+</text>
+
+<!--Daria "Scientist" Locked-->
+<text>
+	<id>187</id>
+	<name>Daria "Nhà khoa học"
+Yêu cầu: Đến đảo 5.
+Yêu cầu độ khó: "Huyền thoại".</name>
+</text>
+
+<!--Whetstone Prompt-->
+<text>
+	<id>188</id>
+	<name>Mài (+ 25%)</name>
+</text>
+
+<!--Deagle Locked-->
+<text>
+	<id>189</id>
+	<name>Deagle
+Yêu cầu: Có set cao bồi (Mũ cao bồi, áo thun, Colt Python) trong 1 lần chơi.
+Yêu cầu độ khó: "Thường" hoặc cao hơn.
+Tiến độ: </name>
+</text>
+
+<!--Deagle Unlocked-->
+<text>
+	<id>190</id>
+	<name>Deagle
+Đã mở khóa
+Chỗ spawn: Của hàng súng, boongke ẩn</name>
+</text>
+
+<!--Katana Locked-->
+<text>
+	<id>191</id>
+	<name>Katana
+Yêu cầu: Giết 100 zombie bằng dao.
+Yêu cầu độ khó: "Huyền thoại".
+Tiến độ: </name>
+</text>
+
+<!--Katana Unlocked-->
+<text>
+	<id>192</id>
+	<name>Katana
+Đã mở khóa
+Chỗ spawn: Cửa hàng súng</name>
+</text>
+
+<!--Whetstone use feedback-->
+<text>
+	<id>193</id>
+	<name>Đã mài vkhí.</name>
+</text>
+
+<text>
+	<id>194</id>
+	<name>K thể mài đc vkhí này.</name>
+</text>
+
+<!--UI and Character-->
+
+<text>
+	<id>195</id>
+	<name>Chế dây</name>
+</text>
+
+<text>
+	<id>196</id>
+	<name>T cần 3 cái giẻ để chế.</name>
+</text>
+
+<text>
+	<id>197</id>
+	<name>Đi theo t!</name>
+</text>
+
+<text>
+	<id>198</id>
+	<name>Ở yên đấy!</name>
+</text>
+
+<text>
+	<id>199</id>
+	<name>Cút!</name>
+</text>
+
+<text>
+	<id>200</id>
+	<name>Helô mấy ní!</name>
+</text>
+
+<text>
+	<id>201</id>
+	<name>Ở đây k làm đc.</name>
+</text>
+
+<text>
+	<id>202</id>
+	<name>Có thằng zombie ở kia kìa!</name>
+</text>
+
+<!--Island 5 Bridge prompts-->
+<text>
+	<id>203</id>
+	<name>Duma, cầu sập bố nó rồi!
+	Ừm, có lẽ t nên phóng xe thẳng lên cầu. Chắc là đc nhỉ!
+	</name>
+</text>
+
+<text>
+	<id>204</id>
+	<name>Bạn có chắc là phóng thẳng lên cầu k?
+!!ACHTUNG!!: Nơi đó rất nguy hiểm &amp; bạn k thể quay về đc.</name>
+</text>
+
+<text>
+	<id>205</id>
+	<name>Привет (Xin chào)!</name>
+</text>
+
+<text>
+	<id>206</id>
+	<name>Ê bạn giúp chúng tôi 1 việc đc k?</name>
+</text>
+
+<text>
+	<id>207</id>
+	<name>Từ từ đừng bắn!</name>
+</text>
+
+<text>
+	<id>208</id>
+	<name>Hê lô!</name>
+</text>
+
+<text>
+	<id>209</id>
+	<name>Nhận</name>
+</text>
+
+<text>
+	<id>210</id>
+	<name>Ô anh bạn! Nghe nói bạn đã đi giúp nhiều người. Vì thế nên chúng tôi tặng bạn </name>
+</text>
+
+<text>
+	<id>611</id>
+	<name>À hay đấy!</name>
+</text>
+
+<text>
+	<id>612</id>
+	<name>Đọc</name>
+</text>
+
+<text>
+	<id>613</id>
+	<name>T nghĩ t bất tử, nhưng k!</name>
+</text>
+
+<text>
+	<id>614</id>
+	<name>phút</name>
+</text>
+
+<text>
+	<id>615</id>
+	<name>Chế bạt</name>
+</text>
+
+<text>
+	<id>616</id>
+	<name>Chế túi đồ ẩn</name>
+</text>
+
+<text>
+	<id>617</id>
+	<name>
+	•Tđộ đói, khát: Chậm
+•Thời tiết: Ấm áp
+•Sthương bạn nhận: Ít
+</name>
+</text>
+
+<text>
+	<id>618</id>
+	<name>•Tđộ đói, khát: Bình thường
+•Thời tiết: Bình thường
+•Sthương bạn nhận: Bình thường
+</name>
+</text>
+
+<text>
+	<id>619</id>
+	<name>•Tđộ đói, khát: Nhanh
+•Thời tiết: Lạnh
+•Sthương bạn nhận: Khá cao
+•Nhiều zombie hơn.
+</name>
+</text>
+
+<text>
+	<id>620</id>
+	<name>•Tđộ đói, khát: Rất nhanh.
+•Thời tiết: Bắc cực •Map bị ẩn.
+•Sthương bạn nhận: Thốn k chịu đc
+•K có ánh sáng trong boongke.
+•NPC đấm đau hơn &amp; cthể headshot bạn.
+</name>
+</text>
+
+<text>
+	<id>621</id>
+	<name>Chiến thôi!
+</name>
+</text>
+
+<text>
+	<id>622</id>
+	<name>Bạn có muốn đi tiếp k?
+	Bạn sẽ k thể quay trở về.
+</name>
+</text>
+
+<text>
+	<id>623</id>
+	<name>Bạn có muốn đi tiếp k?
+	Bạn sẽ k thể quay trở về.
+</name>
+</text>
+
+<text>
+	<id>624</id>
+	<name>Gẫy cần rồi!
+</name>
+</text>
+
+<text>
+	<id>625</id>
+	<name>Chế bom xăng
+</name>
+</text>
+
+<text>
+	<id>626</id>
+	<name>Bom xăng Molotov &amp; dây thừng
+</name>
+</text>
+
+<text>
+	<id>627</id>
+	<name>Giẻ x3 = Dây thừng
+</name>
+</text>
+
+<text>
+	<id>628</id>
+	<name>Whiskey + pháo sáng = Bom xăng Molotov
+</name>
+</text>
+
+<text>
+	<id>629</id>
+	<name>Cất đồ vào túi
+</name>
+</text>
+
+<text>
+	<id>630</id>
+	<name>Bao bố x2 = Bạt
+</name>
+</text>
+
+<text>
+	<id>631</id>
+	<name>Bạt + đống gỗ = Túi đồ ẩn
+Đồ cất trong đó k bao giờ bị bay mất.
+</name>
+</text>
+
+<text>
+	<id>632</id>
+	<name>Mike "Nhà tkế"
+Yêu cầu: Đến hòn đảo mới sau đảo 5.
+Yêu cầu độ khó: "Huyền thoại"
+</name>
+</text>
+
+<text>
+	<id>633</id>
+	<name>Mike "Nhà tkế"
+Mod có tất cả perk, đồ xịn, vô hạn đạn, xăng, đồ y tế, v.v</name>
+</text>
+
+<text>
+	<id>634</id>
+	<name>Băng cá nhân
+Yêu cầu: Win game bằng nhân vật: Emilio "Bác sĩ", Billy "Red", Dave "Boxer"</name>
+</text>
+
+<text>
+	<id>635</id>
+	<name>Bật lửa
+Yêu cầu: Win game bằng nhân vật: Lee "Điên", Sergey "Ivan", John "Báo thủ"</name>
+</text>
+
+<text>
+	<id>636</id>
+	<name>Lựu khói
+Yêu cầu: Win game bằng nhân vật: Ganzo "Yakuza", Tom "Người sống sót", Garry "Cựu binh"</name>
+</text>
+
+<text>
+	<id>637</id>
+	<name>Đèn laze
+Yêu cầu: Win game bằng nhân vật: Kate "Người du hành", Jasmine "Tiều phu", Aika "Phóng viên"</name>
+</text>
+
+<text>
+	<id>638</id>
+	<name>Thẻ sĩ quan
+Yêu cầu: Win game bằng nhân vật: Xavier "Phi công", Rudolf "Thợ săn", Taman "Lính gác", Daria "Nhà khoa học"</name>
+</text>
+
+<text>
+	<id>639</id>
+	<name>...Xin nhắc lại! Chúng tôi đã nghe thấy bạn! Chúng tôi sẽ đến đây vào ngày tiếp theo! Xin hãy chờ chúng tôi....
+</name>
+</text>
+
+<text>
+	<id>640</id>
+	<name>Thử dùng radio để liên lạc với người xung quanh.</name>
+</text>
+
+<text>
+	<id>641</id>
+	<name>Châm &amp; hút</name>
+</text>
+
+<text>
+	<id>642</id>
+	<name>Bảo vệ</name>
+</text>
+
+<text>
+	<id>643</id>
+	<name>Bón phân</name>
+</text>
+
+<text>
+	<id>644</id>
+	<name>Vật phẩm</name>
+</text>
+
+<text>
+	<id>645</id>
+	<name>Băng cá nhân
+Đã mở khóa
+Chỗ spawn: Bệnh viện, thị trấn</name>
+</text>
+
+<text>
+	<id>646</id>
+	<name>Bật lửa
+Đã mở khóa
+Chỗ spawn: Trại cứu hỏa, nhà kho</name>
+</text>
+
+<text>
+	<id>647</id>
+	<name>Lựu đạn khói
+Đã mở khóa
+Chỗ spawn: Boongke, khu qsự</name>
+</text>
+
+<text>
+	<id>648</id>
+	<name>Đèn laze
+Đã mở khóa
+Chỗ spawn: Boongke, khu qsự</name>
+</text>
+
+<text>
+	<id>649</id>
+	<name>Thẻ sĩ quan 
+Đã mở khóa
+Chỗ spawn: Zombie sĩ quan</name>
+</text>
+
+<text>
+	<id>650</id>
+	<name>Cần tí mồi lửa.</name>
+</text>
+
+<text>
+	<id>651</id>
+	<name>T đang đợi trực thăng, k ngủ đc.</name>
+</text>
+
+<text>
+	<id>652</id>
+	<name>T đang đợi trực thăng, k vào boongke đc.</name>
+</text>
+
+<text>
+	<id>653</id>
+	<name>Xin chào! Tôi tên là Boris! </name>
+</text>
+
+<text>
+	<id>654</id>
+	<name>Hãy leo lên và rời khỏi hòn đảo chết tiệt này! </name>
+</text>
+
+<text>
+	<id>655</id>
+	<name>! Bạn đã sống sót !</name>
+</text>
+
+<text>
+	<id>656</id>
+	<name>T cần quay về lấy radio.</name>
+</text>
+
+<text>
+	<id>657</id>
+	<name>Hòn đảo số </name>
+</text>
+
+<text>
+	<id>658</id>
+	<name>Bạn có muốn lên thang máy k?
+	Bạn sẽ k thể quay về.</name>
+</text>
+
+<text>
+	<id>659</id>
+	<name>Nó cần 1 cái thẻ.</name>
+</text>
+
+<text>
+	<id>660</id>
+	<name>Có gì đâu mà trồng.</name>
+</text>
+
+<text>
+	<id>661</id>
+	<name>Bàn phím</name>
+</text>
+
+<text>
+	<id>662</id>
+	<name>Quý hoá quá!</name>
+</text>
+
+<text>
+	<id>663</id>
+	<name>Chế giảm thanh</name>
+</text>
+
+<text>
+	<id>664</id>
+	<name>Kết hợp</name>
+</text>
+
+<text>
+	<id>665</id>
+	<name>Chế giường</name>
+</text>
+
+
+<!--Bob "New Black" Locked-->
+<text>
+	<id>666</id>
+	<name>Bob "New Black"
+Yêu cầu: Mở khóa hết nhân vật.</name>
+</text>
+
+<!--Bob "New Black" Locked-->
+<text>
+	<id>667</id>
+	<name>Bob "Niga mới"
+Trang bị: Áo măng tô, quần lao động, mũ Gorka, áo vest chống đạn, AKM, đạn 7.62x39mm x80, dây đeo súng, băng gạc x3, thùng sơn
+Kĩ năng: Lvl.2 Thiện xạ, Lvl.2 Trinh sát
+Kĩ năng đặc biệt: Aura -100, đi cùng với 1 tên cướp</name>
+</text>
+
+<!--NBC Boots-->
+<text>
+	<id>700</id>
+	<name>Một phần của bộ đồ NBC (Nguyên tử, bom shọc, chất độc hhọc).
+
+Khi đeo, bạn sẽ miễn nhiễm với độc do zombie hazmat để lại.
+</name>
+</text>
+
+<!--NBC Gloves-->
+<text>
+	<id>701</id>
+	<name>Một phần của bộ đồ NBC (Nguyên tử, bom shọc, chất độc hhọc)
+
+Khi đeo, bạn sẽ k bị mất máu khi loot zombie.
+</name>
+</text>
+
+<!--NBC Suit-->
+<text>
+	<id>702</id>
+	<name>Bộ đồ bảo hộ đc làm khá sơ sài có các đặc tính của bộ đồ CBRN.
+
+Khi độ bền ≥ 50%, kết hợp với găng tay, giày NBC, bộ đồ này sẽ chống mưa, chống pxạ.
+Miễn nhiễm với khí độc trong 2 phút, cần đợi thêm 2 phút sau khi hết tdụng để cthể sdụng lại.</name>
+</text>
+
+<!--Hazmat Suit-->
+<text>
+	<id>703</id>
+	<name>Thiết bị bảo hộ cá nhân đc tkế để bvệ khỏi các hóa chất độc hại, chất độc shọc.
+	
+Khi độ bền ≥ 50%, kết hợp với găng tay, giày NBC, bộ đồ này sẽ chống mưa, chống axit.
+</name>
+</text>
+
+<!--12 Gauge Drum-->
+<text>
+	<id>704</id>
+	<name>Hộp đạn 20 viên cỡ 12 Gauge
+
+Cthể lắp vào: Saiga-12K
+</name>
+</text>
+
+<!--Dye Bucket-->
+<text>
+	<id>705</id>
+	<name>Sơn skin cho balô, quần áo, xe.
+</name>
+</text>
+
+<!--Headlamp-->
+<text>
+	<id>706</id>
+	<name>Một thiết bị chiếu sáng đc đeo trên đầu với dây đeo cthể điều chỉnh.
+	
+Nhiệt: + 1
+Cần 1 cục pin để sdụng..
+</name>
+</text>
+
+<!--NVG-->
+<text>
+	<id>707</id>
+	<name>Kính nhìn đêm (NVG) chạy bằng pin, giúp bạn nhìn rõ trong mtrường thiếu sáng.
+	
+Nhiệt: + 1
+Cần 1 cục pin để sdụng.
+</name>
+</text>
+
+<!--AI-2 Medkit-->
+<text>
+	<id>708</id>
+	<name>Hộp đồ y tế giúp các công dân, nhân viên qsự Liên Xô bvệ khỏi các mối nguy hoại về pxạ, shọc, hhọc, hnhân.
+
+Máu: + 50
+Tdụng: Cấm máu, tăng cường miễn nhiễm với bệnh.
+Tgian hlực: 120s
+</name>
+</text>
+
+<!--Doggo Kennel-->
+<text>
+	<id>709</id>
+	<name>Con chó tù ngay...
+
+Cthể thả chó để cắn người &amp; cất, nhặt vật phẩm.
+</name>
+</text>
+
+<!--Adrenaline-->
+<text>
+	<id>710</id>
+	<name>Liều kích thích thần kinh, đc dùng để ncao sự tập trung, nhận thức, thể chất.
+
+Máu: + 10
+Tdụng: Tăng cường thể chất, + 20% tlệ đỡ, headshot, tđộ chạy.
+Tgian hlực: 120s
+Tối đa chứa đc: 3 tuýp
+</name>
+</text>
+
+<!--CBRN Suit-->
+<text>
+	<id>711</id>
+	<name>Phiên bản qsự tiên tiến của bộ đồ NBC, đc chế tạo rất nhẹ, cthể mặc thêm áo bên ngoài.
+
+Cthể mặc thêm áo vest.	
+Khi độ bền ≥ 50%, kết hợp với găng tay, giày NBC, bộ đồ này sẽ chống mưa, chống pxạ.
+Miễn nhiễm với khí độc trong 2 phút, cần đợi thêm 2 phút sau khi hết tdụng để cthể sdụng lại.
+</name>
+</text>
+
+<!-- NBC Suit
+<text>
+	<id>712</id>
+	<name>Bộ đồ "hnhân, shọc, hóa học" đc tkế để bvệ toàn diện trước các mối đe dọa này.
+
+Khi độ bền ≥ 50%, kết hợp với găng tay, giày NBC, bộ đồ này sẽ chống mưa, chống pxạ.
+</name>
+</text>
+-->
+<!--"C" Level Protective Suit-->
+<text>
+	<id>713</id>
+	<name>Bộ đồ bhộ cấp C, đc tkế để bvệ toàn diện trước các mối đe dọa hnhân, shọc, hóa học
+	
+Khi độ bền ≥ 50%, kết hợp với găng tay, giày NBC, bộ đồ này sẽ chống mưa, chống pxạ.</name>
+</text>
+
+<!--Deerskin-->
+<text>
+	<id>714</id>
+	<name>Một loại da mềm mại, bền, nhẹ, với knăng thoáng khí vượt trội, đc coi là 1 loại da cao cấp.
+	
+Dùng để làm: Giường (Cần gỗ)
+</name>
+</text>
+
+<!--5.45x39 Drum-->
+<text>
+	<id>715</id>
+	<name>Băng đạn 95 viên cỡ 5.45
+
+Cthể lắp vào: AK-74, AKs-74u
+</name>
+</text>
+
+<!--Supplies Stache
+<text>
+	<id>716</id>
+	<name>Một chút magic của nhà ptriển giúp đồ của bạn dịch chuyển xuyên k gian!
+
+Ô chứa: 6
+Dùng để cất vật phẩm, trang bị bên trong để lưu lại, sdụng trong ván chơi mới.
+Dùng máy chơi game đc spawn ở đầu game để spawn kho đồ, lấy đồ trong đó.
+</name>
+</text>
+
+Secret Stache
+<text>
+	<id>717</id>
+	<name>Dùng để cất đồ hiếm.
+</name>
+</text>
+-->
+<!--Egg-->
+<text>
+	<id>718</id>
+	<name>Trứng hữu cơ, giàu protein, đến từ những con gà mái.
+
+Độ no: + 10
+Lượng nước: + 10
+Tối đa chứa đc: 3 quả
+Dùng để làm: Trứng chiên, trứng bác cà chua
+</name>
+</text>
+
+<!--Raw Chicken-->
+<text>
+	<id>719</id>
+	<name>Thịt gia cầm sống, là 1 nguồn protein tốt.
+
+Độ no: + 25
+Lượng nước: + 10
+50% bạn sẽ dính bệnh sau khi ăn.
+Dùng để làm: Thịt xào ớt chuông
+Cthể nướng trực tiếp trên lửa trại.
+</name>
+</text>
+
+<!--Cooked Chincken-->
+<text>
+	<id>720</id>
+	<name>Thịt gà đc nướng trên lửa.
+
+Độ no: + 35
+Lượng nước: + 15
+Máu: + 20
+</name>
+</text>
+
+<!--Pistol Sight-->
+<text>
+	<id>721</id>
+	<name>Kính ngắm dành cho súng ngắn.
+
+Tlệ headshot: + 5%
+Độ tản đạn: - 2
+Cthể lắp vào: FNX 45, Glock 17, Deagle
+</name>
+</text>
+
+<!--Pistol Suppressor-->
+<text>
+	<id>722</id>
+	<name>Ống giảm thanh dành cho các loại súng ngắn, tiểu liên.
+
+Giảm thanh cho súng.
+Cthể lắp vào: FNX 45, Colt 1911, Glock 17, Deagle, MAC-10, MP5K, UMP-45, PP-19 Bizon, KRISS Vector, Mini-UZI
+</name>
+</text>
+
+<!--Pistol Flashlight-->
+<text>
+	<id>723</id>
+	<name>Đèn pin dành cho súng ngắn.
+
+Cthể lắp vào: FNX 45, Colt 1911, Glock 17
+</name>
+</text>
+
+<!--Fried Egg-->
+<text>
+	<id>724</id>
+	<name>Trứng rán, khá ngon khi kẹp với bánh mì. Tiếc là game k có.
+
+Độ no: + 20
+Lượng nước: + 5
+Máu: + 5
+Khí huyết: + 5
+</name>
+</text>
+
+<!--Stir-fried Meat w/Bell Peppers-->
+<text>
+	<id>725</id>
+	<name>Món xào duy nhất trong game.
+
+Độ no: + 60
+Lượng nước: + 15
+Máu: + 30
+Khí huyết: + 30
+</name>
+</text>
+
+<!--Eggs Scramble w/Tomatoes-->
+<text>
+	<id>726</id>
+	<name>Trứng với cà chua.
+
+Độ no: + 35
+Lượng nước: + 20
+Máu: + 10
+Khí huyết: + 10
+</name>
+</text>
+
+<!--Searchlight Set-->
+<text>
+	<id>727</id>
+	<name>Thường đc dùng để chiếu sáng những khu vực rộng lớn.
+
+Cần cấp điện bằng máy phát.
+Cthể đặt trong boongke
+</name>
+</text>
+
+<!--
+<text>
+	<id>728</id>
+	<name>Cthể đặt sau khi kết hợp với giá đỡ đèn chiếu, cung cấp ánh sáng khi bật.
+</name>
+</text>
+-->
+
+<!--VOG-25 Khatabka-->
+<text>
+	<id>729</id>
+	<name>Một phiên bản lựu đạn đc tái chế từ lựu đạn VOG-25, đc dùng bởi quân Mujahadeen ở Chechnya.
+	
+Sthương: 1800       Mảnh văng: 24
+Sthương mỗi mảnh: 75
+Tgian kích nổː 2s     
+</name>
+</text>
+
+<!--FNX 45-->
+<text>
+	<id>730</id>
+	<name>Một khẩu súng ngắn có tkế công thái học.
+	
+Sthương: 21-35               Độ tản đạn: 20-6
+Tđộ ngắm: 4                             Độ giật: 9
+Loại đạn: .45 ACP       Băng đạn: 15 viên
+Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--Colt 1911-->
+<text>
+	<id>731</id>
+	<name>"Chúa tạo ra con người, Colt cho họ bình đẳng." - Samuel Colt.
+	
+Sthương: 18-30               Độ tản đạn: 20-6
+Tđộ ngắm: 4                             Độ giật: 10
+Loại đạn: .45 ACP       Băng đạn: 7 viên
+Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--Colt Python-->
+<text>
+	<id>732</id>
+	<name>Súng lục ổ quay sáu viên, cthể gây sthương rất lớn.
+	
+Sthương: 34-56               Độ tản đạn: 20-6
+Tđộ ngắm: 2                             Độ giật: 15
+Loại đạn: .357 Magnum       Sức chứa: 6 viên
+Giảm tđộ dchuyển: 3
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--Glock 17-->
+<text>
+	<id>733</id>
+	<name>"Giáng long thập thất chưởng".
+	
+Sthương: 15-25               Độ tản đạn: 20-5
+Tđộ ngắm: 4                             Độ giật: 10
+Loại đạn: 9x19mm       Băng đạn: 18 viên
+Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--Amphibian S-->
+<text>
+	<id>734</id>
+	<name>AWC TM-Amphibian S là biến thể của Ruger Mk II, tích hợp giảm thanh.
+	
+Sthương: 11-19               Độ tản đạn: 20-4
+Tđộ ngắm: 4                             Độ giật: 9
+Loại đạn: .22 LR       Băng đạn: 10 viên
+Giảm tđộ dchuyển: 3
+Tgian nạp đạn: 2s
+Có bộ phận giảm thanh đc tích hợp.
+</name>
+</text>
+
+<!--Sawn-Off IZh-43-->
+<text>
+	<id>735</id>
+	<name>Súng săn nòng đôi đc cưa ngắn, kiểu gập nòng.
+	
+Sthương: 22-188               Độ tản đạn: 30-13
+Tđộ ngắm: 3                             Độ giật: 20
+Loại đạn: 12 Gauge       Sức chứa: 2 viên
+Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--Orbez Mosin-->
+<text>
+	<id>736</id>
+	<name>Phiên bản ngắn hơn của Mosin-Nagant. Sdụng hộp tiếp đạn 5 viên bên trong súng.
+	
+Sthương: 67-113               Độ tản đạn: 25-12
+Tđộ ngắm: 3                             Độ giật: 25
+Loại đạn: 7.62x54mmR       Băng đạn: 5 viên
+Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--Engraved Colt-->
+<text>
+	<id>737</id>
+	<name>Khẩu Colt 1911 này đc chạm khắc vô cùng tỉ mỉ.
+	
+Sthương: 18-30               Độ tản đạn: 20-5
+Tđộ ngắm: 4                             Độ giật: 10
+Loại đạn: .45 ACP       Băng đạn: 12 viên
+Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--Mare's Leg-->
+<text>
+	<id>738</id>
+	<name>"Ngoài này là miền đất hoang vu, thưa bà." - Josh Randall.
+	
+Sthương: 34-56               Độ tản đạn: 25-11
+Tđộ ngắm: 3                             Độ giật: 17
+Loại đạn: .357 Magnum       Sức chứa: 7 viên
+Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--Makarov PM-->
+<text>
+	<id>739</id>
+	<name>Makarov PM là khẩu súng ngắn của Liên Xô, nổi tiếng với sự đơn giản, bền bỉ, đáng tin cậy.
+	
+Sthương: 18-30               Độ tản đạn: 20-8
+Tđộ ngắm: 4                             Độ giật: 10
+Loại đạn: 9x18mm       Băng đạn: 8 viên
+Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--Makarov PB-->
+<text>
+	<id>740</id>
+	<name>PB là biến thể của Makarov PM, đc tích hợp giảm thanh, đc dùng bởi KGB, Spetsnaz.
+	
+Sthương: 18-30               Độ tản đạn: 20-9
+Tđộ ngắm: 4                             Độ giật: 8
+Loại đạn: 9x18mm       Băng đạn: 8 viên
+Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 2s
+Có bộ phận giảm thanh đc tích hợp.
+</name>
+</text>
+
+<!--Deagle-->
+<text>
+	<id>741</id>
+	<name>Một khẩu súng ngắn uy lực mạnh, nổi tiếng với vẻ ngoài to lớn, sức sthương cao.
+	
+Sthương: 30-50               Độ tản đạn: 20-6
+Tđộ ngắm: 3                             Độ giật: 13
+Loại đạn: .357 Magnum       Băng đạn: 9 viên
+Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--M79 Thumper-->
+<text>
+	<id>742</id>
+	<name>Súng phóng lựu kiểu gập nòng. Trông có vẻ lỗi thời, nhưng vẫn hiệu quả.
+	
+Sthương: 45-855               Độ tản đạn: 30-8
+Tđộ ngắm: 3                             Độ giật: 6
+Loại đạn: lựu 40mm       Sức chứa: 1 viên
+Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--Sawn-Off Blaze-->
+<text>
+	<id>743</id>
+	<name>Súng trường nạp đạn kiểu gập nòng, đã đc cắt ngắn nòng.
+	
+Sthương: 64-106               Độ tản đạn: 25-12
+Tđộ ngắm: 3                             Độ giật: 10
+Loại đạn: .308 WIN       Sức chứa: 2 viên
+Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--Longhorn-->
+<text>
+	<id>744</id>
+	<name>Khẩu súng săn bắn phát 1 kiểu gập nòng, có sẵn kính ngắm, thích hợp để săn bắn.
+	
+Sthương: 67-113               Độ tản đạn: 20-1
+Tđộ ngắm: 2                             Độ giật: 25
+Loại đạn: .308 WIN       Sức chứa: 1 viên
+Tlệ headshot: + 15%  Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--MAC-10-->
+<text>
+	<id>745</id>
+	<name>Military Armament Corporation model 10 là 1 khẩu súng tiểu liên nhỏ gọn.
+	
+Sthương: 15-25               Độ tản đạn: 20-10
+Tđộ ngắm: 3                             Độ giật: 2
+Loại đạn: 9x19mm       Băng đạn: 30 viên
+Tđộ bắn: 650 viên/phút  Giảm tđộ dchuyển: 0
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--Mini-UZI-->
+<text>
+	<id>746</id>
+	<name>Một phiên bản nhỏ gọn hơn của UZI.
+	
+Sthương: 18-30               Độ tản đạn: 20-10
+Tđộ ngắm: 3                             Độ giật: 2
+Loại đạn: .45 ACP       Băng đạn: 22 viên
+Tđộ bắn: 600 viên/phút  Giảm tđộ dchuyển: 0
+Tgian nạp đạn: 2s
+</name>
+</text>
+
+<!--1.9.2 Update-->
+
+<!--C4-->
+<text>
+	<id>747</id>
+	<name>Một loại thuốc nổ cực mạnh. Khi đặt sẽ phát ra tiếng thu hút zombie. 
+	7-3-5-5-6-0-8 - Beep !
+
+Phát nổ sau 15 giây.
+</name>
+</text>
+
+<!--Christmas Hat-->
+<text>
+	<id>748</id>
+	<name>Meri cờ rít mớt!
+</name>
+</text>
+
+<!--Gift-->
+<text>
+	<id>749</id>
+	<name>Tadaaa!
+</name>
+</text>
+
+<!--Human Flesh-->
+<text>
+	<id>750</id>
+	<name>Thit nguoi...
+ 
+Độ no: + 20
+Lượng nước: + 20
+Máu: - 10
+100% dính bệnh sau khi ăn.
+</name>
+</text>
+
+<!--Cooked Human Flesh-->
+<text>
+	<id>751</id>
+	<name>Thit nguoi nuong...
+
+Độ no: + 30
+Lượng nước: + 20
+Máu: - 10
+</name>
+</text>
+
+<!--Satchel-->
+<text>
+	<id>752</id>
+	<name>Túi đeo chéo dùng để đựng những vật dụng nhỏ. Chất liệu k bền lắm, nhưng làm đc việc.
+
+Ô chứa: 2
+Cthể đeo trước ngực, cùng với balô.
+</name>
+</text>
+
+<!--Military Satchel-->
+<text>
+	<id>753</id>
+	<name>Một chiếc túi đeo chéo nhỏ kiểu qđội dùng để đựng các công cụ sinh tồn mang theo ngày.
+
+Ô chứa: 1
+Có 3 khóa kéo, dùng để đựng dao, bật lửa, diêm, bình nước, pháo.
+Cthể đeo trước ngực, cùng với balô.
+</name>
+</text>
+
+<!--IFAK Satchel-->
+<text>
+	<id>754</id>
+	<name>Túi y tế cá nhân đeo vai, đc tkế để bảo quản thuốc, tránh chất ô nhiễm.
+
+Ô chứa: 1 
+Có 3 khóa kéo, dùng để đựng vật tư y tế.
+Cthể đeo trước ngực, cùng với balô.
+</name>
+</text>
+
+<!--Game console-->
+<text>
+	<id>64</id>
+	<name>Dùng để biến đổi vật phẩm
+	Pipsi 🔄 Nota-Cola  Magpul 🔄 Dây đeo đạn
+	Tay cầm AK 🔄 Thanh ray  Giảm thanh 5.56 🔄 5.45
+	Súng phóng lựu GP-25 🔄 M203 
+	Đạn lựu 40mm 🔄 VOG-25
+	Ống ngắm ACOG 🔄 PSO-1 - 1PN51 🔄 PVS-4
+	Băng đạn CMAG 5.45 🔄 5.56
+	Băng đạn trống 7.62 AK 🔄 12 Gauge
+	Đèn khò 🔄 Bộ lau chùi súng
+</name>
+</text>
+
+
+<!--Supplies Stache-->
+<text>
+	<id>65</id>
+	<name>Một chút magic của nhà ptriển giúp đồ của bạn dịch chuyển xuyên k gian!
+
+Ô chứa: 6
+Dùng để cất vật phẩm, trang bị bên trong để lưu lại, sdụng trong ván chơi mới.
+</name>
+</text>
+
+<!--Building Mode Stache-->
+<text>
+	<id>66</id>
+	<name>Cthể cất vật phẩm xây dựng mà ko tốn chỗ.
+</name>
+</text>
+
+<!--Shop-->
+<text>
+	<id>67</id>
+	<name>Trao đổi vật phẩm bằng điểm kinh nghiệm.
+	Restock sau 0h sáng.
+</name>
+</text>
+
+<!--AS-Val-->
+<text>
+	<id>278</id>
+	<name>Một phiên bản cải tiến của VSS, đc trang bị ray Picatinny.
+
+Sthương: 37-62               Độ tản đạn: 25-2
+Tđộ ngắm: 1.5                             Độ giật: 4
+Loại đạn: 9x39mm       Băng đạn: 30 viên
+Tđộ bắn: 600 viên/phút  Giảm tđộ dchuyển: 2
+Tgian nạp đạn: 2s
+Có bộ phận giảm thanh đc tích hợp.
+</name>
+</text>
+
+<text>
+	<id>668</id>
+	<name>• Độ khó: Huyền thoại
+• Nhân vật: Mặc định
+• Tắt tất cả thay đổi tích cực &amp; tính
+năng nâng cao
+• Bật tất cả thay đổi tiêu cực
+</name>
+</text>
+
+<!--Dog Food-
+<text>
+	<id>137</id>
+	<name>Có vị pate cột đèn.
+Chỉ cho chó ăn.
+</name>
+</text>
+-->
+<!--Dog Collar-->
+<text>
+	<id>716</id>
+	<name>Chó của bạn sẽ chủ động thu hút zombie và gây sát thương.
+K hiệu quả với các mục tiêu nguy hiểm cao.
+Chó cthể làm rơi nó.
+</name>
+</text>
+
+<!--Backpack For Dog-->
+<text>
+	<id>717</id>
+	<name>Cho phép cất đc nhiều đồ giống nhau, và khiến chó chỉ nhặt đúng vật phẩm đựng trong đó.
+	
+Những vật phẩm đc nhặt nếu ko lấy ra sẽ biến mất khi sang đảo mới.
+</name>
+</text>
+
+<!--Colored Map-->
+<text>
+	<id>712</id>
+	<name>Dùng để chỉnh loại đảo tiếp theo và đánh dấu chi tiết vị trí. Loại đc kí như sau:
+	
+( BT ) : Đảo bình thường
+( TU ) : Đảo tuyết
+( PX ) : Đảo phóng xạ
+</name>
+</text>
+
+<!--Worm-->
+<text>
+	<id>728</id>
+	<name>Sâu đất, cá rất thích, con người rất ghét.
+	
+Độ no: + 5
+Máu: - 10
++ 10% độ bền cần câu.
+</name>
+</text>
+
+<!--Weapon Case-->
+<text>
+	<id>755</id>
+	<name>Một chiếc hộp đựng chắc chắn, đc tkế đặc biệt để cất giữ súng an toàn. Có lớp đệm xốp bvệ giúp giữ vkhí của bạn an toàn khỏi hư hại và ăn mòn.
+	
+Ô chứa: 1 (súng chính)
+</name>
+</text>
+
+<!--2.0.8-->
+
+<!-- M249-->
+<text>
+	<id>279</id>
+	<name>Dân chủ tối thượng.
+	
+Sthương: 25-41               Độ tản đạn: 5
+Tđộ ngắm: 1.5                             Độ giật: 4
+Loại đạn: 5.56x45mm       Băng đạn: 100 viên
+Tđộ bắn: 1000 viên/phút  Giảm tđộ dchuyển: 3
+Tgian nạp đạn: 4s
+</name>
+</text>
+
+<!--Worker Gloves-->
+<text>
+	<id>757</id>
+	<name>Găng tay dày, giúp giữ ấm trong cái lạnh thấu xương.
+
+Nhiệt: + 3
+Khi đeo, bạn sẽ k bị mất máu khi loot zombie.
+</name>
+</text>
+
+<!--Combat Gloves-->
+<text>
+	<id>137</id>
+	<name>Là một loại găng tay, đc tkế theo tiêu chuẩn quân đội.
+
+Tlệ đỡ đòn: +5%
+Khi đeo, bạn sẽ k bị mất máu khi loot zombie.
+</name>
+</text>
+
+<!-- Waist Holster-->
+<text>
+	<id>756</id>
+	<name>Một chiếc bao đựng súng thoải mái, cthể điều chỉnh, giúp giữ vkhí phụ an toàn và luôn sẵn sàng để sdụng.
+
+Giúp bạn mang thêm 1 vkhí phụ ở hông.
+Bấm vào ô trống ở slot súng phụ, rồi bấm "Tháo" để tháo súng.
+</name>
+</text>
+
+<!-- Firefighter Pants-->
+<text>
+	<id>358</id>
+	<name>Đc tkế dành riêng cho lính cứu hoả, chiếc quần này cthể bvệ người lính khỏi nhiệt độ cao của ngọn lửa.
+
+Ô chứa: + 2
+Nhiệt: + 5
+Giáp: + 1
+Tlệ đỡ đòn: + 5%
+Khi kết hợp với áo lính cứu hoả, bộ đồ này giúp người mặc chống lửa.
+</name>
+</text>
+
+<!-- Firefighter Jacket-->
+<text>
+	<id>520</id>
+	<name>Đc tkế dành riêng cho lính cứu hoả, chiếc áo này cthể bvệ người lính khỏi nhiệt độ cao của ngọn lửa.
+
+Ô chứa: + 2
+Nhiệt: + 5
+Giáp: + 1
+Tlệ đỡ đòn: + 5%
+Khi kết hợp với quần lính cứu hoả, bộ đồ này giúp người mặc chống lửa.
+</name>
+</text>
+
+</list>

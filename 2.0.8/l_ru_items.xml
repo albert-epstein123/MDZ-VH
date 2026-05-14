@@ -1,0 +1,1849 @@
+<?xml version="1.0" ?>
+
+<list>
+
+<!--ПРЕДМЕТЫ ИНВЕНТАРЯ-->
+
+<item>
+	<id>0</id>
+	<name></name>
+</item>
+
+<item>
+	<id>1</id>
+	<name>Консервированная фасоль</name>
+</item>
+
+<item>
+	<id>2</id>
+	<name>Консервированный тунец</name>
+</item>
+
+<item>
+	<id>3</id>
+	<name>Тактический бекон</name>
+</item>
+
+<item>
+	<id>4</id>
+	<name>Рис</name>
+</item>
+
+<item>
+	<id>5</id>
+	<name>Помидор</name>
+</item>
+
+<item>
+	<id>6</id>
+	<name>Яблоко</name>
+</item>
+
+<item>
+	<id>7</id>
+	<name>Банан</name>
+</item>
+
+<item>
+	<id>8</id>
+	<name>Пепси</name>
+</item>
+
+<item>
+	<id>9</id>
+	<name>Спрайт</name>
+</item>
+
+<item>
+	<id>10</id>
+	<name>Квас</name>
+</item>
+
+<item>
+	<id>11</id>
+	<name>Патроны 5.56x45мм</name>
+</item>
+
+<item>
+	<id>12</id>
+	<name>Патроны .45 ACP</name>
+</item>
+
+<item>
+	<id>13</id>
+	<name>Патроны 7.62x54ммR</name>
+</item>
+
+<item>
+	<id>14</id>
+	<name>Патроны 7.62x39мм</name>
+</item>
+
+<item>
+	<id>15</id>
+	<name>Патроны 5.45x39мм</name>
+</item>
+
+<item>
+	<id>16</id>
+	<name>Патроны .357</name>
+</item>
+
+<item>
+	<id>17</id>
+	<name>Патроны 12 калибра</name>
+</item>
+
+<item>
+	<id>18</id>
+	<name>Бинт</name>
+</item>
+
+<item>
+	<id>19</id>
+	<name>Пакет крови</name>
+</item>
+
+<item>
+	<id>20</id>
+	<name>Сигнальная ракета</name>
+</item>
+
+<item>
+	<id>21</id>
+	<name>Осколочная граната Ф1</name>
+</item>
+
+<item>
+	<id>22</id>
+	<name>Батарейка</name>
+</item>
+
+<item>
+	<id>23</id>
+	<name>Набор для костра</name>
+</item>
+
+<item>
+	<id>24</id>
+	<name>Спички</name>
+</item>
+
+<item>
+	<id>25</id>
+	<name>Виски</name>
+</item>
+
+<item>
+	<id>26</id>
+	<name>Тряпка</name>
+</item>
+
+<item>
+	<id>27</id>
+	<name>Клюква</name>
+</item>
+
+<item>
+	<id>28</id>
+	<name>Пакет физраствора</name>
+</item>
+
+<item>
+	<id>29</id>
+	<name>Витамины</name>
+</item>
+
+<item>
+	<id>30</id>
+	<name>Кока-Кола</name>
+</item>
+
+<item>
+	<id>31</id>
+	<name>Кабачок</name>
+</item>
+
+<item>
+	<id>32</id>
+	<name>Болгарский перец</name>
+</item>
+
+<item>
+	<id>33</id>
+	<name>Апельсин</name>
+</item>
+
+<item>
+	<id>34</id>
+	<name>Грелк</name>
+</item>
+
+<item>
+	<id>35</id>
+	<name>Швейный набор</name>
+</item>
+
+<item>
+	<id>36</id>
+	<name>Набор для чистки</name>
+</item>
+
+<item>
+	<id>37</id>
+	<name>Прут ясеня</name>
+</item>
+
+<item>
+	<id>38</id>
+	<name>Палк</name>
+</item>
+
+<item>
+	<id>39</id>
+	<name>Скотч</name>
+</item>
+
+<item>
+	<id>40</id>
+	<name>Мешок</name>
+</item>
+
+<item>
+	<id>41</id>
+	<name>Верёвк</name>
+</item>
+
+<item>
+	<id>42</id>
+	<name>Охотничий нож</name>
+</item>
+
+<item>
+	<id>43</id>
+	<name>Армейский нож</name>
+</item>
+
+<item>
+	<id>44</id>
+	<name>Нож мясника</name>
+</item>
+
+<item>
+	<id>45</id>
+	<name>Морфин</name>
+</item>
+
+<item>
+	<id>46</id>
+	<name>Тетрациклин</name>
+</item>
+
+<item>
+	<id>47</id>
+	<name>Семена помидоров</name>
+</item>
+
+<item>
+	<id>48</id>
+	<name>Семена болгарского перца</name>
+</item>
+
+<item>
+	<id>49</id>
+	<name>Газет</name>
+</item>
+
+<item>
+	<id>50</id>
+	<name>Древесин</name>
+</item>
+
+<item>
+	<id>51</id>
+	<name>Самодельная стрела</name>
+</item>
+
+<item>
+	<id>52</id>
+	<name>Составная стрела</name>
+</item>
+
+<item>
+	<id>53</id>
+	<name>Канистр</name>
+</item>
+
+<item>
+	<id>54</id>
+	<name>Бутылка воды</name>
+</item>
+
+<item>
+	<id>55</id>
+	<name>Фляг</name>
+</item>
+
+<item>
+	<id>56</id>
+	<name>Мин</name>
+</item>
+
+<item>
+	<id>57</id>
+	<name>Медвежий капкан</name>
+</item>
+
+<item>
+	<id>58</id>
+	<name>Патроны .22 LR</name>
+</item>
+
+<item>
+	<id>59</id>
+	<name>Набор для ремонта транспорта</name>
+</item>
+
+<item>
+	<id>60</id>
+	<name>Сырой стейк</name>
+</item>
+
+<item>
+	<id>61</id>
+	<name>Готовый стейк</name>
+</item>
+
+<item>
+	<id>62</id>
+	<name>Nuclear Col</name>
+</item>
+
+<item>
+	<id>63</id>
+	<name>Энергетический напиток</name>
+</item>
+
+<item>
+	<id>64</id>
+	<name>Равноценный обмен</name>
+</item>
+
+<item>
+	<id>65</id>
+	<name>Шкаф для предметов</name>
+</item>
+
+<item>
+	<id>66</id>
+	<name>Режим строительства</name>
+</item>
+
+<item>
+	<id>67</id>
+	<name>Магазин опыта</name>
+</item>
+
+<item>
+	<id>68</id>
+	<name>Семена кабачков</name>
+</item>
+
+<item>
+	<id>69</id>
+	<name>Патроны 9мм</name>
+</item>
+
+<item>
+	<id>70</id>
+	<name>Колючая проволок</name>
+</item>
+
+<item>
+	<id>71</id>
+	<name>Сырая крольчатина</name>
+</item>
+
+<item>
+	<id>72</id>
+	<name>Готовая крольчатина</name>
+</item>
+
+<item>
+	<id>73</id>
+	<name>Морошк</name>
+</item>
+
+<item>
+	<id>74</id>
+	<name>Малин</name>
+</item>
+
+<item>
+	<id>75</id>
+	<name>Раци</name>
+</item>
+
+<item>
+	<id>76</id>
+	<name>Коллиматорный прицел РДС</name>
+</item>
+
+<item>
+	<id>77</id>
+	<name>Прицел ПУ</name>
+</item>
+
+<item>
+	<id>78</id>
+	<name>Прицел ПСО-1</name>
+</item>
+
+<item>
+	<id>79</id>
+	<name>Прицел ACOG</name>
+</item>
+
+<item>
+	<id>80</id>
+	<name>Глушитель 5.45мм</name>
+</item>
+
+<item>
+	<id>81</id>
+	<name>Глушитель 5.56мм</name>
+</item>
+
+<item>
+	<id>82</id>
+	<name>Ножовк</name>
+</item>
+
+<item>
+	<id>83</id>
+	<name>Патронташ</name>
+</item>
+
+<item>
+	<id>85</id>
+	<name>ИРП</name>
+</item>
+
+<item>
+	<id>86</id>
+	<name>Спиннинговое удилище</name>
+</item>
+
+<item>
+	<id>87</id>
+	<name>Простое удилище</name>
+</item>
+
+<item>
+	<id>88</id>
+	<name>Защитный кейс</name>
+</item>
+
+<item>
+	<id>89</id>
+	<name>Быстросъёмный магазин</name>
+</item>
+
+<item>
+	<id>90</id>
+	<name>Чок</name>
+</item>
+
+<item>
+	<id>91</id>
+	<name>Сельдь</name>
+</item>
+
+<item>
+	<id>92</id>
+	<name>Лосось</name>
+</item>
+
+<item>
+	<id>93</id>
+	<name>Окунь</name>
+</item>
+
+<item>
+	<id>94</id>
+	<name>Морской окунь</name>
+</item>
+
+<item>
+	<id>95</id>
+	<name>Маленькая жареная рыб</name>
+</item>
+
+<item>
+	<id>96</id>
+	<name>Большая жареная рыб</name>
+</item>
+
+<item>
+	<id>97</id>
+	<name>Гриб</name>
+</item>
+
+<item>
+	<id>98</id>
+	<name>Прицел дальнего боя</name>
+</item>
+
+<item>
+	<id>99</id>
+	<name>Мина Клеймор</name>
+</item>
+
+<item>
+	<id>100</id>
+	<name>Патроны 9x18мм</name>
+</item>
+
+<item>
+	<id>101</id>
+	<name>Патроны 9x39мм</name>
+</item>
+
+<item>
+	<id>102</id>
+	<name>Коктейль Молотова</name>
+</item>
+
+<item>
+	<id>103</id>
+	<name>Сигнальный пистолет</name>
+</item>
+
+<item>
+	<id>104</id>
+	<name>Патроны .50 калибра</name>
+</item>
+
+<item>
+	<id>105</id>
+	<name>Граната 40мм</name>
+</item>
+
+<item>
+	<id>106</id>
+	<name>Граната ВОГ-25</name>
+</item>
+
+<item>
+	<id>107</id>
+	<name>Подствольный гранатомёт M203</name>
+</item>
+
+<item>
+	<id>108</id>
+	<name>Подствольный гранатомёт ГП-25</name>
+</item>
+
+<item>
+	<id>109</id>
+	<name>Пустой пакет крови</name>
+</item>
+
+<item>
+	<id>110</id>
+	<name>Точильный камень</name>
+</item>
+
+<item>
+	<id>111</id>
+	<name>Рукоятк АК</name>
+</item>
+
+<item>
+	<id>112</id>
+	<name>Рукоятк на планку</name>
+</item>
+
+<item>
+	<id>113</id>
+	<name>Отмеченная карт</name>
+</item>
+
+<item>
+	<id>114</id>
+	<name>Бузин</name>
+</item>
+
+<item>
+	<id>115</id>
+	<name>Бинокль</name>
+</item>
+
+<item>
+	<id>116</id>
+	<name>Справочник разведчи</name>
+</item>
+
+<item>
+	<id>117</id>
+	<name>Брезент</name>
+</item>
+
+<item>
+	<id>118</id>
+	<name>Медицинский пластырь</name>
+</item>
+
+<item>
+	<id>119</id>
+	<name>Дымовая гранат</name>
+</item>
+
+<item>
+	<id>120</id>
+	<name>Сигарет</name>
+</item>
+
+<item>
+	<id>121</id>
+	<name>Пиво</name>
+</item>
+
+<item>
+	<id>122</id>
+	<name>Эпоксидна</name>
+</item>
+
+<item>
+	<id>123</id>
+	<name>Удобрени</name>
+</item>
+
+<item>
+	<id>124</id>
+	<name>Лазерный прицел</name>
+</item>
+
+<item>
+	<id>125</id>
+	<name>Зажигалк</name>
+</item>
+
+<item>
+	<id>126</id>
+	<name>Пропуск</name>
+</item>
+
+<item>
+	<id>127</id>
+	<name>Самодельный глушитель</name>
+</item>
+
+<item>
+	<id>128</id>
+	<name>Прицел ночного видения PVS-4</name>
+</item>
+
+<item>
+	<id>129</id>
+	<name>Прицел ночного видения 1ПН51</name>
+</item>
+
+<item>
+	<id>130</id>
+	<name>C-MAG 5.56</name>
+</item>
+
+<item>
+	<id>131</id>
+	<name>Дисковый магазин 7.62x39мм</name>
+</item>
+
+<item>
+	<id>132</id>
+	<name>Сковород</name>
+</item>
+
+<item>
+	<id>133</id>
+	<name>Противогаз</name>
+</item>
+
+<item>
+	<id>134</id>
+	<name>Балаклав</name>
+</item>
+
+<item>
+	<id>135</id>
+	<name>Противогаз ГП-5</name>
+</item>
+
+<item>
+	<id>136</id>
+	<name>Маска клоун</name>
+</item>
+
+<item>
+	<id>137</id>
+	<name>Боевые перчатки</name>
+</item>
+
+<item>
+	<id>138</id>
+	<name>Патроны .308</name>
+</item>
+
+<item>
+	<id>139</id>
+	<name>Кроссовки</name>
+</item>
+
+<item>
+	<id>140</id>
+	<name>Ботинки лесные</name>
+</item>
+
+<item>
+	<id>141</id>
+	<name>Боевые ботинки</name>
+</item>
+
+<item>
+	<id>142</id>
+	<name>Ремень для винтовки</name>
+</item>
+
+<item>
+	<id>143</id>
+	<name>Таблетки угля</name>
+</item>
+
+<item>
+	<id>144</id>
+	<name>Горелк</name>
+</item>
+
+<item>
+	<id>145</id>
+	<name>Костюм-гилли</name>
+</item>
+
+<item>
+	<id>146</id>
+	<name>Подствольный фонарик</name>
+</item>
+
+<item>
+	<id>147</id>
+	<name>Лазерная рукоятк АК</name>
+</item>
+
+<item>
+	<id>148</id>
+	<name>Лазерная рукоятка на планку</name>
+</item>
+
+<item>
+	<id>700</id>
+	<name>Защитные ботинки</name>
+</item>
+
+<item>
+	<id>701</id>
+	<name>Защитные перчатки</name>
+</item>
+
+<item>
+	<id>702</id>
+	<name>Защитный костюм класса А</name>
+</item>
+
+<item>
+	<id>703</id>
+	<name>Защитный костюм класса С</name>
+</item>
+
+<item>
+	<id>704</id>
+	<name>Дисковый магазин 12 калибра</name>
+</item>
+
+<item>
+	<id>705</id>
+	<name>Банка с краской</name>
+</item>
+
+<item>
+	<id>706</id>
+	<name>Налобный фонарь</name>
+</item>
+
+<item>
+	<id>707</id>
+	<name>Очки ночного видения</name>
+</item>
+
+<item>
+	<id>708</id>
+	<name>Аптечка АИ-2</name>
+</item>
+
+<item>
+	<id>709</id>
+	<name>Клетка для собаки</name>
+</item>
+
+<item>
+	<id>710</id>
+	<name>Инъекция адреналина</name>
+</item>
+
+<item>
+	<id>711</id>
+	<name>Военный костюм класса А</name>
+</item>
+
+<item>
+	<id>712</id>
+	<name>Продвинутая карт</name>
+</item>
+
+<item>
+	<id>713</id>
+	<name>Защитный костюм класса B</name>
+</item>
+
+<item>
+	<id>714</id>
+	<name>Оленья шкур</name>
+</item>
+
+<item>
+	<id>715</id>
+	<name>C-MAG 5.45</name>
+</item>
+
+<item>
+	<id>716</id>
+	<name>Ошейник с шипами</name>
+</item>
+
+<item>
+	<id>717</id>
+	<name>Сумк</name>
+</item>
+
+<item>
+	<id>718</id>
+	<name>Яйцо</name>
+</item>
+
+<item>
+	<id>719</id>
+	<name>Сырая куриц</name>
+</item>
+
+<item>
+	<id>720</id>
+	<name>Готовая куриц</name>
+</item>
+
+<item>
+	<id>721</id>
+	<name>Пистолетный прицел</name>
+</item>
+
+<item>
+	<id>722</id>
+	<name>Пистолетный глушитель</name>
+</item>
+
+<item>
+	<id>723</id>
+	<name>Пистолетный фонарик</name>
+</item>
+
+<item>
+	<id>724</id>
+	<name>Яичница</name>
+</item>
+
+<item>
+	<id>725</id>
+	<name>Стейк с перцем</name>
+</item>
+
+<item>
+	<id>726</id>
+	<name>Яичница с помидорами</name>
+</item>
+
+<item>
+	<id>727</id>
+	<name>Прожектор</name>
+</item>
+
+<item>
+	<id>728</id>
+	<name>Дождевые черви</name>
+</item>
+
+<item>
+	<id>729</id>
+	<name>Самодельная граната ВОГ-25</name>
+</item>
+
+<item>
+	<id>730</id>
+	<name>FNX-45</name>
+</item>
+
+<item>
+	<id>731</id>
+	<name>Colt 1911</name>
+</item>
+
+<item>
+	<id>732</id>
+	<name>Револьвер Magnum</name>
+</item>
+
+<item>
+	<id>733</id>
+	<name>MK II</name>
+</item>
+
+<item>
+	<id>734</id>
+	<name>Glock</name>
+</item>
+
+<item>
+	<id>735</id>
+	<name>Обрез ИЖ-43</name>
+</item>
+
+<item>
+	<id>736</id>
+	<name>Обрез Мосина</name>
+</item>
+
+<item>
+	<id>737</id>
+	<name>Гравированный Colt</name>
+</item>
+
+<item>
+	<id>738</id>
+	<name>Обрез Росси M92</name>
+</item>
+
+<item>
+	<id>739</id>
+	<name>ПМ Макарова</name>
+</item>
+
+<item>
+	<id>740</id>
+	<name>Бесшумный пистолет ПБ</name>
+</item>
+
+<item>
+	<id>741</id>
+	<name>Desert Eagle</name>
+</item>
+
+<item>
+	<id>742</id>
+	<name>M79 Thumper</name>
+</item>
+
+<item>
+	<id>743</id>
+	<name>Обрез Blaze</name>
+</item>
+
+<item>
+	<id>744</id>
+	<name>Longhorn</name>
+</item>
+
+<item>
+	<id>745</id>
+	<name>MAC-10</name>
+</item>
+
+<item>
+	<id>746</id>
+	<name>Mini-UZI</name>
+</item>
+
+<item>
+	<id>747</id>
+	<name>Взрывчатк C4</name>
+</item>
+
+<item>
+	<id>748</id>
+	<name>Шапка Санты</name>
+</item>
+
+<item>
+	<id>749</id>
+	<name>Рождественская таинственная коробка</name>
+</item>
+
+<item>
+	<id>750</id>
+	<name>Человеческое мясо</name>
+</item>
+
+<item>
+	<id>751</id>
+	<name>Готовое человеческое мясо</name>
+</item>
+
+<item>
+	<id>752</id>
+	<name>Подсумок</name>
+</item>
+
+<item>
+	<id>753</id>
+	<name>Военный подсумок</name>
+</item>
+
+<item>
+	<id>754</id>
+	<name>Медицинский подсумок</name>
+</item>
+
+<item>
+	<id>755</id>
+	<name>Кейс для хранения оружия</name>
+</item>
+
+<item>
+	<id>756</id>
+	<name>Кобур</name>
+</item>
+
+<item>
+	<id>757</id>
+	<name>Рабочие перчатки</name>
+</item>
+
+<item>
+	<id>780</id>
+	<name>
+</name>
+</item>
+
+<!--ОРУЖИЕ-->
+
+<item>
+	<id>151</id>
+	<name>FNX-45</name>
+</item>
+
+<item>
+	<id>152</id>
+	<name>Colt 1911</name>
+</item>
+
+<item>
+	<id>153</id>
+	<name>Револьвер Magnum</name>
+</item>
+
+<item>
+	<id>154</id>
+	<name>ИЖ-43</name>
+</item>
+
+<item>
+	<id>155</id>
+	<name>Remington 870</name>
+</item>
+
+<item>
+	<id>156</id>
+	<name>Винтовка Мосина</name>
+</item>
+
+<item>
+	<id>157</id>
+	<name>СКС</name>
+</item>
+
+<item>
+	<id>158</id>
+	<name>M4 Carbine</name>
+</item>
+
+<item>
+	<id>159</id>
+	<name>АКМ</name>
+</item>
+
+<item>
+	<id>160</id>
+	<name>АК-74</name>
+</item>
+
+<item>
+	<id>161</id>
+	<name>АКс-74у</name>
+</item>
+
+<item>
+	<id>162</id>
+	<name>L85</name>
+</item>
+
+<item>
+	<id>163</id>
+	<name>Лук</name>
+</item>
+
+<item>
+	<id>164</id>
+	<name>Охотничий арбалет</name>
+</item>
+
+<item>
+	<id>165</id>
+	<name>MK II</name>
+</item>
+
+<item>
+	<id>166</id>
+	<name>Sporter 22</name>
+</item>
+
+<item>
+	<id>167</id>
+	<name>Rossi M92</name>
+</item>
+
+<item>
+	<id>168</id>
+	<name>СВД</name>
+</item>
+
+<item>
+	<id>169</id>
+	<name>MP5K</name>
+</item>
+
+<item>
+	<id>170</id>
+	<name>Glock</name>
+</item>
+
+<item>
+	<id>171</id>
+	<name>Обрез ИЖ-43</name>
+</item>
+
+<item>
+	<id>172</id>
+	<name>Обрез Мосина</name>
+</item>
+
+<item>
+	<id>173</id>
+	<name>UMP-45</name>
+</item>
+
+<item>
+	<id>174</id>
+	<name>РПК</name>
+</item>
+
+<item>
+	<id>175</id>
+	<name>FN-FAL</name>
+</item>
+
+<item>
+	<id>176</id>
+	<name>Гравированный Colt</name>
+</item>
+
+<item>
+	<id>177</id>
+	<name>AUG</name>
+</item>
+
+<item>
+	<id>178</id>
+	<name>Сайга-12к</name>
+</item>
+
+<item>
+	<id>179</id>
+	<name>MAC-10</name>
+</item>
+
+<item>
+	<id>180</id>
+	<name>Обрез Росси M92</name>
+</item>
+
+<item>
+	<id>181</id>
+	<name>ПМ Макарова</name>
+</item>
+
+<item>
+	<id>182</id>
+	<name>Бесшумный пистолет ПБ</name>
+</item>
+
+<item>
+	<id>183</id>
+	<name>ПП-19 Бизон</name>
+</item>
+
+<item>
+	<id>184</id>
+	<name>ОЦ-14 Гроза</name>
+</item>
+
+<item>
+	<id>185</id>
+	<name>ВСС Винторез</name>
+</item>
+
+<item>
+	<id>186</id>
+	<name>СВ-98</name>
+</item>
+
+<item>
+	<id>187</id>
+	<name>Madsen MG</name>
+</item>
+
+<item>
+	<id>188</id>
+	<name>АН-94</name>
+</item>
+
+<item>
+	<id>189</id>
+	<name>Desert Eagle</name>
+</item>
+
+<item>
+	<id>190</id>
+	<name>Бесшумный Ремингтон</name>
+</item>
+
+<item>
+	<id>191</id>
+	<name>M16A2</name>
+</item>
+
+<item>
+	<id>192</id>
+	<name>KRISS Vector</name>
+</item>
+
+<item>
+	<id>193</id>
+	<name>M4 Carbine</name>
+</item>
+
+<item>
+	<id>194</id>
+	<name>АКМ</name>
+</item>
+
+<item>
+	<id>195</id>
+	<name>M70</name>
+</item>
+
+<item>
+	<id>196</id>
+	<name>Сайга-12к</name>
+</item>
+
+<item>
+	<id>197</id>
+	<name>РПК</name>
+</item>
+
+<item>
+	<id>198</id>
+	<name>M16A2</name>
+</item>
+
+<item>
+	<id>199</id>
+	<name>AUG</name>
+</item>
+
+<item>
+	<id>230</id>
+	<name>Гранатомёт MGL</name>
+</item>
+
+<item>
+	<id>231</id>
+	<name>Blaze</name>
+</item>
+
+<item>
+	<id>232</id>
+	<name>FAMAS</name>
+</item>
+
+<item>
+	<id>233</id>
+	<name>Mini-14</name>
+</item>
+
+<item>
+	<id>234</id>
+	<name>M79</name>
+</item>
+
+<item>
+	<id>235</id>
+	<name>Обрез Blaze</name>
+</item>
+
+<item>
+	<id>236</id>
+	<name>Longhorn</name>
+</item>
+
+<item>
+	<id>237</id>
+	<name>АК-74</name>
+</item>
+
+<item>
+	<id>238</id>
+	<name>АКс-74у</name>
+</item>
+
+<item>
+	<id>239</id>
+	<name>Mini-UZI</name>
+</item>
+
+<item>
+	<id>240</id>
+	<name>АС-ВАЛ</name>
+</item>
+
+<item>
+	<id>241</id>
+	<name>M249 SAW</name>
+</item>
+
+<!--Оружие ближнего боя-->
+
+<item>
+	<id>200</id>
+	<name>Разводной ключ</name>
+</item>
+
+<item>
+	<id>201</id>
+	<name>Лопат</name>
+</item>
+
+<item>
+	<id>202</id>
+	<name>Топор</name>
+</item>
+
+<item>
+	<id>203</id>
+	<name>Бейсбольная бита</name>
+</item>
+
+<item>
+	<id>204</id>
+	<name>Пожарный топор</name>
+</item>
+
+<item>
+	<id>205</id>
+	<name>Лом</name>
+</item>
+
+<item>
+	<id>206</id>
+	<name>Кирк</name>
+</item>
+
+<item>
+	<id>207</id>
+	<name>Вил</name>
+</item>
+
+<item>
+	<id>208</id>
+	<name>Кувалд</name>
+</item>
+
+<item>
+	<id>209</id>
+	<name>Длинный меч</name>
+</item>
+
+<item>
+	<id>210</id>
+	<name>Сковород</name>
+</item>
+
+<item>
+	<id>211</id>
+	<name>Катан</name>
+</item>
+
+<item>
+	<id>212</id>
+	<name>Бита с колючей проволокой</name>
+</item>
+
+<item>
+	<id>213</id>
+	<name>Бензопил</name>
+</item>
+
+<item>
+	<id>214</id>
+	<name>Генератор</name>
+</item>
+
+<item>
+	<id>215</id>
+	<name>Металлическая пластина</name>
+</item>
+
+
+<!--Каски-->
+
+<item>
+	<id>250</id>
+	<name>Противогаз</name>
+</item>
+
+<item>
+	<id>251</id>
+	<name>Военная каск</name>
+</item>
+
+<item>
+	<id>252</id>
+	<name>Мотошлем</name>
+</item>
+
+<item>
+	<id>253</id>
+	<name>Мотошлем</name>
+</item>
+
+<item>
+	<id>254</id>
+	<name>Тёплая шапк</name>
+</item>
+
+<item>
+	<id>255</id>
+	<name>Берет</name>
+</item>
+
+<item>
+	<id>256</id>
+	<name>Кепк</name>
+</item>
+
+<item>
+	<id>257</id>
+	<name>Балаклав</name>
+</item>
+
+<item>
+	<id>258</id>
+	<name>Ушанк</name>
+</item>
+
+<item>
+	<id>259</id>
+	<name>Строительная каск</name>
+</item>
+
+<item>
+	<id>260</id>
+	<name>Фар</name>
+</item>
+
+<item>
+	<id>261</id>
+	<name>Ковбойская шляп</name>
+</item>
+
+<item>
+	<id>262</id>
+	<name>Сварочная маск</name>
+</item>
+
+<item>
+	<id>263</id>
+	<name>Шлем Горк</name>
+</item>
+
+<item>
+	<id>264</id>
+	<name>Полицейская фуражк</name>
+</item>
+
+<item>
+	<id>265</id>
+	<name>ПНВ</name>
+</item>
+
+<item>
+	<id>266</id>
+	<name>Бандан</name>
+</item>
+
+<item>
+	<id>267</id>
+	<name>Средневековый шлем</name>
+</item>
+
+<item>
+	<id>268</id>
+	<name>Шлем пилот</name>
+</item>
+
+<item>
+	<id>269</id>
+	<name>Шлем Алтын</name>
+</item>
+
+<item>
+	<id>270</id>
+	<name>Шлем Алтын</name>
+</item>
+
+<item>
+	<id>271</id>
+	<name>Противогаз ГП-5</name>
+</item>
+
+<item>
+	<id>272</id>
+	<name>Маска клоун</name>
+</item>
+
+<item>
+	<id>273</id>
+	<name>Штурмовой шлем</name>
+</item>
+
+<item>
+	<id>274</id>
+	<name>Штурмовой шлем</name>
+</item>
+
+<item>
+	<id>275</id>
+	<name>Штурмовой шлем</name>
+</item>
+
+<item>
+	<id>276</id>
+	<name>Штурмовой шлем</name>
+</item>
+
+<!--Штаны-->
+
+<item>
+	<id>300</id>
+	<name>Джинсы</name>
+</item>
+
+<item>
+	<id>301</id>
+	<name>Рабочие штаны</name>
+</item>
+
+<item>
+	<id>302</id>
+	<name>Спортивные штаны</name>
+</item>
+
+<item>
+	<id>303</id>
+	<name>Штаны Горк</name>
+</item>
+
+<item>
+	<id>304</id>
+	<name>Штаны Орел</name>
+</item>
+
+<item>
+	<id>305</id>
+	<name>Штаны медик</name>
+</item>
+
+<item>
+	<id>306</id>
+	<name>Охотничьи штаны</name>
+</item>
+
+<item>
+	<id>307</id>
+	<name>Штаны пожарного</name>
+</item>
+
+<!--Верхняя одежда-->
+
+<item>
+	<id>350</id>
+	<name>Футболк</name>
+</item>
+
+<item>
+	<id>351</id>
+	<name>Рубашк</name>
+</item>
+
+<item>
+	<id>352</id>
+	<name>Рубашк</name>
+</item>
+
+<item>
+	<id>353</id>
+	<name>Плащ</name>
+</item>
+
+<item>
+	<id>354</id>
+	<name>Куртк</name>
+</item>
+
+<item>
+	<id>355</id>
+	<name>Куртка Горк</name>
+</item>
+
+<item>
+	<id>356</id>
+	<name>Толстовк</name>
+</item>
+
+<item>
+	<id>357</id>
+	<name>Толстовк</name>
+</item>
+
+<item>
+	<id>358</id>
+	<name>Плащ</name>
+</item>
+
+<item>
+	<id>359</id>
+	<name>Куртка медик</name>
+</item>
+
+<item>
+	<id>360</id>
+	<name>Куртка Орел</name>
+</item>
+
+<item>
+	<id>361</id>
+	<name>Спортивная куртк</name>
+</item>
+
+<item>
+	<id>362</id>
+	<name>Платье</name>
+</item>
+
+<item>
+	<id>363</id>
+	<name>Пуховик</name>
+</item>
+
+<item>
+	<id>364</id>
+	<name>Охотничья куртк</name>
+</item>
+
+<item>
+	<id>365</id>
+	<name>Свитер</name>
+</item>
+
+<item>
+	<id>366</id>
+	<name>Классная толстовк</name>
+</item>
+
+<item>
+	<id>367</id>
+	<name>Куртка пожарного</name>
+</item>
+
+
+<!--Жилеты-->
+
+<item>
+	<id>400</id>
+	<name>Бронежилет</name>
+</item>
+
+<item>
+	<id>401</id>
+	<name>Пресс-жилет</name>
+</item>
+
+<item>
+	<id>402</id>
+	<name>Штурмовой жилет</name>
+</item>
+
+<item>
+	<id>403</id>
+	<name>Жилет повышенной вместимости</name>
+</item>
+
+<item>
+	<id>404</id>
+	<name>Кевларовый жилет</name>
+</item>
+
+<item>
+	<id>405</id>
+	<name>Советский жилет</name>
+</item>
+
+<item>
+	<id>406</id>
+	<name>Фартук</name>
+</item>
+
+<item>
+	<id>407</id>
+	<name>Костюм-гилли</name>
+</item>
+
+<item>
+	<id>408</id>
+	<name>Тяжёлая броня М</name>
+</item>
+
+<item>
+	<id>409</id>
+	<name>Защитный костюм класса А</name>
+</item>
+
+<item>
+	<id>410</id>
+	<name>Военный кевларовый костюм</name>
+</item>
+
+<item>
+	<id>411</id>
+	<name>Военный тяжёлый костюм М</name>
+</item>
+
+<item>
+	<id>412</id>
+	<name>Военный костюм-гилли</name>
+</item>
+
+<item>
+	<id>413</id>
+	<name>Защитный костюм класса С</name>
+</item>
+
+<item>
+	<id>414</id>
+	<name>Защитный костюм класса B</name>
+</item>
+
+<item>
+	<id>415</id>
+	<name>Военный костюм класса А</name>
+</item>
+
+<!--Рюкзаки-->
+
+<item>
+	<id>450</id>
+	<name>Дорожный рюкзак</name>
+</item>
+
+<item>
+	<id>451</id>
+	<name>Охотничий рюкзак</name>
+</item>
+
+<item>
+	<id>452</id>
+	<name>Горный рюкзак</name>
+</item>
+
+<item>
+	<id>453</id>
+	<name>Школьный рюкзак</name>
+</item>
+
+<item>
+	<id>454</id>
+	<name>Самодельный рюкзак</name>
+</item>
+
+<item>
+	<id>455</id>
+	<name>Укреплённый самодельный рюкзак</name>
+</item>
+
+<item>
+	<id>456</id>
+	<name>Гражданская палатк</name>
+</item>
+
+<item>
+	<id>457</id>
+	<name>Военный рюкзак</name>
+</item>
+
+<item>
+	<id>458</id>
+	<name>Подсумок</name>
+</item>
+
+<item>
+	<id>459</id>
+	<name>Военный подсумок</name>
+</item>
+
+<item>
+	<id>460</id>
+	<name>Медицинский подсумок</name>
+</item>
+
+<item>
+	<id>461</id>
+	<name>Шкаф для предметов</name>
+</item>
+
+</list>

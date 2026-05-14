@@ -1,0 +1,1092 @@
+<?xml version="1.0" ?>
+
+<list>
+
+<!--Frases del jugador-->
+
+<text>
+	<id>0</id>
+	<name></name>
+</text>
+
+<text>
+	<id>1</id>
+	<name>Ya no estoy sangrando</name>
+</text>
+
+<text>
+	<id>2</id>
+	<name>Me siento saludable</name>
+</text>
+
+<text>
+	<id>3</id>
+	<name>Puedo sentir que estoy sangrando</name>
+</text>
+
+<text>
+	<id>4</id>
+	<name>Me estoy congelando hasta morir</name>
+</text>
+
+<text>
+	<id>5</id>
+	<name>Me estoy muriendo de hambre</name>
+</text>
+
+<text>
+	<id>6</id>
+	<name>Me estoy muriendo de sed</name>
+</text>
+
+<text>
+	<id>7</id>
+	<name>Este maletero tiene algo</name>
+</text>
+
+<text>
+	<id>8</id>
+	<name>No hay nada dentro</name>
+</text>
+
+<!--Frase del jugador: cuando no hay munición para recargar-->
+<text>
+	<id>9</id>
+	<name>¡Sin munición!</name>
+</text>
+<!--Frase del jugador: cuando el arma a distancia se vacía-->
+<text>
+	<id>10</id>
+	<name>¡Cargador vacío!</name>
+</text>
+
+<text>
+	<id>11</id>
+	<name>¡El arma está destruida!</name>
+</text>
+
+<text>
+	<id>12</id>
+	<name>Esta bomba no tiene agua</name>
+</text>
+
+<text>
+	<id>13</id>
+	<name>No necesito beber</name>
+</text>
+
+<text>
+	<id>14</id>
+	<name>Comí un poco de carne cruda</name>
+</text>
+
+<text>
+	<id>15</id>
+	<name>Necesito una bomba de agua para llenarla</name>
+</text>
+
+<text>
+	<id>16</id>
+	<name>La llené en la bomba</name>
+</text>
+
+<text>
+	<id>17</id>
+	<name>Comí </name>
+</text>
+
+<text>
+	<id>18</id>
+	<name>Bebí </name>
+</text>
+
+<text>
+	<id>19</id>
+	<name>Usé </name>
+</text>
+
+<text>
+	<id>32</id>
+	<name>¡Completamente cargado!</name>
+</text>
+
+<text>
+	<id>33</id>
+	<name>¡Recargado!</name>
+</text>
+
+<!--Frase del jugador: al intentar cargar munición incorrecta-->
+<text>
+	<id>34</id>
+	<name>Tipo de munición incorrecto</name>
+</text>
+
+<text>
+	<id>35</id>
+	<name>Detuve el sangrado</name>
+</text>
+
+<text>
+	<id>36</id>
+	<name>No estoy sangrando</name>
+</text>
+
+<text>
+	<id>37</id>
+	<name>He transfundido sangre</name>
+</text>
+
+<!--Frase del jugador: al intentar poner batería en NVG/faro-->
+<text>
+	<id>38</id>
+	<name>Batería insertada</name>
+</text>
+
+<text>
+	<id>39</id>
+	<name>Necesito NVG o un Faro</name>
+</text>
+
+<text>
+	<id>40</id>
+	<name>Necesito un Kit de Fogata para encenderlo</name>
+</text>
+
+<text>
+	<id>41</id>
+	<name>Bebí un poco de whisky</name>
+</text>
+
+<text>
+	<id>42</id>
+	<name>Infundí una bolsa de suero</name>
+</text>
+
+<text>
+	<id>43</id>
+	<name>Tomé algunas vitaminas</name>
+</text>
+
+<text>
+	<id>44</id>
+	<name>¡El arma está destruida!</name>
+</text>
+
+<text>
+	<id>45</id>
+	<name>El arma está limpia</name>
+</text>
+
+<text>
+	<id>46</id>
+	<name>Tomé tetraciclina</name>
+</text>
+
+<text>
+	<id>47</id>
+	<name>El vehículo está repostado</name>
+</text>
+
+<text>
+	<id>48</id>
+	<name>Necesito un vehículo conducible</name>
+</text>
+
+<text>
+	<id>49</id>
+	<name>La botella está vacía</name>
+</text>
+
+<text>
+	<id>50</id>
+	<name>Bebí de la botella</name>
+</text>
+
+<text>
+	<id>51</id>
+	<name>La cantimplora está vacía</name>
+</text>
+
+<text>
+	<id>52</id>
+	<name>Bebí de la cantimplora</name>
+</text>
+
+<text>
+	<id>53</id>
+	<name>Mina terrestre desplegada</name>
+</text>
+
+<text>
+	<id>54</id>
+	<name>Trampa para osos armada</name>
+</text>
+
+<text>
+	<id>55</id>
+	<name>El vehículo está reparado</name>
+</text>
+
+<text>
+	<id>56</id>
+	<name>Cociné algo de carne</name>
+</text>
+
+<text>
+	<id>57</id>
+	<name>Necesito fuego</name>
+</text>
+
+<text>
+	<id>58</id>
+	<name>Comí la carne cocida</name>
+</text>
+
+<text>
+	<id>59</id>
+	<name>Bebí una Nuka-Cola, ¡se siente increíble!</name>
+</text>
+
+<text>
+	<id>60</id>
+	<name>Desollado</name>
+</text>
+
+<text>
+	<id>61</id>
+	<name>Nada que desollar</name>
+</text>
+
+<text>
+	<id>62</id>
+	<name>No puedo llevar más</name>
+</text>
+
+<text>
+	<id>63</id>
+	<name>¡El cuchillo está roto!</name>
+</text>
+
+<text>
+	<id>64</id>
+	<name>Necesito más palos</name>
+</text>
+
+<text>
+	<id>65</id>
+	<name>¡El faro está roto!</name>
+</text>
+
+<text>
+	<id>66</id>
+	<name>¡Los NVG están rotos!</name>
+</text>
+
+<text>
+	<id>67</id>
+	<name>Bebí un poco de Kvass</name>
+</text>
+
+<text>
+	<id>68</id>
+	<name>Necesito una herramienta de cultivo</name>
+</text>
+
+<text>
+	<id>69</id>
+	<name>No se puede plantar aquí</name>
+</text>
+
+<text>
+	<id>70</id>
+	<name>Plantado</name>
+</text>
+
+<text>
+	<id>71</id>
+	<name>Desplegado</name>
+</text>
+
+<text>
+	<id>72</id>
+	<name>Necesito un cuchillo para desollar</name>
+</text>
+
+<!-- Al intentar cambiar a un arma de fuego y no tener ninguna -->
+<text>
+	<id>73</id>
+	<name>No tengo un arma de fuego</name>
+</text>
+
+<text>
+	<id>74</id>
+	<name>Haz clic donde lanzar la bengala</name>
+</text>
+
+<text>
+	<id>75</id>
+	<name>Haz clic donde lanzar la granada</name>
+</text>
+
+<text>
+	<id>76</id>
+	<name>Ya está lleno</name>
+</text>
+
+<text>
+	<id>77</id>
+	<name>Bebí de la bomba</name>
+</text>
+
+<text>
+	<id>78</id>
+	<name>Quiero comer algo</name>
+</text>
+
+<text>
+	<id>79</id>
+	<name>Quiero beber algo</name>
+</text>
+
+<text>
+	<id>80</id>
+	<name>Tengo mucho frío</name>
+</text>
+
+<text>
+	<id>81</id>
+	<name>Me estoy congelando</name>
+</text>
+
+<text>
+	<id>82</id>
+	<name>Me estoy calentando</name>
+</text>
+
+<text>
+	<id>83</id>
+	<name>Necesito baterías para alimentarlo</name>
+</text>
+
+<text>
+	<id>84</id>
+	<name>No hay señal cerca...</name>
+</text>
+
+<text>
+	<id>85</id>
+	<name>¡Señal detectada cerca!</name>
+</text>
+
+<!-- Frases de bots amigos: con salud inferior al 50% -->
+<text>
+	<id>100</id>
+	<name>¡Maldición! ¡Estoy gravemente herido!</name>
+</text>
+
+<!-- Frases de bots amigos: cuando el jugador entra a una casa, el bot comienza a patrullar la entrada -->
+<text>
+	<id>101</id>
+	<name>No te preocupes, vigilaré afuera</name>
+</text>
+
+<text>
+	<id>102</id>
+	<name>Te cubriré mientras buscas suministros</name>
+</text>
+
+<!-- Frase de bot amigo: cuando el jugador se pone en la línea de fuego -->
+<text>
+	<id>103</id>
+	<name>¡Estás bloqueando mi línea de visión!</name>
+</text>
+
+<!-- Frase de bot amigo: con salud inferior al 50% -->
+<text>
+	<id>104</id>
+	<name>¡Oye! ¡Amigo! ¡Sobrevivamos juntos!</name>
+</text>
+
+<!-- Frases de bot enemigo cuerpo a cuerpo al ser golpeado por arma de fuego -->
+<text>
+	<id>105</id>
+	<name>¡No es justo!</name>
+</text>
+
+<text>
+	<id>106</id>
+	<name>¡Maldición! ¡Tiene una pistola!</name>
+</text>
+
+<text>
+	<id>107</id>
+	<name>¡Maldita sea!</name>
+</text>
+
+<!-- Bot enemigo con arma de fuego cuando ve al jugador -->
+<text>
+	<id>108</id>
+	<name>¡Ven aquí!</name>
+</text>
+
+<text>
+	<id>109</id>
+	<name>¡Prueba esto!</name>
+</text>
+
+<text>
+	<id>110</id>
+	<name>¡Te veo!</name>
+</text>
+
+<text>
+	<id>111</id>
+	<name>¡Ven aquí!</name>
+</text>
+
+<text>
+	<id>112</id>
+	<name>¡Está aquí!</name>
+</text>
+
+<!-- Frases adicionales del jugador -->
+
+<text>
+	<id>125</id>
+	<name>No quiero hacer daño</name>
+</text>
+
+<text>
+	<id>126</id>
+	<name>Está bien</name>
+</text>
+
+<text>
+	<id>127</id>
+	<name>Gracias por ayudar con el bote</name>
+</text>
+
+<!-- Adiciones de la actualización 1.2.0 -->
+
+<text>
+	<id>86</id>
+	<name>Esta arma no se puede recortar</name>
+</text>
+
+<text>
+	<id>87</id>
+	<name>Esta puerta está rota</name>
+</text>
+
+<text>
+	<id>88</id>
+	<name>¡Gas! ¡Necesito una máscara de gas!</name>
+</text>
+
+<!-- Adiciones de la actualización 1.3.0 -->
+
+<text>
+	<id>89</id>
+	<name>Necesito un vehículo conducible</name>
+</text>
+
+<text>
+	<id>90</id>
+	<name>No puedo hacer eso en el coche</name>
+</text>
+
+<text>
+	<id>91</id>
+	<name>Este vehículo no necesita reparaciones</name>
+</text>
+
+<text>
+	<id>92</id>
+	<name>Este vehículo ya está lleno</name>
+</text>
+
+<!-- Tareas -->
+
+<text>
+	<id>131</id>
+	<name>No tengo nada para ti en este momento</name>
+</text>
+
+<text>
+	<id>132</id>
+	<name>Necesito llegar a un lago o a la costa</name>
+</text>
+
+<text>
+	<id>133</id>
+	<name>No hay peces por aquí</name>
+</text>
+
+<text>
+	<id>135</id>
+	<name>No estoy enfermo</name>
+</text>
+
+<text>
+	<id>136</id>
+	<name>¡Gracias de nuevo por tu ayuda! Nos iremos pronto</name>
+</text>
+
+<text>
+	<id>137</id>
+	<name>Algunos lugares están marcados en el mapa</name>
+</text>
+
+<text>
+	<id>138</id>
+	<name>¡Gracias! Tu recompensa está marcada en el mapa</name>
+</text>
+
+<text>
+	<id>140</id>
+	<name>¡Atrapé un pez!</name>
+</text>
+
+<text>
+	<id>141</id>
+	<name>¡Maldición! ¡Se escapó!</name>
+</text>
+
+<!-- 1.7 -->
+
+<text>
+	<id>142</id>
+	<name>Este objeto no se puede enfundar</name>
+</text>
+
+<text>
+	<id>143</id>
+	<name>No hay arma para cambiar</name>
+</text>
+
+<text>
+	<id>144</id>
+	<name>No queda espacio</name>
+</text>
+
+<text>
+	<id>145</id>
+	<name>No tengo mochila</name>
+</text>
+
+<text>
+	<id>146</id>
+	<name>Sin combustible</name>
+</text>
+
+<text>
+	<id>147</id>
+	<name>Conflicto con el casco actual</name>
+</text>
+
+<text>
+	<id>148</id>
+	<name>La lata de gasolina está vacía</name>
+</text>
+
+<text>
+	<id>149</id>
+	<name>Nada que repostar cerca</name>
+</text>
+
+<text>
+	<id>150</id>
+	<name>Necesito una gasolinera con combustible</name>
+</text>
+
+<text>
+	<id>151</id>
+	<name>Esta gasolinera está sin combustible</name>
+</text>
+
+<text>
+	<id>152</id>
+	<name>Este generador está sin combustible</name>
+</text>
+
+<text>
+	<id>153</id>
+	<name>Las armas, equipos y vehículos no se rompen</name>
+</text>
+
+<text>
+	<id>154</id>
+	<name>000</name>
+</text>
+
+<text>
+	<id>155</id>
+	<name>000</name>
+</text>
+
+<text>
+	<id>156</id>
+	<name>000</name>
+</text>
+
+<text>
+	<id>157</id>
+	<name>Estoy herido y sangrando</name>
+</text>
+
+<text>
+	<id>158</id>
+	<name>Todavía no tengo un perro</name>
+</text>
+
+<text>
+	<id>159</id>
+	<name>Reaparecer en la costa oeste después de la muerte</name>
+</text>
+
+<text>
+	<id>160</id>
+	<name>A prueba de lluvia </name>
+</text>
+
+<text>
+	<id>161</id>
+	<name>A prueba de peligros biológicos</name>
+</text>
+
+<text>
+	<id>162</id>
+	<name>Ignora penalización de saqueo </name>
+</text>
+
+<text>
+	<id>163</id>
+	<name>Ignora el ácido del suelo</name>
+</text>
+
+<text>
+	<id>164</id>
+	<name>Nada que convertir cerca</name>
+</text>
+
+<text>
+	<id>165</id>
+	<name>Ya tiene esto</name>
+</text>
+
+<text>
+	<id>166</id>
+	<name>Estoy empapado. Mi velocidad y temperatura están bajando</name>
+</text>
+
+<text>
+	<id>167</id>
+	<name>Estoy empapado</name>
+</text>
+
+<text>
+	<id>168</id>
+	<name>Estoy enfermo. Me siento fatal, con más sed y más hambre</name>
+</text>
+
+<text>
+	<id>169</id>
+	<name>He aprendido sobre la próxima isla</name>
+</text>
+
+<text>
+	<id>170</id>
+	<name>A prueba de radiación </name>
+</text>
+
+<text>
+	<id>171</id>
+	<name>El aire aquí es tóxico. Mejor tener una máscara de gas.</name>
+</text>
+
+<text>
+	<id>172</id>
+	<name>No cabe más en el vehículo</name>
+</text>
+
+<text>
+	<id>173</id>
+	<name>Radiación severa. Necesito un traje Clase B o mejor.</name>
+</text>
+
+<text>
+	<id>174</id>
+	<name>No se puede acoplar más</name>
+</text>
+
+<text>
+	<id>175</id>
+	<name>Mi reputación no es lo suficientemente alta</name>
+</text>
+
+<text>
+	<id>176</id>
+	<name>Los objetos se apilan infinitamente</name>
+</text>
+
+<text>
+	<id>177</id>
+	<name>Debería poder cruzar con este bote, pero primero necesito repostarlo</name>
+</text>
+
+<text>
+	<id>178</id>
+	<name>No hay máscara de gas equipada</name>
+</text>
+
+<text>
+	<id>179</id>
+	<name>No puedo hacer eso</name>
+</text>
+
+<text>
+	<id>180</id>
+	<name>Necesito al menos 200 de experiencia para abrir</name>
+</text>
+
+<text>
+	<id>181</id>
+	<name>La durabilidad está al máximo</name>
+</text>
+
+<text>
+	<id>182</id>
+	<name>Barras de salud enemigas ocultas. Significativamente más Infectados.</name>
+</text>
+
+<text>
+	<id>183</id>
+	<name>Respeto por los muertos</name>
+</text>
+
+<text>
+	<id>184</id>
+	<name>No me siento bien</name>
+</text>
+
+<text>
+	<id>185</id>
+	<name>No voy a lograrlo...</name>
+</text>
+
+<text>
+	<id>186</id>
+	<name>No hay armas de fuego que se puedan almacenar</name>
+</text>
+
+<text>
+	<id>187</id>
+	<name>Límite de salud aumentado en un 50%. Límites de Hambre y Sed duplicados.</name>
+</text>
+
+<text>
+	<id>188</id>
+	<name>No se puede usar más</name>
+</text>
+
+<text>
+	<id>189</id>
+	<name>Estoy envenenado. Me siento fatal y mi condición está empeorando.</name>
+</text>
+
+<text>
+	<id>190</id>
+	<name>Armadura de Cabeza Externa</name>
+</text>
+
+<text>
+	<id>191</id>
+	<name>Armadura de Cabeza Interna</name>
+</text>
+
+<text>
+	<id>192</id>
+	<name>Multiplicador actual de salud/daño de Infectados: </name>
+</text>
+
+<text>
+	<id>193</id>
+	<name>Mi cuerpo está entumecido</name>
+</text>
+
+<text>
+	<id>194</id>
+	<name>Necesito un cadáver para hacer eso</name>
+</text>
+
+<text>
+	<id>195</id>
+	<name>Esta lata de gasolina está llena</name>
+</text>
+
+<text>
+	<id>196</id>
+	<name>No hay ningún perro cerca</name>
+</text>
+
+<text>
+	<id>197</id>
+	<name>No se pueden colocar objetos apilados aquí</name>
+</text>
+
+<text>
+	<id>198</id>
+	<name>Este generador ya está lleno</name>
+</text>
+
+<text>
+	<id>199</id>
+	<name>¡Corre!</name>
+</text>
+
+<text>
+	<id>200</id>
+	<name>No disponible actualmente</name>
+</text>
+
+<text>
+	<id>201</id>
+	<name>Tiempo hasta la próxima Luna de Sangre: </name>
+</text>
+
+<text>
+	<id>202</id>
+	<name>Los NPC con armas automáticas dispararán continuamente</name>
+</text>
+
+<text>
+	<id>203</id>
+	<name>Este vehículo no se puede reforzar más</name>
+</text>
+
+<text>
+	<id>204</id>
+	<name>¡Una nueva isla!</name>
+</text>
+
+<text>
+	<id>205</id>
+	<name>¡No puedo ver!</name>
+</text>
+
+<text>
+	<id>206</id>
+	<name>Necesito placas de metal</name>
+</text>
+
+<text>
+	<id>207</id>
+	<name>Necesito un compañero cerca</name>
+</text>
+
+<text>
+	<id>208</id>
+	<name>¡Eso fue antes, esto es ahora!</name>
+</text>
+
+<text>
+	<id>209</id>
+	<name>¿Quién eres? Nadie.</name>
+</text>
+
+<text>
+	<id>210</id>
+	<name>Modo automático activado</name>
+</text>
+
+<text>
+	<id>211</id>
+	<name>Modo semiautomático activado</name>
+</text>
+
+<text>
+	<id>212</id>
+	<name>Nada que recuperar cerca</name>
+</text>
+
+<text>
+	<id>213</id>
+	<name>Estoy completamente cargado</name>
+</text>
+
+<text>
+	<id>214</id>
+	<name>Estoy lleno de combustible</name>
+</text>
+
+<text>
+	<id>215</id>
+	<name>Nada que desmantelar cerca</name>
+</text>
+
+<text>
+	<id>216</id>
+	<name>A prueba de fuego </name>
+</text>
+
+<text>
+	<id>217</id>
+	<name>Este bote está sin combustible</name>
+</text>
+
+<text>
+	<id>218</id>
+	<name>Este bote ya está lleno de combustible</name>
+</text>
+
+<text>
+	<id>219</id>
+	<name>Durabilidad demasiado baja</name>
+</text>
+
+<text>
+	<id>220</id>
+	<name>Necesito 3 trapos</name>
+</text>
+
+<text>
+	<id>221</id>
+	<name> Días restantes</name>
+</text>
+
+<text>
+	<id>222</id>
+	<name>La Luna de Sangre está activa</name>
+</text>
+
+<text>
+	<id>223</id>
+	<name>Bípode desplegado</name>
+</text>
+
+<text>
+	<id>224</id>
+	<name>Estoy cargando algo, no puedo hacer eso</name>
+</text>
+
+<text>
+	<id>225</id>
+	<name>No llevo eso puesto</name>
+</text>
+
+<text>
+	<id>226</id>
+	<name>Solo almacena cuchillos, fósforos, encendedores, bengalas, cantimploras</name>
+</text>
+
+<text>
+	<id>227</id>
+	<name>Solo almacena suministros médicos y medicinas</name>
+</text>
+
+<text>
+	<id>228</id>
+	<name>Solo almacena cinta, epoxi, kits de costura</name>
+</text>
+
+<text>
+	<id>229</id>
+	<name>Necesito una batería con algo de carga</name>
+</text>
+
+<text>
+	<id>230</id>
+	<name>Encontré la ubicación de un búnker</name>
+</text>
+
+<text>
+	<id>231</id>
+	<name>Esta puerta parece no tener energía</name>
+</text>
+
+<text>
+	<id>232</id>
+	<name>Necesito un generador funcionando</name>
+</text>
+
+<text>
+	<id>233</id>
+	<name>Esta batería está completamente cargada</name>
+</text>
+
+<text>
+	<id>234</id>
+	<name>He entrado en una zona contaminada</name>
+</text>
+
+<text>
+	<id>235</id>
+	<name>He entrado en una zona de radiación</name>
+</text>
+
+<text>
+	<id>236</id>
+	<name>Necesito fuego y una sartén</name>
+</text>
+
+<text>
+	<id>237</id>
+	<name>Freí un huevo</name>
+</text>
+
+<text>
+	<id>238</id>
+	<name>Hice bistec a la pimienta</name>
+</text>
+
+<text>
+	<id>239</id>
+	<name>Hice huevos revueltos con tomate</name>
+</text>
+
+<text>
+	<id>240</id>
+	<name>Toca para cambiar. Mantén presionado en la mochila para desequipar. Mantén presionado fuera para lanzar.</name>
+</text>
+
+<text>
+	<id>241</id>
+	<name>Esta noche es demasiado peligrosa, no puedo dormir</name>
+</text>
+
+<text>
+	<id>242</id>
+	<name>Restante: </name>
+</text>
+
+<text>
+	<id>243</id>
+	<name>Estoy muy cansado. Mi velocidad de movimiento y habilidad cuerpo a cuerpo están reducidas</name>
+</text>
+
+<text>
+	<id>244</id>
+	<name>Faltan guantes protectores</name>
+</text>
+
+<text>
+	<id>245</id>
+	<name>Faltan botas protectoras</name>
+</text>
+
+<text>
+	<id>246</id>
+	<name>Ese objeto no está cerca</name>
+</text>
+
+<text>
+	<id>247</id>
+	<name>Necesito</name>
+</text>
+
+<text>
+	<id>248</id>
+	<name> Exp</name>
+</text>
+
+</list>

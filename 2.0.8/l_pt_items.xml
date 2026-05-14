@@ -1,0 +1,1849 @@
+<?xml version="1.0" ?>
+
+<list>
+
+<!--ITENS DO INVENTÁRIO-->
+
+<item>
+	<id>0</id>
+	<name></name>
+</item>
+
+<item>
+	<id>1</id>
+	<name>Feijão Enlatado</name>
+</item>
+
+<item>
+	<id>2</id>
+	<name>Atum Enlatado</name>
+</item>
+
+<item>
+	<id>3</id>
+	<name>Bacon Tático</name>
+</item>
+
+<item>
+	<id>4</id>
+	<name>Arroz</name>
+</item>
+
+<item>
+	<id>5</id>
+	<name>Tomate</name>
+</item>
+
+<item>
+	<id>6</id>
+	<name>Maçã</name>
+</item>
+
+<item>
+	<id>7</id>
+	<name>Banana</name>
+</item>
+
+<item>
+	<id>8</id>
+	<name>Pepsi</name>
+</item>
+
+<item>
+	<id>9</id>
+	<name>Sprite</name>
+</item>
+
+<item>
+	<id>10</id>
+	<name>Kvass</name>
+</item>
+
+<item>
+	<id>11</id>
+	<name>Munição 5.56x45mm</name>
+</item>
+
+<item>
+	<id>12</id>
+	<name>Munição .45 ACP</name>
+</item>
+
+<item>
+	<id>13</id>
+	<name>Munição 7.62x54mmR</name>
+</item>
+
+<item>
+	<id>14</id>
+	<name>Munição 7.62x39mm</name>
+</item>
+
+<item>
+	<id>15</id>
+	<name>Munição 5.45x39mm</name>
+</item>
+
+<item>
+	<id>16</id>
+	<name>Munição .357</name>
+</item>
+
+<item>
+	<id>17</id>
+	<name>Cartuchos 12 Gauge</name>
+</item>
+
+<item>
+	<id>18</id>
+	<name>Bandagem</name>
+</item>
+
+<item>
+	<id>19</id>
+	<name>Bolsa de Sangue</name>
+</item>
+
+<item>
+	<id>20</id>
+	<name>Sinalizador</name>
+</item>
+
+<item>
+	<id>21</id>
+	<name>Granada Fragmentadora F1</name>
+</item>
+
+<item>
+	<id>22</id>
+	<name>Bateria</name>
+</item>
+
+<item>
+	<id>23</id>
+	<name>Kit de Fogueira</name>
+</item>
+
+<item>
+	<id>24</id>
+	<name>Fósforos</name>
+</item>
+
+<item>
+	<id>25</id>
+	<name>Uísque</name>
+</item>
+
+<item>
+	<id>26</id>
+	<name>Pano</name>
+</item>
+
+<item>
+	<id>27</id>
+	<name>Oxicoco</name>
+</item>
+
+<item>
+	<id>28</id>
+	<name>Bolsa de Soro Fisiológico</name>
+</item>
+
+<item>
+	<id>29</id>
+	<name>Vitaminas</name>
+</item>
+
+<item>
+	<id>30</id>
+	<name>Coca-Cola</name>
+</item>
+
+<item>
+	<id>31</id>
+	<name>Abobrinha</name>
+</item>
+
+<item>
+	<id>32</id>
+	<name>Pimentão</name>
+</item>
+
+<item>
+	<id>33</id>
+	<name>Laranja</name>
+</item>
+
+<item>
+	<id>34</id>
+	<name>Bolsa de Calor</name>
+</item>
+
+<item>
+	<id>35</id>
+	<name>Kit de Costura</name>
+</item>
+
+<item>
+	<id>36</id>
+	<name>Kit de Limpeza</name>
+</item>
+
+<item>
+	<id>37</id>
+	<name>Vara de Freixo</name>
+</item>
+
+<item>
+	<id>38</id>
+	<name>Graveto</name>
+</item>
+
+<item>
+	<id>39</id>
+	<name>Fita Adesiva</name>
+</item>
+
+<item>
+	<id>40</id>
+	<name>Saco</name>
+</item>
+
+<item>
+	<id>41</id>
+	<name>Corda</name>
+</item>
+
+<item>
+	<id>42</id>
+	<name>Faca de Caça</name>
+</item>
+
+<item>
+	<id>43</id>
+	<name>Faca do Exército</name>
+</item>
+
+<item>
+	<id>44</id>
+	<name>Faca de Açougueiro</name>
+</item>
+
+<item>
+	<id>45</id>
+	<name>Morfina</name>
+</item>
+
+<item>
+	<id>46</id>
+	<name>Tetraciclina</name>
+</item>
+
+<item>
+	<id>47</id>
+	<name>Sementes de Tomate</name>
+</item>
+
+<item>
+	<id>48</id>
+	<name>Sementes de Pimentão</name>
+</item>
+
+<item>
+	<id>49</id>
+	<name>Jornal</name>
+</item>
+
+<item>
+	<id>50</id>
+	<name>Madeira</name>
+</item>
+
+<item>
+	<id>51</id>
+	<name>Flecha Artesanal</name>
+</item>
+
+<item>
+	<id>52</id>
+	<name>Flecha Composta</name>
+</item>
+
+<item>
+	<id>53</id>
+	<name>Galão de Gasolina</name>
+</item>
+
+<item>
+	<id>54</id>
+	<name>Garrafa de Água</name>
+</item>
+
+<item>
+	<id>55</id>
+	<name>Cantil</name>
+</item>
+
+<item>
+	<id>56</id>
+	<name>Mina Terrestre</name>
+</item>
+
+<item>
+	<id>57</id>
+	<name>Armadilha de Urso</name>
+</item>
+
+<item>
+	<id>58</id>
+	<name>Munição .22 LR</name>
+</item>
+
+<item>
+	<id>59</id>
+	<name>Kit de Conserto de Veículo</name>
+</item>
+
+<item>
+	<id>60</id>
+	<name>Bife Cru</name>
+</item>
+
+<item>
+	<id>61</id>
+	<name>Bife Cozido</name>
+</item>
+
+<item>
+	<id>62</id>
+	<name>Nuka-Cola</name>
+</item>
+
+<item>
+	<id>63</id>
+	<name>Bebida Energética</name>
+</item>
+
+<item>
+	<id>64</id>
+	<name>Troca Equilibrada</name>
+</item>
+
+<item>
+	<id>65</id>
+	<name>Armário de Itens</name>
+</item>
+
+<item>
+	<id>66</id>
+	<name>Modo Construção</name>
+</item>
+
+<item>
+	<id>67</id>
+	<name>Loja de Experiência</name>
+</item>
+
+<item>
+	<id>68</id>
+	<name>Sementes de Abobrinha</name>
+</item>
+
+<item>
+	<id>69</id>
+	<name>Munição 9mm</name>
+</item>
+
+<item>
+	<id>70</id>
+	<name>Arame Farpado</name>
+</item>
+
+<item>
+	<id>71</id>
+	<name>Carne de Coelho Crua</name>
+</item>
+
+<item>
+	<id>72</id>
+	<name>Carne de Coelho Cozida</name>
+</item>
+
+<item>
+	<id>73</id>
+	<name>Amora</name>
+</item>
+
+<item>
+	<id>74</id>
+	<name>Framboesa</name>
+</item>
+
+<item>
+	<id>75</id>
+	<name>Rádio</name>
+</item>
+
+<item>
+	<id>76</id>
+	<name>Mira Red Dot RDS</name>
+</item>
+
+<item>
+	<id>77</id>
+	<name>Mira PU</name>
+</item>
+
+<item>
+	<id>78</id>
+	<name>Mira PSO-1</name>
+</item>
+
+<item>
+	<id>79</id>
+	<name>Mira ACOG</name>
+</item>
+
+<item>
+	<id>80</id>
+	<name>Supressor 5.45mm</name>
+</item>
+
+<item>
+	<id>81</id>
+	<name>Supressor 5.56mm</name>
+</item>
+
+<item>
+	<id>82</id>
+	<name>Serra de Arco</name>
+</item>
+
+<item>
+	<id>83</id>
+	<name>Bandoleira</name>
+</item>
+
+<item>
+	<id>85</id>
+	<name>Racão MRE</name>
+</item>
+
+<item>
+	<id>86</id>
+	<name>Vara de Pescar com Carretel</name>
+</item>
+
+<item>
+	<id>87</id>
+	<name>Vara de Pescar Simples</name>
+</item>
+
+<item>
+	<id>88</id>
+	<name>Estojo Protetor</name>
+</item>
+
+<item>
+	<id>89</id>
+	<name>Carregador de Saque Rápido</name>
+</item>
+
+<item>
+	<id>90</id>
+	<name>Choke</name>
+</item>
+
+<item>
+	<id>91</id>
+	<name>Arenque</name>
+</item>
+
+<item>
+	<id>92</id>
+	<name>Salmão</name>
+</item>
+
+<item>
+	<id>93</id>
+	<name>Perca</name>
+</item>
+
+<item>
+	<id>94</id>
+	<name>Robalo</name>
+</item>
+
+<item>
+	<id>95</id>
+	<name>Peixe Grelhado Pequeno</name>
+</item>
+
+<item>
+	<id>96</id>
+	<name>Peixe Grelhado Grande</name>
+</item>
+
+<item>
+	<id>97</id>
+	<name>Cogumelo</name>
+</item>
+
+<item>
+	<id>98</id>
+	<name>Mira de Longo Alcance</name>
+</item>
+
+<item>
+	<id>99</id>
+	<name>Mina Claymore</name>
+</item>
+
+<item>
+	<id>100</id>
+	<name>Munição 9x18mm</name>
+</item>
+
+<item>
+	<id>101</id>
+	<name>Munição 9x39mm</name>
+</item>
+
+<item>
+	<id>102</id>
+	<name>Coquete Molotov</name>
+</item>
+
+<item>
+	<id>103</id>
+	<name>Pistola de Sinalização</name>
+</item>
+
+<item>
+	<id>104</id>
+	<name>Munição .50 Cal</name>
+</item>
+
+<item>
+	<id>105</id>
+	<name>Granada 40mm</name>
+</item>
+
+<item>
+	<id>106</id>
+	<name>Granada VOG-25</name>
+</item>
+
+<item>
+	<id>107</id>
+	<name>Lança-granadas M203</name>
+</item>
+
+<item>
+	<id>108</id>
+	<name>Lança-granadas GP-25</name>
+</item>
+
+<item>
+	<id>109</id>
+	<name>Bolsa de Sangue Vazia</name>
+</item>
+
+<item>
+	<id>110</id>
+	<name>Pedra de Amolar</name>
+</item>
+
+<item>
+	<id>111</id>
+	<name>Empunhadura AK</name>
+</item>
+
+<item>
+	<id>112</id>
+	<name>Empunhadura Trilho</name>
+</item>
+
+<item>
+	<id>113</id>
+	<name>Mapa Marcado</name>
+</item>
+
+<item>
+	<id>114</id>
+	<name>Sabugueiro</name>
+</item>
+
+<item>
+	<id>115</id>
+	<name>Binóculos</name>
+</item>
+
+<item>
+	<id>116</id>
+	<name>Manual do Batedor</name>
+</item>
+
+<item>
+	<id>117</id>
+	<name>Lona</name>
+</item>
+
+<item>
+	<id>118</id>
+	<name>Fita Médica</name>
+</item>
+
+<item>
+	<id>119</id>
+	<name>Granada de Fumaça</name>
+</item>
+
+<item>
+	<id>120</id>
+	<name>Cigarros</name>
+</item>
+
+<item>
+	<id>121</id>
+	<name>Cerveja</name>
+</item>
+
+<item>
+	<id>122</id>
+	<name>Epóxi</name>
+</item>
+
+<item>
+	<id>123</id>
+	<name>Fertilizante</name>
+</item>
+
+<item>
+	<id>124</id>
+	<name>Mira Laser</name>
+</item>
+
+<item>
+	<id>125</id>
+	<name>Isqueiro</name>
+</item>
+
+<item>
+	<id>126</id>
+	<name>Cartão de Acesso</name>
+</item>
+
+<item>
+	<id>127</id>
+	<name>Supressor Improvisado</name>
+</item>
+
+<item>
+	<id>128</id>
+	<name>Mira Noturna PVS-4</name>
+</item>
+
+<item>
+	<id>129</id>
+	<name>Mira Noturna 1PN51</name>
+</item>
+
+<item>
+	<id>130</id>
+	<name>C-MAG 5.56</name>
+</item>
+
+<item>
+	<id>131</id>
+	<name>Carregador Tambor 7.62x39mm</name>
+</item>
+
+<item>
+	<id>132</id>
+	<name>Frigideira</name>
+</item>
+
+<item>
+	<id>133</id>
+	<name>Máscara de Gás</name>
+</item>
+
+<item>
+	<id>134</id>
+	<name>Balaclava</name>
+</item>
+
+<item>
+	<id>135</id>
+	<name>Máscara de Gás GP-5</name>
+</item>
+
+<item>
+	<id>136</id>
+	<name>Máscara de Palhaço</name>
+</item>
+
+<item>
+	<id>137</id>
+	<name>Luvas de Combate</name>
+</item>
+
+<item>
+	<id>138</id>
+	<name>Munição .308</name>
+</item>
+
+<item>
+	<id>139</id>
+	<name>Tênis</name>
+</item>
+
+<item>
+	<id>140</id>
+	<name>Botas Woodland</name>
+</item>
+
+<item>
+	<id>141</id>
+	<name>Botas de Assalto</name>
+</item>
+
+<item>
+	<id>142</id>
+	<name>Alça de Fuzil</name>
+</item>
+
+<item>
+	<id>143</id>
+	<name>Comprimidos de Carvão</name>
+</item>
+
+<item>
+	<id>144</id>
+	<name>Maçarico</name>
+</item>
+
+<item>
+	<id>145</id>
+	<name>Traje Ghillie</name>
+</item>
+
+<item>
+	<id>146</id>
+	<name>Lanterna Sob o Cano</name>
+</item>
+
+<item>
+	<id>147</id>
+	<name>Empunhadura Laser AK</name>
+</item>
+
+<item>
+	<id>148</id>
+	<name>Empunhadura Laser Trilho</name>
+</item>
+
+<item>
+	<id>700</id>
+	<name>Botas Protetoras</name>
+</item>
+
+<item>
+	<id>701</id>
+	<name>Luvas Protetoras</name>
+</item>
+
+<item>
+	<id>702</id>
+	<name>Traje Protetor Classe A</name>
+</item>
+
+<item>
+	<id>703</id>
+	<name>Traje Protetor Classe C</name>
+</item>
+
+<item>
+	<id>704</id>
+	<name>Carregador Tambor 12 Gauge</name>
+</item>
+
+<item>
+	<id>705</id>
+	<name>Lata de Tinta</name>
+</item>
+
+<item>
+	<id>706</id>
+	<name>Farol de Cabeça</name>
+</item>
+
+<item>
+	<id>707</id>
+	<name>Óculos de Visão Noturna</name>
+</item>
+
+<item>
+	<id>708</id>
+	<name>Kit Médico AI-2</name>
+</item>
+
+<item>
+	<id>709</id>
+	<name>Caixa de Transporte para Cão</name>
+</item>
+
+<item>
+	<id>710</id>
+	<name>Injeção de Adrenalina</name>
+</item>
+
+<item>
+	<id>711</id>
+	<name>Traje Militar Classe A</name>
+</item>
+
+<item>
+	<id>712</id>
+	<name>Mapa Avançado</name>
+</item>
+
+<item>
+	<id>713</id>
+	<name>Traje Protetor Classe B</name>
+</item>
+
+<item>
+	<id>714</id>
+	<name>Pele de Veado</name>
+</item>
+
+<item>
+	<id>715</id>
+	<name>C-MAG 5.45</name>
+</item>
+
+<item>
+	<id>716</id>
+	<name>Coleira Espinhosa</name>
+</item>
+
+<item>
+	<id>717</id>
+	<name>Bolsa de Carga</name>
+</item>
+
+<item>
+	<id>718</id>
+	<name>Ovo</name>
+</item>
+
+<item>
+	<id>719</id>
+	<name>Frango Cru</name>
+</item>
+
+<item>
+	<id>720</id>
+	<name>Frango Cozido</name>
+</item>
+
+<item>
+	<id>721</id>
+	<name>Mira de Pistola</name>
+</item>
+
+<item>
+	<id>722</id>
+	<name>Supressor de Pistola</name>
+</item>
+
+<item>
+	<id>723</id>
+	<name>Lanterna de Pistola</name>
+</item>
+
+<item>
+	<id>724</id>
+	<name>Ovo Frito</name>
+</item>
+
+<item>
+	<id>725</id>
+	<name>Bife com Pimenta</name>
+</item>
+
+<item>
+	<id>726</id>
+	<name>Ovos Mexidos com Tomate</name>
+</item>
+
+<item>
+	<id>727</id>
+	<name>Holofote</name>
+</item>
+
+<item>
+	<id>728</id>
+	<name>Minhocas</name>
+</item>
+
+<item>
+	<id>729</id>
+	<name>Granada Improvisada VOG-25</name>
+</item>
+
+<item>
+	<id>730</id>
+	<name>FNX-45</name>
+</item>
+
+<item>
+	<id>731</id>
+	<name>Colt 1911</name>
+</item>
+
+<item>
+	<id>732</id>
+	<name>Revólver Magnum</name>
+</item>
+
+<item>
+	<id>733</id>
+	<name>MK II</name>
+</item>
+
+<item>
+	<id>734</id>
+	<name>Glock</name>
+</item>
+
+<item>
+	<id>735</id>
+	<name>IZH-43 Serrada</name>
+</item>
+
+<item>
+	<id>736</id>
+	<name>Mosin-Nagant Serrado</name>
+</item>
+
+<item>
+	<id>737</id>
+	<name>Colt Gravado</name>
+</item>
+
+<item>
+	<id>738</id>
+	<name>Rossi M92 Serrado</name>
+</item>
+
+<item>
+	<id>739</id>
+	<name>PM Makarov</name>
+</item>
+
+<item>
+	<id>740</id>
+	<name>Pistola Silenciosa PB</name>
+</item>
+
+<item>
+	<id>741</id>
+	<name>Desert Eagle</name>
+</item>
+
+<item>
+	<id>742</id>
+	<name>M79 Thumper</name>
+</item>
+
+<item>
+	<id>743</id>
+	<name>Blaze Serrado</name>
+</item>
+
+<item>
+	<id>744</id>
+	<name>Longhorn</name>
+</item>
+
+<item>
+	<id>745</id>
+	<name>MAC-10</name>
+</item>
+
+<item>
+	<id>746</id>
+	<name>Mini-UZI</name>
+</item>
+
+<item>
+	<id>747</id>
+	<name>Explosivo C4</name>
+</item>
+
+<item>
+	<id>748</id>
+	<name>Chapéu de Papai Noel</name>
+</item>
+
+<item>
+	<id>749</id>
+	<name>Caixa de Mistério de Natal</name>
+</item>
+
+<item>
+	<id>750</id>
+	<name>Carne Humana</name>
+</item>
+
+<item>
+	<id>751</id>
+	<name>Carne Humana Cozida</name>
+</item>
+
+<item>
+	<id>752</id>
+	<name>Pasta</name>
+</item>
+
+<item>
+	<id>753</id>
+	<name>Pasta Militar</name>
+</item>
+
+<item>
+	<id>754</id>
+	<name>Pasta Médica</name>
+</item>
+
+<item>
+	<id>755</id>
+	<name>Estojo para Arma</name>
+</item>
+
+<item>
+	<id>756</id>
+	<name>Coldre de Pistola</name>
+</item>
+
+<item>
+	<id>757</id>
+	<name>Luvas de Trabalho</name>
+</item>
+
+<item>
+	<id>780</id>
+	<name>
+</name>
+</item>
+
+<!--ARMAS-->
+
+<item>
+	<id>151</id>
+	<name>FNX-45</name>
+</item>
+
+<item>
+	<id>152</id>
+	<name>Colt 1911</name>
+</item>
+
+<item>
+	<id>153</id>
+	<name>Revólver Magnum</name>
+</item>
+
+<item>
+	<id>154</id>
+	<name>IZH-43</name>
+</item>
+
+<item>
+	<id>155</id>
+	<name>Remington 870</name>
+</item>
+
+<item>
+	<id>156</id>
+	<name>Mosin-Nagant</name>
+</item>
+
+<item>
+	<id>157</id>
+	<name>SKS</name>
+</item>
+
+<item>
+	<id>158</id>
+	<name>M4 Carbine</name>
+</item>
+
+<item>
+	<id>159</id>
+	<name>AKM</name>
+</item>
+
+<item>
+	<id>160</id>
+	<name>AK-74</name>
+</item>
+
+<item>
+	<id>161</id>
+	<name>AKs-74u</name>
+</item>
+
+<item>
+	<id>162</id>
+	<name>L85</name>
+</item>
+
+<item>
+	<id>163</id>
+	<name>Arco</name>
+</item>
+
+<item>
+	<id>164</id>
+	<name>Besta de Caça</name>
+</item>
+
+<item>
+	<id>165</id>
+	<name>MK II</name>
+</item>
+
+<item>
+	<id>166</id>
+	<name>Sporter 22</name>
+</item>
+
+<item>
+	<id>167</id>
+	<name>Rossi M92</name>
+</item>
+
+<item>
+	<id>168</id>
+	<name>SVD</name>
+</item>
+
+<item>
+	<id>169</id>
+	<name>MP5K</name>
+</item>
+
+<item>
+	<id>170</id>
+	<name>Glock</name>
+</item>
+
+<item>
+	<id>171</id>
+	<name>IZH-43 Serrada</name>
+</item>
+
+<item>
+	<id>172</id>
+	<name>Mosin-Nagant Serrado</name>
+</item>
+
+<item>
+	<id>173</id>
+	<name>UMP-45</name>
+</item>
+
+<item>
+	<id>174</id>
+	<name>RPK</name>
+</item>
+
+<item>
+	<id>175</id>
+	<name>FN-FAL</name>
+</item>
+
+<item>
+	<id>176</id>
+	<name>Colt Gravado</name>
+</item>
+
+<item>
+	<id>177</id>
+	<name>AUG</name>
+</item>
+
+<item>
+	<id>178</id>
+	<name>Saiga-12k</name>
+</item>
+
+<item>
+	<id>179</id>
+	<name>MAC-10</name>
+</item>
+
+<item>
+	<id>180</id>
+	<name>Rossi M92 Serrado</name>
+</item>
+
+<item>
+	<id>181</id>
+	<name>PM Makarov</name>
+</item>
+
+<item>
+	<id>182</id>
+	<name>Pistola Silenciosa PB</name>
+</item>
+
+<item>
+	<id>183</id>
+	<name>PP-19 Bizon</name>
+</item>
+
+<item>
+	<id>184</id>
+	<name>OTs-14 Groza</name>
+</item>
+
+<item>
+	<id>185</id>
+	<name>VSS Vintorez</name>
+</item>
+
+<item>
+	<id>186</id>
+	<name>SV-98</name>
+</item>
+
+<item>
+	<id>187</id>
+	<name>Madsen MG</name>
+</item>
+
+<item>
+	<id>188</id>
+	<name>AN-94</name>
+</item>
+
+<item>
+	<id>189</id>
+	<name>Desert Eagle</name>
+</item>
+
+<item>
+	<id>190</id>
+	<name>Remington Silenciada</name>
+</item>
+
+<item>
+	<id>191</id>
+	<name>M16A2</name>
+</item>
+
+<item>
+	<id>192</id>
+	<name>KRISS Vector</name>
+</item>
+
+<item>
+	<id>193</id>
+	<name>M4 Carbine</name>
+</item>
+
+<item>
+	<id>194</id>
+	<name>AKM</name>
+</item>
+
+<item>
+	<id>195</id>
+	<name>M70</name>
+</item>
+
+<item>
+	<id>196</id>
+	<name>Saiga-12k</name>
+</item>
+
+<item>
+	<id>197</id>
+	<name>RPK</name>
+</item>
+
+<item>
+	<id>198</id>
+	<name>M16A2</name>
+</item>
+
+<item>
+	<id>199</id>
+	<name>AUG</name>
+</item>
+
+<item>
+	<id>230</id>
+	<name>Lança-granadas MGL</name>
+</item>
+
+<item>
+	<id>231</id>
+	<name>Blaze</name>
+</item>
+
+<item>
+	<id>232</id>
+	<name>FAMAS</name>
+</item>
+
+<item>
+	<id>233</id>
+	<name>Mini-14</name>
+</item>
+
+<item>
+	<id>234</id>
+	<name>M79</name>
+</item>
+
+<item>
+	<id>235</id>
+	<name>Blaze Serrado</name>
+</item>
+
+<item>
+	<id>236</id>
+	<name>Longhorn</name>
+</item>
+
+<item>
+	<id>237</id>
+	<name>AK-74</name>
+</item>
+
+<item>
+	<id>238</id>
+	<name>AKs-74u</name>
+</item>
+
+<item>
+	<id>239</id>
+	<name>Mini-UZI</name>
+</item>
+
+<item>
+	<id>240</id>
+	<name>AS-VAL</name>
+</item>
+
+<item>
+	<id>241</id>
+	<name>M249 SAW</name>
+</item>
+
+<!--Armas Brancas-->
+
+<item>
+	<id>200</id>
+	<name>Chave Inglesa</name>
+</item>
+
+<item>
+	<id>201</id>
+	<name>Pá</name>
+</item>
+
+<item>
+	<id>202</id>
+	<name>Machado</name>
+</item>
+
+<item>
+	<id>203</id>
+	<name>Taco de Beisebol</name>
+</item>
+
+<item>
+	<id>204</id>
+	<name>Machado de Bombeiro</name>
+</item>
+
+<item>
+	<id>205</id>
+	<name>Pé de Cabra</name>
+</item>
+
+<item>
+	<id>206</id>
+	<name>Picareta</name>
+</item>
+
+<item>
+	<id>207</id>
+	<name>Forquilha</name>
+</item>
+
+<item>
+	<id>208</id>
+	<name>Marreta</name>
+</item>
+
+<item>
+	<id>209</id>
+	<name>Espada Longa</name>
+</item>
+
+<item>
+	<id>210</id>
+	<name>Frigideira</name>
+</item>
+
+<item>
+	<id>211</id>
+	<name>Katana</name>
+</item>
+
+<item>
+	<id>212</id>
+	<name>Taco de Arame Farpado</name>
+</item>
+
+<item>
+	<id>213</id>
+	<name>Motosserra</name>
+</item>
+
+<item>
+	<id>214</id>
+	<name>Gerador</name>
+</item>
+
+<item>
+	<id>215</id>
+	<name>Placa de Metal</name>
+</item>
+
+
+<!--Capacetes-->
+
+<item>
+	<id>250</id>
+	<name>Máscara de Gás</name>
+</item>
+
+<item>
+	<id>251</id>
+	<name>Capacete Militar</name>
+</item>
+
+<item>
+	<id>252</id>
+	<name>Capacete de Moto</name>
+</item>
+
+<item>
+	<id>253</id>
+	<name>Capacete de Moto</name>
+</item>
+
+<item>
+	<id>254</id>
+	<name>Chapéu Quente</name>
+</item>
+
+<item>
+	<id>255</id>
+	<name>Boina</name>
+</item>
+
+<item>
+	<id>256</id>
+	<name>Boné</name>
+</item>
+
+<item>
+	<id>257</id>
+	<name>Balaclava</name>
+</item>
+
+<item>
+	<id>258</id>
+	<name>Ushanka</name>
+</item>
+
+<item>
+	<id>259</id>
+	<name>Capacete de Obra</name>
+</item>
+
+<item>
+	<id>260</id>
+	<name>Farol de Cabeça</name>
+</item>
+
+<item>
+	<id>261</id>
+	<name>Chapéu de Cowboy</name>
+</item>
+
+<item>
+	<id>262</id>
+	<name>Máscara de Solda</name>
+</item>
+
+<item>
+	<id>263</id>
+	<name>Capacete Gorka</name>
+</item>
+
+<item>
+	<id>264</id>
+	<name>Quepe de Policial</name>
+</item>
+
+<item>
+	<id>265</id>
+	<name>NVG</name>
+</item>
+
+<item>
+	<id>266</id>
+	<name>Bandana</name>
+</item>
+
+<item>
+	<id>267</id>
+	<name>Capacete Medieval</name>
+</item>
+
+<item>
+	<id>268</id>
+	<name>Capacete de Piloto</name>
+</item>
+
+<item>
+	<id>269</id>
+	<name>Capacete Altyn</name>
+</item>
+
+<item>
+	<id>270</id>
+	<name>Capacete Altyn</name>
+</item>
+
+<item>
+	<id>271</id>
+	<name>Máscara de Gás GP-5</name>
+</item>
+
+<item>
+	<id>272</id>
+	<name>Máscara de Palhaço</name>
+</item>
+
+<item>
+	<id>273</id>
+	<name>Capacete de Assalto</name>
+</item>
+
+<item>
+	<id>274</id>
+	<name>Capacete de Assalto</name>
+</item>
+
+<item>
+	<id>275</id>
+	<name>Capacete de Assalto</name>
+</item>
+
+<item>
+	<id>276</id>
+	<name>Capacete de Assalto</name>
+</item>
+
+<!--Calças-->
+
+<item>
+	<id>300</id>
+	<name>Jeans</name>
+</item>
+
+<item>
+	<id>301</id>
+	<name>Calça de Trabalho</name>
+</item>
+
+<item>
+	<id>302</id>
+	<name>Calça de Moletom</name>
+</item>
+
+<item>
+	<id>303</id>
+	<name>Calça Gorka</name>
+</item>
+
+<item>
+	<id>304</id>
+	<name>Calça Orel</name>
+</item>
+
+<item>
+	<id>305</id>
+	<name>Calça de Médico</name>
+</item>
+
+<item>
+	<id>306</id>
+	<name>Calça de Caça</name>
+</item>
+
+<item>
+	<id>307</id>
+	<name>Calça de Bombeiro</name>
+</item>
+
+<!--Agasalhos-->
+
+<item>
+	<id>350</id>
+	<name>Camiseta</name>
+</item>
+
+<item>
+	<id>351</id>
+	<name>Camisa</name>
+</item>
+
+<item>
+	<id>352</id>
+	<name>Camisa</name>
+</item>
+
+<item>
+	<id>353</id>
+	<name>Capa de Chuva</name>
+</item>
+
+<item>
+	<id>354</id>
+	<name>Jaqueta</name>
+</item>
+
+<item>
+	<id>355</id>
+	<name>Jaqueta Gorka</name>
+</item>
+
+<item>
+	<id>356</id>
+	<name>Moletom com Capuz</name>
+</item>
+
+<item>
+	<id>357</id>
+	<name>Moletom com Capuz</name>
+</item>
+
+<item>
+	<id>358</id>
+	<name>Capa</name>
+</item>
+
+<item>
+	<id>359</id>
+	<name>Jaqueta de Médico</name>
+</item>
+
+<item>
+	<id>360</id>
+	<name>Jaqueta Orel</name>
+</item>
+
+<item>
+	<id>361</id>
+	<name>Jaqueta de Agasalho</name>
+</item>
+
+<item>
+	<id>362</id>
+	<name>Vestido</name>
+</item>
+
+<item>
+	<id>363</id>
+	<name>Jaqueta de Penas</name>
+</item>
+
+<item>
+	<id>364</id>
+	<name>Jaqueta de Caça</name>
+</item>
+
+<item>
+	<id>365</id>
+	<name>Suéter</name>
+</item>
+
+<item>
+	<id>366</id>
+	<name>Moletom Incrível</name>
+</item>
+
+<item>
+	<id>367</id>
+	<name>Jaqueta de Bombeiro</name>
+</item>
+
+
+<!--Coletes-->
+
+<item>
+	<id>400</id>
+	<name>Colete à Prova de Balas</name>
+</item>
+
+<item>
+	<id>401</id>
+	<name>Colete de Imprensa</name>
+</item>
+
+<item>
+	<id>402</id>
+	<name>Colete de Assalto</name>
+</item>
+
+<item>
+	<id>403</id>
+	<name>Colete de Alta Capacidade</name>
+</item>
+
+<item>
+	<id>404</id>
+	<name>Colete Kevlar</name>
+</item>
+
+<item>
+	<id>405</id>
+	<name>Colete Soviético</name>
+</item>
+
+<item>
+	<id>406</id>
+	<name>Avental</name>
+</item>
+
+<item>
+	<id>407</id>
+	<name>Traje Ghillie</name>
+</item>
+
+<item>
+	<id>408</id>
+	<name>Armadura Pesada M</name>
+</item>
+
+<item>
+	<id>409</id>
+	<name>Traje Protetor Classe A</name>
+</item>
+
+<item>
+	<id>410</id>
+	<name>Traje Militar Kevlar</name>
+</item>
+
+<item>
+	<id>411</id>
+	<name>Traje Militar Pesado M</name>
+</item>
+
+<item>
+	<id>412</id>
+	<name>Traje Militar Ghillie</name>
+</item>
+
+<item>
+	<id>413</id>
+	<name>Traje Protetor Classe C</name>
+</item>
+
+<item>
+	<id>414</id>
+	<name>Traje Protetor Classe B</name>
+</item>
+
+<item>
+	<id>415</id>
+	<name>Traje Militar Classe A</name>
+</item>
+
+<!--Mochilas-->
+
+<item>
+	<id>450</id>
+	<name>Mochila de Viagem</name>
+</item>
+
+<item>
+	<id>451</id>
+	<name>Mochila de Caça</name>
+</item>
+
+<item>
+	<id>452</id>
+	<name>Mochila de Montanha</name>
+</item>
+
+<item>
+	<id>453</id>
+	<name>Mochila Escolar</name>
+</item>
+
+<item>
+	<id>454</id>
+	<name>Mochila Improvisada</name>
+</item>
+
+<item>
+	<id>455</id>
+	<name>Mochila Improvisada Reforçada</name>
+</item>
+
+<item>
+	<id>456</id>
+	<name>Barraca Civil</name>
+</item>
+
+<item>
+	<id>457</id>
+	<name>Mochila Militar</name>
+</item>
+
+<item>
+	<id>458</id>
+	<name>Pasta</name>
+</item>
+
+<item>
+	<id>459</id>
+	<name>Pasta Militar</name>
+</item>
+
+<item>
+	<id>460</id>
+	<name>Pasta Médica</name>
+</item>
+
+<item>
+	<id>461</id>
+	<name>Armário de Itens</name>
+</item>
+
+</list>
