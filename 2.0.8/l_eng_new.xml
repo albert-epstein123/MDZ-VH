@@ -817,6 +817,7 @@ Cthể lắp vào: M4A1, M16, L85A2, AUG A1, M249
 	<name>Cái cưa tay có lưỡi cưa đc giữ căng trong khung, dùng để cắt các vật liệu như kim loại hoặc nhựa.
 
 Súng cthể cưa: Rossi R92, IZh-43, Blaze, Mosin Nagant
+Item cthể cưa: Lựu đạn VOG-25
 </name>
 </text>
 
@@ -4366,14 +4367,14 @@ Cthể đặt trong boongke
 </text>
 -->
 
-<!--VOG-25 Khatabka-->
+<!--VOG-25 Khatabka Grenade-->
 <text>
 	<id>729</id>
 	<name>Một phiên bản lựu đạn đc tái chế từ lựu đạn VOG-25, đc dùng bởi quân Mujahadeen ở Chechnya.
 	
 Sthương: 1800       Mảnh văng: 24
 Sthương mỗi mảnh: 75
-Tgian kích nổː 2s     
+Tgian kích nổː 2s
 </name>
 </text>
 
