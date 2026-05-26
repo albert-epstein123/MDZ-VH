@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" ?>
+
+<list>
+
+<!--Mod strings (IDs 799-806)-->
+<text>
+ <id>799</id>
+ <name>Benutze {0} aus dem Inventar zum Entsperren.</name>
+</text>
+
+<text>
+ <id>800</id>
+ <name>{0} braucht Strom!</name>
+</text>
+
+<text>
+ <id>801</id>
+ <name>{0} wurde gepluendert oder scheint kaputt zu sein.</name>
+</text>
+
+<text>
+ <id>802</id>
+ <name>{0} hat fast keinen Strom mehr</name>
+</text>
+
+<text>
+ <id>803</id>
+ <name>{0} hat Strom!</name>
+</text>
+
+<text>
+ <id>804</id>
+ <name>{0} benutzt!</name>
+</text>
+
+<text>
+ <id>805</id>
+ <name>Dieser Schluessel passt nicht!</name>
+</text>
+
+<text>
+ <id>806</id>
+ <name>Es gibt keinen anderen Ort fuer diesen Schluessel.</name>
+</text>
+
+</list>
