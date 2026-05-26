@@ -1,0 +1,22 @@
+{
+	"mods":[
+		{
+			"name":"Perfomance Tab",
+			"description":"Hiển thị chi tiết hiệu năng game theo thời gian thực. - By Civert0",
+			"script":"perf_mdz",
+			"version":"1.0"
+		},
+		{
+			"name":"Item Spawner",
+			"description":"Spawn item trực tiếp hoặc ở dưới đất. - By Civert0",
+			"script":"item_spawner_test",
+			"version":"1.0"
+		},
+		{
+			"name":"Inject Tool",
+			"description":"\"Cheat Engine\" của MDZ - By Civert0 - VN trans by Dungx <br>đi kém với quicksave/load  - by Dungx",
+			"script":"c2injt_loader",
+			"version":"30.2"
+		}
+	]
+}
