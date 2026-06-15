@@ -1,0 +1,58 @@
+{
+	"mods":[
+		{
+			"name":"Inject Tool Vi en",
+			"description":"\"Toolhack\" of MDZ.",
+			"script":"c2injt_loader",
+			"notes":"Not recommended for low-end devices. If you want to use it, dont open the tab when the game isnt loading and then turn on \"Disable Panel Animation\"",
+			"version":"31.0",
+			"author":"Civert0, Dungx (script extension)",
+			"extension":""
+		},
+		{
+			"name":"Quicksave/load extension",
+			"description":"The name itself told you all",
+			"script":"quicksave_load",
+			"notes":"This is an \"Extension\" for toolkit mod. You still have to manually edit the toolkit script cause i dont know how to inject the code to it",
+			"version":"1.0.0",
+			"author":"Dungx, cplusplusnoob, Claude :V",
+			"extension":"c2injt"
+		},
+		{
+			"name":"Zoom",
+			"description":"Zoom button",
+			"script":"zoom",
+			"notes":"\"Change behaviours of ingame zoom buttons\"",
+			"version":"1.0",
+			"author":"Civert0",
+			"extension":""
+		},
+		{
+			"name":"Perfomance Tab",
+			"description":"Real-time performance monitor",
+			"script":"perf_mdz",
+			"notes":"Cannot turn off<br>Only for performance debug uses",
+			"version":"1.0",
+			"author":"Civert0",
+			"extension":""
+		},
+		{
+			"name":"Item Spawner",
+			"description":"Spawn item",
+			"script":"item_spawner_test",
+			"notes":"Cannot change items' durability",
+			"version":"1.0",
+			"author":"Civert0",
+			"extension":""
+		},
+		{
+			"name":"Placeholder",
+			"description":"",
+			"script":"",
+			"notes":"",
+			"version":"",
+			"author":"",
+			"extension":""
+		}
+	]
+}
