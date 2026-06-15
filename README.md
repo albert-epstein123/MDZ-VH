@@ -1,8 +1,9 @@
 # MDZ VH
-***[Bấm đây để mở game](https://albert-epstein123.github.io/MDZ-VH/2.0.8/)***
+***[Bấm đây để mở game (VN)](https://albert-epstein123.github.io/MDZ-VH/2.1.4/VN/)***
+***[Bấm đây để mở game (EN)](https://albert-epstein123.github.io/MDZ-VH/2.1.4/EN/)***
 ---
 **MDZ VH chạy trên Web**
-- Ver hiện tại: **2.0.8**
+- Ver hiện tại: **2.1.4**
 - VH bởi Dungx
 - Script toolkit của **civert0**
 [FB](https://www.facebook.com/darren276/)
