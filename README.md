@@ -5,6 +5,9 @@
 **MDZ VH chạy trên Web**
 - Ver hiện tại: **2.1.4**
 - VH bởi Dungx
+- Mod Loader của **AlphaSystemsPL**
+[Github](https://github.com/AlphaSystemsPL)<br>
+(tui có chỉnh một chút để load được mod ở bản này - Dungx)
 - Script toolkit của **civert0**
 [FB](https://www.facebook.com/darren276/)
 - Code quicksave của **cplusplusnoob**
