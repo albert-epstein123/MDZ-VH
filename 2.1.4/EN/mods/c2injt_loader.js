@@ -67,7 +67,7 @@
 	extList = extList.pop()
 	var notif = document.createElement('div');
 	notif.id = "mod-loaded-notif";
-	notif.innerHTML = `ROCK AND ROLL<span class='notif-subtext'>Đẫ cài Toolkit${displayText}.</span>`;
+	notif.innerHTML = `ROCK AND ROLL<span class='notif-subtext'>Loaded: ${displayText}.</span>`;
 	document.body.appendChild(notif);
 	setTimeout(function() {
 		notif.classList.add('notif-fade-out');
