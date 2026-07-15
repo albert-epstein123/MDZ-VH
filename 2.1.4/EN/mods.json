@@ -1,8 +1,8 @@
 {
 	"mods":[
 		{
-			"name":"Inject Tool Vi en",
-			"description":"\"Toolhack\" of MDZ.",
+			"name":"Inject Tool",
+			"description":"\"Toolhack\" for MDZ.",
 			"script":"c2injt_loader",
 			"notes":"Not recommended for low-end devices. If you want to use it, dont open the tab when the game isnt loading and then turn on \"Disable Panel Animation\"",
 			"version":"31.0",
