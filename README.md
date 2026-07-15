@@ -1,6 +1,5 @@
 # MDZ VH
-***[Bấm đây để mở game (VN)](https://albert-epstein123.github.io/MDZ-VH/2.1.4/VN/)***<br>
-***[Click here to play (EN)](https://albert-epstein123.github.io/MDZ-VH/2.1.4/EN/)***
+***[Bấm đây để mở game (VN)](https://albert-epstein123.github.io/MDZ-VH/2.2.6/)***<br>
 ---
 **MDZ VH chạy trên Web**
 - Ver hiện tại: **2.2.6**
