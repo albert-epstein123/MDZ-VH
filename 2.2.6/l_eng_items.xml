@@ -1,0 +1,2006 @@
+<?xml version="1.0" ?>
+
+<list>
+
+<!--INVENTORY ITEMS-->
+
+<item>
+	<id>0</id>
+	<name></name>
+</item>
+
+<item>
+	<id>1</id>
+	<name>Đậu đóng hộp</name>
+</item>
+
+<item>
+	<id>2</id>
+	<name>Cá ngừ đóng hộp</name>
+</item>
+
+<item>
+	<id>3</id>
+	<name>Thịt xông khói</name>
+</item>
+
+<item>
+	<id>4</id>
+	<name>Gạo</name>
+</item>
+
+<item>
+	<id>5</id>
+	<name>Cà chua</name>
+</item>
+
+<item>
+	<id>6</id>
+	<name>Táo</name>
+</item>
+
+<item>
+	<id>7</id>
+	<name>Chuối</name>
+</item>
+
+<item>
+	<id>8</id>
+	<name>Pipsi</name>
+</item>
+
+<item>
+	<id>9</id>
+	<name>Spite</name>
+</item>
+
+<item>
+	<id>10</id>
+	<name>Kvas</name>
+</item>
+
+<item>
+	<id>11</id>
+	<name>Đạn 5.56x45</name>
+</item>
+
+<item>
+	<id>12</id>
+	<name>Đạn .45 ACP</name>
+</item>
+
+<item>
+	<id>13</id>
+	<name>Đạn 7.62x54R</name>
+</item>
+
+<item>
+	<id>14</id>
+	<name>Đạn 7.62x39</name>
+</item>
+
+<item>
+	<id>15</id>
+	<name>Đạn 5.45x39</name>
+</item>
+
+<item>
+	<id>16</id>
+	<name>Đạn .357</name>
+</item>
+
+<item>
+	<id>17</id>
+	<name>Đạn 12 Cal</name>
+</item>
+
+<item>
+	<id>18</id>
+	<name>Băng gạc</name>
+</item>
+
+<item>
+	<id>19</id>
+	<name>Túi máu</name>
+</item>
+
+<item>
+	<id>20</id>
+	<name>Pháo sáng</name>
+</item>
+
+<item>
+	<id>21</id>
+	<name>Lựu đạn F1</name>
+</item>
+
+<item>
+	<id>22</id>
+	<name>Pin</name>
+</item>
+
+<item>
+	<id>23</id>
+	<name>Bộ lửa trại</name>
+</item>
+
+<item>
+	<id>24</id>
+	<name>Diêm</name>
+</item>
+
+<item>
+	<id>25</id>
+	<name>Whiskey</name>
+</item>
+
+<item>
+	<id>26</id>
+	<name>Giẻ rách</name>
+</item>
+
+<item>
+	<id>27</id>
+	<name>Quả nam việt quất</name>
+</item>
+
+<item>
+	<id>28</id>
+	<name>Túi nước muối</name>
+</item>
+
+<item>
+	<id>29</id>
+	<name>Vitamin</name>
+</item>
+
+<item>
+	<id>30</id>
+	<name>Nota-Cola</name>
+</item>
+
+<item>
+	<id>31</id>
+	<name>Bí ngòi</name>
+</item>
+
+<item>
+	<id>32</id>
+	<name>Ớt chuông</name>
+</item>
+
+<item>
+	<id>33</id>
+	<name>Cam</name>
+</item>
+
+<item>
+	<id>34</id>
+	<name>Túi sưởi</name>
+</item>
+
+<item>
+	<id>35</id>
+	<name>Bộ may vá</name>
+</item>
+
+<item>
+	<id>36</id>
+	<name>Bộ vệ sinh</name>
+</item>
+
+<item>
+	<id>37</id>
+	<name>Que tần bì</name>
+</item>
+
+<item>
+	<id>38</id>
+	<name>Que củi</name>
+</item>
+
+<item>
+	<id>39</id>
+	<name>Băng dính</name>
+</item>
+
+<item>
+	<id>40</id>
+	<name>Bao tải</name>
+</item>
+
+<item>
+	<id>41</id>
+	<name>Dây thừng</name>
+</item>
+
+<item>
+	<id>42</id>
+	<name>Dao săn bắn</name>
+</item>
+
+<item>
+	<id>43</id>
+	<name>Dao quân đội</name>
+</item>
+
+<item>
+	<id>44</id>
+	<name>Dao mổ thịt</name>
+</item>
+
+<item>
+	<id>45</id>
+	<name>Morphin</name>
+</item>
+
+<item>
+	<id>46</id>
+	<name>Tetracycline</name>
+</item>
+
+<item>
+	<id>47</id>
+	<name>Hạt giống cà chua</name>
+</item>
+
+<item>
+	<id>48</id>
+	<name>Hạt giống ớt chuông</name>
+</item>
+
+<item>
+	<id>49</id>
+	<name>Báo</name>
+</item>
+
+<item>
+	<id>50</id>
+	<name>Đống củi</name>
+</item>
+
+<item>
+	<id>51</id>
+	<name>Mũi tên chế tạo</name>
+</item>
+
+<item>
+	<id>52</id>
+	<name>Mũi tên composite</name>
+</item>
+
+<item>
+	<id>53</id>
+	<name>Can xăng</name>
+</item>
+
+<item>
+	<id>54</id>
+	<name>Chai nước</name>
+</item>
+
+<item>
+	<id>55</id>
+	<name>Bình nước</name>
+</item>
+
+<item>
+	<id>56</id>
+	<name>Mìn</name>
+</item>
+
+<item>
+	<id>57</id>
+	<name>Bẫy gấu</name>
+</item>
+
+<item>
+	<id>58</id>
+	<name>Đạn .22 LR</name>
+</item>
+
+<item>
+	<id>59</id>
+	<name>Bộ sửa xe</name>
+</item>
+
+<item>
+	<id>60</id>
+	<name>Bít tết sống</name>
+</item>
+
+<item>
+	<id>61</id>
+	<name>Bít tết chín</name>
+</item>
+
+<item>
+	<id>62</id>
+	<name>Nuka-Cola</name>
+</item>
+
+<item>
+	<id>63</id>
+	<name>Nước tăng lực</name>
+</item>
+
+<item>
+	<id>64</id>
+	<name>Trao Đổi Tương Đương</name>
+</item>
+
+<item>
+	<id>65</id>
+	<name>Chuyển Vật Phẩm</name>
+</item>
+
+<item>
+	<id>66</id>
+	<name>Chế Độ Xây Dựng</name>
+</item>
+
+<item>
+	<id>67</id>
+	<name>Cửa Hàng Kinh Nghiệm</name>
+</item>
+
+<item>
+	<id>68</id>
+	<name>Hạt giống bí ngòi</name>
+</item>
+
+<item>
+	<id>69</id>
+	<name>Đạn 9x19</name>
+</item>
+
+<item>
+	<id>70</id>
+	<name>Dây thép gai</name>
+</item>
+
+<item>
+	<id>71</id>
+	<name>Thỏ sống</name>
+</item>
+
+<item>
+	<id>72</id>
+	<name>Thỏ chín</name>
+</item>
+
+<item>
+	<id>73</id>
+	<name>Quả mâm xôi</name>
+</item>
+
+<item>
+	<id>74</id>
+	<name>Quả việt quất</name>
+</item>
+
+<item>
+	<id>75</id>
+	<name>Radio</name>
+</item>
+
+<item>
+	<id>76</id>
+	<name>Kính ngắm RDS</name>
+</item>
+
+<item>
+	<id>77</id>
+	<name>Kính ngắm PU</name>
+</item>
+
+<item>
+	<id>78</id>
+	<name>Kính ngắm PSO-1</name>
+</item>
+
+<item>
+	<id>79</id>
+	<name>Kính ngắm ACOG</name>
+</item>
+
+<item>
+	<id>80</id>
+	<name>Nòng giảm thanh 5.45</name>
+</item>
+
+<item>
+	<id>81</id>
+	<name>Nòng giảm thanh 5.56</name>
+</item>
+
+<item>
+	<id>82</id>
+	<name>Cưa sắt</name>
+</item>
+
+<item>
+	<id>83</id>
+	<name>Băng đeo đạn</name>
+</item>
+
+<item>
+	<id>85</id>
+	<name>Suất ăn MRE</name>
+</item>
+
+<item>
+	<id>86</id>
+	<name>Cần câu xoay</name>
+</item>
+
+<item>
+	<id>87</id>
+	<name>Cần câu đơn giản</name>
+</item>
+
+<item>
+	<id>88</id>
+	<name>Hộp bảo vệ</name>
+</item>
+
+<item>
+	<id>89</id>
+	<name>Tay cầm Magpul</name>
+</item>
+
+<item>
+	<id>90</id>
+	<name>Choke</name>
+</item>
+
+<item>
+	<id>91</id>
+	<name>Cá trích</name>
+</item>
+
+<item>
+	<id>92</id>
+	<name>Cá hồi</name>
+</item>
+
+<item>
+	<id>93</id>
+	<name>Cá rô</name>
+</item>
+
+<item>
+	<id>94</id>
+	<name>Cá rô</name>
+</item>
+
+<item>
+	<id>95</id>
+	<name>Phi lê nhỏ chín</name>
+</item>
+
+<item>
+	<id>96</id>
+	<name>Phi lê lớn chín</name>
+</item>
+
+<item>
+	<id>97</id>
+	<name>Nấm</name>
+</item>
+
+<item>
+	<id>98</id>
+	<name>Kính ngắm tầm xa</name>
+</item>
+
+<item>
+	<id>99</id>
+	<name>Mìn Claymore</name>
+</item>
+
+<item>
+	<id>100</id>
+	<name>Đạn 9x18</name>
+</item>
+
+<item>
+	<id>101</id>
+	<name>Đạn 9x39</name>
+</item>
+
+<item>
+	<id>102</id>
+	<name>Molotov</name>
+</item>
+
+<item>
+	<id>103</id>
+	<name>Súng pháo sáng</name>
+</item>
+
+<item>
+	<id>104</id>
+	<name>Đạn .50</name>
+</item>
+
+<item>
+	<id>105</id>
+	<name>Lựu đạn 40mm</name>
+</item>
+
+<item>
+	<id>106</id>
+	<name>Lựu đạn VOG-25</name>
+</item>
+
+<item>
+	<id>107</id>
+	<name>Súng phóng lựu M203</name>
+</item>
+
+<item>
+	<id>108</id>
+	<name>Súng phóng lựu GP-25</name>
+</item>
+
+<item>
+	<id>109</id>
+	<name>Bộ truyền dịch</name>
+</item>
+
+<item>
+	<id>110</id>
+	<name>Đá mài</name>
+</item>
+
+<item>
+	<id>111</id>
+	<name>Tay cầm AK</name>
+</item>
+
+<item>
+	<id>112</id>
+	<name>Tay cầm Rail</name>
+</item>
+
+<item>
+	<id>113</id>
+	<name>Ghi chú bản đồ</name>
+</item>
+
+<item>
+	<id>114</id>
+	<name>Quả cơm cháy</name>
+</item>
+
+<item>
+	<id>115</id>
+	<name>Ống nhòm</name>
+</item>
+
+<item>
+	<id>116</id>
+	<name>Sổ tay hướng đạo</name>
+</item>
+
+<item>
+	<id>117</id>
+	<name>Vải bạt</name>
+</item>
+
+<item>
+	<id>118</id>
+	<name>Băng dán</name>
+</item>
+
+<item>
+	<id>119</id>
+	<name>Lựu đạn khói</name>
+</item>
+
+<item>
+	<id>120</id>
+	<name>Thuốc lá</name>
+</item>
+
+<item>
+	<id>121</id>
+	<name>Bia</name>
+</item>
+
+<item>
+	<id>122</id>
+	<name>Keo epoxy</name>
+</item>
+
+<item>
+	<id>123</id>
+	<name>Phân bón</name>
+</item>
+
+<item>
+	<id>124</id>
+	<name>Kính ngắm laser</name>
+</item>
+
+<item>
+	<id>125</id>
+	<name>Bật lửa</name>
+</item>
+
+<item>
+	<id>126</id>
+	<name>Thẻ sĩ quan</name>
+</item>
+
+<item>
+	<id>127</id>
+	<name>Nòng giảm thanh tự chế</name>
+</item>
+
+<item>
+	<id>128</id>
+	<name>Kính nhìn đêm PVS-4</name>
+</item>
+
+<item>
+	<id>129</id>
+	<name>Kính nhìn đêm 1PN51</name>
+</item>
+
+<item>
+	<id>130</id>
+	<name>Băng đạn trống 5.56</name>
+</item>
+
+<item>
+	<id>131</id>
+	<name>Băng đạn trống 7.62x39</name>
+</item>
+
+<item>
+	<id>132</id>
+	<name>Chảo rán</name>
+</item>
+
+<item>
+	<id>133</id>
+	<name>Mặt nạ phòng độc</name>
+</item>
+
+<item>
+	<id>134</id>
+	<name>Balaclava</name>
+</item>
+
+<item>
+	<id>135</id>
+	<name>Mặt nạ GP5</name>
+</item>
+
+<item>
+	<id>136</id>
+	<name>Mặt nạ hề</name>
+</item>
+
+<item>
+	<id>137</id>
+	<name>Găng tay chiến đấu</name>
+</item>
+
+<item>
+	<id>138</id>
+	<name>Đạn .308</name>
+</item>
+
+<item>
+	<id>139</id>
+	<name>Giày thể thao</name>
+</item>
+
+<item>
+	<id>140</id>
+	<name>Boot rừng</name>
+</item>
+
+<item>
+	<id>141</id>
+	<name>Boot tác chiến</name>
+</item>
+
+<item>
+	<id>142</id>
+	<name>Dây đeo súng</name>
+</item>
+
+<item>
+	<id>143</id>
+	<name>Thuốc than hoạt</name>
+</item>
+
+<item>
+	<id>144</id>
+	<name>Đèn hàn</name>
+</item>
+
+<item>
+	<id>145</id>
+	<name>Đồ ngụy trang</name>
+</item>
+
+<item>
+	<id>146</id>
+	<name>Đèn pin dưới nòng</name>
+</item>
+
+<item>
+	<id>147</id>
+	<name>Tay cầm AK laser</name>
+</item>
+
+<item>
+	<id>148</id>
+	<name>Tay cầm Rail laser</name>
+</item>
+
+<item>
+	<id>700</id>
+	<name>Ủng NBC</name>
+</item>
+
+<item>
+	<id>701</id>
+	<name>Găng NBC</name>
+</item>
+
+<item>
+	<id>702</id>
+	<name>Đồ bảo hộ C</name>
+</item>
+
+<item>
+	<id>703</id>
+	<name>Đồ bảo hộ phóng xạ</name>
+</item>
+
+<item>
+	<id>704</id>
+	<name>Băng đạn trống 12</name>
+</item>
+
+<item>
+	<id>705</id>
+	<name>Xô thuốc nhuộm🌈</name>
+</item>
+
+<item>
+	<id>706</id>
+	<name>Đèn pin đội đầu</name>
+</item>
+
+<item>
+	<id>707</id>
+	<name>Kính nhìn đêm</name>
+</item>
+
+<item>
+	<id>708</id>
+	<name>Túi cứu thương AI-2</name>
+</item>
+
+<item>
+	<id>709</id>
+	<name>Chuồng chó</name>
+</item>
+
+<item>
+	<id>710</id>
+	<name>Adrenaline</name>
+</item>
+
+<item>
+	<id>711</id>
+	<name>Đồ bảo hộ CBRN</name>
+</item>
+
+<item>
+	<id>712</id>
+	<name>Hải đồ</name>
+</item>
+
+<item>
+	<id>713</id>
+	<name>Đồ bảo hộ NBC</name>
+</item>
+
+<item>
+	<id>714</id>
+	<name>Da hươu</name>
+</item>
+
+<item>
+	<id>715</id>
+	<name>Băng đạn trống 5.45</name>
+</item>
+
+<item>
+	<id>716</id>
+	<name>Vòng cổ gai</name>
+</item>
+
+<item>
+	<id>717</id>
+	<name>Túi yên ngựa</name>
+</item>
+
+<item>
+	<id>718</id>
+	<name>Trứng</name>
+</item>
+
+<item>
+	<id>719</id>
+	<name>Thịt gà sống</name>
+</item>
+
+<item>
+	<id>720</id>
+	<name>Thịt gà chín</name>
+</item>
+
+<item>
+	<id>721</id>
+	<name>Kính ngắm nhỏ</name>
+</item>
+
+<item>
+	<id>722</id>
+	<name>Nòng giảm thanh cỡ nhỏ</name>
+</item>
+
+<item>
+	<id>723</id>
+	<name>Đèn pin súng lục</name>
+</item>
+
+<item>
+	<id>724</id>
+	<name>Trứng rán</name>
+</item>
+
+<item>
+	<id>725</id>
+	<name>Thịt xào ớt chuông</name>
+</item>
+
+<item>
+	<id>726</id>
+	<name>Trứng xào cà chua</name>
+</item>
+
+<item>
+	<id>727</id>
+	<name>Bộ đèn pha</name>
+</item>
+
+<item>
+	<id>728</id>
+	<name>Giun đất</name>
+</item>
+
+<item>
+	<id>729</id>
+	<name>VOG-25 Khatabka</name>
+</item>
+
+<item>
+	<id>730</id>
+	<name>FNX 45</name>
+</item>
+
+<item>
+	<id>731</id>
+	<name>Colt 1911</name>
+</item>
+
+<item>
+	<id>732</id>
+	<name>Súng lục Magnum</name>
+</item>
+
+<item>
+	<id>733</id>
+	<name>Amphibia S</name>
+</item>
+
+<item>
+	<id>734</id>
+	<name>Glock 17</name>
+</item>
+
+<item>
+	<id>735</id>
+	<name>IZh-43 cưa nòng</name>
+</item>
+
+<item>
+	<id>736</id>
+	<name>Mosin cưa nòng</name>
+</item>
+
+<item>
+	<id>737</id>
+	<name>Colt khảm</name>
+</item>
+
+<item>
+	<id>738</id>
+	<name>Mare's Leg</name>
+</item>
+
+<item>
+	<id>739</id>
+	<name>PM</name>
+</item>
+
+<item>
+	<id>740</id>
+	<name>PB</name>
+</item>
+
+<item>
+	<id>741</id>
+	<name>Desert Eagle</name>
+</item>
+
+<item>
+	<id>742</id>
+	<name>M79</name>
+</item>
+
+<item>
+	<id>743</id>
+	<name>Blaze cưa nòng</name>
+</item>
+
+<item>
+	<id>744</id>
+	<name>Longhorn</name>
+</item>
+
+<item>
+	<id>745</id>
+	<name>MAC-10</name>
+</item>
+
+<item>
+	<id>746</id>
+	<name>Mini-UZI</name>
+</item>
+
+<item>
+	<id>747</id>
+	<name>C-4</name>
+</item>
+
+<item>
+	<id>748</id>
+	<name>Mũ ông già Noel</name>
+</item>
+
+<item>
+	<id>749</id>
+	<name>Hộp bí ẩn Giáng sinh</name>
+</item>
+
+<item>
+	<id>750</id>
+	<name>Thịt người</name>
+</item>
+
+<item>
+	<id>751</id>
+	<name>Thịt người nấu chín</name>
+</item>
+
+<item>
+	<id>752</id>
+	<name>Túi đeo</name>
+</item>
+
+<item>
+	<id>753</id>
+	<name>Túi đeo quân đội</name>
+</item>
+
+<item>
+	<id>754</id>
+	<name>Túi đeo y tế</name>
+</item>
+
+<item>
+	<id>755</id>
+	<name>Hộp đựng vũ khí</name>
+</item>
+
+<item>
+	<id>756</id>
+	<name>Bao súng lục</name>
+</item>
+
+<item>
+	<id>757</id>
+	<name>Găng tay lao động</name>
+</item>
+
+<item>
+	<id>758</id>
+	<name>Đạn 12.7x108</name>
+</item>
+
+<item>
+	<id>759</id>
+	<name>Bộ lọc nước (Tốt)</name>
+</item>
+
+<item>
+	<id>760</id>
+	<name>Bộ lọc nước (Rỗng)</name>
+</item>
+
+<item>
+	<id>761</id>
+	<name>Hộp đạn</name>
+</item>
+
+<item>
+	<id>762</id>
+	<name>Hộp đạn</name>
+</item>
+
+<item>
+	<id>763</id>
+	<name>Hộp đạn</name>
+</item>
+
+<item>
+	<id>764</id>
+	<name>Hộp đạn</name>
+</item>
+
+<item>
+	<id>765</id>
+	<name>Hộp đạn</name>
+</item>
+
+<item>
+	<id>766</id>
+	<name>Hộp đạn</name>
+</item>
+
+<item>
+	<id>767</id>
+	<name>Hộp đạn</name>
+</item>
+
+<item>
+	<id>768</id>
+	<name>Hộp đạn</name>
+</item>
+
+<item>
+	<id>769</id>
+	<name>Hộp đạn</name>
+</item>
+
+<item>
+	<id>770</id>
+	<name>Hộp đạn</name>
+</item>
+
+<item>
+	<id>771</id>
+	<name>Hộp đạn</name>
+</item>
+
+<item>
+	<id>772</id>
+	<name>Hộp đạn</name>
+</item>
+
+<item>
+	<id>773</id>
+	<name>Hộp đạn</name>
+</item>
+
+<item>
+	<id>774</id>
+	<name>Hộp đạn</name>
+</item>
+
+<item>
+	<id>775</id>
+	<name>Hộp đạn</name>
+</item>
+
+<item>
+	<id>776</id>
+	<name>Hộp đạn</name>
+</item>
+
+<item>
+	<id>777</id>
+	<name>Lê</name>
+</item>
+
+<item>
+	<id>778</id>
+	<name>Bao tải (Gà)</name>
+</item>
+
+<item>
+	<id>779</id>
+	<name>Bao tải (Lợn)</name>
+</item>
+
+<item>
+	<id>780</id>
+	<name>Thịt sói sống</name>
+</item>
+
+<item>
+	<id>781</id>
+	<name>Thịt sói nướng</name>
+</item>
+
+<item>
+	<id>782</id>
+	<name>Thịt gấu sống</name>
+</item>
+
+<item>
+	<id>783</id>
+	<name>Thịt gấu nướng</name>
+</item>
+
+<item>
+	<id>784</id>
+	<name>Da gấu</name>
+</item>
+
+<item>
+	<id>785</id>
+	<name>Romero 77 Rìu</name>
+</item>
+
+<!--Weapons-->
+
+<item>
+	<id>151</id>
+	<name>FNX 45</name>
+</item>
+
+<item>
+	<id>152</id>
+	<name>Colt 1911</name>
+</item>
+
+<item>
+	<id>153</id>
+	<name>Súng lục Magnum</name>
+</item>
+
+<item>
+	<id>154</id>
+	<name>IZh-43</name>
+</item>
+
+<item>
+	<id>155</id>
+	<name>Remington 870</name>
+</item>
+
+<item>
+	<id>156</id>
+	<name>Mosin-Nagant</name>
+</item>
+
+<item>
+	<id>157</id>
+	<name>SKS</name>
+</item>
+
+<item>
+	<id>158</id>
+	<name>M4A1</name>
+</item>
+
+<item>
+	<id>159</id>
+	<name>AKM</name>
+</item>
+
+<item>
+	<id>160</id>
+	<name>AK-74</name>
+</item>
+
+<item>
+	<id>161</id>
+	<name>AKs-74u</name>
+</item>
+
+<item>
+	<id>162</id>
+	<name>L85A2</name>
+</item>
+
+<item>
+	<id>163</id>
+	<name>Cung tự chế</name>
+</item>
+
+<item>
+	<id>164</id>
+	<name>Nỏ săn bắn</name>
+</item>
+
+<item>
+	<id>165</id>
+	<name>Amphibia S</name>
+</item>
+
+<item>
+	<id>166</id>
+	<name>Ruger 10/22 Sporter</name>
+</item>
+
+<item>
+	<id>167</id>
+	<name>M92 Repeater</name>
+</item>
+
+<item>
+	<id>168</id>
+	<name>SVD Dragunov</name>
+</item>
+
+<item>
+	<id>169</id>
+	<name>MP5K</name>
+</item>
+
+<item>
+	<id>170</id>
+	<name>Glock 17</name>
+</item>
+
+<item>
+	<id>171</id>
+	<name>IZh-43 cưa nòng</name>
+</item>
+
+<item>
+	<id>172</id>
+	<name>Mosin cưa nòng</name>
+</item>
+
+<item>
+	<id>173</id>
+	<name>UMP-45</name>
+</item>
+
+<item>
+	<id>174</id>
+	<name>RPK</name>
+</item>
+
+<item>
+	<id>175</id>
+	<name>FN-FAL</name>
+</item>
+
+<item>
+	<id>176</id>
+	<name>Colt khảm</name>
+</item>
+
+<item>
+	<id>177</id>
+	<name>AUG A1</name>
+</item>
+
+<item>
+	<id>178</id>
+	<name>Saiga-12K</name>
+</item>
+
+<item>
+	<id>179</id>
+	<name>MAC-10</name>
+</item>
+
+<item>
+	<id>180</id>
+	<name>Mare's Leg</name>
+</item>
+
+<item>
+	<id>181</id>
+	<name>PM</name>
+</item>
+
+<item>
+	<id>182</id>
+	<name>PB</name>
+</item>
+
+<item>
+	<id>183</id>
+	<name>PP-19 Bizon</name>
+</item>
+
+<item>
+	<id>184</id>
+	<name>OTs-14 Groza</name>
+</item>
+
+<item>
+	<id>185</id>
+	<name>VSS Vintorez</name>
+</item>
+
+<item>
+	<id>186</id>
+	<name>SV-98</name>
+</item>
+
+<item>
+	<id>187</id>
+	<name>Madsen</name>
+</item>
+
+<item>
+	<id>188</id>
+	<name>AN-94</name>
+</item>
+
+<item>
+	<id>189</id>
+	<name>Desert Eagle</name>
+</item>
+
+<item>
+	<id>190</id>
+	<name>Remington giảm thanh</name>
+</item>
+
+<item>
+	<id>191</id>
+	<name>M16A2</name>
+</item>
+
+<item>
+	<id>192</id>
+	<name>KRISS Vector</name>
+</item>
+
+<item>
+	<id>193</id>
+	<name>M4A1</name>
+</item>
+
+<item>
+	<id>194</id>
+	<name>AKM</name>
+</item>
+
+<item>
+	<id>195</id>
+	<name>M70 Tundra</name>
+</item>
+
+<item>
+	<id>196</id>
+	<name>Saiga-12K</name>
+</item>
+
+<item>
+	<id>197</id>
+	<name>RPK</name>
+</item>
+
+<item>
+	<id>198</id>
+	<name>M16A2</name>
+</item>
+
+<item>
+	<id>199</id>
+	<name>AUG A1</name>
+</item>
+
+<item>
+	<id>230</id>
+	<name>Milkor MGL</name>
+</item>
+
+<item>
+	<id>231</id>
+	<name>Blaze</name>
+</item>
+
+<item>
+	<id>232</id>
+	<name>FAMAS F1</name>
+</item>
+
+<item>
+	<id>233</id>
+	<name>Mini-14</name>
+</item>
+
+<item>
+	<id>234</id>
+	<name>M79</name>
+</item>
+
+<item>
+	<id>235</id>
+	<name>Blaze cưa nòng</name>
+</item>
+
+<item>
+	<id>236</id>
+	<name>Longhorn</name>
+</item>
+
+<item>
+	<id>237</id>
+	<name>AK-74</name>
+</item>
+
+<item>
+	<id>238</id>
+	<name>AKs-74u</name>
+</item>
+
+<item>
+	<id>239</id>
+	<name>Mini-UZI</name>
+</item>
+
+<item>
+	<id>240</id>
+	<name>AS-VAL</name>
+</item>
+
+<item>
+	<id>241</id>
+	<name>M249 SAW</name>
+</item>
+
+<item>
+	<id>242</id>
+	<name>OSV-96</name>
+</item>
+
+<item>
+	<id>243</id>
+	<name>M-40 Súng phun lửa</name>
+</item>
+
+<item>
+	<id>244</id>
+	<name>Romero 77 Rìu</name>
+</item>
+
+<!--Meele-->
+
+<item>
+	<id>200</id>
+	<name>Cờ lê ống</name>
+</item>
+
+<item>
+	<id>201</id>
+	<name>Xẻng</name>
+</item>
+
+<item>
+	<id>202</id>
+	<name>Rìu</name>
+</item>
+
+<item>
+	<id>203</id>
+	<name>Gậy bóng chày</name>
+</item>
+
+<item>
+	<id>204</id>
+	<name>Rìu cứu hỏa</name>
+</item>
+
+<item>
+	<id>205</id>
+	<name>Xà beng</name>
+</item>
+
+<item>
+	<id>206</id>
+	<name>Cuốc chim</name>
+</item>
+
+<item>
+	<id>207</id>
+	<name>Cào</name>
+</item>
+
+<item>
+	<id>208</id>
+	<name>Búa tạ</name>
+</item>
+
+<item>
+	<id>209</id>
+	<name>Kiếm Thập tự</name>
+</item>
+
+<item>
+	<id>210</id>
+	<name>Chảo rán</name>
+</item>
+
+<item>
+	<id>211</id>
+	<name>Katana</name>
+</item>
+
+<item>
+	<id>212</id>
+	<name>Gậy bóng chày gai</name>
+</item>
+
+<item>
+	<id>213</id>
+	<name>Cưa máy</name>
+</item>
+
+<item>
+	<id>214</id>
+	<name>Máy phát điện</name>
+</item>
+
+<item>
+	<id>215</id>
+	<name>Tấm kim loại</name>
+</item>
+
+<!--Headwear-->
+
+<item>
+	<id>250</id>
+	<name>Mặt nạ phòng độc</name>
+</item>
+
+<item>
+	<id>251</id>
+	<name>Mũ sắt quân đội</name>
+</item>
+
+<item>
+	<id>252</id>
+	<name>Mũ bảo hiểm</name>
+</item>
+
+<item>
+	<id>253</id>
+	<name>Mũ bảo hiểm</name>
+</item>
+
+<item>
+	<id>254</id>
+	<name>Mũ ấm</name>
+</item>
+
+<item>
+	<id>255</id>
+	<name>Beret</name>
+</item>
+
+<item>
+	<id>256</id>
+	<name>Mũ lưỡi trai</name>
+</item>
+
+<item>
+	<id>257</id>
+	<name>Balaclava</name>
+</item>
+
+<item>
+	<id>258</id>
+	<name>Mũ ushanka</name>
+</item>
+
+<item>
+	<id>259</id>
+	<name>Mũ bảo hộ</name>
+</item>
+
+<item>
+	<id>260</id>
+	<name>Đèn pin đội đầu</name>
+</item>
+
+<item>
+	<id>261</id>
+	<name>Mũ cao bồi</name>
+</item>
+
+<item>
+	<id>262</id>
+	<name>Mặt nạ hàn</name>
+</item>
+
+<item>
+	<id>263</id>
+	<name>Mũ sắt Gorka</name>
+</item>
+
+<item>
+	<id>264</id>
+	<name>Mũ cảnh sát</name>
+</item>
+
+<item>
+	<id>265</id>
+	<name>Kính nhìn đêm</name>
+</item>
+
+<item>
+	<id>266</id>
+	<name>Khăn bandana</name>
+</item>
+
+<item>
+	<id>267</id>
+	<name>Mũ giáp Thập tự</name>
+</item>
+
+<item>
+	<id>268</id>
+	<name>Mũ phi công</name>
+</item>
+
+<item>
+	<id>269</id>
+	<name>Mũ sắt Altyn</name>
+</item>
+
+<item>
+	<id>270</id>
+	<name>Mũ sắt Altyn "Killa"</name>
+</item>
+
+<item>
+	<id>271</id>
+	<name>Mặt nạ GP5</name>
+</item>
+
+<item>
+	<id>272</id>
+	<name>Mặt nạ hề</name>
+</item>
+
+<item>
+	<id>273</id>
+	<name>Mũ sắt tác chiến</name>
+</item>
+
+<item>
+	<id>274</id>
+	<name>Mũ sắt tác chiến</name>
+</item>
+
+<item>
+	<id>275</id>
+	<name>Mũ sắt tác chiến</name>
+</item>
+
+<item>
+	<id>276</id>
+	<name>Mũ sắt tác chiến</name>
+</item>
+
+<!--Pants-->
+
+<item>
+	<id>300</id>
+	<name>Quần jeans</name>
+</item>
+
+<item>
+	<id>301</id>
+	<name>Quần công nhân</name>
+</item>
+
+<item>
+	<id>302</id>
+	<name>Quần thể thao</name>
+</item>
+
+<item>
+	<id>303</id>
+	<name>Quần Gorka</name>
+</item>
+
+<item>
+	<id>304</id>
+	<name>Quần Orel</name>
+</item>
+
+<item>
+	<id>305</id>
+	<name>Quần nhân viên y tế</name>
+</item>
+
+<item>
+	<id>306</id>
+	<name>Quần săn bắn</name>
+</item>
+
+<item>
+	<id>307</id>
+	<name>Quần cứu hỏa</name>
+</item>
+
+<!--Top-Wear-->
+
+<item>
+	<id>350</id>
+	<name>Áo thun</name>
+</item>
+
+<item>
+	<id>351</id>
+	<name>Áo sơ mi</name>
+</item>
+
+<item>
+	<id>352</id>
+	<name>Áo sơ mi</name>
+</item>
+
+<item>
+	<id>353</id>
+	<name>Áo mưa</name>
+</item>
+
+<item>
+	<id>354</id>
+	<name>Áo khoác</name>
+</item>
+
+<item>
+	<id>355</id>
+	<name>Áo Gorka</name>
+</item>
+
+<item>
+	<id>356</id>
+	<name>Áo hoodie</name>
+</item>
+
+<item>
+	<id>357</id>
+	<name>Áo hoodie</name>
+</item>
+
+<item>
+	<id>358</id>
+	<name>Áo trench coat</name>
+</item>
+
+<item>
+	<id>359</id>
+	<name>Áo nhân viên y tế</name>
+</item>
+
+<item>
+	<id>360</id>
+	<name>Áo Orel</name>
+</item>
+
+<item>
+	<id>361</id>
+	<name>Áo thể thao</name>
+</item>
+
+<item>
+	<id>362</id>
+	<name>Váy</name>
+</item>
+
+<item>
+	<id>363</id>
+	<name>Áo khoác lông vũ</name>
+</item>
+
+<item>
+	<id>364</id>
+	<name>Áo săn bắn</name>
+</item>
+
+<item>
+	<id>365</id>
+	<name>Áo len</name>
+</item>
+
+<item>
+	<id>366</id>
+	<name>Áo hoodie tuyệt vời</name>
+</item>
+
+<item>
+	<id>367</id>
+	<name>Áo cứu hỏa</name>
+</item>
+
+<item>
+	<id>368</id>
+	<name>Áo giáp Thập tự</name>
+</item>
+
+<!--Vests-->
+
+<item>
+	<id>400</id>
+	<name>Áo chống đạn</name>
+</item>
+
+<item>
+	<id>401</id>
+	<name>Áo giáp báo chí</name>
+</item>
+
+<item>
+	<id>402</id>
+	<name>Áo giáp tác chiến</name>
+</item>
+
+<item>
+	<id>403</id>
+	<name>Áo giáp dung lượng lớn</name>
+</item>
+
+<item>
+	<id>404</id>
+	<name>Áo giáp Kevlar</name>
+</item>
+
+<item>
+	<id>405</id>
+	<name>Áo giáp Liên Xô</name>
+</item>
+
+<item>
+	<id>406</id>
+	<name>Tạp dề</name>
+</item>
+
+<item>
+	<id>407</id>
+	<name>Đồ ngụy trang</name>
+</item>
+
+<item>
+	<id>408</id>
+	<name>Giáp nặng M</name>
+</item>
+
+<item>
+	<id>409</id>
+	<name>Đồ bảo hộ C</name>
+</item>
+
+<item>
+	<id>410</id>
+	<name>Đồ bảo hộ CBRN Kevlar M</name>
+</item>
+
+<item>
+	<id>411</id>
+	<name>Đồ bảo hộ CBRN nặng M</name>
+</item>
+
+<item>
+	<id>412</id>
+	<name>Đồ bảo hộ CBRN ngụy trang M</name>
+</item>
+
+<item>
+	<id>413</id>
+	<name>Đồ bảo hộ phóng xạ</name>
+</item>
+
+<item>
+	<id>414</id>
+	<name>Đồ bảo hộ NBC</name>
+</item>
+
+<item>
+	<id>415</id>
+	<name>Đồ bảo hộ CBRN</name>
+</item>
+
+<!--Backpacks-->
+
+<item>
+	<id>450</id>
+	<name>Ba lô Taloon</name>
+</item>
+
+<item>
+	<id>451</id>
+	<name>Ba lô săn bắn</name>
+</item>
+
+<item>
+	<id>452</id>
+	<name>Ba lô leo núi</name>
+</item>
+
+<item>
+	<id>453</id>
+	<name>Ba lô học sinh</name>
+</item>
+
+<item>
+	<id>454</id>
+	<name>Túi đeo chéo tự chế</name>
+</item>
+
+<item>
+	<id>455</id>
+	<name>Ba lô tự chế</name>
+</item>
+
+<item>
+	<id>456</id>
+	<name>Lều dân dụng</name>
+</item>
+
+<item>
+	<id>457</id>
+	<name>Ba lô Tortilla</name>
+</item>
+
+<item>
+	<id>458</id>
+	<name>Túi đeo</name>
+</item>
+
+<item>
+	<id>459</id>
+	<name>Túi quân đội</name>
+</item>
+
+<item>
+	<id>460</id>
+	<name>Túi y tế</name>
+</item>
+
+<item>
+	<id>461</id>
+	<name>Kho dự trữ</name>
+</item>
+
+<item>
+	<id>462</id>
+	<name>Gói nhiên liệu</name>
+</item>
+
+</list>

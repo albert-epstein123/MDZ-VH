@@ -1,0 +1,5483 @@
+<?xml version="1.0" ?>
+
+<list>
+
+<text>
+	<id>0</id>
+	<name>
+</name>
+</text>
+
+<!--Canned Beans-->
+<text>
+	<id>1</id>
+	<name>Một hộp đậu nướng bổ dưỡng và để được lâu, có hạn sử dụng từ hai đến năm năm tùy điều kiện bảo quản.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Thức ăn: ᛭30          Nước uống: ᛭5
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Canned Tuna-->
+<text>
+	<id>2</id>
+	<name>Một hộp cá ngừ. Nếu chưa mở, nó sẽ để được từ hai đến năm năm tùy điều kiện bảo quản.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Thức ăn: +20
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Tactical Bacon-->
+<text>
+	<id>3</id>
+	<name>Một hộp thịt xông khói. Có thêm hương khói! Đã nấu chín! Ngon tuyệt. Chưa mở, để được hơn 10 năm.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Thức ăn: +35
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Rice-->
+<text>
+	<id>4</id>
+	<name>Một túi gạo hạt dài, thường được dùng khi nấu với nước. Được đóng gói tiện lợi để chuẩn bị dễ dàng hơn.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Thức ăn: +65
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Tomato-->
+<text>
+	<id>5</id>
+	<name>Một quả cà chua. Nó vẫn ngon và có thể ăn được, dù sống hay chín.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Thức ăn: +15          Nước uống: +5
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lượng tối đa: 3
+Nguyên liệu cho: Trứng bác cà chua
+Có thể trồng bằng cuốc, chĩa hoặc xẻng
+</name>
+</text>
+
+<!--Apple-->
+<text>
+	<id>6</id>
+	<name>Một quả táo chín thông thường. Nó vẫn chắc, ngon và không có sâu.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Thức ăn: +15          Nước uống: +5
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lượng tối đa: 3
+</name>
+</text>
+
+<!--Banana-->
+<text>
+	<id>7</id>
+	<name>Một quả chuối tươi, giàu kali.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Thức ăn: +15          Nước uống: +5
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lượng tối đa: 3
+</name>
+</text>
+
+<!--Pipsi-->
+<text>
+	<id>8</id>
+	<name>Một loại đồ uống [có vị cola] không lành mạnh, thay thế cho nước - chứa nước có ga, chất tạo ngọt, chất tạo hương, chất tạo màu và chất bảo quản.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Nước uống: +30
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Spite-->
+<text>
+	<id>9</id>
+	<name>Một loại đồ uống [có vị chanh chanh] không lành mạnh, thay thế cho nước - chứa nước có ga, chất tạo ngọt, chất tạo hương, chất tạo màu và chất bảo quản.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Nước uống: +30
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Kvas-->
+<text>
+	<id>10</id>
+	<name>Một loại đồ uống [lên men] lành mạnh làm từ bánh mì lúa mạch đen, ngon và bổ dưỡng.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Nước uống: +50
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--5.56x45 Ammo-->
+<text>
+	<id>11</id>
+	<name>Đạn 5.56x45mm NATO. Dùng cho một số súng trường.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+sử dụng cho: M4A1, L85A2, M16A2, AUG A1, Mini-14, FAMAS F1, M249 SAW
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lượng tối đa: 50
+</name>
+</text>
+
+<!--.45 ACP Ammo-->
+<text>
+	<id>12</id>
+	<name>Đạn súng lục .45 ACP. Dùng cho một số súng lục và SMG.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+sử dụng cho: FNX 45, Colt 1911, Mini-UZI, UMP-45, KRISS Vector
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lượng tối đa: 60
+</name>
+</text>
+
+<!--7.62x54R Ammo-->
+<text>
+	<id>13</id>
+	<name>Đạn 7.62x54mmR. Dùng cho một số súng trường và LMG.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+sử dụng cho: Mosin cưa, Mosin-Nagant, SVD Dragunov, SV-98, Madsen
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lượng tối đa: 40
+</name>
+</text>
+
+<!--7.62x39 Ammo-->
+<text>
+	<id>14</id>
+	<name>Đạn 7.62x39mm. Dùng cho một số súng trường và LMG.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+sử dụng cho: AKM, RPK, SKS
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lượng tối đa: 50
+</name>
+</text>
+
+<!--5.45x39 Ammo-->
+<text>
+	<id>15</id>
+	<name>Đạn 5.45x39mm. Dùng cho một số súng trường.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+sử dụng cho: AKs-74U, AK-74, AN-94
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lượng tối đa: 50
+</name>
+</text>
+
+<!--.357 M Ammo-->
+<text>
+	<id>16</id>
+	<name>Đạn .357 Magnum. Dùng cho một số súng lục, súng lục ổ quay và súng trường.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+sử dụng cho: Súng lục Magnum, Desert Eagle, Mare's Leg, M92 Repeater
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lượng tối đa: 50
+</name>
+</text>
+
+<!--12 Cal Ammo-->
+<text>
+	<id>17</id>
+	<name>Đạn shotgun 12 Gauge với 5 viên. Dùng cho súng shotgun.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+sử dụng cho: IZh-43, IZh-43 cưa, Remington 870, Remington giảm thanh, Saiga-12K
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lượng tối đa: 30
+</name>
+</text>
+
+<!--Bandage-->
+<text>
+	<id>18</id>
+	<name>Một cuộn băng gạc vô trùng. Có thể dùng để cầm máu trực tiếp.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sử dụng: 2s
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lượng tối đa: 3
+Cất trong túi y tế để sử dụng nhanh.
+</name>
+</text>
+
+<!--IV Blood Bag-->
+<text>
+	<id>19</id>
+	<name>Một túi máu toàn phần [O−] với bộ truyền tĩnh mạch sẵn sàng. Dùng một lần để bù lại máu mất do chảy máu.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sinh lực: +50          Thể lực: +50
+Sử dụng: 6s                         
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Flare-->
+<text>
+	<id>20</id>
+	<name>Cung cấp một vùng ánh sáng đỏ rực trong thời gian ngắn. Có thể ném để thắp sáng một khu vực và thu hút thây ma khi cháy.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hiệu lực: 90s
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lượng tối đa: 5
+Nguyên liệu cho: Molotov Cocktail
+Cất trong túi quân đội để sử dụng nhanh.
+</name>
+</text>
+
+<!--F1 Grenade-->
+<text>
+	<id>21</id>
+	<name>Lựu đạn mảnh loại F1 được lực lượng Nga sử dụng. Sát thương cao trong bán kính nhỏ, nhưng có thể gây thương tích nghiêm trọng ở tầm trung.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 1800          Sát thương mảnh: 75
+Cháy: 2s          Mảnh: 24                     
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Buộc trên áo giáp chọn lọc để sử dụng nhanh.
+</name>
+</text>
+
+<!--9V Battery-->
+<text>
+	<id>22</id>
+	<name>Pin 9V thông thường, dùng để cung cấp năng lượng cho các thiết bị điện tử khác nhau.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+sử dụng cho: Đèn pin đội đầu, Kính nhìn đêm, Radio
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể sạc lại bằng máy phát điện đang hoạt động.
+</name>
+</text>
+
+<!--Campfire Kit-->
+<text>
+	<id>23</id>
+	<name>Sau khi triển khai, có thể nhóm thành lửa trại cung cấp ánh sáng và nhiệt cho nhiều mục đích; như nấu ăn, sưởi ấm và châm thuốc.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lần Sử dụng: 3          Hiệu lực: 180s
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Công thức chế tạo: Đống củi + 3 Que củi, 3 Giẻ rách, Báo
+</name>
+</text>
+
+<!--Matches-->
+<text>
+	<id>24</id>
+	<name>Một hộp diêm an toàn nhà bếp dài để nhóm lửa khi cần. Bảo quản nơi khô ráo và để xa tầm tay trẻ em.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể nhóm lửa trại hoặc châm thuốc.
+</name>
+</text>
+
+<!--Whiskey-->
+<text>
+	<id>25</id>
+	<name>"Tôi đã uống whiskey, tôi cảm thấy khỏe khoắn"
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Nước uống: +20          Hơi ấm: +40
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Nguyên liệu cho: Molotov Cocktail
+</name>
+</text>
+
+<!--Rags-->
+<text>
+	<id>26</id>
+	<name>Một tập hợp các mảnh vải rách, vẫn... có thể dùng để cầm máu.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sử dụng: 5s
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lượng tối đa: 3
+Nguyên liệu cho: Bộ lửa trại, Dây thừng
+</name>
+</text>
+
+<!--Cranberries-->
+<text>
+	<id>27</id>
+	<name>Nam việt quất có thể thu thập từ các bụi cây quả mọng trong rừng, chúng có thể được phân biệt dễ dàng bởi những quả mọng đỏ, chín và mọng nước.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Thức ăn: +15          Nước uống: +15
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lượng tối đa: 5
+</name>
+</text>
+
+<!--IV Saline Bag-->
+<text>
+	<id>28</id>
+	<name>Một túi dung dịch nước muối với bộ truyền tĩnh mạch sẵn sàng. Dùng để thay thế một phần máu mất do chảy máu.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sinh lực: +25          Thể lực: +25
+Sử dụng: 6s                          
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Vitamins-->
+<text>
+	<id>29</id>
+	<name>Thực phẩm chức năng đa vitamin giúp tăng cường máu để hồi phục sức khỏe nhanh gấp đôi.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Thể lực: +10                    Tốc độ hồi sinh lực: x2
+Hiệu lực: 60s                                    
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lượng tối đa: 3
+</name>
+</text>
+
+<!--Nota-Cola-->
+<text>
+	<id>30</id>
+	<name>Một loại đồ uống [có vị cola] không lành mạnh, thay thế cho nước - chứa nước có ga, chất tạo ngọt, chất tạo hương, chất tạo màu và chất bảo quản.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Nước uống: +30
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Zucchini-->
+<text>
+	<id>31</id>
+	<name>Quả bí ngòi này vừa đủ chín để có thể ăn sống.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Thức ăn: +20          Nước uống: +20
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể trồng bằng cuốc, chĩa hoặc xẻng
+</name>
+</text>
+
+<!--Bell Pepper-->
+<text>
+	<id>32</id>
+	<name>Ớt chuông, loại xanh. Không cay lắm và có nhiều chất dinh dưỡng và vitamin, có thể dùng để nấu ăn hoặc ăn sống.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Thức ăn: +20          Nước uống: +5
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lượng tối đa: 3
+Nguyên liệu cho: Thịt xào ớt chuông
+Có thể trồng bằng cuốc, chĩa hoặc xẻng
+</name>
+</text>
+
+<!--Orange-->
+<text>
+	<id>33</id>
+	<name>Một loại trái cây họ cam quýt phổ biến, chứa nhiều vitamin "C".
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Thức ăn: +15          Nước uống: +15
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lượng tối đa: 3
+</name>
+</text>
+
+<!--Heatpack-->
+<text>
+	<id>34</id>
+	<name>Nguồn nhiệt nhỏ dùng một lần, giữ ấm cho bạn trong thời gian giới hạn khi đặt vào áo khoác, quần hoặc áo giáp.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hơi ấm: +25
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Sewing Kit-->
+<text>
+	<id>35</id>
+	<name>Một bộ may vá đa năng cỡ túi, tiện dụng để vá các loại quần áo và một số đồ đội đầu.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sửa chữa: +50%
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Gun Cleaning Kit-->
+<text>
+	<id>36</id>
+	<name>Một hộp gỗ chứa hệ thống chăm sóc súng toàn diện và đa năng.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sửa chữa: +25%
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể dùng để vệ sinh và bảo dưỡng súng.
+</name>
+</text>
+
+<!--Ashwood Stick-->
+<text>
+	<id>37</id>
+	<name>Một cành cây tần bì dài, chắc nhưng dẻo.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Nguyên liệu cho: Cung tự chế, Cần câu đơn giản
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Wooden Sticks-->
+<text>
+	<id>38</id>
+	<name>Những thanh gỗ đa năng. Lý tưởng để làm mũi tên, nhóm lửa và chướng ngại vật. Rơi ra từ cây tần bì bản địa.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Nguyên liệu cho: Mũi tên chế tạo, Bộ lửa trại, Ba lô tự chế, Chướng ngại vật gỗ
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lượng tối đa: 5
+</name>
+</text>
+
+<!--Duct Tape-->
+<text>
+	<id>39</id>
+	<name>Một loại băng dính rộng, linh hoạt, mạnh mẽ và đa năng. Nếu thứ gì đó di chuyển và không nên, hãy dùng băng dính.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sửa chữa: +15%
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Nguyên liệu cho: Bộ giảm thanh tự chế
+Có thể sửa cung, nỏ, quần áo, ba lô, một số mũ và áo giáp.
+</name>
+</text>
+
+<!--Burlap Sack-->
+<text>
+	<id>40</id>
+	<name>Bao tải là lý tưởng để vận chuyển và lưu trữ đồ đạc. Có thể tạo một dây rút ở miệng bao bằng dây thừng.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Nguyên liệu cho: Túi đeo chéo tự chế, Vải bạt
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể dùng để bắt lợn hoặc gà để vận chuyển đến nơi khác.
+</name>
+</text>
+
+<!--Rope-->
+<text>
+	<id>41</id>
+	<name>Dây thừng chắc chắn, dùng để buộc mọi thứ lại với nhau, dù là đồ vật hay người.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Nguyên liệu cho: Túi đeo chéo tự chế, Cung tự chế, Cần câu đơn giản
+Công thức chế tạo: 3 Giẻ rách
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể trang bị để đeo thêm một vũ khí cận chiến trên lưng.
+</name>
+</text>
+
+<!--Army Knife-->
+<text>
+	<id>42</id>
+	<name>Dao quân đội sắc bén với lưỡi dao và chuôi chắc chắn. Tuyệt vời để tự vệ, nhưng nó cũng có những công dụng tầm thường khác.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 16-26          Tỉ lệ bạo kích: 20%   
+Tỉ lệ đỡ đòn: 5%          Tốc độ đánh: 0.8s
+Mòn mỗi đòn: 1%          Mòn mỗi lần dùng: 3%  
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Cất trong giày tác chiến để lột da nhanh.
+</name>
+</text>
+
+<!--Butcher Knife-->
+<text>
+	<id>43</id>
+	<name>Một con dao lớn, nặng, gỉ sét. Được thiết kế để chém qua thịt sống dày. Nó cũng có thể dễ dàng đập vỡ xương. Chủ yếu được sử dụng bởi những người hàng thịt.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 14-24          Tỉ lệ bạo kích: 10%   
+Tỉ lệ đỡ đòn: 5%          Tốc độ đánh: 0.8s
+Mòn mỗi đòn: 1%          Mòn mỗi lần dùng: 3%  
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Cất trong giày tác chiến để lột da nhanh.
+</name>
+</text>
+
+<!--Hunting Knife-->
+<text>
+	<id>44</id>
+	<name>Dao săn bắn là một công cụ chuyên dụng được thiết kế với đầu hơi cong, chủ yếu để mổ xẻ thú săn.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 15-25          Tỉ lệ bạo kích: 15%   
+Tỉ lệ đỡ đòn: 5%          Tốc độ đánh: 0.8s
+Mòn mỗi đòn: 1%          Mòn mỗi lần dùng: 3%  
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Cất trong giày tác chiến để lột da nhanh.
+</name>
+</text>
+
+<!--Adrenaline-->
+<text>
+	<id>45</id>
+	<name>Adrenaline, hay còn gọi là epinephrine, chuẩn bị cho cơ thể bạn cho các tình huống "chiến hay chạy" bằng cách tăng nhịp tim, lưu lượng máu và sự cảnh giác.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hồi sinh lực: +50 mỗis     Tốc độ di chuyển: +15%
+Sử dụng: 2s          Hiệu lực: 20s      
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lượng tối đa: 3
+Sinh lực giảm xuống 10 khi hiệu ứng kết thúc!
+</name>
+</text>
+
+<!--Tetracycline-->
+<text>
+	<id>46</id>
+	<name>Kháng sinh phổ rộng. Được sử dụng để điều trị các bệnh truyền nhiễm do vi-rút và vi khuẩn.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Thể lực: +10          Hiệu lực: 60s
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hiệu ứng thuốc: chữa và ngăn ngừa ốm đau và ngộ độc trong thời gian hiệu lực.
+Số lượng tối đa: 3
+</name>
+</text>
+
+<!--Tomato Seeds Pack-->
+<text>
+	<id>47</id>
+	<name>Chữ trên gói ghi: "Một giống hữu ích để trồng ngoài trời ngay cả trong những mùa hè ẩm ướt! Trồng những cây không xác định, mạnh mẽ này để tạo ra những vụ quả màu đỏ sẫm với hương vị rất tốt".
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lần Sử dụng: 5
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể trồng bằng cuốc, chĩa hoặc xẻng
+</name>
+</text>
+
+<!--Bell Pepper Seeds Pack-->
+<text>
+	<id>48</id>
+	<name>Chữ trên gói ghi: "Một loại ớt chuông lớn và là một giống tuyệt vời cho hương vị ớt chuông cổ điển. Ra quả lớn với hình dạng khối. Thường được ăn khi còn xanh, quả có vị ngọt và kết cấu giòn".
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lần Sử dụng: 5
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể trồng bằng cuốc, chĩa hoặc xẻng
+</name>
+</text>
+
+<!--Newspapers-->
+<text>
+	<id>49</id>
+	<name>Báo hàng ngày tìm thấy trong nhà trước khi tận thế, chúng vẫn chứa các hướng dẫn chế tạo, bài viết về sinh tồn hữu ích và có thể đọc để nhận một ít kinh nghiệm.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Kinh nghiệm: +50
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Nguyên liệu cho: Bộ lửa trại
+</name>
+</text>
+
+<!--Woodpiles-->
+<text>
+	<id>50</id>
+	<name>Là gỗ, vật liệu sinh tồn cơ bản. Có thể thu được bằng cách chặt cây bằng rìu hoặc vũ khí có lưỡi.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Nguyên liệu cho: Bộ lửa trại, Chướng ngại vật gỗ, Hàng rào kim loại, Kho chứa đồ, Giường, Máng ăn
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Crafted Arrow-->
+<text>
+	<id>51</id>
+	<name>Những thanh gỗ được khắc bằng dao thành những mũi tên khớp nhau, nhưng chúng khá mỏng manh.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 37-63
+Nạp vào: Cung tự chế, Nỏ săn bắn
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Công thức chế tạo: Que củi + Bất kỳ dao nào
+Số lượng tối đa: 10
+75% khả năng gãy sau khi bắn!
+</name>
+</text>
+
+<!--Composite Arrow-->
+<text>
+	<id>52</id>
+	<name>Mũi tên composite hiện đại lõi nhôm với khả năng sát thương cao.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 56-94
+Nạp vào: Cung tự chế, Nỏ săn bắn
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lượng tối đa: 10
+Sẽ không gãy sau khi bắn.
+</name>
+</text>
+
+<!--Gasoline Can-->
+<text>
+	<id>53</id>
+	<name>Một bình kim loại, chứa đầy một lượng lớn xăng, có thể đổ lại tại trạm xăng.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lần Sử dụng: 4
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể đổ xăng cho xe, cưa máy và máy phát điện.
+</name>
+</text>
+
+<!--Water Bottle-->
+<text>
+	<id>54</id>
+	<name>Một chai nhựa tái sử dụng thông thường.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Nước uống: +12          Số lần Sử dụng: 4
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Nguyên liệu cho: Bộ giảm thanh tự chế
+Có thể đổ đầy nước từ máy bơm, hứng nước mưa khi để trên đất trong lúc mưa.
+</name>
+</text>
+
+<!--Canteen-->
+<text>
+	<id>55</id>
+	<name>Một chai nhựa tiêu chuẩn quân đội tái sử dụng được quân đội và người cắm trại sử dụng, có túi đựng đi kèm.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Nước uống: +25          Số lần Sử dụng: 4
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể đổ đầy nước từ máy bơm.
+</name>
+</text>
+
+<!--Landmine-->
+<text>
+	<id>56</id>
+	<name>Mìn chống người. Mang đến một bất ngờ khó chịu cho bất kỳ ai không may giẫm phải.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 1800          Sát thương mảnh: 75
+Mảnh: 24                                                         
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể triển khai, không bị kích hoạt bởi người chơi.
+</name>
+</text>
+
+<!--Bear Trap-->
+<text>
+	<id>57</id>
+	<name>Kiểu cũ nhưng vẫn hoạt động, kỳ quan của kỹ thuật cơ khí này có thể gần như bẻ gãy chân bạn.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 200
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể đặt trên mặt đất, không bị kích hoạt bởi người chơi và có thể tái sử dụng!
+</name>
+</text>
+
+<!--.22LR Ammo-->
+<text>
+	<id>58</id>
+	<name>Đạn .22 Long Rifle. Dùng cho súng lục và súng trường cỡ nhỏ.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+sử dụng cho: Amphibia S, Ruger 10/22 Sporter
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lượng tối đa: 80
+</name>
+</text>
+
+<!--Car Toolkit-->
+<text>
+	<id>59</id>
+	<name>Bộ công cụ chứa các dụng cụ cơ khí có thể được sử dụng để sửa chữa và phục hồi các phương tiện bị hư hỏng.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sửa chữa: +25%
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Raw Meat-->
+<text>
+	<id>60</id>
+	<name>Một miếng thịt thú sống. Thịt dai hơn, sẫm màu hơn, có thể khá ngon, một khi đã được chế biến.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Thức ăn: +25          Nước uống: +10
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Nguyên liệu cho: Thịt xào ớt chuông
+Có thể nấu trên lửa trại để ăn an toàn.
+50% khả năng bị ngộ độc thực phẩm khi ăn sống!
+</name>
+</text>
+
+<!--Roasted Meat-->
+<text>
+	<id>61</id>
+	<name>Miếng thịt thú sống được nướng trên lửa trại đến độ hoàn hảo mọng nước.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sinh lực: +15          Thức ăn: +50
+Nước uống: +10                            
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Nuka-Cola-->
+<text>
+	<id>62</id>
+	<name>Một chai Nuka-Cola, đồ uống có hương vị của thế giới hậu hạt nhân. Ấm và xì hơi.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Tốc độ hồi sinh lực: x2          Kinh nghiệm: +200    
+Nước uống: +100                  Hiệu lực: 60s
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Energy Drink-->
+<text>
+	<id>63</id>
+	<name>Một lựa chọn đơn giản cho một luồng năng lượng thể thao, nó kết hợp caffeine, vitamin và hương vị Mountain Dew quen thuộc.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Tốc độ di chuyển: +15%     Nước uống: +20
+Hiệu lực: 20s                                
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Feature- Equivalent Exchange-->
+<text>
+	<id>64</id>
+	<name>Trao đổi phiên bản tương đương của một vật phẩm!
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Tay cầm AK 🔄 Tay cầm Rail  Nòng giảm thanh 5.45 🔄 Nòng giảm thanh 5.56
+Súng phóng lựu GP-25 🔄 Súng phóng lựu M203
+Lựu đạn 40mm 🔄 Lựu đạn VOG-25
+Magpul 🔄 Băng đeo đạn  Kính ngắm ACOG 🔄 Kính ngắm PSO-1
+Bộ vệ sinh 🔄 Đèn hàn  Pipsi 🔄 Nota-Cola
+Kính nhìn đêm 1PN51 🔄 Kính nhìn đêm PVS-4
+Băng đạn trống 5.45 🔄 Băng đạn trống 5.56
+Băng đạn trống 7.62x39 🔄 Băng đạn trống 12
+</name>
+</text>
+
+<!--Feature- Item Carryover-->
+<text>
+	<id>65</id>
+	<name>Một chút ma thuật của Dev để cho các vật phẩm của bạn khả năng nhảy chiều!
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +6
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể lưu trữ vật phẩm hoặc trang bị bên trong để được lưu và sinh ra vào một game mới.
+Các vật tư được lưu trữ bên trong có thể được truy cập lại bằng cách sinh ra kho chứa vật tư trong bản lưu mới của bạn bằng cách sử dụng bảng điều khiển trò chơi nhỏ.
+</name>
+</text>
+
+<!--Feature- Building Mode-->
+<text>
+	<id>66</id>
+	<name>Cho phép lưu trữ không điều kiện cho tất cả các cấu trúc có thể triển khai!
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Khi triển khai, nhấn X không còn trả lại vật phẩm; mà thay vào đó lưu trữ cấu trúc.
+</name>
+</text>
+
+<!--Feature- Experience Shop-->
+<text>
+	<id>67</id>
+	<name>Đổi điểm kinh nghiệm lấy nhiều loại trang bị và vật phẩm hữu ích!
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Danh sách vật phẩm ngẫu nhiên được đặt lại hàng ngày lúc 00:00.
+</name>
+</text>
+
+<!--Zucchini Seeds Pack-->
+<text>
+	<id>68</id>
+	<name>Chữ trên gói ghi: "Đây là giống bí ngòi phổ biến nhất của chúng tôi. Một cây bụi sớm, rất năng suất với thói quen mở. Thịt quả ngon, màu trắng kem, mềm và chắc".
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lần Sử dụng: 5
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể trồng bằng cuốc, chĩa hoặc xẻng
+</name>
+</text>
+
+<!--9x19 P Ammo-->
+<text>
+	<id>69</id>
+	<name>Đạn súng lục 9x19mm Parabellum. Dùng cho một số súng lục và SMG.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+sử dụng cho: Glock 17, MAC-10, MP5K
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lượng tối đa: 60
+</name>
+</text>
+
+<!--Barbed Wire-->
+<text>
+	<id>70</id>
+	<name>Một cuộn dây thép gai xoắn được làm để rào chắn tường và hàng rào.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Nguyên liệu cho: Gậy bóng chày có gai
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể triển khai trên mặt đất để gây sát thương nhẹ và làm chậm kẻ địch.
+</name>
+</text>
+
+<!--Raw Rabbit-->
+<text>
+	<id>71</id>
+	<name>Chân sau của thỏ. Khi nấu chín sẽ cung cấp một bữa ăn nhẹ khá ngon.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Thức ăn: +25          Nước uống: +10
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Nguyên liệu cho: Thịt xào ớt chuông
+Có thể nấu trên lửa trại để ăn an toàn.
+50% khả năng bị ngộ độc thực phẩm khi ăn sống!
+</name>
+</text>
+
+<!--Roasted Rabbit-->
+<text>
+	<id>72</id>
+	<name>Chân thỏ nướng trên lửa trại, mềm và đậm đà.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sinh lực: +30          Thức ăn: +35
+Nước uống: +10                           
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Cloud Berries-->
+<text>
+	<id>73</id>
+	<name>Quả mâm xôi chỉ có thể tìm thấy quanh các hồ. Mặc dù rất tốt cho sức khỏe nhưng loại quả mọng bất thường này tỏa ra mùi hương nồng.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Tốc độ hồi sinh lực: x2     Thức ăn: +10                  
+Nước uống: +10          Hiệu lực: 30s
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lượng tối đa: 5
+</name>
+</text>
+
+<!--Bilberries-->
+<text>
+	<id>74</id>
+	<name>Quả việt quất đen có thể thu thập từ các bụi cây quả mọng trong rừng. Những quả mọng này rất mọng nước với hàm lượng nước cao nhất so với các loại quả mọng khác.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Thức ăn: +10          Nước uống: +20
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lượng tối đa: 5
+</name>
+</text>
+
+<!--Radio-->
+<text>
+	<id>75</id>
+	<name>Một thiết bị, chẳng hạn như bộ đàm, truyền hoặc nhận tín hiệu vô tuyến. Tần số hiện tại của nó bắt được các tín hiệu vô tuyến yếu ớt của các xe quân sự bị rơi và hầm ngầm.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lần Sử dụng: 10          Thay pin: Pin 9V
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể tìm vị trí chính xác của xe humvee bị rơi, trực thăng và hầm ngầm trong bán kính 5 ô.
+</name>
+</text>
+
+<!--RDS-->
+<text>
+	<id>76</id>
+	<name>Ốp ngắm chuẩn hóa gắn rail, không phóng đại với một chấm đỏ được chiếu lên thấu kính.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Tỉ lệ headshot: +5%     Độ lan tỏa: -2
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Gắn lên: Nỏ săn bắn, PP-19 Bizon, UMP-45, KRISS Vector, MP5K, M4A1, L85A2, M16A2, Mini-14, M249 SAW, AKs-74U, AK-74, AN-94, AKM, RPK, FN-FAL, Saiga-12K, OTs-14 Groza, VSS Vintorez, AS-VAL, SV-98
+</name>
+</text>
+
+<!--PU Scope-->
+<text>
+	<id>77</id>
+	<name>Ống ngắm 3.5x do Liên Xô sản xuất từ thời Thế chiến II.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Tỉ lệ headshot: +5%     Độ lan tỏa: -2
+Khoảng cách cộng thêm: 20%                                
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Gắn lên: SKS, Blaze, M70 Tundra, Mosin-Nagant
+</name>
+</text>
+
+<!--PSO-1 Scope-->
+<text>
+	<id>78</id>
+	<name>Ống ngắm bắn tỉa của Nga với độ phóng đại cố định 4x, được sản xuất tại Novosibirsk.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Tỉ lệ headshot: +15%     Độ lan tỏa: -2
+Khoảng cách cộng thêm: 20%                                 
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Gắn lên: PP-19 Bizon, AKs-74U, AK-74, AN-94, AKM, RPK, SVD Dragunov, OTs-14 Groza, VSS Vintorez, Saiga-12K, OSV-96
+</name>
+</text>
+
+<!--ACOG Scope-->
+<text>
+	<id>79</id>
+	<name>Ống ngắm chiến đấu tiên tiến với mức độ phóng đại 4x. Có thể gắn vào bất kỳ vũ khí nào có hệ thống rail tiêu chuẩn.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Tỉ lệ headshot: +15%     Độ lan tỏa: -2
+Khoảng cách cộng thêm: 20%                                 
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Gắn lên: UMP-45, KRISS Vector, MP5K, M4A1, L85A2, M16A2, Mini-14, M249 SAW, FN-FAL, AS-VAL, SV-98
+</name>
+</text>
+
+<!--5.45 Suppressor-->
+<text>
+	<id>80</id>
+	<name>Phụ kiện gắn vào nòng súng, làm giảm tiếng ồn khi bắn. Phiên bản này là nòng giảm thanh tiêu chuẩn cho súng dòng AK.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Gắn lên: AKs-74U, AK-74, AN-94
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--5.56 Suppressor-->
+<text>
+	<id>81</id>
+	<name>Phụ kiện gắn vào nòng súng, làm giảm tiếng ồn khi bắn. Phiên bản này là nòng giảm thanh tiêu chuẩn cho súng NATO.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Gắn lên: M4A1, L85A2, M16A2, AUG A1, M249 SAW
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Hacksaw-->
+<text>
+	<id>82</id>
+	<name>Một cái cưa tay răng nhỏ với lưỡi cưa được giữ căng trong khung, dùng để cắt các vật liệu như kim loại hoặc nhựa.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Vũ khí có thể cưa: M92 Repeater, Blaze, IZh-43, Mosin Nagant
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Nguyên liệu cho: VOG-25 Khatabka, Máng ăn
+Có thể dùng để cưa ngắn nòng của một số súng.
+</name>
+</text>
+
+<!--Bandolier-->
+<text>
+	<id>83</id>
+	<name>Được gắn vào báng súng, dây đeo đạn được thiết kế để giữ đạn dược luôn sẵn sàng trong khi săn bắn và chiến đấu.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Tốc độ Nạp đạn: +30%
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Gắn lên: M92 Repeater, SKS, Blaze, M70 Tundra, IZh-43, Remington 870, Mosin-Nagant
+</name>
+</text>
+
+<!--MRE-->
+<text>
+	<id>85</id>
+	<name>Bữa ăn sẵn [MRE], là khẩu phần ăn cá nhân, tự chứa dành cho quân đội sử dụng. Những khẩu phần này được thiết kế để cung cấp một bữa ăn hoàn chỉnh, cân bằng cho một người.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Thức ăn: +40          Nước uống: +40
+Số lần Sử dụng: 2                                  
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Spinning Fishing Rod-->
+<text>
+	<id>86</id>
+	<name>Một cần câu có thể kéo dài. Tính di động cao, nó làm cho việc câu cá có vẻ đơn giản.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lần Sử dụng: 10
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể dùng để câu cá ở bờ hồ và biển, nơi có cá cắn câu.
+</name>
+</text>
+
+<!--Simple Fishing Rod-->
+<text>
+	<id>87</id>
+	<name>Một sợi dây thừng buộc vào một cây gậy. Phát minh tuyệt vời này có thể hữu ích một cách đáng ngạc nhiên, nhưng nó rất mỏng manh.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lần Sử dụng: 4
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể dùng để câu cá ở bờ hồ và biển, nơi có cá cắn câu.
+</name>
+</text>
+
+<!--Protective Case-->
+<text>
+	<id>88</id>
+	<name>Một hộp màu vàng bị mất được niêm phong chứa chiến lợi phẩm, thuộc về nhóm người sống sót trung lập.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Trả lại hộp cho chủ sở hữu sẽ tăng danh tiếng +10.
+Mở hộp có thể nhận đồ ngẫu nhiên, nhưng sẽ bị coi là ăn cắp và giảm danh tiếng -20!
+</name>
+</text>
+
+<!--Magpul-->
+<text>
+	<id>89</id>
+	<name>Được gắn ở cuối băng đạn, nó giúp việc thay băng đạn từ túi, túi quần hoặc ba lô trở nên dễ dàng.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Tốc độ Nạp đạn: +30%
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Gắn lên: AKs-74U, AK-74, AN-94, M4A1, L85A2, M16A2, AUG A1, Mini-14, FAMAS F1, AKM, RPK, FN-FAL, Saiga-12K, OTs-14 Groza, VSS Vintorez
+</name>
+</text>
+
+<!--Choke-->
+<text>
+	<id>90</id>
+	<name>Choke thu hẹp đầu nòng súng để thay đổi đạn shot thành một hình mẫu tập trung.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Gắn lên: IZh-43, Remington 870, Saiga-12K
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Herring-->
+<text>
+	<id>91</id>
+	<name>Cá trích, loài cá nhỏ, màu bạc, được biết đến với thân hình thuôn nhỏ và vảy óng ánh.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Thức ăn: +10          Nước uống: +10
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể nấu trên lửa trại để ăn an toàn.
+50% khả năng bị ngộ độc thực phẩm khi ăn sống.
+</name>
+</text>
+
+<!--Salmon-->
+<text>
+	<id>92</id>
+	<name>Cá hồi, một nhóm cá đa dạng được biết đến với kiểu di cư, di chuyển giữa môi trường nước ngọt và nước mặn.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Thức ăn: +35          Nước uống: +15
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể nấu trên lửa trại để ăn an toàn.
+50% khả năng bị ngộ độc thực phẩm khi ăn sống.
+</name>
+</text>
+
+<!--Ruffe-->
+<text>
+	<id>93</id>
+	<name>Cá rô, một loài cá nước ngọt nhỏ, thường dài khoảng 4-6 inch, với thân hình thon dài.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Thức ăn: +10          Nước uống: +10
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể nấu trên lửa trại để ăn an toàn.
+50% khả năng bị ngộ độc thực phẩm khi ăn sống.
+</name>
+</text>
+
+<!--Perch-->
+<text>
+	<id>94</id>
+	<name>Cá rô được biết đến với hai vây lưng, một gai và một mềm, và thường là loài ăn thịt sống dưới đáy.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Thức ăn: +35          Nước uống: +15
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể nấu trên lửa trại để ăn an toàn.
+50% khả năng bị ngộ độc thực phẩm khi ăn sống.
+</name>
+</text>
+
+<!--Small Grilled Fillet-->
+<text>
+	<id>95</id>
+	<name>Miếng phi lê cá nhỏ nướng trên lửa trại cho một bữa ăn nhẹ ngon, có kích cỡ vừa phải.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sinh lực: +10          Thức ăn: +25
+Nước uống: +10                           
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Large Grilled Fillet-->
+<text>
+	<id>96</id>
+	<name>Miếng phi lê cá được chế biến áp chảo trên lửa trại, Nó đã chín hoàn toàn, tơi xốp, mềm và no bụng.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sinh lực: +10          Thức ăn: +50
+Nước uống: +10                           
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Psilocybin🍄-->
+<text>
+	<id>97</id>
+	<name>🍄Ảo giác đảm bảo🍄
+"ᴛᴇᴄʜɴᴏʙʟᴀᴅᴇ ɴᴇᴠᴇʀ ᴅɪᴇs"
+y҉̃̀̋̑ = ḿ̬̏ͤͅx̛̘̠̹͋ + b̬͖̏́͢                           "𝓞𝓱𝓲𝓸 𝓼𝓴𝓲𝓫𝓲𝓭𝓲 𝓰𝔂𝓪𝓽𝓽 𝓼𝓲𝓰𝓶𝓪 𝓻𝓲𝔃𝔃"
+Ｍ Ｅ Ｔ Ａ Ｍ Ｏ Ｒ Ｐ Ｈ Ｏ Ｓ Ｉ Ｓ  ∀ןıǝns      
+ᗩᒪIEᑎᔕ       ƵØm̷ƀɨɇs̷    🕴🐟 E=mc² 🍅🙊ᴮʳᵘʰ
+ʜᴜᴄᴋʟᴇ ʙᴇʀʀʏ ғɪɴɴ  ሠዐዪረዕ የቿልርቿ    😐︎♋︎●︎♋︎⬧︎♒︎■︎♓︎🙵□︎❖︎
+                      K͓̽a͓̽l͓̽a͓̽s͓̽h͓̽n͓̽i͓̽k͓̽o͓̽v͓̽       ₑₙ𝓭ₑᵣₘₐₙ 𝓬ₐₙ'ₜ ₛ𝔀ᵢₘ
+</name>
+</text>
+
+<!--Long-Range Scope-->
+<text>
+	<id>98</id>
+	<name>Ống ngắm súng trường với thu phóng thay đổi. Mặc định nhà máy lấy nét ở 200m và có thể điều chỉnh thủ công lên 800m.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Tỉ lệ headshot: +25%     Độ lan tỏa: -3
+Khoảng cách cộng thêm: +50%                               
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Gắn lên: Nỏ săn bắn, Mini-14, SKS, Blaze, FN-FAL, M70 Tundra, AS-VAL, Mosin-Nagant, SVD Dragunov, SV-98, OSV-96
+</name>
+</text>
+
+<!--Claymore-->
+<text>
+	<id>99</id>
+	<name>Mìn định hướng. Một nhãn tiện lợi nhắc người dùng hướng nó về phía kẻ thù và đặt dây căng.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 1575          Sát thương mảnh: 75
+Mảnh: 21                                                        
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể triển khai, không bị kích hoạt bởi người chơi.
+Mảnh vỡ vẫn có thể gây sát thương cho người chơi ngay cả khi bị kích hoạt bởi các thực thể khác!
+</name>
+</text>
+
+<!--9x18 M Ammo-->
+<text>
+	<id>100</id>
+	<name>Đạn súng lục 9x18mm Makarov. Dùng cho một số súng lục và SMG.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+sử dụng cho: PM, PB, PP-19 Bizon
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lượng tối đa: 60
+</name>
+</text>
+
+<!--9x39 Ammo-->
+<text>
+	<id>101</id>
+	<name>Đạn 9x39mm hạ âm. Dùng cho một số súng trường.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+sử dụng cho: OTs-14 Groza, VSS Vintorez, AS-VAL
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lượng tối đa: 50
+</name>
+</text>
+
+<!--Molotov Cocktail-->
+<text>
+	<id>102</id>
+	<name>Một chai molotov gây cháy, được chế tạo bằng cách gắn một phát sáng vào một chai whiskey ngon, đáng ngạc nhiên là nó hoàn thành nhiệm vụ.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 100          Hiệu lực: 10s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Công thức chế tạo: Whiskey + Pháo sáng
+Có thể ném xuống đất hoặc lên tòa nhà để đốt cháy và gây sát thương liên tục cho kẻ địch.
+</name>
+</text>
+
+<!--Flare Gun-->
+<text>
+	<id>103</id>
+	<name>Một súng phát sáng dùng một lần được nạp sẵn một phát sáng. Khi bắn, nó ra hiệu cho một thùng tiếp tế thả từ trên không với hạng ngẫu nhiên.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+tiếp tế: 20s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể thu hút thây ma gần đó khi bắn!
+</name>
+</text>
+
+<!--50 BMG Ammo Can-->
+<text>
+	<id>104</id>
+	<name>Loại đạn .50 caliber cụ thể và khả năng có sẵn của nó trong cấu hình băng đạn có thể rất ngầu, cho ứng dụng của các tháp súng.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lượng tối đa: 80
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Đạn dùng cho tháp súng trên humvee.
+</name>
+</text>
+
+<!--40mm Grenade-->
+<text>
+	<id>105</id>
+	<name>Lựu đạn cho súng phóng lựu M203 gắn dưới nòng. Nổ khi chạm mục tiêu.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 540          Sát thương mảnh: 45
+Mảnh: 12                                                   
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lượng tối đa: 10
+</name>
+</text>
+
+<!--VOG-25 Grenade-->
+<text>
+	<id>106</id>
+	<name>Lựu đạn cho súng phóng lựu GP-25 gắn dưới nòng. Nổ khi chạm mục tiêu.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 540          Sát thương mảnh: 45
+Mảnh: 12                                                   
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lượng tối đa: 10
+Nguyên liệu cho: VOG-25 Khatabka
+</name>
+</text>
+
+<!--M203-->
+<text>
+	<id>107</id>
+	<name>M203 là súng phóng lựu 40 mm một phát, nạp đạn từ nòng, gắn dưới nòng được thiết kế để gắn vào súng trường. Kiểu phương Tây.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Gắn lên: M4A1, L85A2, M16A2, FAMAS F1, FN-FAL
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Không thể bắn vào mục tiêu ở cự ly quá gần!
+</name>
+</text>
+
+<!--GP-25-->
+<text>
+	<id>108</id>
+	<name>GP-25 thuộc dòng súng phóng lựu Nga gắn vừa trên súng trường tấn công AK, nạp đạn từ nòng.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Gắn lên: AK-74, AN-94, AKM
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Không thể bắn vào mục tiêu ở cự ly quá gần!
+</name>
+</text>
+
+<!--IV Kit-->
+<text>
+	<id>109</id>
+	<name>Bộ truyền tĩnh mạch cùng với túi máu vô trùng, có thể được sử dụng để rút máu của chính bạn để sử dụng một lần trong tương lai.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sinh lực: −50          Sử dụng: 6s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Yêu cầu 50 hoặc nhiều hơn sinh lực để sử dụng!
+</name>
+</text>
+
+<!--Whetstone-->
+<text>
+	<id>110</id>
+	<name>Đá mài có thể được sử dụng để mài sắc các lưỡi của các vũ khí và công cụ có lưỡi khác nhau.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Mài sắc: +25%
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+sử dụng cho: Dao, Rìu, Rìu cứu hỏa, Katana, Kiếm Thập tự
+</name>
+</text>
+
+<!--AK Grip-->
+<text>
+	<id>111</id>
+	<name>Tay cầm trước chiến thuật đa năng cho các vũ khí dòng AK.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Độ giật: -30%
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Gắn lên: AK-74, AKM, RPK
+Nguyên liệu cho: Tay cầm AK Laser
+Có thể kết hợp với kính ngắm laser.
+</name>
+</text>
+
+<!--Rail Grip-->
+<text>
+	<id>112</id>
+	<name>Tay cầm trước cho súng có rail picatinny.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Độ giật: -30%
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Gắn lên: UMP-45, KRISS Vector, M4A1, L85A2
+Nguyên liệu cho: Tay cầm Rail Laser
+Có thể kết hợp với kính ngắm laser.
+</name>
+</text>
+
+<!--Map Notes-->
+<text>
+	<id>113</id>
+	<name>Một tấm bản đồ với một số đánh dấu, chứa ghi chú về những địa điểm thú vị, trạm kiểm soát, điểm quan tâm và xe cộ trên hòn đảo hiện tại.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+sử dụng nó để tiết lộ tất cả địa điểm ẩn trên bản đồ.
+Sẽ biến mất khỏi kho đồ trên đảo tiếp theo!
+</name>
+</text>
+
+<!--Elderberries-->
+<text>
+	<id>114</id>
+	<name>Quả cơm cháy là những quả mọng nhỏ, màu tím đen sẫm, được biết đến với hương vị thơm kem và giàu chất dinh dưỡng. Chúng chỉ mọc ở các đầm lầy.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sinh lực: +2          Thức ăn: +10
+Nước uống: +10                         
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lượng tối đa: 5
+</name>
+</text>
+
+<!--Binoculars-->
+<text>
+	<id>115</id>
+	<name>Một cặp ống nhòm để trinh sát các khu vực xa.
+</name>
+</text>
+
+<!--Scout Handbook-->
+<text>
+	<id>116</id>
+	<name>Sổ tay hướng đạo sinh cung cấp một hướng dẫn toàn diện cho các hoạt động hướng đạo, bao gồm các lĩnh vực như cắm trại, kỹ năng sinh tồn, sơ cứu và lãnh đạo.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Kinh nghiệm: +200
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Canvas-->
+<text>
+	<id>117</id>
+	<name>Những bao tải được cuộn lại thành một cuộn để sử dụng sau này.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Nguyên liệu cho: Kho chứa đồ
+Công thức chế tạo: 2 Bao tải
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Adhesive Plaster-->
+<text>
+	<id>118</id>
+	<name>Một loại băng y tế có tính chất dính, Có thể được sử dụng để trực tiếp cầm máu ngay lập tức.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sử dụng: 1s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lượng tối đa: 5
+Cất trong túi y tế để sử dụng nhanh.
+</name>
+</text>
+
+<!--M18 Smoke Grenade-->
+<text>
+	<id>119</id>
+	<name>Lựu đạn khói được lực lượng phương Tây sử dụng. Khói không màu, nó có thể cung cấp lớp che phủ hoàn toàn chống lại kẻ thù.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hiệu lực: 15s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Tạo màn khói, chặn tầm nhìn của kẻ địch.
+</name>
+</text>
+
+<!--Soviet Cigarettes-->
+<text>
+	<id>120</id>
+	<name>"Thuốc lá Nga" chứa đầy một loại thuốc lá mạnh, nhiều nicotine gọi là makhorka và đã phổ biến trong suốt thời kỳ Xô Viết.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hơi ấm: +5          Hiệu lực: 30s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hiệu ứng thuốc: ngừng đói và khát trong khi hiệu ứng còn hoạt động.
+Số lượng tối đa: 10
+Có thể tặng nó cho người sống sót trung lập để +5 danh tiếng.
+</name>
+</text>
+
+<!--Beer-->
+<text>
+	<id>121</id>
+	<name>Lon bia thường để được 6-9 tháng ở nhiệt độ phòng, hương vị hơi lạ, nhưng vẫn ngọt ngào sảng khoái.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Nước uống: +20          Hơi ấm: +10
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Epoxy Glue-->
+<text>
+	<id>122</id>
+	<name>Keo epoxy là một loại keo hai thành phần mạnh, được làm từ nhựa epoxy và chất làm cứng.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sửa chữa: +25%
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể sửa cung, nỏ, quần áo, ba lô, một số mũ và áo giáp.
+</name>
+</text>
+
+<!--Fertilizer-->
+<text>
+	<id>123</id>
+	<name>Được tạo thành từ chất thực vật và chất thải động vật, rất giàu chất dinh dưỡng thiết yếu mà cây trồng yêu thích.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lần Sử dụng: 4
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Tăng tốc độ tăng trưởng của cây trồng.
+</name>
+</text>
+
+<!--Laser Sights-->
+<text>
+	<id>124</id>
+	<name>Ốp ngắm laser chiếu một chùm tia laser lên mục tiêu, hỗ trợ tốc độ ngắm và phục hồi độ giật.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Tốc độ ngắm: +30%
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Gắn lên: UMP-45, KRISS Vector, AKs-74U, AK-74, AN-94, M4A1, L85A2, Mini-14, AKM, RPK, SKS, Blaze, M70 Tundra, Mosin-Nagant, SVD Dragunov, SV-98, Saiga-12K, VSS Vintorez, AS-VAL
+Nguyên liệu cho: Tay cầm AK Laser, Tay cầm Rail Laser
+</name>
+</text>
+
+<!--Lighter-->
+<text>
+	<id>125</id>
+	<name>Bật lửa tạo ra ngọn lửa bằng hệ thống đánh lửa cơ học, chạy bằng cơ chế đá lửa và bánh xe.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lần Sử dụng: 100
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể nhóm lửa trại hoặc châm thuốc.
+</name>
+</text>
+
+<!--Keycard-->
+<text>
+	<id>126</id>
+	<name>Thẻ từ của sĩ quan. Một chìa khóa quan trọng để quản lý quyền truy cập vào các khu vực nhạy cảm, trang bị được ủy quyền và duy trì an ninh trong một cơ sở quân sự.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Cần thiết để truy cập cửa thang máy hầm.
+Sẽ biến mất khỏi kho đồ trên đảo tiếp theo!
+</name>
+</text>
+
+<!--Makeshift Suppressor-->
+<text>
+	<id>127</id>
+	<name>Bộ giảm thanh tự chế DIY có thể giảm một số tiếng ồn của súng. Nó hoạt động được.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Gắn lên: AKs-74U, AK-74, AN-94, M4A1, L85A2, M16A2, AUG A1, FAMAS F1, Mini-14, M249 SAW, AKM, FN-FAL
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Công thức chế tạo: Chai nước + Băng dính
+</name>
+</text>
+
+<!--AN/PVS-4 Scope-->
+<text>
+	<id>128</id>
+	<name>Ống ngắm phóng đại 3.5x với kính nhìn đêm gắn rail chuẩn hóa, được chế tạo cho súng NATO.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Tỉ lệ headshot: +12%     Độ lan tỏa: -2
+Khoảng cách cộng thêm: +12%                               
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Gắn lên: UMP-45, KRISS Vector, MP5K, M4A1, L85A2, M16A2, Mini-14, M249 SAW, FN-FAL, SV-98, AS-VAL
+</name>
+</text>
+
+<!--1PN51 Scope-->
+<text>
+	<id>129</id>
+	<name>Ống ngắm phóng đại 3.5x gắn bên với kính nhìn đêm, phù hợp với súng Khối Warszawa.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Tỉ lệ headshot: +12%     Độ lan tỏa: -2
+Khoảng cách cộng thêm: +12%                               
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Gắn lên: PP-19 Bizon, AKs-74U, AK-74, AN-94, AKM, RPK, Saiga-12K, OTs-14 Groza, VSS Vintorez
+</name>
+</text>
+
+<!--C-MAG 5.56 Drum-->
+<text>
+	<id>130</id>
+	<name>Băng đạn trống kép 100 viên 5.56x45.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Gắn lên: M4A1, M16A2, AUG A1
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--7.62x39 Drum Mag-->
+<text>
+	<id>131</id>
+	<name>Băng đạn trống 75 viên 7.62x39.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Gắn lên: AKM, RPK
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Frying Pan-->
+<text>
+	<id>132</id>
+	<name>Chảo gang lý tưởng để áp chảo, chiên và nướng. Chúc ngon miệng.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể nấu: Trứng chiên, Trứng bác cà chua, Thịt xào ớt chuông
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Trang bị vào ô cận chiến để bắt đầu đập vỡ sọ!
+</name>
+</text>
+
+<!--Gas Mask (stowed)-->
+<text>
+	<id>133</id>
+	<name>Mặt nạ phòng độc quân đội tiêu chuẩn, với bộ lọc cơ bản và thấu kính tròn; cung cấp khả năng miễn nhiễm chống lại các khu vực bị nhiễm khí độc.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hơi ấm: +2
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể đeo như lớp lót, độ bền không hao mòn khi bộ đồ bảo hộ được niêm phong.
+Độ bền hao mòn nhanh trong khu vực bị ô nhiễm!
+</name>
+</text>
+
+<!--Balaclava (stowed)-->
+<text>
+	<id>134</id>
+	<name>Một lớp phủ đầu ôm sát bảo vệ đầu, mặt và cổ, chỉ để hở mắt và miệng; cũng là một món giữ ấm tâm hồn cho những ai quá khiêm tốn với những việc làm anh hùng!
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hơi ấm: +3
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể đeo như lớp lót.
+</name>
+</text>
+
+<!--GP-5 Gas Mask (stowed)-->
+<text>
+	<id>135</id>
+	<name>Mặt nạ phòng độc toàn mặt của Liên Xô với giá đỡ bộ lọc ở phía trước; cung cấp khả năng miễn nhiễm chống lại các khu vực bị nhiễm khí độc.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hơi ấm: +2
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể đeo như lớp lót, độ bền không hao mòn khi bộ đồ bảo hộ được niêm phong.
+Độ bền hao mòn liên tục trong khu vực bị ô nhiễm!
+</name>
+</text>
+
+<!--Clown Mask (stowed)-->
+<text>
+	<id>136</id>
+	<name>Mặt nạ hề ngốc nghếch hoặc... đen tối! Là lựa chọn hàng đầu của bọn côn đồ trên đảo thích đùa giỡn.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể đeo như lớp lót, khiến bạn không bị nhận dạng đối với những người sống sót khác!
+</name>
+</text>
+
+<!--Combat Gloves-->
+<text>
+	<id>137</id>
+	<name>Găng tay chuyên dụng cho các tình huống chiến thuật; cân bằng giữa bảo vệ chống trầy xước, vết cắt và lực cùn với sự khéo léo cần thiết để vận hành thiết bị chiến thuật.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hơi ấm: +2          Chặn cận chiến: +5%
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Miễn nhiễm hình phạt lục xác.
+</name>
+</text>
+
+<!--.308 Win Ammo-->
+<text>
+	<id>138</id>
+	<name>Đạn .308 Winchester. Dùng cho một số súng lục và súng trường.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+sử dụng cho: Longhorn, Blaze cưa, Blaze, M70 Tundra, FN-FAL
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lượng tối đa: 40
+</name>
+</text>
+
+<!--Sneakers-->
+<text>
+	<id>139</id>
+	<name>Một đôi giày thể thao thông thường.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hơi ấm: +1     Tốc độ di chuyển: +5%
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Không bảo vệ khỏi vũng nguy hiểm sinh học!
+</name>
+</text>
+
+<!--Woodland Boots-->
+<text>
+	<id>140</id>
+	<name>Giày rừng được thiết kế cho môi trường ẩm ướt.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hơi ấm: +2     Tốc độ di chuyển: +5%
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Bỏ qua hình phạt chậm chạp ở đầm lầy.
+Không bảo vệ khỏi vũng nguy hiểm sinh học!
+</name>
+</text>
+
+<!--Assault Boots-->
+<text>
+	<id>141</id>
+	<name>Được thiết kế cho binh lính trong chiến đấu.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hơi ấm: +2     Tốc độ di chuyển: +10%
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Bỏ qua hình phạt chậm chạp ở đầm lầy, có thể cất một con dao.
+Không bảo vệ khỏi vũng nguy hiểm sinh học!
+</name>
+</text>
+
+<!--Gun Sling-->
+<text>
+	<id>142</id>
+	<name>Dây đeo súng giúp mang thêm một vũ khí chính trên lưng.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể trang bị để đeo thêm một vũ khí tầm xa trên lưng.
+</name>
+</text>
+
+<!--Charcoal Tablets-->
+<text>
+	<id>143</id>
+	<name>Viên than hoạt tính có thể lọc độc tố; Có thể được sử dụng làm chất hấp thụ cho các bộ lọc khác nhau.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Phục hồi: +50%
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lượng tối đa: 3
+Có thể phục hồi: Mặt nạ phòng độc, Bộ lọc nước (Rỗng)
+</name>
+</text>
+
+<!--Blowtorch-->
+<text>
+	<id>144</id>
+	<name>Đèn hàn dùng để cắt và hàn kim loại.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sửa chữa: +25%
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Nguyên liệu cho: Xe gia cố
+Có thể hàn sửa xe và thiết bị kim loại khác.
+</name>
+</text>
+
+<!--Ghillie Suit-->
+<text>
+	<id>145</id>
+	<name>Bộ đồ ngụy trang được sử dụng để hoàn toàn che giấu người mặc trong môi trường tự nhiên.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Cung cấp trạng thái tàng hình khi độ bền ≥ 50%; Trong trạng thái này kẻ thù gần đó không thể phát hiện bạn.
+Di chuyển và tấn công liên tục sẽ loại bỏ trạng thái tàng hình!
+</name>
+</text>
+
+<!--Underbarrel Flashlight-->
+<text>
+	<id>146</id>
+	<name>Đèn pin gắn dưới nòng cho vũ khí chính, cung cấp ánh sáng vào ban đêm.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Gắn lên: UMP-45, KRISS Vector, AKs-74U, AK-74, AN-94, M4A1, L85A2, Mini-14, AKM, RPK, SKS, Blaze, M70 Tundra, Saiga-12K, Mosin-Nagant, SVD Dragunov, SV-98, VSS Vintorez, AS-VAL
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Cũng có thể gắn trên mũ sắt tác chiến.
+</name>
+</text>
+
+<!--Laser AK Grip-->
+<text>
+	<id>147</id>
+	<name>Tay cầm trước đa năng và ốp ngắm laser gắn bên cho súng dòng AK.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Tốc độ ngắm: +30%     Phục hồi độ giật: +30%
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Gắn lên: AK-74, AKM, RPK
+Công thức chế tạo: Kính ngắm laser + Tay cầm AK
+</name>
+</text>
+
+<!--Laser Rail Grip-->
+<text>
+	<id>148</id>
+	<name>Tay cầm trước và ốp ngắm laser cho súng có rail Picatinny.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Tốc độ ngắm: +30%     Phục hồi độ giật: +30%
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Gắn lên: UMP-45, KRISS Vector, M4A1, L85A2
+Công thức chế tạo: Kính ngắm laser + Tay cầm Rail
+</name>
+</text>
+
+<!--Player's feedback for finding a secret location-->
+<text>
+	<id>150</id>
+	<name>Đây là một phát hiện!</name>
+</text>
+
+<text>
+	<id>151</id>
+	<name>Gọi tiếp tế</name>
+</text>
+
+<text>
+	<id>152</id>
+	<name>Nạp đạn</name>
+</text>
+
+<text>
+	<id>153</id>
+	<name>Phương tiện này không có súng máy gắn trên.</name>
+</text>
+
+<text>
+	<id>154</id>
+	<name>Tôi không thể làm điều đó ở đây.</name>
+</text>
+
+<!--Mainmenu difficulty text-->
+<text>
+	<id>155</id>
+	<name>Vui lòng chọn độ khó của trò chơi.
+Một số nội dung chỉ có thể được mở khóa ở độ khó cao hơn.</name>
+</text>
+
+<text>
+	<id>156</id>
+	<name>Tôi cần một vũ khí có súng phóng lựu gắn dưới nòng.</name>
+</text>
+
+<text>
+	<id>157</id>
+	<name>Đạn dược: </name>
+</text>
+
+<text>
+	<id>158</id>
+	<name>Tôi không thể làm điều này khi tôi bị ốm.</name>
+</text>
+
+<!--Player log: when not enough blood during transfusion-->
+<text>
+	<id>159</id>
+	<name>Tôi cần thêm máu để truyền.</name>
+</text>
+
+<text>
+	<id>160</id>
+	<name>Tôi đang chảy máu rồi!</name>
+</text>
+
+<!--Quest refuse-->
+<text>
+	<id>161</id>
+	<name>Từ chối</name>
+</text>
+
+<!--bot's response after quest refuse or fail-->
+<text>
+	<id>162</id>
+	<name>Không có gì chúng ta cần nói chuyện...</name>
+</text>
+
+<!--Friendly survivors feedback-->
+
+<!--Following-->
+<text>
+	<id>163</id>
+	<name>Tôi sẽ đi theo bạn, bạn thân!</name>
+</text>
+
+<!--Guarding-->
+<text>
+	<id>164</id>
+	<name>Tôi sẽ bảo vệ khu vực này cho bạn, bạn thân!</name>
+</text>
+
+<!--Player log: when sleeping-->
+<text>
+	<id>165</id>
+	<name>Tôi không thể ngủ khi kẻ thù đang đi lang thang xung quanh.</name>
+</text>
+
+<text>
+	<id>166</id>
+	<name>Tốt hơn tôi nên ngủ vào ban đêm.</name>
+</text>
+
+<!--Sleep UI-->
+<text>
+	<id>167</id>
+	<name>Một giấc ngủ ngon là điều bạn cần trong tận thế...
+Ngủ sẽ loại bỏ trạng thái "mệt mỏi", nghỉ ngơi thụ động trên giường có thể tua nhanh thời gian ngay cả vào ban ngày.
+Bạn sẽ thức dậy sớm hơn nếu quá đói hoặc khát.
+
+</name>
+</text>
+
+<text>
+	<id>168</id>
+	<name>Ngủ</name>
+</text>
+
+<text>
+	<id>169</id>
+	<name>Tình trạng hiện tại của bạn cho phép bạn ngủ đến: </name>
+</text>
+
+<text>
+	<id>170</id>
+	<name>Quá lạnh để ngủ!</name>
+</text>
+
+<text>
+	<id>171</id>
+	<name>Tôi quá đói!</name>
+</text>
+
+<text>
+	<id>172</id>
+	<name>Tôi quá khát!</name>
+</text>
+
+<text>
+	<id>173</id>
+	<name>Tôi không thể ngủ khi đang chảy máu!</name>
+</text>
+
+<text>
+	<id>174</id>
+	<name>Tôi cần một nơi có mái che để ngủ...</name>
+</text>
+
+<text>
+	<id>175</id>
+	<name>Tôi không khỏe... Tôi không thể ngủ!</name>
+</text>
+
+<text>
+	<id>176</id>
+	<name>Tôi không thể ngủ vào ban ngày.</name>
+</text>
+
+<text>
+	<id>177</id>
+	<name>Tôi không thể ngủ ở đây.</name>
+</text>
+
+<text>
+	<id>178</id>
+	<name>Huyền thoại</name>
+</text>
+
+<text>
+	<id>179</id>
+	<name>Quá gần!</name>
+</text>
+
+<!--Character Descriptions-->
+
+<!--Xavier "Pilot" Unlocked-->
+<text>
+	<id>180</id>
+	<name>Xavier "Phi công"
+Trang bị bắt đầu: mũ phi công, áo len, quần gorka, UMP-45, .45 ACP x30, pháo sáng x2
+Kỹ năng đã mở khóa: Cấp.2 Người sống sót, Cấp.1 Trinh sát</name>
+</text>
+
+<!--Xavier "Pilot" Locked-->
+<text>
+	<id>181</id>
+	<name>Xavier "Phi công"
+Yêu cầu mở khóa: tìm 13 trực thăng rơi trong một lần chơi.
+Yêu cầu độ khó: "Huyền thoại"</name>
+</text>
+
+<!--Rudolf "Jager" Unlocked-->
+<text>
+	<id>182</id>
+	<name>Rudolf "Thợ săn"
+Trang bị bắt đầu: mũ ushanka, áo khoác săn bắn, quần săn bắn, dao săn bắn, IZh-43, đạn 12 gauge x12, cần câu quay
+Kỹ năng đã mở khóa: Cấp.1 Cảnh giác, Cấp.2 Thợ săn</name>
+</text>
+
+<!--Rudolf "Jager" Locked-->
+<text>
+	<id>183</id>
+	<name>Rudolf "Thợ săn"
+Yêu cầu mở khóa: Giết 3 hươu bạch tạng trong một lần chơi.
+Yêu cầu độ khó: "Huyền thoại"</name>
+</text>
+
+<!--Taman "Guard" Unlocked-->
+<text>
+	<id>184</id>
+	<name>Taman "Vệ sĩ"
+Trang bị bắt đầu: mũ cảnh sát, bộ orel, AKs-74U, đạn 5.45x39mm x30, nước tăng lực
+Kỹ năng đã mở khóa: Cấp.2 Xạ thủ, Cấp.1 Thợ đúc đạn</name>
+</text>
+
+<!--Taman "Guard" Locked-->
+<text>
+	<id>185</id>
+	<name>Taman "Vệ sĩ"
+Yêu cầu mở khóa: Giết "The Tank" bằng súng máy gắn trên HUMVEE.
+Yêu cầu độ khó: "Huyền thoại"</name>
+</text>
+
+<!--Daria "Scientist" Unlocked-->
+<text>
+	<id>186</id>
+	<name>Daria "Nhà khoa học"
+Trang bị bắt đầu: tạp dề, áo sơ mi, quần công nhân, băng gạc x3, morphine, vitamin, tetracycline, bộ truyền tĩnh mạch
+Kỹ năng đã mở khóa: Cấp.2 Red+, Cấp.1 Người chạy nước rút</name>
+</text>
+
+<!--Daria "Scientist" Locked-->
+<text>
+	<id>187</id>
+	<name>Daria "Nhà khoa học"
+Yêu cầu mở khóa: Đến đảo 5.
+Yêu cầu độ khó: "Huyền thoại"</name>
+</text>
+
+<!--Whetstone Prompt-->
+<text>
+	<id>188</id>
+	<name>Mài sắc +25%</name>
+</text>
+
+<!--Desert Eagle Locked-->
+<text>
+	<id>189</id>
+	<name>Desert Eagle
+Yêu cầu mở khóa: Mang một bộ cao bồi (mũ cao bồi, áo sơ mi, súng lục Magnum) trong một lần chơi.
+Yêu cầu độ khó: "Bình thường" hoặc cao hơn
+Tiến độ hiện tại: </name>
+</text>
+
+<!--Desert Eagle Unlocked-->
+<text>
+	<id>190</id>
+	<name>Desert Eagle
+Đã mở khóa
+Vị trí xuất hiện: Cửa hàng súng, Hầm ngầm</name>
+</text>
+
+<!--Katana Locked-->
+<text>
+	<id>191</id>
+	<name>Katana
+Yêu cầu mở khóa: Giết 100 xác sống bằng bất kỳ con dao nào.
+Yêu cầu độ khó: "Huyền thoại"
+Tiến độ hiện tại: </name>
+</text>
+
+<!--Katana Unlocked-->
+<text>
+	<id>192</id>
+	<name>Katana
+Đã mở khóa
+Vị trí xuất hiện: Cửa hàng súng</name>
+</text>
+
+<!--Player log: whetstone used-->
+<text>
+	<id>193</id>
+	<name>Vũ khí đã được mài sắc.</name>
+</text>
+
+<text>
+	<id>194</id>
+	<name>Vũ khí này không thể mài sắc.</name>
+</text>
+
+<text>
+	<id>195</id>
+	<name>Chế tạo dây thừng</name>
+</text>
+
+<text>
+	<id>196</id>
+	<name>Tôi cần 3 giẻ rách để chế tạo một dây thừng.</name>
+</text>
+
+<!--Player and NPC interaction logs-->
+<text>
+	<id>197</id>
+	<name>Đi theo tôi! Bạn thân.</name>
+</text>
+
+<text>
+	<id>198</id>
+	<name>Ở lại đây! Bạn thân.</name>
+</text>
+
+<text>
+	<id>199</id>
+	<name>Biến đi!</name>
+</text>
+
+<text>
+	<id>200</id>
+	<name>Xin chào! Người sống sót...</name>
+</text>
+
+<text>
+	<id>201</id>
+	<name>Tôi không thể làm điều đó ở đây.</name>
+</text>
+
+<text>
+	<id>202</id>
+	<name>Có kẻ thù gần đó!</name>
+</text>
+
+<!--Player log: when near broken bridge-->
+<text>
+	<id>203</id>
+	<name>Chết tiệt! Cây cầu đã bị phá hủy! Hmm...có lẽ tôi có thể nhảy lên dốc bằng một chiếc xe.</name>
+</text>
+
+<!--Broken bridge UI-->
+<text>
+	<id>204</id>
+	<name>Bạn đã sẵn sàng để nhảy lên dốc để lên cầu chưa?
+Không có đường quay lại và rất nhiều nguy hiểm phía trước.</name>
+</text>
+
+<text>
+	<id>622</id>
+	<name>Bạn có chắc chắn muốn đến đảo thứ năm không?
+Bạn sẽ không thể quay lại lần nữa.</name>
+</text>
+
+<text>
+	<id>623</id>
+	<name>Bạn có chắc chắn muốn đến đảo thứ năm không?
+Bạn sẽ không thể quay lại lần nữa.</name>
+</text>
+
+<!--Neutral NPCs logs-->
+<text>
+	<id>205</id>
+	<name>Xin chào đằng đó.</name>
+</text>
+
+<text>
+	<id>206</id>
+	<name>Này! bạn có thể giúp chúng tôi không?</name>
+</text>
+
+<text>
+	<id>207</id>
+	<name>Đừng bắn! chúng tôi thân thiện...</name>
+</text>
+
+<text>
+	<id>208</id>
+	<name>Lời chào.</name>
+</text>
+
+<text>
+	<id>209</id>
+	<name>Cảm ơn bạn!</name>
+</text>
+
+<text>
+	<id>210</id>
+	<name>Chào! Chúng tôi nghe nói về bạn! Bạn đã giúp đỡ những người gặp khó khăn và chúng tôi muốn tặng quà cho bạn vì việc làm của bạn! Lấy cái này: </name>
+</text>
+
+<!--Player log: reading-->
+<text>
+	<id>611</id>
+	<name>Tôi đã học được một số kiến thức từ điều này!</name>
+</text>
+
+<text>
+	<id>612</id>
+	<name>Đọc</name>
+</text>
+
+<text>
+	<id>613</id>
+	<name>Tôi nghĩ tôi là bất tử, nhưng thật không may, tôi không phải vậy.</name>
+</text>
+
+<text>
+	<id>614</id>
+	<name>phút</name>
+</text>
+
+<text>
+	<id>615</id>
+	<name>Chế tạo vải bạt</name>
+</text>
+
+<text>
+	<id>616</id>
+	<name>Chế tạo kho chứa đồ</name>
+</text>
+
+<!--Mainmenu difficulty UI-->
+
+<!--Novice-->
+<text>
+	<id>617</id>
+	<name>•Tỷ lệ đói và khát chậm
+•Thời tiết ấm áp
+•Sát thương NPC giảm lên người chơi
+</name>
+</text>
+
+<!--Regular-->
+<text>
+	<id>618</id>
+	<name>•Tỷ lệ đói và khát vừa phải
+•Thời tiết bình thường
+•Sát thương NPC bình thường lên người chơi
+</name>
+</text>
+
+<!--Veteran-->
+<text>
+	<id>619</id>
+	<name>•Tỷ lệ đói và khát tăng
+•Thời tiết lạnh
+•Sát thương NPC tăng lên người chơi
+•Nhiều xác sống hơn ở một số khu vực
+</name>
+</text>
+
+<!--Legendary-->
+<text>
+	<id>620</id>
+	<name>•Tỷ lệ đói và khát tăng
+•Thời tiết khắc nghiệt  •NPC có thể chí mạng người chơi
+•Sát thương NPC tăng lên người chơi
+•Sương mù chiến tranh
+•Xác sống mạnh ở một số khu vực
+</name>
+</text>
+
+<text>
+	<id>621</id>
+	<name>Bắt đầu
+</name>
+</text>
+
+<text>
+	<id>624</id>
+	<name>Cần câu đã bị gãy.
+</name>
+</text>
+
+<text>
+	<id>625</id>
+	<name>Chế tạo molotov
+</name>
+</text>
+
+<!--Crafting guide UI-->
+<text>
+	<id>626</id>
+	<name>MOLOTOV và DÂY THỪNG
+</name>
+</text>
+
+<text>
+	<id>627</id>
+	<name>Giẻ rách x3 = Dây thừng
+</name>
+</text>
+
+<text>
+	<id>628</id>
+	<name>Whiskey + Pháo sáng = Molotov Cocktail
+</name>
+</text>
+
+<text>
+	<id>629</id>
+	<name>KHO CHỨA ĐỒ
+</name>
+</text>
+
+<text>
+	<id>630</id>
+	<name>Bao tải x2 = Vải bạt
+</name>
+</text>
+
+<text>
+	<id>631</id>
+	<name>Đống củi + Vải bạt = Kho chứa đồ
+Vật tư cất giữ bên trong sẽ không biến mất.
+</name>
+</text>
+
+<!--Mike "Designer" Locked-->
+<text>
+	<id>632</id>
+	<name>Mike "Nhà thiết kế"
+Yêu cầu mở khóa: Đến hòn đảo không xác định.
+Yêu cầu độ khó: "Huyền thoại"
+</name>
+</text>
+
+<!--Mike "Designer" Unlocked-->
+<text>
+	<id>633</id>
+	<name>Mike "Nhà thiết kế"
+Trang bị bắt đầu: áo hoodie tuyệt vời, quần công nhân, KRISS vector, đạn .45 ACP x60, kiếm Thập tự, nước tăng lực x4
+Kỹ năng đã mở khóa: Cấp.1 Đấm, Cấp.1 Xạ thủ, Cấp.1 Trinh sát
+</name>
+</text>
+
+<!--Special items locked-->
+<text>
+	<id>634</id>
+	<name>Băng dán y tế
+Yêu cầu mở khóa: Trốn thoát bằng một trong các nhân vật sau: Emilio "Bác sĩ", Billy "Đỏ", Dave "Võ sĩ"</name>
+</text>
+
+<text>
+	<id>635</id>
+	<name>Bật lửa
+Yêu cầu mở khóa: Trốn thoát bằng một trong các nhân vật sau: Lee "Kẻ điên", Sergey "Slav", John "Tay lái"</name>
+</text>
+
+<text>
+	<id>636</id>
+	<name>Lựu đạn khói
+Yêu cầu mở khóa: Trốn thoát bằng một trong các nhân vật sau: Ganzo "Rồng", Tom "Người sống sót", Garry "Cựu chiến binh"</name>
+</text>
+
+<text>
+	<id>637</id>
+	<name>Kính ngắm laser
+Yêu cầu mở khóa: Trốn thoát bằng một trong các nhân vật sau: Kate "Khách du lịch", Jasmine "Tiều phu", Aika "Stringer"</name>
+</text>
+
+<text>
+	<id>638</id>
+	<name>Thẻ từ sĩ quan
+Yêu cầu mở khóa: Trốn thoát bằng một trong các nhân vật sau: Xavier "Phi công", Rudolf "Thợ săn", Taman "Vệ sĩ", Daria "Nhà khoa học"</name>
+</text>
+
+<!--Boris radio contact UI-->
+<text>
+	<id>639</id>
+	<name>...Lặp lại! Chúng tôi nghe thấy bạn! Chúng tôi sẽ ở đây trong một ngày! Cố lên...</name>
+</text>
+
+<text>
+	<id>640</id>
+	<name>Thử sử dụng radio để liên lạc với những người sống sót xung quanh?</name>
+</text>
+
+<text>
+	<id>641</id>
+	<name>Hút thuốc</name>
+</text>
+
+<text>
+	<id>642</id>
+	<name>Bảo vệ</name>
+</text>
+
+<text>
+	<id>643</id>
+	<name>Bón phân</name>
+</text>
+
+<text>
+	<id>644</id>
+	<name>Vật phẩm</name>
+</text>
+
+<!--Special items unlocked-->
+<text>
+	<id>645</id>
+	<name>Băng dán y tế
+Đã mở khóa
+Vị trí: Thị trấn, Siêu thị, Bệnh viện</name>
+</text>
+
+<text>
+	<id>646</id>
+	<name>Bật lửa
+Đã mở khóa
+Vị trí: Trạm cứu hỏa, Nhà kho</name>
+</text>
+
+<text>
+	<id>647</id>
+	<name>Lựu đạn khói
+Đã mở khóa
+Vị trí: Căn cứ quân sự, Hầm ngầm</name>
+</text>
+
+<text>
+	<id>648</id>
+	<name>Kính ngắm laser
+Đã mở khóa
+Vị trí: Căn cứ quân sự, Hầm ngầm</name>
+</text>
+
+<text>
+	<id>649</id>
+	<name>Thẻ từ
+Đã mở khóa
+Vị trí: Được mang theo bởi các sĩ quan nhiễm bệnh.</name>
+</text>
+
+<text>
+	<id>650</id>
+	<name>Tôi cần lửa để thắp nó.</name>
+</text>
+
+<text>
+	<id>651</id>
+	<name>Tôi không thể ngủ... Tôi không thể bỏ lỡ trực thăng cứu hộ!</name>
+</text>
+
+<text>
+	<id>652</id>
+	<name>Tôi không thể vào hầm... Tôi không thể bỏ lỡ trực thăng cứu hộ!</name>
+</text>
+
+<text>
+	<id>653</id>
+	<name>Này, người sống sót! Tôi là Boris... chào mừng lên tàu!</name>
+</text>
+
+<text>
+	<id>654</id>
+	<name>Nadia, chúng ta đang hướng về phía đông, tín hiệu 4316!</name>
+</text>
+
+<text>
+	<id>655</id>
+	<name>Người sống sót đã trốn thoát!</name>
+</text>
+
+<text>
+	<id>656</id>
+	<name>Tôi cần quay lại chỗ cái radio!</name>
+</text>
+
+<text>
+	<id>657</id>
+	<name>Đảo không xác định #</name>
+</text>
+
+<text>
+	<id>658</id>
+	<name>Bạn đã sẵn sàng sử dụng thang máy chưa?
+Bạn sẽ không thể quay lại lần nữa!</name>
+</text>
+
+<text>
+	<id>659</id>
+	<name>Cánh cửa thang máy cần thẻ từ.</name>
+</text>
+
+<text>
+	<id>660</id>
+	<name>Tôi cần một cây.</name>
+</text>
+
+<text>
+	<id>661</id>
+	<name>Bàn phím (WASD)</name>
+</text>
+
+<text>
+	<id>662</id>
+	<name>Cảm ơn bạn!</name>
+</text>
+
+<text>
+	<id>663</id>
+	<name>Chế tạo giảm thanh</name>
+</text>
+
+<text>
+	<id>664</id>
+	<name>Kết hợp</name>
+</text>
+
+<text>
+	<id>665</id>
+	<name>Chế tạo giường</name>
+</text>
+
+<!--Bob "Rogue Bandit"-->
+<text>
+	<id>666</id>
+	<name>Bob "Rogue Bandit"
+Yêu cầu mở khóa: Mở khóa tất cả nhân vật.</name>
+</text>
+
+<text>
+	<id>667</id>
+	<name>Bob "Rogue Bandit"
+Trang bị bắt đầu: mũ sắt gorka, áo chống đạn, áo trench coat, quần công nhân, AKM, 7.62x39 x80, dây đeo súng, băng gạc x3, xô thuốc nhuộm
+Kỹ năng đã mở khóa: Cấp.2 Xạ thủ, Cấp.2 Trinh sát
+Đặc điểm đặc biệt: danh tiếng -100, bắt đầu với một đồng bọn bandit.</name>
+</text>
+
+<!--Nightmare-->
+<text>
+	<id>668</id>
+	<name>• Điều kiện độ khó Huyền thoại
+• Tất cả nhân vật bắt đầu không có trang bị
+• Tất cả quy tắc tích cực bị vô hiệu
+• Tất cả quy tắc tiêu cực được bật
+• Tất cả tính năng mở rộng bị vô hiệu
+</name>
+</text>
+
+<!--Secondary Firearms-->
+
+<!--FNX 45-->
+<text>
+	<id>211</id>
+	<name>Súng lục cơ cấu kép với tính công thái học được nâng cao.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 21-35          Độ lan tỏa: 20-6              
+Tốc độ ngắm: 4          Độ giật: 9                      
+Hình phạt di chuyển: 2          Nạp đạn: 2s         
+Sức chứa băng: 15          Đạn: .45 ACP         
+Mòn mỗi phát: 0.5%     Độ trễ mỗi phát: 0.15s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Colt 1911-->
+<text>
+	<id>212</id>
+	<name>"Chúa tạo ra con người, Sam Colt làm cho họ bình đẳng"
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 18-30          Độ lan tỏa: 20-6            
+Tốc độ ngắm: 4          Độ giật: 10                  
+Hình phạt di chuyển: 2          Nạp đạn: 2s       
+Sức chứa băng: 7          Đạn: .45 ACP       
+Mòn mỗi phát: 0.5%     Độ trễ mỗi phát: 0.2s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Magnum Revolver-->
+<text>
+	<id>213</id>
+	<name>Súng lục ổ quay sáu viên cơ cấu kép, nó có thể gây sát thương đặc biệt.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 34-54          Độ lan tỏa: 20-6                
+Tốc độ ngắm: 2          Độ giật: 15                      
+Hình phạt di chuyển: 3          Nạp đạn: 3s           
+Sức chứa băng: 6          Đạn: .357 M             
+Mòn mỗi phát: 0.5%     Độ trễ mỗi phát: 0.3s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Glock 17-->
+<text>
+	<id>214</id>
+	<name>Giá cả phải chăng, đáng tin cậy và nhỏ gọn, nó rất phổ biến ở Hoa Kỳ.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 15-25          Độ lan tỏa: 20-5              
+Tốc độ ngắm: 4          Độ giật: 10                    
+Hình phạt di chuyển: 2          Nạp đạn: 2s         
+Sức chứa băng: 18          Đạn: 9x19 P           
+Mòn mỗi phát: 0.5%     Độ trễ mỗi phát: 0.15s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Amphibia S-->
+<text>
+	<id>215</id>
+	<name>AWC TM-Amphibian S là biến thể được gắn giảm thanh tích hợp của súng lục Ruger Mk II Target .22 LR.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 11-19          Độ lan tỏa: 20-4           
+Tốc độ ngắm: 4          Độ giật: 9                   
+Hình phạt di chuyển: 3          Nạp đạn: 2s      
+Sức chứa băng: 10          Đạn: .22 LR         
+Mòn mỗi phát: 0.5%     Độ trễ mỗi phát: 0.2s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Không thu hút xác sống khi bắn.
+</name>
+</text>
+
+<!--Sawn-Off IZh-43-->
+<text>
+	<id>216</id>
+	<name>Súng shotgun hai nòng cưa ngắn.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 22-188          Độ lan tỏa: 30-13      
+Tốc độ ngắm: 3          Độ giật: 20              
+Hình phạt di chuyển: 2          Nạp đạn: 3s   
+Sức chứa băng: 2          Đạn: 12 Cal      
+Mòn mỗi phát: 0.5%     Độ trễ mỗi phát: 0s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Mosin Obrez-->
+<text>
+	<id>217</id>
+	<name>Súng trường bolt-action năm viên cưa ngắn, nạp đạn từ băng đạn trong.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 79-131          Độ lan tỏa: 25-12          
+Tốc độ ngắm: 3          Độ giật: 25                   
+Hình phạt di chuyển: 1          Nạp đạn: 3s       
+Sức chứa băng: 5          Đạn: 7.62x54R     
+Mòn mỗi phát: 0.5%     Độ trễ mỗi phát: 1.3s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Engraved Colt-->
+<text>
+	<id>218</id>
+	<name>Biến thể colt này đã được khắc tỉ mỉ.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 18-30          Độ lan tỏa: 20-5           
+Tốc độ ngắm: 4          Độ giật: 10                 
+Hình phạt di chuyển: 2          Nạp đạn: 2s      
+Sức chứa băng: 12          Đạn: .45 ACP      
+Mòn mỗi phát: 0.5%     Độ trễ mỗi phát: 0.2s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--MAC-10-->
+<text>
+	<id>219</id>
+	<name>Military Armament Corporation model 10 hay MAC-10. Một khẩu tiểu liên nhỏ gọn.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 15-25          Độ lan tỏa: 20-10          
+Tốc độ ngắm: 3          Độ giật: 2                    
+Hình phạt di chuyển: 0          Nạp đạn: 2s       
+Sức chứa băng: 30          Đạn: 9x19 P        
+Mòn mỗi phát: 0.2%     Tốc độ bắn: 650 RPM
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Mare's Leg-->
+<text>
+	<id>220</id>
+	<name>"Đây là vùng đất hoang dã, thưa bà." -Josh Randall
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 34-56          Độ lan tỏa: 25-11          
+Tốc độ ngắm: 3          Độ giật: 17                  
+Hình phạt di chuyển: 2          Nạp đạn: 3s       
+Sức chứa băng: 7          Đạn: .357 M         
+Mòn mỗi phát: 0.5%     Độ trễ mỗi phát: 0.7s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--PM-->
+<text>
+	<id>221</id>
+	<name>Súng lục Makarov, hay PM là một khẩu súng lục bán tự động của Liên Xô được biết đến với sự đơn giản, độ bền và độ tin cậy.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 18-30          Độ lan tỏa: 20-8            
+Tốc độ ngắm: 4          Độ giật: 10                  
+Hình phạt di chuyển: 2          Nạp đạn: 2s       
+Sức chứa băng: 8          Đạn: 9x18 M        
+Mòn mỗi phát: 0.25%     Độ trễ mỗi phát: 0.2s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--PB-->
+<text>
+	<id>222</id>
+	<name>Một khẩu súng lục bán tự động được gắn giảm thanh tích hợp của Liên Xô, được phát triển cho các hoạt động đặc biệt bí mật của KGB và Spetsnaz.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 18-30          Độ lan tỏa: 20-9             
+Tốc độ ngắm: 4          Độ giật: 8                     
+Hình phạt di chuyển: 2          Nạp đạn: 2s       
+Sức chứa băng: 8          Đạn: 9x18 M        
+Mòn mỗi phát: 0.5%     Độ trễ mỗi phát: 0.2s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Không thu hút xác sống khi bắn.
+</name>
+</text>
+
+<!--Desert Eagle-->
+<text>
+	<id>223</id>
+	<name>Một khẩu súng lục biểu tượng, được biết đến với ngoại hình lớn và đặc trưng và sức ngăn chặn cao.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 30-50          Độ lan tỏa: 20-6            
+Tốc độ ngắm: 3          Độ giật: 13                  
+Hình phạt di chuyển: 2          Nạp đạn: 2s       
+Sức chứa băng: 9          Đạn: .357 M         
+Mòn mỗi phát: 0.5%     Độ trễ mỗi phát: 0.2s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--M79-->
+<text>
+	<id>224</id>
+	<name>Súng phóng lựu break-action. Có thể trông cổ xưa, nhưng vẫn hiệu quả.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 45-540          Độ lan tỏa: 30-8                  
+Tốc độ ngắm: 3          Độ giật: 6                           
+Hình phạt di chuyển: 2          Nạp đạn: 3s             
+Sức chứa băng: 1          Đạn: Lựu đạn 40mm
+Mòn mỗi phát: 0.25%     Độ trễ mỗi phát: -            
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Obrez Blaze-->
+<text>
+	<id>225</id>
+	<name>Súng trường break-action hai nòng cưa ngắn.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 71-119          Độ lan tỏa: 25-12        
+Tốc độ ngắm: 3          Độ giật: 10                
+Hình phạt di chuyển: 2          Nạp đạn: 3s    
+Sức chứa băng: 2          Đạn: .308 Win  
+Mòn mỗi phát: 0.5%     Độ trễ mỗi phát: 0s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Longhorn-->
+<text>
+	<id>226</id>
+	<name>Súng lục săn bắn break-action một phát. Phù hợp để săn thú, đi kèm với ống ngắm tích hợp.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 79-131          Độ lan tỏa: 20-1      
+Tốc độ ngắm: 2          Độ giật: 25            
+Hình phạt di chuyển: 2          Nạp đạn: 3s 
+Sức chứa băng: 1          Đạn: .308 Win
+Mòn mỗi phát: 0.5%     Độ trễ mỗi phát: -
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
++15% tỉ lệ headshot cộng thêm.
+</name>
+</text>
+
+<!--Mini-UZI-->
+<text>
+	<id>227</id>
+	<name>Một phiên bản nhỏ hơn, nhỏ gọn hơn của khẩu tiểu liên UZI ban đầu.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 18-30          Độ lan tỏa: 20-10          
+Tốc độ ngắm: 3          Độ giật: 2                   
+Hình phạt di chuyển: 0          Nạp đạn: 2s       
+Sức chứa băng: 22          Đạn: .45 ACP       
+Mòn mỗi phát: 0.2%     Tốc độ bắn: 600 RPM
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Romero 77 Hatchet-->
+<text>
+	<id>228</id>
+	<name>Súng shotgun ba nòng được chế tạo thành rìu!
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 71-119/22-188     Độ lan tỏa: 25-12                  
+Tốc độ ngắm: 3                         Độ giật: 10                          
+Hình phạt di chuyển: 2                      Nạp đạn: -                  
+Sức chứa băng: 2/1               Đạn: .308 Win / 12 Cal
+Thông số cận chiến:
+Sát thương: 38-63          Tỉ lệ bạo kích: 25%  
+Tỉ lệ đỡ đòn: 25%     Tốc độ đánh: 1.5s
+Có thể dùng trong cận chiến và chặt cây.
+</name>
+</text>
+
+<!--Primary Firearms-->
+
+<!--Mosin-Nagant-->
+<text>
+	<id>232</id>
+	<name>Một khẩu súng trường bolt-action năm viên do Nga thiết kế đã được sử dụng rộng rãi trong thế chiến II.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 79-131          Độ lan tỏa: 25-3             
+Tốc độ ngắm: 1          Độ giật: 20                   
+Hình phạt di chuyển: 5          Nạp đạn: 4s        
+Sức chứa băng: 5          Đạn: 7.62x54R     
+Mòn mỗi phát: 0.4%     Độ trễ mỗi phát: 1.3s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có khoảng cách cộng thêm ++.
+</name>
+</text>
+
+<!--M4A1-->
+<text>
+	<id>233</id>
+	<name>Được phát triển từ súng trường M16, nó phục vụ như vũ khí bộ binh tiêu chuẩn của quân đội Hoa Kỳ.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 22-38          Độ lan tỏa: 25-4           
+Tốc độ ngắm: 1.5          Độ giật: 3                  
+Hình phạt di chuyển: 2          Nạp đạn: 2.5s  
+Sức chứa băng: 30          Đạn: 5.56x45      
+Mòn mỗi phát: 0.2%     Tốc độ bắn: 600 RPM
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--IZh-43-->
+<text>
+	<id>234</id>
+	<name>Một khẩu shotgun break-action xếp cạnh do Nga sản xuất được sử dụng để săn gấu.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 22-188          Độ lan tỏa: 30-13    
+Tốc độ ngắm: 1          Độ giật: 20           
+Hình phạt di chuyển: 2          Nạp đạn: 3s 
+Sức chứa băng: 2          Đạn: 12 Cal    
+Mòn mỗi phát: 0.5%     Độ trễ mỗi phát: 0
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--AK-74-->
+<text>
+	<id>235</id>
+	<name>Người kế nhiệm của AKM, được thiết kế để cạnh tranh với các súng trường phương Tây như M16.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 26-44          Độ lan tỏa: 25-5            
+Tốc độ ngắm: 1.5          Độ giật: 4                   
+Hình phạt di chuyển: 2          Nạp đạn: 2.5s 
+Sức chứa băng: 30          Đạn: 5.45x39      
+Mòn mỗi phát: 0.15%     Tốc độ bắn: 600 RPM
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--AKM-->
+<text>
+	<id>236</id>
+	<name>Phiên bản hiện đại hóa của AK-47 cổ điển với nhiều khả năng gắn phụ kiện.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 30-50          Độ lan tỏa: 25-5            
+Tốc độ ngắm: 1.5          Độ giật: 5                   
+Hình phạt di chuyển: 2          Nạp đạn: 2.5s 
+Sức chứa băng: 30          Đạn: 7.62x39      
+Mòn mỗi phát: 0.15%     Tốc độ bắn: 460 RPM
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--AKs-74u-->
+<text>
+	<id>237</id>
+	<name>Một biến thể carbine của súng trường tấn công AK-74, nhằm mục đích nhỏ hơn và nhẹ hơn.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 26-44          Độ lan tỏa: 25-8           
+Tốc độ ngắm: 2          Độ giật: 4                  
+Hình phạt di chuyển: 1          Nạp đạn: 2.5s 
+Sức chứa băng: 30          Đạn: 5.45x39      
+Mòn mỗi phát: 0.15%     Tốc độ bắn: 750 RPM
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--SKS-->
+<text>
+	<id>238</id>
+	<name>Một khẩu carbine bán tự động đáng tin cậy, được thiết kế ở Liên Xô trong Thế chiến II.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 34-56          Độ lan tỏa: 25-4           
+Tốc độ ngắm: 1.5          Độ giật: 10                
+Hình phạt di chuyển: 4          Nạp đạn: 3s      
+Sức chứa băng: 10          Đạn: 7.62x39       
+Mòn mỗi phát: 0.25%     Độ trễ mỗi phát: 0.3s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có khoảng cách cộng thêm ++.
+</name>
+</text>
+
+<!--L85A2-->
+<text>
+	<id>240</id>
+	<name>Súng trường tấn công bullpup của Anh, "A2" đề cập đến một cuộc đại tu lớn của HK để biến nó thành một khẩu súng đáng tin cậy và chính xác.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 22-38          Độ lan tỏa: 25-3           
+Tốc độ ngắm: 1.5          Độ giật: 3                  
+Hình phạt di chuyển: 3          Nạp đạn: 3s     
+Sức chứa băng: 30          Đạn: 5.56x45      
+Mòn mỗi phát: 0.2%     Tốc độ bắn: 500 RPM
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Remington 870-->
+<text>
+	<id>241</id>
+	<name>Một khẩu shotgun pump-action cổ điển của Mỹ nổi tiếng về độ bền, độ tin cậy và tính linh hoạt.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 22-188          Độ lan tỏa: 30-15          
+Tốc độ ngắm: 1          Độ giật: 20                  
+Hình phạt di chuyển: 2          Nạp đạn: 3s       
+Sức chứa băng: 6          Đạn: 12 Cal          
+Mòn mỗi phát: 0.25%     Độ trễ mỗi phát: 0.9s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Improvised Bow-->
+<text>
+	<id>243</id>
+	<name>Một cây cung chức năng làm từ cành cây và một sợi dây. Một vũ khí nguyên thủy chống lại thây ma hiện đại.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 37-94          Độ lan tỏa: 25-6            
+Tốc độ ngắm: 2          Độ giật: -                     
+Hình phạt di chuyển: 3          Nạp đạn: 2s       
+Sức chứa băng: -          Đạn: Mũi tên
+Mòn mỗi phát: 0.5%     Độ trễ mỗi phát: -     
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Không thu hút xác sống khi bắn.
+</name>
+</text>
+
+<!--Hunting Crossbow-->
+<text>
+	<id>244</id>
+	<name>Một cây nỏ săn bắn được ngụy trang. Hiện đại, mạnh mẽ và chính xác, có thể săn thú lớn hoặc bắn trúng hồng tâm thây ma.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 37-94          Độ lan tỏa: 25-3             
+Tốc độ ngắm: 2          Độ giật: -                      
+Hình phạt di chuyển: 3          Nạp đạn: 2s        
+Sức chứa băng: -          Đạn: Mũi tên
+Mòn mỗi phát: 0.4%     Độ trễ mỗi phát: -     
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Không thu hút xác sống khi bắn.
+</name>
+</text>
+
+<!--Ruger 10/22 Sporter-->
+<text>
+	<id>246</id>
+	<name>Một khẩu súng trường thanh lịch, được gắn giảm thanh tích hợp, tuyệt vời cho các hoạt động giải trí.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 15-25          Độ lan tỏa: 25-4            
+Tốc độ ngắm: 2          Độ giật: 8                   
+Hình phạt di chuyển: 3          Nạp đạn: 2.5s  
+Sức chứa băng: 30          Đạn: .22 LR          
+Mòn mỗi phát: 0.2%     Độ trễ mỗi phát: 0.2s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Không thu hút xác sống khi bắn.
+</name>
+</text>
+
+<!--M92 Repeater-->
+<text>
+	<id>247</id>
+	<name>Một khẩu súng trường lặp lại lever-action và là phiên bản hiện đại của Winchester Model 92.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 30-50          Độ lan tỏa: 25-5             
+Tốc độ ngắm: 2          Độ giật: 10                  
+Hình phạt di chuyển: 3          Nạp đạn: 3s       
+Sức chứa băng: 7          Đạn: .357 M         
+Mòn mỗi phát: 0.2%     Độ trễ mỗi phát: 0.7s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--SVD Dragunov-->
+<text>
+	<id>248</id>
+	<name>Một khẩu súng trường DMR/Sniper bán tự động, điều khiển bằng khí do Liên Xô thiết kế. Được thiết kế bởi Yevgeny Dragunov.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 71-119          Độ lan tỏa: 25-3             
+Tốc độ ngắm: 1          Độ giật: 13                   
+Hình phạt di chuyển: 5          Nạp đạn: 3s       
+Sức chứa băng: 10          Đạn: 7.62x54R    
+Mòn mỗi phát: 0.4%     Độ trễ mỗi phát: 0.4s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có khoảng cách cộng thêm ++.
+</name>
+</text>
+
+<!--MP5K-->
+<text>
+	<id>249</id>
+	<name>Một khẩu tiểu liên nhỏ gọn từ dòng HK MP5. K là viết tắt của "Kurz" có nghĩa là ngắn trong tiếng Đức, đi kèm với tay cầm.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 21-35          Độ lan tỏa: 20-10         
+Tốc độ ngắm: 2          Độ giật: 1                    
+Hình phạt di chuyển: 0          Nạp đạn: 2s      
+Sức chứa băng: 30          Đạn: 9x19 P        
+Mòn mỗi phát: 0.15%     Tốc độ bắn: 850 RPM
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có tay cầm tích hợp.
+</name>
+</text>
+
+<!--UMP-45-->
+<text>
+	<id>251</id>
+	<name>Một người kế nhiệm nhẹ hơn và tiết kiệm chi phí hơn cho khẩu tiểu liên MP5 nổi tiếng.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 21-35          Độ lan tỏa: 20-9            
+Tốc độ ngắm: 2          Độ giật: 2                    
+Hình phạt di chuyển: 0          Nạp đạn: 2s      
+Sức chứa băng: 30          Đạn: .45 ACP      
+Mòn mỗi phát: 0.15%     Tốc độ bắn: 650 RPM
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--RPK-->
+<text>
+	<id>252</id>
+	<name>Một khẩu LMG của Liên Xô do Mikhail Kalashnikov thiết kế, về chức năng là một phiên bản nặng hơn của AKM.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 30-50          Độ lan tỏa: 20-5            
+Tốc độ ngắm: 1.5          Độ giật: 6                   
+Hình phạt di chuyển: 2          Nạp đạn: 3s      
+Sức chứa băng: 40          Đạn: 7.62x39      
+Mòn mỗi phát: 0.15%     Tốc độ bắn: 600 RPM
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có chân chống.
+</name>
+</text>
+
+<!--FN-FAL-->
+<text>
+	<id>253</id>
+	<name>Một khẩu súng trường chiến đấu được phát triển ở Bỉ vào năm 1953, được NATO chấp nhận.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 54-90          Độ lan tỏa: 25-4            
+Tốc độ ngắm: 1.5          Độ giật: 6                   
+Hình phạt di chuyển: 2          Nạp đạn: 2.5s 
+Sức chứa băng: 20          Đạn: .308 Win     
+Mòn mỗi phát: 0.15%     Tốc độ bắn: 600 RPM
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Saiga-12K-->
+<text>
+	<id>254</id>
+	<name>Một khẩu shotgun 12 gauge tự động hoàn toàn do Nga sản xuất, được biết đến với thiết kế kiểu AK.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 22-188          Độ lan tỏa: 30-17         
+Tốc độ ngắm: 1          Độ giật: 19                 
+Hình phạt di chuyển: 2          Nạp đạn: 3s      
+Sức chứa băng: 8          Đạn: 12 Cal         
+Mòn mỗi phát: 0.25%     Tốc độ bắn: 200 RPM
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--AUG A1-->
+<text>
+	<id>255</id>
+	<name>Phiên bản gốc và biểu tượng của Steyr AUG, là một khẩu súng trường tấn công bullpup được biết đến với ống ngắm tích hợp.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 25-41          Độ lan tỏa: 25-3           
+Tốc độ ngắm: 1.5          Độ giật: 1.5               
+Hình phạt di chuyển: 2.5          Nạp đạn: 3s     
+Sức chứa băng: 30          Đạn: 5.56x45      
+Mòn mỗi phát: 0.2%     Tốc độ bắn: 650 RPM
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có +15% tỉ lệ headshot cộng thêm.
+</name>
+</text>
+
+<!--PP-19 Bizon-->
+<text>
+	<id>256</id>
+	<name>Một khẩu tiểu liên Nga có thể nhận biết bởi băng đạn xoắn ốc đặc biệt của nó, giữ các viên đạn song song với nòng.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 18-30          Độ lan tỏa: 20-8            
+Tốc độ ngắm: 2          Độ giật: 3                    
+Hình phạt di chuyển: 0          Nạp đạn: 3.5s 
+Sức chứa băng: 64          Đạn: 9x18 M       
+Mòn mỗi phát: 0.15%     Tốc độ bắn: 550 RPM
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--OTs-14 Groza-->
+<text>
+	<id>257</id>
+	<name>Một khẩu súng trường tấn công và súng phóng lựu kết hợp trong một nền tảng mô-đun. Được phát triển vào giữa những năm 90 cho lực lượng đặc biệt của Nga.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 30-50          Độ lan tỏa: 25-5          
+Tốc độ ngắm: 1.5          Độ giật: 3                 
+Hình phạt di chuyển: 3          Nạp đạn: 3s     
+Sức chứa băng: 30          Đạn: 9x39           
+Mòn mỗi phát: 0.2%     Tốc độ bắn: 600 RPM
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có súng phóng lựu GP-25 tích hợp.
+</name>
+</text>
+
+<!--VSS Vintorez-->
+<text>
+	<id>258</id>
+	<name>Khẩu VSS "Súng bắn tỉa đặc biệt" huyền thoại được thiết kế cho các hoạt động bí mật đòi hỏi sự tham gia im lặng của mục tiêu.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 37-62          Độ lan tỏa: 25-2           
+Tốc độ ngắm: 1.5          Độ giật: 4                  
+Hình phạt di chuyển: 2          Nạp đạn: 3s     
+Sức chứa băng: 20          Đạn: 9x39           
+Mòn mỗi phát: 0.2%     Tốc độ bắn: 600 RPM
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Không thu hút xác sống khi bắn, có khoảng cách cộng thêm +.
+</name>
+</text>
+
+<!--SV-98-->
+<text>
+	<id>259</id>
+	<name>Súng bắn tỉa bolt-action có độ chính xác cao nhất. Khung gỗ ép chất lượng cao và có nòng trôi nổi để tăng cường độ chính xác.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 86-144          Độ lan tỏa: 25-3            
+Tốc độ ngắm: 1.5          Độ giật: 9                    
+Hình phạt di chuyển: 5          Nạp đạn: 3s       
+Sức chứa băng: 10          Đạn: 7.62x54R    
+Mòn mỗi phát: 0.3%     Độ trễ mỗi phát: 0.9s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
++10% tỉ lệ headshot khi ngắm chính xác, khoảng cách cộng thêm ++.
+</name>
+</text>
+
+<!--Madsen-->
+<text>
+	<id>260</id>
+	<name>Khẩu LMG thực sự đầu tiên trên thế giới, được Quân đội Hoàng gia Đan Mạch chấp nhận vào năm 1902. Rất mộc mạc.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 52-87          Độ lan tỏa: 25-6           
+Tốc độ ngắm: 1.5          Độ giật: 6                   
+Hình phạt di chuyển: 2          Nạp đạn: 3s      
+Sức chứa băng: 30          Đạn: 7.62x54R    
+Mòn mỗi phát: 0.5%     Tốc độ bắn: 500 RPM
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có chân chống.
+</name>
+</text>
+
+<!--AN-94-->
+<text>
+	<id>261</id>
+	<name>Một khẩu súng trường tấn công do Nga chế tạo phức tạp, Tính năng đặc biệt nhất của nó là "bùng nổ siêu tốc" bắn 2 phát cùng một lúc.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 28-46          Độ lan tỏa: 25-4             
+Tốc độ ngắm: 1.5          Độ giật: 3                     
+Hình phạt di chuyển: 2          Nạp đạn: 2.5s  
+Sức chứa băng: 30          Đạn: 5.45x39        
+Mòn mỗi phát: 0.25%     Tốc độ bắn: 1800 RPM
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể chuyển chế độ bắn.
+</name>
+</text>
+
+<!--Silenced Remington-->
+<text>
+	<id>262</id>
+	<name>"Nếu quy tắc bạn tuân theo đã đưa bạn đến đây, thì quy tắc đó có ích gì?" - Anton Chigurh
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 22-188          Độ lan tỏa: 30-15         
+Tốc độ ngắm: 1.5          Độ giật: 20                
+Hình phạt di chuyển: 2          Nạp đạn: 3s      
+Sức chứa băng: 6          Đạn: 12 Cal         
+Mòn mỗi phát: 0.25%     Độ trễ mỗi phát: 0.9s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Không thu hút xác sống khi bắn.
+</name>
+</text>
+
+<!--M16A2-->
+<text>
+	<id>263</id>
+	<name>M16A2 được quân đội Hoa Kỳ chấp nhận vào đầu những năm 1980, Nó có chế độ bắn 3 phát, nhưng thiếu tùy chọn bắn tự động hoàn toàn.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 22-38          Độ lan tỏa: 25-4             
+Tốc độ ngắm: 1.5          Độ giật: 3                     
+Hình phạt di chuyển: 3          Nạp đạn: 2.5s  
+Sức chứa băng: 30          Đạn: 5.56x45        
+Mòn mỗi phát: 0.2%     Tốc độ bắn: 1800 RPM
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể chuyển chế độ bắn.
+</name>
+</text>
+
+<!--KRISS Vector-->
+<text>
+	<id>264</id>
+	<name>KRISS Vector là một khẩu SMG đáng chú ý với hệ thống giảm độ giật độc đáo và vẻ ngoài tương lai với tốc độ bắn điên cuồng.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 21-35          Độ lan tỏa: 20-10           
+Tốc độ ngắm: 2          Độ giật: 2                     
+Hình phạt di chuyển: 0          Nạp đạn: 2s        
+Sức chứa băng: 30          Đạn: .45 ACP        
+Mòn mỗi phát: 0.15%     Tốc độ bắn: 1200 RPM
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--M4A1 w/Drum-->
+<text>
+	<id>265</id>
+	<name>Được phát triển từ súng trường M16, nó phục vụ như vũ khí bộ binh tiêu chuẩn của quân đội Hoa Kỳ. Hiện tại nó được trang bị Băng trống C-Mag.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 22-38          Độ lan tỏa: 25-4           
+Tốc độ ngắm: 1.5          Độ giật: 3                   
+Hình phạt di chuyển: 2          Nạp đạn: 2.5s  
+Sức chứa băng: 100          Đạn: 5.56x45      
+Mòn mỗi phát: 0.2%     Tốc độ bắn: 600 RPM
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--AKM w/Drum-->
+<text>
+	<id>266</id>
+	<name>Phiên bản hiện đại hóa của AK-47 cổ điển với nhiều khả năng gắn phụ kiện. Hiện tại nó được trang bị Băng trống.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 30-50          Độ lan tỏa: 25-5            
+Tốc độ ngắm: 1.5          Độ giật: 5                   
+Hình phạt di chuyển: 2          Nạp đạn: 2.5s 
+Sức chứa băng: 75          Đạn: 7.62x39      
+Mòn mỗi phát: 0.15%     Tốc độ bắn: 460 RPM
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--M70 Tundra-->
+<text>
+	<id>267</id>
+	<name>Winchester Model 70 là một khẩu súng trường bolt-action được sử dụng rộng rãi trong chiến tranh Việt Nam.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 79-131          Độ lan tỏa: 25-3            
+Tốc độ ngắm: 1          Độ giật: 20                  
+Hình phạt di chuyển: 5          Nạp đạn: 4s       
+Sức chứa băng: 5          Đạn: .308 Win     
+Mòn mỗi phát: 0.4%     Độ trễ mỗi phát: 1.3s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có khoảng cách cộng thêm ++.
+</name>
+</text>
+
+<!--Saiga-12K w/Drum-->
+<text>
+	<id>268</id>
+	<name>Một khẩu shotgun 12 gauge tự động hoàn toàn do Nga sản xuất được biết đến với thiết kế kiểu AK. Hiện tại nó được trang bị Băng trống.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 22-188          Độ lan tỏa: 30-17         
+Tốc độ ngắm: 1          Độ giật: 19                 
+Hình phạt di chuyển: 2          Nạp đạn: 3s      
+Sức chứa băng: 20          Đạn: 12 Cal         
+Mòn mỗi phát: 0.25%     Tốc độ bắn: 200 RPM
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--RPK w/Drum-->
+<text>
+	<id>269</id>
+	<name>Một khẩu LMG của Liên Xô do Mikhail Kalashnikov thiết kế, về chức năng là một phiên bản nặng hơn của AKM. Hiện tại nó được trang bị Băng trống.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 30-50          Độ lan tỏa: 20-5            
+Tốc độ ngắm: 1.5          Độ giật: 6                   
+Hình phạt di chuyển: 2          Nạp đạn: 3s      
+Sức chứa băng: 40          Đạn: 7.62x39      
+Mòn mỗi phát: 0.15%     Tốc độ bắn: 600 RPM
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có chân chống.
+</name>
+</text>
+
+<!--M16A2 w/Drum-->
+<text>
+	<id>270</id>
+	<name>M16A2 được quân đội Hoa Kỳ chấp nhận vào đầu những năm 1980, Nó có chế độ bắn 3 phát, nhưng thiếu tùy chọn bắn tự động hoàn toàn. Hiện tại nó được trang bị Băng trống C-Mag.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 22-38          Độ lan tỏa: 25-4             
+Tốc độ ngắm: 1.5          Độ giật: 3                     
+Hình phạt di chuyển: 3          Nạp đạn: 2.5s  
+Sức chứa băng: 30          Đạn: 5.56x45        
+Mòn mỗi phát: 0.2%     Tốc độ bắn: 1800 RPM
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể chuyển chế độ bắn.
+</name>
+</text>
+
+<!--AUG A1 w/Drum-->
+<text>
+	<id>271</id>
+	<name>Phiên bản gốc và biểu tượng của Steyr AUG, là một khẩu súng trường tấn công bullpup được biết đến với ống ngắm tích hợp. Hiện tại nó được trang bị Băng trống C-Mag.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 25-41          Độ lan tỏa: 25-3           
+Tốc độ ngắm: 1.5          Độ giật: 1.5               
+Hình phạt di chuyển: 2.5          Nạp đạn: 3s     
+Sức chứa băng: 30          Đạn: 5.56x45      
+Mòn mỗi phát: 0.2%     Tốc độ bắn: 650 RPM
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có +15% tỉ lệ headshot cộng thêm.
+</name>
+</text>
+
+<!--Milkor MGL-->
+<text>
+	<id>272</id>
+	<name>Một khẩu súng phóng lựu sáu phát 40 mm nhẹ được phát triển ở Nam Phi bởi Milkor.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 45-540          Độ lan tỏa: 30-5                  
+Tốc độ ngắm: 1.5          Độ giật: 4                          
+Hình phạt di chuyển: 2.5          Nạp đạn: 2.5s       
+Sức chứa băng: 6          Đạn: Lựu đạn 40mm
+Mòn mỗi phát: 0.25%     Độ trễ mỗi phát: -          
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Blaze-->
+<text>
+	<id>273</id>
+	<name>Một khẩu súng trường săn bắn break-action, được ưa chuộng vì khả năng độc đáo bắn hai viên gần như ngay lập tức.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 71-119          Độ lan tỏa: 25-5       
+Tốc độ ngắm: 1.5          Độ giật: 6              
+Hình phạt di chuyển: 3          Nạp đạn: 3s  
+Sức chứa băng: 2          Đạn: .308 Win 
+Mòn mỗi phát: 0.4%     Độ trễ mỗi phát: 0
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--FAMAS F1-->
+<text>
+	<id>274</id>
+	<name>Biệt danh "Le Clairon" (Kèn bugle) do hình dạng của nó, là một khẩu súng trường tấn công bullpup Pháp đặc biệt được biết đến với thiết kế độc đáo và tốc độ bắn cao.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 25-41          Độ lan tỏa: 25-4           
+Tốc độ ngắm: 1.5          Độ giật: 3                  
+Hình phạt di chuyển: 2          Nạp đạn: 2.5s
+Sức chứa băng: 25          Đạn: 5.56x45      
+Mòn mỗi phát: 0.2%     Tốc độ bắn: 900 RPM
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có chân chống.
+</name>
+</text>
+
+<!--Mini-14-->
+<text>
+	<id>275</id>
+	<name>Ruger Mini-14 là một khẩu súng trường bán tự động nhẹ, được đánh giá cao về thiết kế cổ điển, độ tin cậy và tính linh hoạt.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 27-45          Độ lan tỏa: 25-4            
+Tốc độ ngắm: 1.5          Độ giật: 3                   
+Hình phạt di chuyển: 2          Nạp đạn: 2.5s 
+Sức chứa băng: 20          Đạn: 5.56x45       
+Mòn mỗi phát: 0.2%     Độ trễ mỗi phát: 0.2s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--AK-74 w/Drum-->
+<text>
+	<id>276</id>
+	<name>Người kế nhiệm của AKM, được thiết kế để cạnh tranh với các súng trường phương Tây như M16. Hiện tại nó được trang bị Băng trống C-Mag.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 26-44          Độ lan tỏa: 25-5            
+Tốc độ ngắm: 1.5          Độ giật: 4                   
+Hình phạt di chuyển: 2          Nạp đạn: 2.5s 
+Sức chứa băng: 95          Đạn: 5.45x39      
+Mòn mỗi phát: 0.15%     Tốc độ bắn: 600 RPM
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--AKs-74U w/Drum-->
+<text>
+	<id>277</id>
+	<name>Một biến thể carbine của súng trường tấn công AK-74, nhằm mục đích nhỏ hơn và nhẹ hơn. Hiện tại nó được trang bị Băng trống C-Mag.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 26-44          Độ lan tỏa: 25-8           
+Tốc độ ngắm: 2          Độ giật: 4                  
+Hình phạt di chuyển: 1          Nạp đạn: 2.5s 
+Sức chứa băng: 95          Đạn: 5.45x39      
+Mòn mỗi phát: 0.15%     Tốc độ bắn: 750 RPM
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--AS-VAL-->
+<text>
+	<id>278</id>
+	<name>Avtomat Specialniy VAL; Một khẩu súng trường tự động giảm thanh được thiết kế cho lực lượng đặc biệt, em gái của VSS.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 37-62          Độ lan tỏa: 25-3           
+Tốc độ ngắm: 1.5          Độ giật: 4                  
+Hình phạt di chuyển: 2          Nạp đạn: 3s     
+Sức chứa băng: 30          Đạn: 9x39           
+Mòn mỗi phát: 0.2%     Tốc độ bắn: 800 RPM
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Không thu hút xác sống khi bắn, có khoảng cách cộng thêm +.
+</name>
+</text>
+
+<!--M249 SAW-->
+<text>
+	<id>279</id>
+	<name>M249 Squad Automatic Weapon; Một khẩu LMG hoạt động bằng khí, được sản xuất bởi FN America.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 25-41          Độ lan tỏa: 25-5            
+Tốc độ ngắm: 1.5          Độ giật: 4                    
+Hình phạt di chuyển: 3          Nạp đạn: 6s       
+Sức chứa băng: 200          Đạn: 5.56x45        
+Mòn mỗi phát: 0.1%     Tốc độ bắn: 1000 RPM
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có chân chống.
+</name>
+</text>
+
+<!--OSV-96-->
+<text>
+	<id>280</id>
+	<name>Một khẩu súng trường bán tự động chống vật chất của Nga! Nó được biết đến với cỡ nòng lớn và tầm bắn hiệu quả đáng kể.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 255-425          Độ lan tỏa: 25-3            
+Tốc độ ngắm: 1          Độ giật: 20                  
+Hình phạt di chuyển: 5          Nạp đạn: 6s       
+Sức chứa băng: 5          Đạn: 12.7x108     
+Mòn mỗi phát: 0.2%     Độ trễ mỗi phát: 1.2s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có khoảng cách cộng thêm ++.
+</name>
+</text>
+
+<!--M-40 Flamethrower-->
+<text>
+	<id>281</id>
+	<name>M-40 Flamethrower; Một vũ khí chiến thuật hạng nặng chuyên dụng để phun một luồng nhiên liệu lỏng đã được đốt cháy dưới áp suất cao!
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 60-300      Độ lan tỏa: 5-6                                 
+Đạn: Xăng     Tiêu thụ nhiên liệu: 2.8% mỗis
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể đốt cháy kẻ địch.
+Yêu cầu gói nhiên liệu để hoạt động!
+</name>
+</text>
+
+<!--Backpacks-->
+
+<!--Taloon Backpack-->
+<text>
+	<id>301</id>
+	<name>Ba lô nhẹ dùng cho các chuyến đi cả ngày. Hỗ trợ thoải mái bất kỳ tải trọng nào vừa với nó.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +5
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể cất áo và quần dự phòng
+</name>
+</text>
+
+<!--Mountain Backpack-->
+<text>
+	<id>302</id>
+	<name>Ba lô leo núi cao làm từ vật liệu công nghệ cao. Rộng rãi nhưng rất dễ nhận thấy.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +11
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể cất áo và quần dự phòng
+</name>
+</text>
+
+<!--Hunting Backpack-->
+<text>
+	<id>303</id>
+	<name>Ba lô săn bắn tiêu chuẩn với các túi có thể đóng lại. Rất bền và thoải mái, nếu hơi cổ điển.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +7
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể cất áo và quần dự phòng
+</name>
+</text>
+
+<!--School Backpack-->
+<text>
+	<id>304</id>
+	<name>Một chiếc ba lô trẻ con. Không thực tế lắm về mặt không gian mang theo, nhưng giúp giữ hình ảnh thấp.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +3
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Improvised Sling Bag-->
+<text>
+	<id>305</id>
+	<name>Túi đeo chéo nhỏ, ít nổi bật được treo bằng một dây đeo qua vai. Túi này sẽ không chứa được nhiều bên trong, nhưng nó rất kín đáo và sẽ không dễ bị chú ý.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +4
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Công thức chế tạo: Bao tải + Dây thừng
+Có thể cất áo và quần dự phòng
+</name>
+</text>
+
+<!--Improvised Backpack-->
+<text>
+	<id>306</id>
+	<name>Ba lô vải bố ít nổi bật với khung gỗ. Không quá cứng nhắc, nhưng rất thực tế.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +6
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Công thức chế tạo: Túi đeo chéo tự chế + 3 Que củi
+Có thể cất áo và quần dự phòng
+</name>
+</text>
+
+<!--Civilian Tent-->
+<text>
+	<id>307</id>
+	<name>Một combo lều cắm trại dân sự kết hợp với một ba lô. Cung cấp một không gian thoải mái và khô ráo khi triển khai, với không gian lưu trữ bổ sung cho chiến lợi phẩm của bạn.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể triển khai trên mặt đất như một cái lều để chứa vật phẩm không bao giờ biến mất.
+</name>
+</text>
+
+<!--Tortilla Backpack-->
+<text>
+	<id>308</id>
+	<name>Ba lô quân đội thoải mái để mang theo lâu dài, đạt điểm ngọt ngào trong việc mang theo nhiều trang bị hơn trong khi vẫn có kích thước tối thiểu.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +9
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể cất áo và quần dự phòng
+</name>
+</text>
+
+<!--Satchel-->
+<text>
+	<id>309</id>
+	<name>Túi đeo hông tiện lợi dùng để đeo các vật dụng nhỏ. Chất liệu không bền lắm, nhưng nó sẽ hoàn thành nhiệm vụ.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +2
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể đeo cùng với ba lô.
+</name>
+</text>
+
+<!--Army Satchel-->
+<text>
+	<id>310</id>
+	<name>Một túi đeo vai tiêu chuẩn quân đội nhỏ dùng để lưu trữ các vật dụng sinh tồn EDC và công cụ nhỏ.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +1          Ô độc quyền: +3
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Vật phẩm độc quyền: dao, diêm, bật lửa, pháo sáng, chai nước, bình nước
+Có thể đeo cùng với ba lô.
+</name>
+</text>
+
+<!--Medical Satchel-->
+<text>
+	<id>311</id>
+	<name>Một túi đeo vai IFAK tiêu chuẩn y tế, được thiết kế để lưu trữ thuốc một cách được bảo vệ khỏi các chất gây ô nhiễm.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +1          Ô độc quyền: +3
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Vật phẩm độc quyền: bất kỳ vật tư y tế nào.
+Có thể đeo cùng với ba lô.
+</name>
+</text>
+
+<!--Supplies Stash-->
+<text>
+	<id>312</id>
+	<name>Một chút ma thuật của Dev để cho các vật phẩm của bạn khả năng nhảy chiều!
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +6
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể lưu trữ vật phẩm hoặc trang bị bên trong để được lưu và sinh ra vào một game mới.
+Các vật tư được lưu trữ bên trong có thể được truy cập lại bằng cách sinh ra kho chứa vật tư trong bản lưu mới của bạn bằng cách sử dụng bảng điều khiển trò chơi nhỏ.
+</name>
+</text>
+
+<!--Fuel Pack-->
+<text>
+	<id>313</id>
+	<name>Một ống nhiên liệu linh hoạt, bọc thép chắc chắn với các van xả áp tự động và chứa đầy xăng để cung cấp cho M-40 Flamethrower.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể chứa tới 200% nhiên liệu.
+Có thể dùng để đổ xăng cho xe, cưa máy, máy phát điện và cả súng phun lửa.
+</name>
+</text>
+
+<!--Pants-->
+
+<!--Jeans-->
+<text>
+	<id>351</id>
+	<name>Quần bò. Quần áo thông thường hiện đại phổ biến, đây là chiếc quần trung bình của bạn.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +2          Hơi ấm: +5
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Worker Pants-->
+<text>
+	<id>352</id>
+	<name>Quần cắt rộng rãi phù hợp cho công việc khó khăn ngoài trời. Có thể phân biệt bằng các túi trên ống quần.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +3          Hơi ấm: +5
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Tracksuit Pants-->
+<text>
+	<id>353</id>
+	<name>Quần thể thao, được thiết kế cho sự thoải mái và mục đích thể thao. Chúng đã trở thành một trong những mặt hàng quần áo được mặc phổ biến nhất trên thế giới.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +1          Hơi ấm: +3
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Gorka Pants-->
+<text>
+	<id>354</id>
+	<name>Quần chiến thuật được đơn vị đóng tại Gorka, Chernarus sử dụng. Chúng cung cấp quyền truy cập nhanh vào các túi hàng hóa lớn, áo giáp và bảo vệ tốt khỏi các yếu tố thời tiết.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +3          Hơi ấm: +8                 
+Giáp: +2       Chặn cận chiến: +10%
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Paramedic Pants-->
+<text>
+	<id>355</id>
+	<name>Quần y tá tiêu chuẩn. Không khác nhiều so với bất kỳ trang phục làm việc nào khác, ngoại trừ các sọc phản quang, sáng.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +2          Hơi ấm: +4
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Orel Pants-->
+<text>
+	<id>356</id>
+	<name>Quần đồng phục của đơn vị cảnh sát đặc biệt OREL. Hơi ấm và thoải mái với ít sự bảo vệ.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +2          Hơi ấm: +5
+Giáp: +1                       
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Hunter Pants-->
+<text>
+	<id>357</id>
+	<name>Quần bền, được thiết kế cho thời gian dài ở ngoài trời. Họa tiết ngụy trang tạo nên một bộ đồ săn bắn lý tưởng trong môi trường phù hợp.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +3          Hơi ấm: +6               
+Giáp: +1       Chặn cận chiến: +5%
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Firefighter Pants-->
+<text>
+	<id>358</id>
+	<name>Quần đồng phục cứu hỏa; chúng bảo vệ và cách nhiệt người mặc khỏi lửa và nhiệt độ cực cao.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +2          Hơi ấm: +5               
+Giáp: +1       Chặn cận chiến: +5%
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Miễn nhiễm với lửa (phải kết hợp với Áo cứu hỏa).
+</name>
+</text>
+
+
+<!--Vests-->
+
+<!--Ballistic Vest-->
+<text>
+	<id>401</id>
+	<name>Một lớp vỏ vải phủ trên một tấm áo giáp chống đạn. Lớp bảo vệ tốt cho phía trước thân.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Giáp: +8        Chặn cận chiến: +10%
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Assault Vest-->
+<text>
+	<id>402</id>
+	<name>Một áo giáp chiến thuật được thiết kế cho chiến đấu, ưu tiên mang theo trang bị và đạn dược, cung cấp khả năng bảo vệ hạn chế từ lớp đệm mềm.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Giáp: +3          Chặn cận chiến: +5%
+Ô: +2                                               
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể buộc lựu đạn F1 hoặc lựu đạn khói, tối đa 3 để sử dụng nhanh.
+</name>
+</text>
+
+<!--Press Vest-->
+<text>
+	<id>403</id>
+	<name>Một áo giáp báo chí chống đạn có khả năng hấp thụ nhiều loại sát thương va chạm. Được sử dụng bởi các tổ chức an ninh khác nhau trên khắp thế giới.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Giáp: +6          Chặn cận chiến: +5%
+Ô: +1                                               
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--High Capacity Vest-->
+<text>
+	<id>404</id>
+	<name>Một áo giáp chiến thuật được thiết kế để chứa càng nhiều trang bị càng tốt trong khi duy trì khả năng cơ động hoàn toàn, cung cấp khả năng bảo vệ hạn chế từ lớp đệm mềm.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Giáp: +3          Chặn cận chiến: +5%
+Ô: +3                                              
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể buộc lựu đạn F1 hoặc lựu đạn khói, tối đa 3 để sử dụng nhanh.
+</name>
+</text>
+
+<!--Kevlar Vest-->
+<text>
+	<id>405</id>
+	<name>Một loại áo giáp cứng được làm từ vật liệu tổng hợp mạnh Kevlar. Hiệu quả cao trong việc chặn đạn trong khi duy trì sự cân bằng giữa khả năng cơ động và sức chứa.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Giáp: +10          Chặn cận chiến: +10%
+Ô: +3                                                  
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể buộc lựu đạn F1 hoặc lựu đạn khói, tối đa 3 để sử dụng nhanh.
+</name>
+</text>
+
+<!--Soviet Vest-->
+<text>
+	<id>406</id>
+	<name>Phiên bản lực lượng Liên Xô. Một áo giáp chiến thuật chuyên dụng cung cấp khả năng bảo vệ lớn hơn cho vùng bụng dưới do phần ngực kéo dài.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Giáp: +8          Chặn cận chiến: +10%
+Ô: +2                                                
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Apron-->
+<text>
+	<id>407</id>
+	<name>Một chiếc tạp dề đa năng mặc trên quần áo để bảo vệ cơ thể và quần áo của người mặc khỏi các chất như bụi bẩn, ruột, dầu mỡ và hóa chất.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +1
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Ghillie Suit-->
+<text>
+	<id>408</id>
+	<name>Bộ đồ ngụy trang được sử dụng để hoàn toàn che giấu người mặc trong môi trường rừng.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Cung cấp trạng thái tàng hình khi độ bền ≥ 50%; Trong trạng thái này kẻ thù gần đó không thể phát hiện người chơi.
+Di chuyển và tấn công liên tục sẽ loại bỏ trạng thái tàng hình!
+</name>
+</text>
+
+<!--M Heavy Armor Vest-->
+<text>
+	<id>409</id>
+	<name>Áo giáp quân sự hạng nhất được phủ một lớp hợp chất thử nghiệm gọi là "Complex M", chặn đạn như không có gì.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Giáp: +20        Chặn cận chiến: +15%
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Chem Suit-->
+<text>
+	<id>410</id>
+	<name>Một bộ đồ bảo hộ được làm thô sơ sao chép các thuộc tính của bộ đồ CBRN, nhưng không thể sử dụng làm lớp lót để xếp áo giáp lên trên nó.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hiệu quả khi độ bền ≥ 50% và đi cùng giày và găng tay NBC.
+Cung cấp khả năng chống mưa, phóng xạ và nguy hiểm sinh học (yêu cầu bộ đầy đủ để có hiệu lực).
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể niêm phong để miễn nhiễm với khí độc trong 2 phút; có thể cất gọn.
+</name>
+</text>
+
+<!--M Kevlar CBRN Suit-->
+<text>
+	<id>411</id>
+	<name>Một áo giáp kevlar xếp lớp trên cùng một bộ đồ CBRN.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Giáp: +10          Chặn cận chiến: +10%
+Ô: +3                                                  
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể buộc lựu đạn F1 hoặc lựu đạn khói, tối đa 3 để sử dụng nhanh.
+Có tất cả các tính năng của bộ đồ CBRN.
+</name>
+</text>
+
+<!--M Heavy CBRN Suit-->
+<text>
+	<id>412</id>
+	<name>Một áo giáp nặng M xếp lớp trên cùng một bộ đồ CBRN.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Giáp: +20        Chặn cận chiến: +15%
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có tất cả các tính năng của bộ đồ CBRN.
+</name>
+</text>
+
+<!--M Ghillie CBRN Suit-->
+<text>
+	<id>413</id>
+	<name>Một bộ đồ ngụy trang Ghillie xếp lớp trên cùng một bộ đồ CBRN.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Cung cấp trạng thái tàng hình khi độ bền ≥ 50%; Trong trạng thái này kẻ thù gần đó không thể phát hiện bạn.
+Di chuyển hoặc tấn công liên tục sẽ loại bỏ trạng thái tàng hình!
+Có tất cả các tính năng của bộ đồ CBRN.
+</name>
+</text>
+
+<!--Hazmat Suit-->
+<text>
+	<id>414</id>
+	<name>Một thiết bị PPE không thấm nước được thiết kế để bảo vệ khỏi hóa chất nguy hiểm, mối đe dọa sinh học.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hiệu quả khi độ bền ≥ 50% và đi cùng giày và găng tay NBC.
+Cung cấp khả năng chống mưa và nguy hiểm sinh học (yêu cầu bộ đầy đủ để có hiệu lực).
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể cất gọn.
+</name>
+</text>
+
+<!--NBC Suit-->
+<text>
+	<id>415</id>
+	<name>Một bộ đồ "Hạt nhân, Sinh học và Hóa học" được thiết kế để cung cấp khả năng bảo vệ hoàn toàn chống lại các mối đe dọa này.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hiệu quả khi độ bền ≥ 50% và đi cùng giày và găng tay NBC.
+Cung cấp khả năng chống mưa, phóng xạ và nguy hiểm sinh học (yêu cầu bộ đầy đủ để có hiệu lực).
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể cất gọn.
+</name>
+</text>
+
+<!--CBRN Suit-->
+<text>
+	<id>416</id>
+	<name>Một phiên bản quân sự tiên tiến hơn của bộ đồ NBC, được thiết kế với trọng tâm là các mối đe dọa phóng xạ và chất gây ô nhiễm khí, cũng được làm rất nhẹ để nó có thể xếp lớp chọn áo giáp lên trên nó.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hiệu quả khi độ bền ≥ 50% và đi cùng giày và găng tay NBC.
+Cung cấp khả năng chống mưa, phóng xạ và nguy hiểm sinh học (yêu cầu bộ đầy đủ để có hiệu lực).
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể niêm phong để miễn nhiễm với khí độc trong 2 phút, có thể xếp lớp chọn áo giáp lên trên nó; có thể cất gọn.
+</name>
+</text>
+
+<!--Headwear-->
+
+<text>
+	<id>450</id>
+	<name>Chạm để gỡ thiết bị lót.
+</name>
+</text>
+
+<!--Motorcycle Helmet-->
+<text>
+	<id>451</id>
+	<name>Mũ bảo hiểm xe máy có kính chắn. Lớp vỏ cứng bên ngoài hấp thụ tác động dễ dàng.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Giáp: +3          Chặn cận chiến: +10%
+Hơi ấm: +2                                                 
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Army Helmet-->
+<text>
+	<id>452</id>
+	<name>Mũ bảo hiểm bộ binh quân đội, Một mũ bảo vệ đầu chống đạn được thiết kế để bảo vệ chống lại mảnh vỡ, tác động cùn và một số súng nhỏ.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Giáp: +4          Chặn cận chiến: +5%
+Hơi ấm: +2                                              
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương headshot nhận vào bị giảm.
+</name>
+</text>
+
+<!--Hard Hat-->
+<text>
+	<id>453</id>
+	<name>Mũ bảo hộ lao động xây dựng dùng để bảo vệ đầu khỏi tác động của dụng cụ rơi, mảnh vỡ hoặc bất kỳ lực cùn nào.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Giáp: +2          Chặn cận chiến: +5%
+Hơi ấm: +2                                              
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Gas Mask-->
+<text>
+	<id>454</id>
+	<name>Một dạng thiết bị bảo vệ cá nhân (PPE) bảo vệ người đeo khỏi hít phải các chất ô nhiễm trong không khí và khí độc.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hơi ấm: +2
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể đeo như lớp lót, độ bền không hao mòn khi bộ đồ bảo hộ được niêm phong.
+Độ bền hao mòn nhanh trong khu vực bị ô nhiễm!
+</name>
+</text>
+
+<!--Motorcycke Helmet 2-->
+<text>
+	<id>455</id>
+	<name>Mũ bảo hiểm xe máy có kính chắn. Lớp vỏ cứng bên ngoài hấp thụ tác động dễ dàng.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Giáp: +3          Chặn cận chiến: +10%
+Hơi ấm: +2                                                 
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Motorcycle Helmet 3-->
+<text>
+	<id>456</id>
+	<name>Mũ bảo hiểm xe máy có kính chắn. Lớp vỏ cứng bên ngoài hấp thụ tác động dễ dàng.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Giáp: +3          Chặn cận chiến: +10%
+Hơi ấm: +2                                                 
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Cap-->
+<text>
+	<id>457</id>
+	<name>Mũ lưỡi trai mềm với vành cong và vương miện tròn. Nó hiệu quả trong việc che chắn mắt khỏi ánh nắng mặt trời.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hơi ấm: +2
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Warmhat-->
+<text>
+	<id>458</id>
+	<name>Một chiếc mũ len không vành, ôm sát, được biết đến với sự linh hoạt và ấm áp. Theo truyền thống liên quan đến lao động và những kẻ bỏ học trung học.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hơi ấm: +4
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Ushanka-->
+<text>
+	<id>459</id>
+	<name>Một chiếc mũ lông thú truyền thống của Nga với các vạt tai có thể buộc ở các vị trí khác nhau để cung cấp khả năng bảo vệ tối đa khỏi cái lạnh khắc nghiệt. Chúng theo truyền thống được làm bằng lông thú thật như da cừu, thỏ hoặc chồn.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hơi ấm: +6
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Beret-->
+<text>
+	<id>460</id>
+	<name>Một chiếc mũ nồi có phù hiệu được thêu trên một bên. Nó không cung cấp nhiều sự bảo vệ, cũng không cung cấp nhiều sự thoải mái về nhiệt.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hơi ấm: +2
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Balaclava-->
+<text>
+	<id>461</id>
+	<name>Một lớp phủ đầu ôm sát bảo vệ đầu, mặt và cổ, chỉ để hở mắt hoặc các phần của khuôn mặt.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hơi ấm: +3
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể đeo như lớp lót.
+</name>
+</text>
+
+<!--Headlamp-->
+<text>
+	<id>462</id>
+	<name>Một thiết bị chiếu sáng rảnh tay đeo trên đầu với dây đeo có thể điều chỉnh.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hơi ấm: +1          Thay pin: Pin 9V
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể bật để tạo một vùng ánh sáng nhỏ.
+</name>
+</text>
+
+<!--Cowboy Hat-->
+<text>
+	<id>463</id>
+	<name>Mũ cao bồi vành rộng, vương miện cao. Liên quan đến công nhân trang trại, cao bồi và những người đàn ông không tên.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hơi ấm: +2
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Welding Mask-->
+<text>
+	<id>464</id>
+	<name>Bảo vệ mắt, mặt và cổ khỏi tia cực tím, tia lửa và nhiệt trong khi hàn; mặc dù không phải là mũ bảo hiểm bền nhất nhưng nó làm cho người đeo trông phù hợp với vùng đất hoang sau tận thế!
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Giáp: +1          Hơi ấm: +1
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Gorka Helmet-->
+<text>
+	<id>465</id>
+	<name>Mũ bảo hiểm chiến đấu quân sự của Nga; nặng nề và chống đạn, nó bảo vệ cả đầu và mặt với kính chắn đi kèm.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Giáp: +5          Chặn cận chiến: +10%
+Hơi ấm: +3                                           
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương headshot nhận vào bị giảm.
+</name>
+</text>
+
+<!--Police Cap-->
+<text>
+	<id>466</id>
+	<name>Một mũ cảnh sát có lưỡi trai được đội như một phần của đồng phục cảnh sát.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hơi ấm: +2
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--NVG-->
+<text>
+	<id>467</id>
+	<name>Kính nhìn đêm [NVG] chạy bằng pin để tăng cường hình ảnh trong môi trường ánh sáng yếu, đi kèm với dây đeo đầu.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hơi ấm: +1          Thay pin: Pin 9V
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể bật để nhìn trong bóng tối.
+</name>
+</text>
+
+<!--Bandana-->
+<text>
+	<id>468</id>
+	<name>Một mảnh vải quấn quanh đầu. Thường được làm bằng cotton hoặc lụa, khăn rằn rất linh hoạt và có thể tạo kiểu theo nhiều cách.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hơi ấm: +2
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể xé thành giẻ rách.
+</name>
+</text>
+
+<!--Crusader Helm-->
+<text>
+	<id>469</id>
+	<name>Một khối thép tán đinh tán tàn bạo, không có khuôn mặt, được rèn từ nhiều thế kỷ trước khi thế giới chết. Nó không chỉ che đầu bạn; nó chôn vùi nhân tính của bạn.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Giáp: +5          Chặn cận chiến: +15%
+Hơi ấm: +4                                                 
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương headshot nhận vào bị giảm.
+</name>
+</text>
+
+<!--Pilot Helmet-->
+<text>
+	<id>470</id>
+	<name>Mũ bảo hiểm phi công với kính chắn được thiết kế để bảo vệ khỏi ánh nắng mặt trời và gió siêu thanh; cùng với hệ thống giảm tiếng ồn và micro.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Giáp: +2          Chặn cận chiến: +5%
+Hơi ấm: +3                                               
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Altyn helmet-->
+<text>
+	<id>471</id>
+	<name>Một chiếc mũ bảo hiểm bằng titan dập 4mm được trang bị khiên che mặt, chặn đạn như không có gì.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Giáp: +7          Chặn cận chiến: +10%
+Hơi ấm: +3                                                 
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương headshot nhận vào bị giảm.
+</name>
+</text>
+
+<!--Rys-T Helmet-->
+<text>
+	<id>472</id>
+	<name>Một phiên bản cải tiến và nhẹ hơn của chiếc mũ bảo hiểm "Altyn" nổi tiếng. Nó được trang bị cho các đơn vị tấn công của Bộ Nội vụ Nga.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Giáp: +7          Chặn cận chiến: +10%
+Hơi ấm: +3                                                 
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương headshot nhận vào bị giảm.
+</name>
+</text>
+
+<!--GP-5 Gas Mask-->
+<text>
+	<id>473</id>
+	<name>Mặt nạ phòng độc toàn mặt của Liên Xô với giá đỡ bộ lọc ở phía trước; cung cấp khả năng miễn nhiễm chống lại các khu vực bị nhiễm khí độc.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hơi ấm: +2
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể đeo như lớp lót, độ bền không hao mòn khi bộ đồ bảo hộ được niêm phong.
+Độ bền hao mòn liên tục trong khu vực bị ô nhiễm!
+</name>
+</text>
+
+<!--Clown Mask-->
+<text>
+	<id>474</id>
+	<name>Mặt nạ hề ngốc nghếch hoặc... đen tối! Là lựa chọn hàng đầu của bọn côn đồ trên đảo thích đùa giỡn.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể đeo như lớp lót, khiến bạn không bị nhận dạng đối với những người sống sót khác!
+</name>
+</text>
+
+<!--Assault Helmet-->
+<text>
+	<id>475</id>
+	<name>Mũ bảo hiểm chống đạn có rail cho phụ kiện và giá đỡ NVG. Được thiết kế để đáp ứng các ứng dụng chiến đấu trong bóng tối trong khi bảo vệ đầu.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Giáp: +3          Chặn cận chiến: +5%
+Hơi ấm: +3                                               
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương headshot nhận vào bị giảm, có thể trang bị kính nhìn đêm và đèn pin dưới nòng.
+</name>
+</text>
+
+<!--Assault Helmet-->
+<text>
+	<id>476</id>
+	<name>Mũ bảo hiểm chống đạn có rail cho phụ kiện và giá đỡ NVG. Được thiết kế để đáp ứng các ứng dụng chiến đấu trong bóng tối trong khi bảo vệ đầu.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Giáp: +3          Chặn cận chiến: +5%
+Hơi ấm: +3                                               
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương headshot nhận vào bị giảm, có thể trang bị kính nhìn đêm và đèn pin dưới nòng.
+</name>
+</text>
+
+<!--Assault Helmet-->
+<text>
+	<id>477</id>
+	<name>Mũ bảo hiểm chống đạn có rail cho phụ kiện và giá đỡ NVG. Được thiết kế để đáp ứng các ứng dụng chiến đấu trong bóng tối trong khi bảo vệ đầu.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Giáp: +3          Chặn cận chiến: +5%
+Hơi ấm: +3                                               
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương headshot nhận vào bị giảm, có thể trang bị kính nhìn đêm và đèn pin dưới nòng.
+</name>
+</text>
+
+<!--Assault Helmet-->
+<text>
+	<id>478</id>
+	<name>Mũ bảo hiểm chống đạn có rail cho phụ kiện và giá đỡ NVG. Được thiết kế để đáp ứng các ứng dụng chiến đấu trong bóng tối trong khi bảo vệ đầu.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Giáp: +3          Chặn cận chiến: +5%
+Hơi ấm: +3                                               
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương headshot nhận vào bị giảm, có thể trang bị kính nhìn đêm và đèn pin dưới nòng.
+</name>
+</text>
+
+<!--Top-Wear-->
+
+<!--Hoodie-->
+<text>
+	<id>501</id>
+	<name>Áo nỉ có mũ với khóa kéo dọc và hai túi lớn, cung cấp khả năng bảo vệ tốt khỏi các yếu tố thời tiết.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +2          Hơi ấm: +5
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể xé thành giẻ rách.
+</name>
+</text>
+
+<!--Shirt-->
+<text>
+	<id>502</id>
+	<name>Một loại áo dài tay, cài cúc, bằng vải thông thường cho phần thân trên làm từ polyester và cotton.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +1          Hơi ấm: +3
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể xé thành giẻ rách.
+</name>
+</text>
+
+<!--Hoodie-->
+<text>
+	<id>504</id>
+	<name>Áo nỉ có mũ với khóa kéo dọc và hai túi lớn, cung cấp khả năng bảo vệ tốt khỏi các yếu tố thời tiết.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +2          Hơi ấm: +5
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể xé thành giẻ rách.
+</name>
+</text>
+
+<!--Raincoat-->
+<text>
+	<id>505</id>
+	<name>Một chiếc áo khoác làm từ vải chống nước với cổ áo và mũ rộng. Giúp bảo vệ thân trên khỏi mưa.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +2          Hơi ấm: +6
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Không thấm nước mưa.
+</name>
+</text>
+
+<!--Raincoat-->
+<text>
+	<id>506</id>
+	<name>Một chiếc áo khoác làm từ vải chống nước với cổ áo và mũ rộng. Giúp bảo vệ thân trên khỏi mưa.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +2          Hơi ấm: +6
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Không thấm nước mưa.
+</name>
+</text>
+
+<!--Jacket-->
+<text>
+	<id>507</id>
+	<name>Áo khoác da xe máy cổ điển, bền bỉ, chắc chắn và bảo vệ. Không cần phải nói là ngầu.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +2          Hơi ấm: +4                 
+Giáp: +2       Chặn cận chiến: +5%
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Trench Coat-->
+<text>
+	<id>509</id>
+	<name>một chiếc áo khoác lông dài, rộng có thắt lưng, thường được làm từ vật liệu cách nhiệt và tương tự như kiểu áo khoác quân đội.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +1          Hơi ấm: +9
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Gorka Jacket-->
+<text>
+	<id>510</id>
+	<name>Áo khoác chiến thuật được đơn vị đóng tại Gorka, Chernarus sử dụng, chúng cung cấp quyền truy cập nhanh vào các túi hàng hóa lớn, áo giáp và bảo vệ tốt khỏi các yếu tố thời tiết.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +3          Hơi ấm: +8                    
+Giáp: +2        Chặn cận chiến: +10%
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--T-Shirt-->
+<text>
+	<id>511</id>
+	<name>Áo thun ngắn tay với cổ tròn và form thường. Không có gì đặc biệt.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hơi ấm: +2
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể xé thành giẻ rách.
+</name>
+</text>
+
+<!--Paramedic Jacket-->
+<text>
+	<id>512</id>
+	<name>Áo khoác y tá tiêu chuẩn. Không khác nhiều so với bất kỳ trang phục làm việc nào khác, ngoại trừ các sọc phản quang, sáng.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +2          Hơi ấm: +5
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Orel Jacket-->
+<text>
+	<id>513</id>
+	<name>Áo khoác đồng phục của đơn vị cảnh sát đặc biệt OREL. Hơi ấm, thoải mái và có giáp.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +2          Hơi ấm: +5
+Giáp: +1                       
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Tracksuit Jacket-->
+<text>
+	<id>514</id>
+	<name>Áo khoác thể thao, được thiết kế cho sự thoải mái và mục đích thể thao. Nó đã trở thành một trong những mặt hàng quần áo được mặc phổ biến nhất trên thế giới.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +1          Hơi ấm: +4
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Dress-->
+<text>
+	<id>515</id>
+	<name>Váy phụ nữ thoải mái. Sẽ giúp bạn trông xinh đẹp trong mọi tình huống.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +1          Hơi ấm: +4
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Down Jacket-->
+<text>
+	<id>516</id>
+	<name>Áo khoác phao có thể nén cao độ nhồi bằng lông vũ mềm và ấm từ vịt hoặc ngỗng, cảm giác ấm áp.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +2          Hơi ấm: +8
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Hunter Jacket-->
+<text>
+	<id>517</id>
+	<name>Áo khoác bền, được thiết kế cho thời gian dài ở ngoài trời. Họa tiết ngụy trang tạo nên một bộ đồ săn bắn lý tưởng trong môi trường phù hợp.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +3          Hơi ấm: +6                  
+Giáp: +1        Chặn cận chiến: +5%
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Sweater-->
+<text>
+	<id>518</id>
+	<name>Áo len dài tay dày. Nó rất ấm, rất thấm hút và ngứa như hell.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +1          Hơi ấm: +6
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Awesome Hoodie-->
+<text>
+	<id>519</id>
+	<name>Chiếc áo nỉ huyền thoại của người đàn ông, huyền thoại, huyền thoại... CannedBits! ❤️
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +3          Hơi ấm: +8
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Firefighter Jacket-->
+<text>
+	<id>520</id>
+	<name>Áo khoác đồng phục cứu hỏa; chúng bảo vệ và cách nhiệt người mặc khỏi lửa và nhiệt độ cực cao.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +2          Hơi ấm: +5                  
+Giáp: +1        Chặn cận chiến: +5%
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Miễn nhiễm với lửa (phải kết hợp với Quần cứu hỏa).
+</name>
+</text>
+
+<!--Crusader Armor-->
+<text>
+	<id>521</id>
+	<name>"Từ tro tàn của thế giới cũ nổi lên bóng ma của một thời đại cổ xưa"
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Giáp: +7        Chặn cận chiến: +15%
+Hơi ấm: +3                                              
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Melee Weapons-->
+
+<!--Hatchet-->
+<text>
+	<id>551</id>
+	<name>Một công cụ có lưỡi một tay với đầu búa ở một bên. Nó là công cụ cho bất kỳ người nào thích hoạt động ngoài trời.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 38-63          Tỉ lệ bạo kích: 25%    
+Tỉ lệ đỡ đòn: 25%          Tốc độ đánh: 1.5s
+Mòn mỗi đòn: 0.5%       Mòn mỗi lần dùng: 2%  
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể chặt cây.
+</name>
+</text>
+
+<!--Shovel-->
+<text>
+	<id>552</id>
+	<name>Xẻng thông thường. Lưỡi thép chắc chắn dễ dàng xẻ đất và sọ.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 19-31          Tỉ lệ bạo kích: 15%            
+Tỉ lệ đỡ đòn: 35%          Tốc độ đánh: 1.6s         
+Mòn mỗi đòn: 0.5%       Mòn mỗi lần dùng: 5% / 15%
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể đào luống, mộ và trồng cây.
+</name>
+</text>
+
+<!--Pipe Wrench-->
+<text>
+	<id>553</id>
+	<name>Mỏ lết có thể điều chỉnh. Từng được sử dụng để vặn đai ốc hoặc bu lông, bây giờ nó tạo ra một vũ khí cùn khá.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 23-38          Tỉ lệ bạo kích: 25%   
+Tỉ lệ đỡ đòn: 15%          Tốc độ đánh: 1.3s
+Mòn mỗi đòn: 0.2%                                         
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể tháo dỡ cấu trúc và phá hủy xe bị nát để lấy phế liệu kim loại.
+</name>
+</text>
+
+<!--Baseball Bat-->
+<text>
+	<id>554</id>
+	<name>Một cây gậy bóng chày bằng gỗ được làm để đánh bóng chày hoặc biến thành một vũ khí tận thế thây ma biểu tượng để đập vỡ sọ.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 26-44          Tỉ lệ bạo kích: 25% 
+Tỉ lệ đỡ đòn: 15%          Tốc độ đánh: 1s
+Mòn mỗi đòn: 1%                                         
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Nguyên liệu cho: Gậy bóng chày có gai
+</name>
+</text>
+
+<!--Fire-Axe-->
+<text>
+	<id>555</id>
+	<name>Một cái rìu của lính cứu hỏa được sử dụng chủ yếu để phá cửa và cửa sổ. Nó là câu trả lời, Nếu câu hỏi là một thị trấn đầy thây ma.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 45-75          Tỉ lệ bạo kích: 25%            
+Tỉ lệ đỡ đòn: 25%          Tốc độ đánh: 1.6s        
+Mòn mỗi đòn: 0.2%       Mòn mỗi lần dùng: 2% / 10%
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể chặt cây, tháo dỡ cấu trúc, lấy tấm kim loại từ xác xe.
+</name>
+</text>
+
+<!--Crowbar-->
+<text>
+	<id>556</id>
+	<name>Một vũ khí và công cụ cận chiến đa năng, bền bỉ để cạy mở cửa và thùng.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 19-31          Tỉ lệ bạo kích: 25%    
+Tỉ lệ đỡ đòn: 15%          Tốc độ đánh: 1.2s
+Mòn mỗi đòn: 0.2%       Mòn mỗi lần dùng: 10%
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Butcher Knife-->
+<text>
+	<id>557</id>
+	<name>Một con dao lớn, nặng, gỉ sét. Được thiết kế để chém qua thịt sống dày. Nó cũng có thể dễ dàng đập vỡ xương. Chủ yếu được sử dụng bởi những người hàng thịt.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 14-24          Tỉ lệ bạo kích: 10%   
+Tỉ lệ đỡ đòn: 5%          Tốc độ đánh: 0.8s
+Mòn mỗi đòn: 1%         Mòn mỗi lần dùng: 3%  
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Cất trong giày tác chiến để lột da nhanh.
+</name>
+</text>
+
+<!--Hunting Knife-->
+<text>
+	<id>558</id>
+	<name>Dao săn bắn là một công cụ chuyên dụng được thiết kế với đầu hơi cong, chủ yếu để mổ xẻ thú săn.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 15-25          Tỉ lệ bạo kích: 15%   
+Tỉ lệ đỡ đòn: 5%          Tốc độ đánh: 0.8s
+Mòn mỗi đòn: 1%         Mòn mỗi lần dùng: 3%  
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Cất trong giày tác chiến để lột da nhanh.
+</name>
+</text>
+
+<!--Army Knife-->
+<text>
+	<id>559</id>
+	<name>Dao quân đội sắc bén với lưỡi dao và chuôi chắc chắn. Tuyệt vời để tự vệ, nhưng nó cũng có những công dụng tầm thường khác.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 16-26          Tỉ lệ bạo kích: 20%   
+Tỉ lệ đỡ đòn: 5%          Tốc độ đánh: 0.8s
+Mòn mỗi đòn: 1%         Mòn mỗi lần dùng: 3%  
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Cất trong giày tác chiến để lột da nhanh.
+</name>
+</text>
+
+<!--Pickaxe-->
+<text>
+	<id>560</id>
+	<name>Một cái cuốc sắt!...có thể đào kim cương!...oops nhầm game.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 33-55          Tỉ lệ bạo kích: 15%            
+Tỉ lệ đỡ đòn: 35%          Tốc độ đánh: 1.3s          
+Mòn mỗi đòn: 0.5%        Mòn mỗi lần dùng: 5% / 15%
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể đào luống và trồng cây.
+</name>
+</text>
+
+<!--Pitchfork-->
+<text>
+	<id>561</id>
+	<name>Một công cụ nông nghiệp bao gồm một cán dài và các ngạnh dày ở một đầu, được sử dụng để nâng và phủ rơm, rạ hoặc lá, nhưng cũng khá có khả năng xuyên thấu thịt.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 30-50          Tỉ lệ bạo kích: 15%              
+Tỉ lệ đỡ đòn: 35%          Tốc độ đánh: 1.2s           
+Mòn mỗi đòn: 0.5%       Mòn mỗi lần dùng: 5% / 15%
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể đào luống và trồng cây.
+</name>
+</text>
+
+<!--Sledgehammer-->
+<text>
+	<id>562</id>
+	<name>Một đầu kim loại phẳng có thể gây sát thương đến mức tàn phá, do kích thước lớn của nó. Chắc chắn hữu ích cho các mục đích phá hủy khác nhau.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 41-69          Tỉ lệ bạo kích: 40%    
+Tỉ lệ đỡ đòn: 15%          Tốc độ đánh: 1.8s 
+Mòn mỗi đòn: 0.5%       Mòn mỗi lần dùng: 10%
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể tháo dỡ cấu trúc và phá hủy xe bị nát để lấy phế liệu kim loại.
+</name>
+</text>
+
+<!--Crusader Sword-->
+<text>
+	<id>563</id>
+	<name>"Người hành quyết bạc của một thời đại cổ xưa! Lưỡi kiếm của nó không phân biệt người sống hay kẻ chết"
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 56-94          Tỉ lệ bạo kích: 35%    
+Tỉ lệ đỡ đòn: 25%          Tốc độ đánh: 1.5s
+Mòn mỗi đòn: 0.5%         Mòn mỗi lần dùng: 2%   
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể chặt cây.
+</name>
+</text>
+
+<!--Pan-->
+<text>
+	<id>564</id>
+	<name>Một cái chảo gang được xây dựng có mục đích để nấu lòng căm thù cho kẻ thù của bạn.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 25-41          Tỉ lệ bạo kích: 40%    
+Tỉ lệ đỡ đòn: 35%          Tốc độ đánh: 0.9s
+Mòn mỗi đòn: 0.2%                                          
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể cất gọn.
+</name>
+</text>
+
+<!--Katana-->
+<text>
+	<id>565</id>
+	<name>Một lưỡi kiếm Nhật Bản một lưỡi, theo lịch sử được sử dụng bởi tầng lớp samurai ở Nhật Bản thời phong kiến. Thiết kế thanh lịch của nó được coi là cả một vũ khí và một tác phẩm nghệ thuật.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 48-81          Tỉ lệ bạo kích: 35%   
+Tỉ lệ đỡ đòn: 25%          Tốc độ đánh: 1.2s
+Mòn mỗi đòn: 1%            Mòn mỗi lần dùng: 2%  
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể chặt cây.
+</name>
+</text>
+
+<!--Barbed Bat-->
+<text>
+	<id>566</id>
+	<name>Một cây gậy bóng chày thông thường được quấn bằng dây thép gai xoắn; Tên "Lucille" được khắc trên đó!
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 37-63          Tỉ lệ bạo kích: 35% 
+Tỉ lệ đỡ đòn: 20%          Tốc độ đánh: 1s
+Mòn mỗi đòn: 0.5%                                      
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Công thức chế tạo: Gậy bóng chày + Dây thép gai
+</name>
+</text>
+
+<!--Chainsaw-->
+<text>
+	<id>567</id>
+	<name>Texas, Texas của chúng tôi! Thật tuyệt vời, thật vĩ đại!
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 0/10                     Tỉ lệ bạo kích: 0%/20%
+Tỉ lệ đỡ đòn: 0%/40%     Tốc độ đánh: 0.1s     
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Tiêu thụ nhiên liệu khi chạy, có thể đổ xăng.
+Có thể chặt cây, tháo dỡ cấu trúc và phá hủy xe bị nát để lấy phế liệu kim loại (khi được kích hoạt).
+</name>
+</text>
+
+<!--Generator-->
+<text>
+	<id>568</id>
+	<name>Máy phát điện xách tay chạy bằng xăng. Cung cấp đủ điện để cung cấp năng lượng cho một ngôi nhà nhỏ trong thời gian nhiên liệu còn.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể triển khai và bật cho các ứng dụng điện khác nhau, cần nhiên liệu.
+Người chơi không thể sử dụng vũ khí khi đang mang vật này!
+</name>
+</text>
+
+<!--Metal Sheet-->
+<text>
+	<id>569</id>
+	<name>Các tấm kim loại được lấy từ xác, tuyệt vời nếu bạn cần xây dựng nghiêm túc, nếu không thì không hữu ích lắm.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Nguyên liệu cho: Hàng rào kim loại, Xe gia cố
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Người chơi không thể sử dụng vũ khí khi đang mang vật này!
+</name>
+</text>
+
+<!--NBC Boots-->
+<text>
+	<id>700</id>
+	<name>Một phần của bộ đồ bảo hộ "Hạt nhân, Sinh học, Hóa học"; những đôi ủng này rất quan trọng để di chuyển thành công qua các khu vực bị ô nhiễm.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hơi ấm: +1
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Miễn nhiễm với vũng nguy hiểm sinh học
+</name>
+</text>
+
+<!--NBC Gloves-->
+<text>
+	<id>701</id>
+	<name>Một phần của bộ đồ bảo hộ "Hạt nhân, Sinh học, Hóa học"; những đôi găng tay này rất quan trọng để lục xác thành công.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hơi ấm: +1
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Miễn nhiễm hình phạt lục xác.
+</name>
+</text>
+
+<!--Chem Suit (stowed)-->
+<text>
+	<id>702</id>
+	<name>Một bộ đồ bảo hộ được làm thô sơ sao chép các thuộc tính của bộ đồ CBRN, nhưng không thể sử dụng làm lớp lót để xếp áo giáp lên trên nó.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hiệu quả khi độ bền ≥ 50% và đi cùng giày và găng tay NBC.
+Cung cấp khả năng chống mưa, phóng xạ và nguy hiểm sinh học (yêu cầu bộ đầy đủ để có hiệu lực).
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể niêm phong để miễn nhiễm với khí độc trong 2 phút; có thể cất gọn.
+</name>
+</text>
+
+<!--Hazmat Suit (stowed)-->
+<text>
+	<id>703</id>
+	<name>Một thiết bị PPE không thấm nước được thiết kế để bảo vệ khỏi hóa chất nguy hiểm, mối đe dọa sinh học.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hiệu quả khi độ bền ≥ 50% và đi cùng giày và găng tay NBC.
+Cung cấp khả năng chống mưa và nguy hiểm sinh học (yêu cầu bộ đầy đủ để có hiệu lực).
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể cất gọn.
+</name>
+</text>
+
+<!--12 Gauge Drum-->
+<text>
+	<id>704</id>
+	<name>Băng đạn trống ProMag Saiga 12-Gauge, 20 viên.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Gắn lên: Saiga-12K
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Dye Bucket 🌈-->
+<text>
+	<id>705</id>
+	<name>Một hộp nhỏ tròn chứa nhiều màu sắc đa dạng trong tất cả các dải quang phổ của cầu vồng... ồ và còn có dung dịch tẩy màu nữa!
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể nhuộm áo, quần, ba lô và xe cộ thành bất kỳ màu nào!
+Màu sắc cũng có thể được trả về màu mặc định.
+</name>
+</text>
+
+<!--Headlamp (stowed)-->
+<text>
+	<id>706</id>
+	<name>Một thiết bị chiếu sáng rảnh tay đeo trên đầu với dây đeo có thể điều chỉnh.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hơi ấm: +1          Thay pin: Pin 9V
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể bật để tạo một vùng ánh sáng nhỏ.
+</name>
+</text>
+
+<!--NVG (stowed)-->
+<text>
+	<id>707</id>
+	<name>Kính nhìn đêm [NVG] chạy bằng pin để tăng cường hình ảnh trong môi trường ánh sáng yếu, đi kèm với dây đeo đầu.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hơi ấm: +1          Thay pin: Pin 9V
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể bật để nhìn trong bóng tối.
+</name>
+</text>
+
+<!--AI-2 Medkit-->
+<text>
+	<id>708</id>
+	<name>Bộ y tế AI-2 thời Chiến tranh Lạnh ban đầu được thiết kế để bảo vệ công dân và nhân viên quân sự Liên Xô khỏi các mối đe dọa hóa học, sinh học, phóng xạ và hạt nhân (CBRN).
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Thể lực: +50          Hiệu lực: 120s
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hiệu ứng thuốc: ngừng chảy máu và miễn nhiễm với bức xạ trong thời gian hiệu lực.
+</name>
+</text>
+
+<!--Dog Kennel-->
+<text>
+	<id>709</id>
+	<name>Một chuồng chó cũ kỹ với vết cắn trên cửa, được giấu bên trong, một con chó lông ngắn màu nâu đang ngủ yên bình, cuộn tròn trên một chiếc giường làm bằng rơm!
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể thả chó ra hoặc gọi lại.
+Chó có thể mang vật phẩm.
+</name>
+</text>
+
+<!--Stimulants-->
+<text>
+	<id>710</id>
+	<name>Adrenaline kích thích tâm thần được sử dụng để tăng cường sự chú ý, nhận thức và hiệu suất thể chất.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sinh lực: +10                 Tỉ lệ headshot: +20%
+Tỉ lệ đỡ đòn: +20%  Tốc độ di chuyển: +20%
+Hiệu lực: 120s                                        
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lượng tối đa: 3
+</name>
+</text>
+
+<!--CBRN Suit (stowed)-->
+<text>
+	<id>711</id>
+	<name>Một phiên bản quân sự tiên tiến hơn của bộ đồ NBC, được thiết kế với trọng tâm là các mối đe dọa phóng xạ và chất gây ô nhiễm khí, cũng được làm rất nhẹ để nó có thể xếp lớp chọn áo giáp lên trên nó.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hiệu quả khi độ bền ≥ 50% và đi cùng giày và găng tay NBC.
+Cung cấp khả năng chống mưa, phóng xạ và nguy hiểm sinh học (yêu cầu bộ đầy đủ để có hiệu lực).
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể niêm phong để miễn nhiễm với khí độc trong 2 phút, có thể xếp lớp chọn áo giáp lên trên nó; có thể cất gọn.
+</name>
+</text>
+
+<!--Nautical Chart-->
+<text>
+	<id>712</id>
+	<name>Một bản đồ chuyên dụng cho định vị hàng hải; bao gồm một bản đồ chi tiết thể hiện các luồng nước, độ sâu và các hòn đảo để đảm bảo di chuyển an toàn và chính xác.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể sử dụng để xác định loại đảo và xóa sương mù chiến tranh của đảo tiếp theo!
+</name>
+</text>
+
+<!--NBC Suit (stowed)-->
+<text>
+	<id>713</id>
+	<name>Một bộ đồ "Hạt nhân, Sinh học và Hóa học" được thiết kế để cung cấp khả năng bảo vệ hoàn toàn chống lại các mối đe dọa này.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hiệu quả khi độ bền ≥ 50% và đi cùng giày và găng tay NBC.
+Cung cấp khả năng chống mưa, phóng xạ và nguy hiểm sinh học (yêu cầu bộ đầy đủ để có hiệu lực).
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể cất gọn.
+</name>
+</text>
+
+<!--Deerskin-->
+<text>
+	<id>714</id>
+	<name>Một loại da hươu mềm mại, bền và nhẹ được biết đến với sự mềm mại và thoáng khí đặc biệt. Da hươu được coi là một loại da sang trọng.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Nguyên liệu cho: Giường
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--5.45x39 Drum Mag-->
+<text>
+	<id>715</id>
+	<name>Băng đạn trống kép KCI AK; chứa 95 viên 5.45x39mm.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Gắn lên: AK-74, AKs-74U
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Spiked Collar-->
+<text>
+	<id>716</id>
+	<name>Một phụ kiện cổ chức năng với các đinh kim loại hướng ra ngoài; giúp đánh thức "con chó" bên trong chú chó của bạn!
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ra lệnh cho chú chó của bạn tích cực thu hút và tấn công kẻ thù.
+Có thể bị đánh bại bởi kẻ thù nguy hiểm!
+</name>
+</text>
+
+<!--Saddlebag-->
+<text>
+	<id>717</id>
+	<name>Một dây đeo có thể đeo được với các túi bên tích hợp cho phép chó mang vật phẩm.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ra lệnh cho chú chó của bạn tích cực thu thập và mang vật phẩm cùng loại.
+Không thể mang vật phẩm qua các đảo!
+</name>
+</text>
+
+<!--Egg-->
+<text>
+	<id>718</id>
+	<name>Trứng hữu cơ. nhiều protein, đến từ những con gà mái thả vườn được tự do đi lại bên ngoài vào ban ngày và được nhốt an toàn và bảo đảm trong chuồng gà vào ban đêm.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Thức ăn: +10          Nước uống: +10
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lượng tối đa: 3
+Nguyên liệu cho: Trứng chiên, Trứng bác cà chua
+</name>
+</text>
+
+<!--Raw Chicken-->
+<text>
+	<id>719</id>
+	<name>Gia cầm sống, Một nguồn protein tốt.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Thức ăn: +25          Nước uống: +10
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Nguyên liệu cho: Thịt xào ớt chuông
+Có thể nấu trên lửa trại để ăn an toàn.
+50% khả năng bị ngộ độc thực phẩm khi ăn sống.
+</name>
+</text>
+
+<!--Cooked Chincken-->
+<text>
+	<id>720</id>
+	<name>Thịt gà sống nướng trên lửa trại.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Thức ăn: +35          Nước uống: +15
+Sinh lực: +20                            
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Mini Sight-->
+<text>
+	<id>721</id>
+	<name>Ốp ngắm không phóng đại với điểm ruồi được chiếu sáng; dành cho súng lục tương thích.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Tỉ lệ headshot: +5%     Độ lan tỏa: -2
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Gắn lên: FNX 45, Glock 17, Desert Eagle, Remington 870
+</name>
+</text>
+
+<!--Sub Caliber Suppressor-->
+<text>
+	<id>722</id>
+	<name>Phụ kiện gắn vào nòng súng, làm giảm tiếng ồn khi bắn. Phiên bản này được thiết kế cho cỡ nòng nhỏ.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Gắn lên: FNX 45, Colt 1911, Glock 17, Desert Eagle, MAC-10, Mini-UZI, PP-19 Bizon, MP5K, UMP-45, KRISS Vector
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Pistol Flashlight-->
+<text>
+	<id>723</id>
+	<name>Một đèn chiến thuật được sử dụng kết hợp với súng lục để chiếu sáng mục tiêu.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Gắn lên: FNX 45, Colt 1911, Glock 17
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Fried Egg-->
+<text>
+	<id>724</id>
+	<name>Một quả trứng chiên, mặt trên. Đơn giản và ngon.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sinh lực: +5          Thể lực: +5                
+Thức ăn: +20          Nước uống: +5                   
+Tốc độ hồi sinh lực:x2     Hiệu lực: 10s
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Công thức: Trứng + Chảo rán + Lửa trại
+</name>
+</text>
+
+<!--Pepper Steak-->
+<text>
+	<id>725</id>
+	<name>Món xào cổ điển này kết hợp thịt thái mỏng mềm với ớt chuông giòn trong một món ăn mặn ngon. Trang trí và phục vụ.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sinh lực: +30             Thể lực: +30               
+Thức ăn: +60          Nước uống: +15                 
+Tốc độ hồi sinh lực:x2     Hiệu lực: 60s
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Công thức: Bất kỳ Thịt nào + Ớt chuông + Chảo rán + Lửa trại
+</name>
+</text>
+
+<!--Shakshuka-->
+<text>
+	<id>726</id>
+	<name>Một món ăn đơn giản nhưng siêu thoải mái phổ biến trong nấu ăn gia đình Trung Quốc, được làm bằng cách bác trứng trên chảo nóng và thêm cà chua cắt hạt lựu.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sinh lực: +10             Thể lực: +10               
+Thức ăn: +35          Nước uống: +20                 
+Tốc độ hồi sinh lực:x2     Hiệu lực: 60s
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Công thức: Trứng + Cà chua + Chảo rán + Lửa trại
+</name>
+</text>
+
+<!--Searchlight-->
+<text>
+	<id>727</id>
+	<name>Một chân máy đèn pha và đèn đầu đi kèm trên đỉnh, có thể chiếu sáng các khu vực rộng lớn khi được cung cấp năng lượng bởi một máy phát điện.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Triển khai trên mặt đất và cung cấp năng lượng bằng máy phát điện, cũng có thể triển khai trong hầm ngầm.
+</name>
+</text>
+
+<!--Earthworm-->
+<text>
+	<id>728</id>
+	<name>Một loài động vật không xương sống khiêm tốn sống dưới lòng đất trong đất ẩm.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Thức ăn: +5          Thể lực: -10
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lượng tối đa: 10
+Có thể phục hồi một số độ bền của cần câu.
+</name>
+</text>
+
+<!--VOG-25 Khatabka-->
+<text>
+	<id>729</id>
+	<name>Một phiên bản lựu đạn cải tiến của viên đạn lựu đạn VOG-25, Một sự khéo léo tự chế của Nga!
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 1800          Sát thương mảnh: 75
+Cháy: 2s          Mảnh: 24                       
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể buộc trên áo giáp chọn lọc để sử dụng nhanh.
+</name>
+</text>
+
+<!--Sidearms (stowed)-->
+
+<!--FNX 45-->
+<text>
+	<id>730</id>
+	<name>Súng lục cơ cấu kép với tính công thái học được nâng cao.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 21-35          Độ lan tỏa: 20-6              
+Tốc độ ngắm: 4          Độ giật: 9                      
+Hình phạt di chuyển: 2          Nạp đạn: 2s         
+Sức chứa băng: 15          Đạn: .45 ACP         
+Mòn mỗi phát: 0.5%     Độ trễ mỗi phát: 0.15s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Colt 1911-->
+<text>
+	<id>731</id>
+	<name>"Chúa tạo ra con người, Sam Colt làm cho họ bình đẳng"
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 18-30          Độ lan tỏa: 20-6            
+Tốc độ ngắm: 4          Độ giật: 10                  
+Hình phạt di chuyển: 2          Nạp đạn: 2s       
+Sức chứa băng: 7          Đạn: .45 ACP       
+Mòn mỗi phát: 0.5%     Độ trễ mỗi phát: 0.2s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Magnum Revolver-->
+<text>
+	<id>732</id>
+	<name>Súng lục ổ quay sáu viên cơ cấu kép, nó có thể gây sát thương đặc biệt.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 34-54          Độ lan tỏa: 20-6                
+Tốc độ ngắm: 2          Độ giật: 15                      
+Hình phạt di chuyển: 3          Nạp đạn: 3s           
+Sức chứa băng: 6          Đạn: .357 M             
+Mòn mỗi phát: 0.5%     Độ trễ mỗi phát: 0.3s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Glock 17-->
+<text>
+	<id>733</id>
+	<name>Giá cả phải chăng, đáng tin cậy và nhỏ gọn, nó rất phổ biến ở Hoa Kỳ.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 15-25          Độ lan tỏa: 20-5              
+Tốc độ ngắm: 4          Độ giật: 10                    
+Hình phạt di chuyển: 2          Nạp đạn: 2s         
+Sức chứa băng: 18          Đạn: 9x19 P           
+Mòn mỗi phát: 0.5%     Độ trễ mỗi phát: 0.15s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Amphibia S-->
+<text>
+	<id>734</id>
+	<name>AWC TM-Amphibian S là biến thể được gắn giảm thanh tích hợp của súng lục Ruger Mk II Target .22 LR.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 11-19          Độ lan tỏa: 20-4           
+Tốc độ ngắm: 4          Độ giật: 9                   
+Hình phạt di chuyển: 3          Nạp đạn: 2s      
+Sức chứa băng: 10          Đạn: .22 LR         
+Mòn mỗi phát: 0.5%     Độ trễ mỗi phát: 0.2s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Không thu hút xác sống khi bắn.
+</name>
+</text>
+
+<!--Sawn-Off IZh-43-->
+<text>
+	<id>735</id>
+	<name>Súng shotgun hai nòng cưa ngắn.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 22-188          Độ lan tỏa: 30-13      
+Tốc độ ngắm: 3          Độ giật: 20              
+Hình phạt di chuyển: 2          Nạp đạn: 3s   
+Sức chứa băng: 2          Đạn: 12 Cal      
+Mòn mỗi phát: 0.5%     Độ trễ mỗi phát: 0s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Mosin Obrez-->
+<text>
+	<id>736</id>
+	<name>Súng trường bolt-action năm viên cưa ngắn, nạp đạn từ băng đạn trong.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 79-131          Độ lan tỏa: 25-12          
+Tốc độ ngắm: 3          Độ giật: 25                   
+Hình phạt di chuyển: 1          Nạp đạn: 3s       
+Sức chứa băng: 5          Đạn: 7.62x54R     
+Mòn mỗi phát: 0.5%     Độ trễ mỗi phát: 1.3s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Engraved Colt-->
+<text>
+	<id>737</id>
+	<name>Biến thể colt này đã được khắc tỉ mỉ.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 18-30          Độ lan tỏa: 20-5           
+Tốc độ ngắm: 4          Độ giật: 10                 
+Hình phạt di chuyển: 2          Nạp đạn: 2s      
+Sức chứa băng: 12          Đạn: .45 ACP      
+Mòn mỗi phát: 0.5%     Độ trễ mỗi phát: 0.2s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Mare's Leg-->
+<text>
+	<id>738</id>
+	<name>"Đây là vùng đất hoang dã, thưa bà." -Josh Randall
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 34-56          Độ lan tỏa: 25-11          
+Tốc độ ngắm: 3          Độ giật: 17                  
+Hình phạt di chuyển: 2          Nạp đạn: 3s       
+Sức chứa băng: 7          Đạn: .357 M         
+Mòn mỗi phát: 0.5%     Độ trễ mỗi phát: 0.7s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--PM-->
+<text>
+	<id>739</id>
+	<name>Súng lục Makarov, hay PM là một khẩu súng lục bán tự động của Liên Xô được biết đến với sự đơn giản, độ bền và độ tin cậy.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 18-30          Độ lan tỏa: 20-8            
+Tốc độ ngắm: 4          Độ giật: 10                  
+Hình phạt di chuyển: 2          Nạp đạn: 2s       
+Sức chứa băng: 8          Đạn: 9x18 M        
+Mòn mỗi phát: 0.25%     Độ trễ mỗi phát: 0.2s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--PB-->
+<text>
+	<id>740</id>
+	<name>Một khẩu súng lục bán tự động được gắn giảm thanh tích hợp của Liên Xô, được phát triển cho các hoạt động đặc biệt bí mật của KGB và Spetsnaz.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 18-30          Độ lan tỏa: 20-9             
+Tốc độ ngắm: 4          Độ giật: 8                     
+Hình phạt di chuyển: 2          Nạp đạn: 2s       
+Sức chứa băng: 8          Đạn: 9x18 M        
+Mòn mỗi phát: 0.5%     Độ trễ mỗi phát: 0.2s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Không thu hút xác sống khi bắn.
+</name>
+</text>
+
+<!--Desert Eagle-->
+<text>
+	<id>741</id>
+	<name>Một khẩu súng lục biểu tượng, được biết đến với ngoại hình lớn và đặc trưng và sức ngăn chặn cao.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 30-50          Độ lan tỏa: 20-6            
+Tốc độ ngắm: 3          Độ giật: 13                  
+Hình phạt di chuyển: 2          Nạp đạn: 2s       
+Sức chứa băng: 9          Đạn: .357 M         
+Mòn mỗi phát: 0.5%     Độ trễ mỗi phát: 0.2s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--M79-->
+<text>
+	<id>742</id>
+	<name>Súng phóng lựu break-action. Có thể trông cổ xưa, nhưng vẫn hiệu quả.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 45-540          Độ lan tỏa: 30-8                  
+Tốc độ ngắm: 3          Độ giật: 6                           
+Hình phạt di chuyển: 2          Nạp đạn: 3s             
+Sức chứa băng: 1          Đạn: Lựu đạn 40mm
+Mòn mỗi phát: 0.25%     Độ trễ mỗi phát: -            
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Obrez Blaze-->
+<text>
+	<id>743</id>
+	<name>Súng trường break-action hai nòng cưa ngắn.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 71-119          Độ lan tỏa: 25-12        
+Tốc độ ngắm: 3          Độ giật: 10                
+Hình phạt di chuyển: 2          Nạp đạn: 3s    
+Sức chứa băng: 2          Đạn: .308 Win  
+Mòn mỗi phát: 0.5%     Độ trễ mỗi phát: 0s
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Longhorn-->
+<text>
+	<id>744</id>
+	<name>Súng lục săn bắn break-action một phát. Phù hợp để săn thú, đi kèm với ống ngắm tích hợp.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 79-131          Độ lan tỏa: 20-1      
+Tốc độ ngắm: 2          Độ giật: 25            
+Hình phạt di chuyển: 2          Nạp đạn: 3s 
+Sức chứa băng: 1          Đạn: .308 Win
+Mòn mỗi phát: 0.5%     Độ trễ mỗi phát: -
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
++15% tỉ lệ headshot cộng thêm.
+</name>
+</text>
+
+<!--MAC-10-->
+<text>
+	<id>745</id>
+	<name>Military Armament Corporation model 10 hay MAC-10. Một khẩu tiểu liên nhỏ gọn.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 15-25          Độ lan tỏa: 20-10          
+Tốc độ ngắm: 3          Độ giật: 2                    
+Hình phạt di chuyển: 0          Nạp đạn: 2s       
+Sức chứa băng: 30          Đạn: 9x19 P        
+Mòn mỗi phát: 0.2%     Tốc độ bắn: 650 RPM
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Mini-UZI-->
+<text>
+	<id>746</id>
+	<name>Một phiên bản nhỏ hơn, nhỏ gọn hơn của khẩu tiểu liên UZI ban đầu.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 18-30          Độ lan tỏa: 20-10          
+Tốc độ ngắm: 3          Độ giật: 2                   
+Hình phạt di chuyển: 0          Nạp đạn: 2s       
+Sức chứa băng: 22          Đạn: .45 ACP       
+Mòn mỗi phát: 0.2%     Tốc độ bắn: 600 RPM
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--C-4-->
+<text>
+	<id>747</id>
+	<name>Composition C-4; Một chất nổ nhựa quân sự rất ổn định, được trang bị kíp nổ và bộ hẹn giờ thích hợp.
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Một chất nổ cực kỳ mạnh! Khi được đặt và kích hoạt, nó phát ra tiếng báo động, thu hút xác sống và phát nổ sau 15s.
+</name>
+</text>
+
+<!--Santa Hat-->
+<text>
+	<id>748</id>
+	<name>Một chiếc mũ mùa đông hình nón mang tính biểu tượng, được công nhận rộng rãi là vật đội đầu đặc trưng của Ông già Noel!
+</name>
+</text>
+
+<!--Christmas Mystery Box-->
+<text>
+	<id>749</id>
+	<name>Một món quà được gói ghém thể hiện tình cảm, sự trân trọng và ăn mừng!
+</name>
+</text>
+
+<!--Human Meat-->
+<text>
+	<id>750</id>
+	<name>Một loại thịt đỏ sẫm, sâu, giống thịt bò nạc; Nếu bạn có dạ dày để ăn và không có vấn đề đạo đức... có thể ăn được trong trường hợp khẩn cấp!
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+ Thức ăn: +15          Nước uống: +10
+Thể lực: -10                            
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+100% khả năng bị ngộ độc thực phẩm khi ăn sống!
+</name>
+</text>
+
+<!--Cooked Human Meat-->
+<text>
+	<id>751</id>
+	<name>Mùi như thịt lợn!
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+ Thức ăn: +25          Nước uống: +10
+Thể lực: -10                            
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+50% khả năng bị ngộ độc thực phẩm khi ăn!
+</name>
+</text>
+
+<!--Satchel (stowed)-->
+<text>
+	<id>752</id>
+	<name>Túi đeo hông tiện lợi dùng để đeo các vật dụng nhỏ. Chất liệu không bền lắm, nhưng nó sẽ hoàn thành nhiệm vụ.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +2
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể đeo cùng với ba lô.
+</name>
+</text>
+
+<!--Army Satchel (stowed)-->
+<text>
+	<id>753</id>
+	<name>Một túi đeo vai tiêu chuẩn quân đội nhỏ dùng để lưu trữ các vật dụng sinh tồn EDC và công cụ nhỏ.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +1          Ô độc quyền: +3
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Vật phẩm độc quyền: dao, diêm, bật lửa, pháo sáng, chai nước, bình nước
+Có thể đeo cùng với ba lô.
+</name>
+</text>
+
+<!--Medical Satchel (stowed)-->
+<text>
+	<id>754</id>
+	<name>Một túi đeo vai IFAK tiêu chuẩn y tế, được thiết kế để lưu trữ thuốc một cách được bảo vệ khỏi các chất gây ô nhiễm.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +1          Ô độc quyền: +3
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Vật phẩm độc quyền: bất kỳ vật tư y tế nào.
+Có thể đeo cùng với ba lô.
+</name>
+</text>
+
+<!--Weapon Case-->
+<text>
+	<id>755</id>
+	<name>Một hộp chắc chắn, được gia cố được thiết kế để lưu trữ súng an toàn; Có lớp đệm xốp bảo vệ để giữ vũ khí của bạn an toàn khỏi hư hỏng và ăn mòn.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể cất và lấy ra một vũ khí chính.
+</name>
+</text>
+
+<!--Pistol Holster-->
+<text>
+	<id>756</id>
+	<name>Một hộp đựng bảo vệ chuyên dụng được thiết kế để giữ súng lục cho các tình huống cần rút nhanh.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể trang bị trên thắt lưng để mang thêm một vũ khí phụ.
+</name>
+</text>
+
+<!---Work Gloves-->
+<text>
+	<id>757</id>
+	<name>Găng tay da tiêu chuẩn công nghiệp, chịu lực nặng; được sản xuất đặc biệt cho các công việc ma sát cao và xử lý vật liệu nặng.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Hơi ấm: +3
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Miễn nhiễm hình phạt lục xác.
+</name>
+</text>
+
+<!--12.7x108 Ammo-->
+
+<text>
+	<id>758</id>
+	<name>Đạn cỡ nòng 12.7×108mm. Dùng cho súng trường chống vật chất.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+sử dụng cho: OSV-96
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lượng tối đa: 30
+</name>
+</text>
+
+<!--Water Filter (Good)-->
+<text>
+	<id>759</id>
+	<name>Một bình nước cá nhân tái sử dụng được trang bị bộ lọc than hoạt tính bên trong để lọc nước khi di chuyển.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Nước uống: +12          Số lần Sử dụng: 4
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể lọc nước hồ, có thể phục hồi bằng viên than hoạt tính khi rỗng.
+Có thể đổ đầy nước từ máy bơm, hứng nước mưa khi để trên đất trong lúc mưa.
+</name>
+</text>
+
+
+<!--Water Filter (empty)-->
+<text>
+	<id>760</id>
+	<name>Một bình nước cá nhân tái sử dụng được trang bị bộ lọc than hoạt tính bên trong để lọc nước khi di chuyển.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Nước uống: +12          Số lần Sử dụng: 4
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể lọc nước hồ, có thể phục hồi bằng viên than hoạt tính khi rỗng.
+Có thể đổ đầy nước từ máy bơm, hứng nước mưa khi để trên đất trong lúc mưa.
+</name>
+</text>
+
+<!--Ammo Boxes-->
+<text>
+	<id>761</id>
+	<name>Chứa gấp 10 lần giới hạn xếp chồng bình thường cho đạn dược
+</name>
+</text>
+
+<text>
+	<id>762</id>
+	<name>Chứa gấp 10 lần giới hạn xếp chồng bình thường cho đạn dược
+</name>
+</text>
+
+<text>
+	<id>763</id>
+	<name>Chứa gấp 10 lần giới hạn xếp chồng bình thường cho đạn dược
+</name>
+</text>
+
+<text>
+	<id>764</id>
+	<name>Chứa gấp 10 lần giới hạn xếp chồng bình thường cho đạn dược
+</name>
+</text>
+
+<text>
+	<id>765</id>
+	<name>Chứa gấp 10 lần giới hạn xếp chồng bình thường cho đạn dược
+</name>
+</text>
+
+<text>
+	<id>766</id>
+	<name>Chứa gấp 10 lần giới hạn xếp chồng bình thường cho đạn dược
+</name>
+</text>
+
+<text>
+	<id>767</id>
+	<name>Chứa gấp 10 lần giới hạn xếp chồng bình thường cho đạn dược
+</name>
+</text>
+
+<text>
+	<id>768</id>
+	<name>Chứa gấp 10 lần giới hạn xếp chồng bình thường cho đạn dược
+</name>
+</text>
+
+<text>
+	<id>769</id>
+	<name>Chứa gấp 10 lần giới hạn xếp chồng bình thường cho đạn dược
+</name>
+</text>
+
+<text>
+	<id>770</id>
+	<name>Chứa gấp 10 lần giới hạn xếp chồng bình thường cho đạn dược
+</name>
+</text>
+
+<text>
+	<id>771</id>
+	<name>Chứa gấp 10 lần giới hạn xếp chồng bình thường cho đạn dược
+</name>
+</text>
+
+<text>
+	<id>772</id>
+	<name>Chứa gấp 10 lần giới hạn xếp chồng bình thường cho đạn dược
+</name>
+</text>
+
+<text>
+	<id>773</id>
+	<name>Chứa gấp 10 lần giới hạn xếp chồng bình thường cho đạn dược
+</name>
+</text>
+
+<text>
+	<id>774</id>
+	<name>Chứa gấp 10 lần giới hạn xếp chồng bình thường cho đạn dược
+</name>
+</text>
+
+<text>
+	<id>775</id>
+	<name>Chứa gấp 10 lần giới hạn xếp chồng bình thường cho đạn dược
+</name>
+</text>
+
+<text>
+	<id>776</id>
+	<name>Chứa gấp 10 lần giới hạn xếp chồng bình thường cho đạn dược
+</name>
+</text>
+
+<!--Pear-->
+<text>
+	<id>777</id>
+	<name>Một quả lê chín; không quá bổ dưỡng, nhưng rất ngọt và ngon.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Thức ăn: +10          Nước uống: +20
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Số lượng tối đa: 3
+</name>
+</text>
+
+<!--Burlap Sack (Chicken)-->
+<text>
+	<id>778</id>
+	<name>Một phương pháp thực tế để vận chuyển gia cầm sống.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Bao tải này chứa một con gà sống.
+Gà được thả sẽ không biến mất và sẽ không đi lang thang nếu đặt gần máng ăn.
+</name>
+</text>
+
+<!--Burlap Sack (Pig)-->
+<text>
+	<id>779</id>
+	<name>Một phương pháp thực tế để vận chuyển lợn sống.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Bao tải này chứa một con lợn sống.
+Lợn được thả sẽ không biến mất và sẽ không đi lang thang nếu đặt gần máng ăn.
+</name>
+</text>
+
+<!--Raw Wolf Meat-->
+<text>
+	<id>780</id>
+	<name>Thịt nạc, dai được thu hoạch từ một loài săn mồi; tiềm ẩn nhiều rủi ro mầm bệnh!
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Thức ăn: +20          Nước uống: +10
+Thể lực: -10                            
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể nướng trên lửa trại để ăn.
+50% khả năng bị ngộ độc thực phẩm và ốm khi ăn sống!
+
+</name>
+</text>
+
+<!--Cooked Wolf Meat-->
+<text>
+	<id>781</id>
+	<name>Một miếng thịt sói dai, nạc được nướng trên lửa trại; có sợi và mùi thịt thú rừng rõ rệt.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Thức ăn: +40          Nước uống: +10
+Thể lực: -10                            
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+50% khả năng bị ngộ độc thực phẩm khi ăn!
+</name>
+</text>
+
+<!--Raw Bear Meat-->
+<text>
+	<id>782</id>
+	<name>Thịt sườn dày, đặc, dai được thu hoạch từ một con gấu!
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Thức ăn: +30          Nước uống: +10
+Thể lực: -10                            
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể nướng trên lửa trại để ăn.
+50% khả năng bị ngộ độc thực phẩm và ốm khi ăn sống!
+</name>
+</text>
+
+<!--Cooked Bear Meat-->
+<text>
+	<id>783</id>
+	<name>Trông giống như sườn bò với hương vị hoang dã mãnh liệt... nhưng bạn có những nghi ngờ của mình!
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Thức ăn: +60          Nước uống: +10
+Thể lực: -10                            
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+50% khả năng bị ngộ độc thực phẩm khi ăn!
+</name>
+</text>
+
+<!--Bear Hide-->
+<text>
+	<id>784</id>
+	<name>Một tấm da nặng, dày được lấy từ một con gấu bị hạ gục; trọng lượng và độ bền của nó làm cho nó trở thành một lựa chọn tuyệt vời để chế tạo chăn ấm.
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Nguyên liệu cho: Giường
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+</name>
+</text>
+
+<!--Romero 77 Hatchet-->
+<text>
+	<id>785</id>
+	<name>Súng shotgun ba nòng được chế tạo thành rìu!
+ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Sát thương: 71-119/22-188     Độ lan tỏa: 25-12                  
+Tốc độ ngắm: 3                         Độ giật: 10                          
+Hình phạt di chuyển: 2                      Nạp đạn: -                  
+Sức chứa băng: 2/1               Đạn: .308 Win / 12 Cal
+Thông số cận chiến:
+Sát thương: 38-63          Tỉ lệ bạo kích: 25%  
+Tỉ lệ đỡ đòn: 25%     Tốc độ đánh: 1.5s
+Có thể dùng trong cận chiến và chặt cây.
+</name>
+</text>
+
+<!--Feature- Equivalent Exchange-->
+<text>
+	<id>64</id>
+	<name>Trao đổi phiên bản tương đương của một vật phẩm!
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Tay cầm AK 🔄 Tay cầm Rail  Nòng giảm thanh 5.45 🔄 Nòng giảm thanh 5.56
+Súng phóng lựu GP-25 🔄 Súng phóng lựu M203
+Lựu đạn 40mm 🔄 Lựu đạn VOG-25
+Magpul 🔄 Băng đeo đạn  Kính ngắm ACOG 🔄 Kính ngắm PSO-1
+Bộ vệ sinh 🔄 Đèn hàn  Pipsi 🔄 Nota-Cola
+Kính nhìn đêm 1PN51 🔄 Kính nhìn đêm PVS-4
+Băng đạn trống 5.45 🔄 Băng đạn trống 5.56
+Băng đạn trống 7.62x39 🔄 Băng đạn trống 12
+</name>
+</text>
+
+<!--Feature- Item Carryover-->
+<text>
+	<id>65</id>
+	<name>Một chút ma thuật của Dev để cho các vật phẩm của bạn khả năng nhảy chiều!
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Ô: +6
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Có thể lưu trữ vật phẩm hoặc trang bị bên trong để được lưu và sinh ra vào một game mới.
+Các vật tư được lưu trữ bên trong có thể được truy cập lại bằng cách sinh ra kho chứa vật tư trong bản lưu mới của bạn bằng cách sử dụng bảng điều khiển trò chơi nhỏ.
+</name>
+</text>
+
+<!--Feature- Building Mode-->
+<text>
+	<id>66</id>
+	<name>Cho phép lưu trữ không điều kiện cho tất cả các cấu trúc có thể triển khai!
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Khi triển khai, nhấn X không còn trả lại vật phẩm; mà thay vào đó lưu trữ cấu trúc.
+</name>
+</text>
+
+<!--Feature- Experience Shop-->
+<text>
+	<id>67</id>
+	<name>Đổi điểm kinh nghiệm lấy nhiều loại trang bị và vật phẩm hữu ích!
+̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
+Danh sách vật phẩm ngẫu nhiên được đặt lại hàng ngày lúc 00:00.
+</name>
+</text>
+
+</list>
