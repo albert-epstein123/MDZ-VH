@@ -1,10 +1,12 @@
 # MDZ VH
-***[Bấm đây để mở game (VN)](https://albert-epstein123.github.io/MDZ-VH/2.2.6/)***<br>
+***[Bấm đây để mở game (VN)](https://albert-epstein123.github.io/MDZ-VH/2.3.2/)***<br>
 ---
-**MDZ VH chạy trên Web**
-- Ver hiện tại: **2.2.6**
-- VH bởi **Jerryjuan**
-[FB](https://www.facebook.com/phap.dogia/)
+**MDZ VH chạy trên Web**<br>
+(ban than ad cx luoi vs ban lam project khac)
+- Ver hiện tại: **2.3.2**
+- VH bởi **Vo Hoang Duyet**
+[FB](https://www.facebook.com/vo.hoang.duyet/)<br>
+**DO AI DICH**
 - Mod Loader của **AlphaSystemsPL**
 [Github](https://github.com/AlphaSystemsPL)
 (tui có chỉnh một chút để load được mod ở bản này - Dungx)

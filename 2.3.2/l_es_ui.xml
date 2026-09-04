@@ -1,0 +1,3129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+-----Botones del menú principal-----
+<text>
+	<id>1</id>
+	<name>Nuevo juego</name>
+</text>
+
+<text>
+	<id>2</id>
+	<name>Continuar</name>
+</text>
+
+<text>
+	<id>3</id>
+	<name>Logros</name>
+</text>
+
+<text>
+	<id>4</id>
+	<name>Comunidad</name>
+</text>
+
+<text>
+	<id>5</id>
+	<name>Registro de cambios</name>
+</text>
+
+<text>
+	<id>6</id>
+	<name>Salir</name>
+</text>
+
+<text>
+	<id>7</id>
+	<name>Principiante</name>
+</text>
+
+<text>
+	<id>8</id>	
+	<name>Regular</name>
+</text>
+
+<text>
+	<id>9</id>
+	<name>Veterano</name>
+</text>
+
+<text>
+	<id>10</id>
+	<name>Volver</name>
+</text>
+
+<text>
+	<id>11</id>
+	<name>Reanudar el juego</name>
+</text>
+
+
+
+<text>
+	<id>12</id>
+	<name>Minutos con vida</name>
+</text>
+
+<text>
+	<id>13</id>
+	<name>Infectados abatidos</name>
+</text>
+
+<text>
+	<id>14</id>
+	<name>Sobrevivientes asesinados</name>
+</text>
+
+<text>
+	<id>15</id>
+	<name>Dificultad</name>
+</text>
+
+-----Pantalla de carga-----
+
+<text>
+	<id>16</id>
+	<name>Generando mundo</name>
+</text>
+
+<text>
+	<id>18</id>
+	<name>Generando farreteras</name>
+</text>
+
+<text>
+	<id>19</id>
+	<name>Refinando caminos</name>
+</text>
+
+<text>
+	<id>20</id>
+	<name>Agregar ubicaciones secretas</name>
+</text>
+
+<text>
+	<id>21</id>
+	<name>Posicionamiento de elementos del mapa</name>
+</text>
+
+<text>
+	<id>22</id>
+	<name>Generando minimapa</name>
+</text>
+
+-----Botones del menú-----
+
+<text>
+	<id>23</id>
+	<name>Saltar tutorial</name>
+</text>
+
+<text>
+	<id>24</id>
+	<name>Sí</name>
+</text>
+
+<text>
+	<id>25</id>
+	<name>No</name>
+</text>
+
+<text>
+	<id>26</id>
+	<name>¿Saltar el tutorial?</name>
+</text>
+
+
+
+<text>
+	<id>27</id>
+	<name>Personaje</name>
+</text>
+
+<text>
+	<id>28</id>
+	<name>Estadísticas generales:</name>
+</text>
+
+<text>
+	<id>29</id>
+	<name>Minutos con vida:</name>
+</text>
+
+<text>
+	<id>30</id>
+	<name>Número total de infectados abatidos:</name>
+</text>
+
+<text>
+	<id>31</id>
+	<name>Total de bandidos asesinados:</name>
+</text>
+
+<text>
+	<id>32</id>
+	<name>Muertes:</name>
+</text>
+
+<text>
+	<id>33</id>
+	<name>Movimiento: Toque</name>
+</text>
+
+<text>
+	<id>34</id>
+	<name>Movimiento: Stick</name>
+</text>
+
+<text>
+	<id>35</id>
+	<name>Sonido: ENCENDIDO</name>
+</text>
+
+<text>
+	<id>36</id>
+	<name>Sonido: APAGADO</name>
+</text>
+
+<text>
+	<id>37</id>
+	<name>Volver al menú</name>
+</text>
+
+<text>
+	<id>38</id>
+	<name>Bronce</name>
+</text>
+
+<text>
+	<id>39</id>
+	<name>Plata</name>
+</text>
+
+<text>
+	<id>40</id>
+	<name>Oro</name>
+</text>
+
+
+
+<text>
+	<id>41</id>
+	<name>Sí</name>
+</text>
+
+<text>
+	<id>42</id>
+	<name>Necesitas madera para reparar este barco.</name>
+</text>
+
+<text>
+	<id>43</id>
+	<name>Necesitas cinta adhesiva para reparar este barco.</name>
+</text>
+
+<text>
+	<id>44</id>
+	<name>Reparar</name>
+</text>
+
+<text>
+	<id>45</id>
+	<name>Salir</name>
+</text>
+
+<text>
+	<id>46</id>
+	<name>Puedes usar la madera que llevas para reparar este bote.</name>
+</text>
+
+<text>
+	<id>47</id>
+	<name>Puedes utilizar la cinta adhesiva que llevas para reparar este bote.</name>
+</text>
+
+<text>
+	<id>48</id>
+	<name>Listo</name>
+</text>
+
+<text>
+	<id>49</id>
+	<name>No estoy preparado</name>
+</text>
+
+<text>
+	<id>50</id>
+	<name>El bote ha sido reparado, ¿quieres navegar a la siguiente isla? No podrás volver.</name>
+</text>
+
+<text>
+	<id>51</id>
+	<name>Seleccionar</name>
+</text>
+
+<text>
+	<id>52</id>
+	<name>Los suministros se entregarán después del anuncio.</name>
+</text>
+
+<text>
+	<id>53</id>
+	<name>Comida </name>
+</text>
+
+<text>
+	<id>54</id>
+	<name>Bebidas</name>
+</text>
+
+<text>
+	<id>55</id>
+	<name>Vendaje</name>
+</text>
+
+<text>
+	<id>56</id>
+	<name>¡Hola superviviente! ¿Quieres intercambiar suministros? Esto es lo que ofrezco:</name>
+</text>
+
+<text>
+	<id>57</id>
+	<name>Oferta:</name>
+</text>
+
+<text>
+	<id>58</id>
+	<name>Precio:</name>
+</text>
+
+<text>
+	<id>59</id>
+	<name>Rechazar</name>
+</text>
+
+<text>
+	<id>60</id>
+	<name>Cambiar</name>
+</text>
+
+<text>
+	<id>61</id>
+	<name>Siguiente oferta</name>
+</text>
+
+<text>
+	<id>62</id>
+	<name>Seleccionar</name>
+</text>
+
+<text>
+	<id>63</id>
+	<name>Bloqueado</name>
+</text>
+
+<text>
+	<id>64</id>
+	<name>Actual</name>
+</text>
+
+<text>
+	<id>65</id>
+	<name>¡Nuevo personaje desbloqueado!</name>
+</text>
+
+<text>
+	<id>66</id>
+	<name>La caja puede contener cualquier cosa, desde comida hasta armas de fuego.</name>
+</text>
+
+<text>
+	<id>67</id>
+	<name>‼(•'╻'• )꒳ᵒ꒳ᵎᵎᵎ</name>
+</text>
+
+<text>
+	<id>68</id>
+	<name>Opciones</name>
+</text>
+
+<text>
+	<id>69</id>
+	<name>Control</name>
+</text>
+
+<text>
+	<id>70</id>
+	<name>Idioma</name>
+</text>
+
+<text>
+	<id>71</id>
+	<name>Billy "Radical"
+Requisito: Mata a 5 infectados con una escopeta.
+En cualquier dificultad</name>
+</text>
+
+<text>
+	<id>72</id>
+	<name>Emilio "Doc"
+Requisito: Detén el sangrado 6 veces.
+En cualquier dificultad</name>
+</text>
+
+<text>
+	<id>73</id>
+	<name>Dave "Boxeador"
+Requisito: Matar a 10 infectados a puño limpio
+En cualquier dificultad</name>
+</text>
+
+<text>
+	<id>74</id>
+	<name>Lee "Maníaco"
+Requisito: Mata a un superviviente hostil con un hacha.
+En dificultad "Regular" o superior</name>
+</text>
+
+<text>
+	<id>75</id>
+	<name>Sergey "Eslavo"
+Requisito: Mata a 3 supervivientes en una sola partida.
+En dificultad "Regular" o superior</name>
+</text>
+
+<text>
+	<id>76</id>
+	<name>John "Motociclista"
+Requisito: Usar chaqueta, casco de motociclista y llave Stillson al mismo tiempo
+En dificultad "Regular" o superior</name>
+</text>
+
+<text>
+	<id>77</id>
+	<name>Ganzo "Dragón"
+Requisito: Mata a 4 supervivientes hostiles con armas de fuego.
+En dificultad "Veterano" o superior</name>
+</text>
+
+<text>
+	<id>78</id>
+	<name>Tom "Superviviente"
+Requisito: sobrevive durante 7 días.
+En dificultad "Veterano" o superior</name>
+</text>
+
+<text>
+	<id>79</id>
+	<name>Garry "Veterano"
+Requisito: Llevar el conjunto Gorka completo al mismo tiempo.
+En dificultad "Veterano" o superior</name>
+</text>
+
+<text>
+	<id>80</id>
+	<name>Superviviente 1
+Equipamiento: Vaqueros, camiseta</name>
+</text>
+
+<text>
+	<id>81</id>
+	<name>Superviviente 2
+Equipamiento: Vaqueros, camiseta</name>
+</text>
+
+<text>
+	<id>82</id>	<name>Superviviente 3
+Equipamiento: Vaqueros, camiseta</name>
+</text>
+
+<text>
+	<id>83</id>
+	<name>Billy "Radical"
+Equipo: Vaqueros, Camiseta, Bandana
+Habilidad especial: Francotirador de élite</name>
+</text>
+
+<text>
+	<id>84</id>
+	<name>Emilio "Doc"
+Equipo: pantalones de paramédico, camiseta, vendaje.
+Habilidad especial: Rojo+</name>
+</text>
+
+<text>
+	<id>85</id>
+	<name>Dave "Boxeador"
+Equipo: Vaqueros, camiseta, harapos.
+Habilidad especial: Bloqueador</name>
+</text>
+
+<text>
+	<id>86</id>
+	<name>Lee "Maníaco"
+Equipo: Vaqueros, vestido, careta antigás, cuchillo de carnicero.
+Habilidad especial: Hogar acogedor</name>
+</text>
+
+<text>
+	<id>87</id>
+	<name>John "Motociclista"
+Equipo: Vaqueros, chaqueta, casco de motociclista, llave Stillson.
+Habilidad especial: Velocista</name>
+</text>
+
+<text>
+	<id>88</id>
+	<name>Sergey "Eslavo"
+Equipo: pantalones deportivos, chaqueta deportiva, pasamontañas, bate de béisbol.
+Habilidad especial: Golpedor</name>
+</text>
+
+<text>
+	<id>89</id>
+	<name>Ganzo "Dragón"
+Equipo: pantalones de cazador, arco, flecha compuesta ×5
+Habilidad especial: Velocista, Nacido de la nieve</name>
+</text>
+
+<text>
+	<id>90</id>
+	<name>Tom "Superviviente"
+Equipo: Vaqueros, camiseta, sombrero de vaquero, cuchillo de caza, bolso improvisado.
+Habilidad especial: Cazador, Voluntad de vivir</name>
+</text>
+
+<text>
+	<id>91</id>
+	<name>Garry "Veterano"
+Equipamiento: Vaqueros, camiseta, gorra, chaleco balístico, Colt 1911.
+Habilidad especial: Francotirador de élite, Reconocimiento</name>
+</text>
+
+<text>
+	<id>95</id>
+	<name>¡No se puede conectar al centro de suministro por aire! Comprueba tu conexión a Internet</name>
+</text>
+
+<text>
+	<id>96</id>
+	<name>¡No se puede conectar al centro de suministro por aire!</name>
+</text>
+
+<text>
+	<id>97</id>
+	<name>Reiniciar</name>
+</text>
+
+<text>
+	<id>98</id>
+	<name>Guardar</name>
+</text>
+
+<text>
+	<id>99</id>
+	<name />
+</text>
+
+-----LOGROS-----
+
+<text>
+	<id>101</id>
+	<name>24 Horas</name>
+</text>
+
+<text>
+	<id>102</id>
+	<name>Momia</name>
+</text>
+
+<text>
+	<id>103</id>
+	<name>Vampiro</name>
+</text>
+
+<text>
+	<id>104</id>
+	<name>Coleccionista de cajas negras</name>
+</text>
+
+<text>
+	<id>105</id>
+	<name>Pistolero</name>
+</text>
+
+<text>
+	<id>106</id>
+	<name>Amante de la escopeta</name>
+</text>
+
+<text>
+	<id>107</id>
+	<name>Marine de asalto</name>
+</text>
+
+<text>
+	<id>108</id>
+	<name>Terminator</name>
+</text>
+
+<text>
+	<id>109</id>
+	<name>Robin Hood</name>
+</text>
+
+<text>
+	<id>110</id>
+	<name>Tipo súper vegano</name>
+</text>
+
+<text>
+	<id>111</id>
+	<name>Dios de los supervivientes</name>
+</text>
+
+<text>
+	<id>112</id>
+	<name>Manic: The Gathering</name>
+</text>
+
+<text>
+	<id>113</id>
+	<name>Veterano de guerra</name>
+</text>
+
+<text>
+	<id>114</id>
+	<name>Erradicador de cepas</name>
+</text>
+
+<text>
+	<id>115</id>
+	<name>Turista</name>
+</text>
+
+<text>
+	<id>116</id>
+	<name>Glotonería</name>
+</text>
+
+<text>
+	<id>117</id>
+	<name>Ladrón de cajuelas</name>
+</text>
+
+<text>
+	<id>118</id>
+	<name>Nivelando</name>
+</text>
+
+<text>
+	<id>119</id>
+	<name>El muro</name>
+</text>
+
+<text>
+	<id>120</id>
+	<name>Almas de la oscuridad</name>
+</text>
+
+<text>
+	<id>121</id>
+	<name>Asesino despiadado</name>
+</text>
+
+<text>
+	<id>122</id>
+	<name>Ninja</name>
+</text>
+
+<text>
+	<id>123</id>
+	<name>Agricultor</name>
+</text>
+
+<text>
+	<id>124</id>
+	<name>Refugiado</name>
+</text>
+
+<text>
+	<id>125</id>
+	<name>Leñador</name>
+</text>
+
+<text>
+	<id>126</id>
+	<name>BRO</name>
+</text>
+
+<text>
+	<id>127</id>
+	<name>Camello</name>
+</text>
+
+<text>
+	<id>128</id>
+	<name>Cazador</name>
+</text>
+
+<text>
+	<id>129</id>
+	<name>El último caballero</name>
+</text>
+
+<text>
+	<id>130</id>
+	<name>Zona "segura"</name>
+</text>
+
+<text>
+	<id>131</id>
+	<name>Protección total</name>
+</text>
+
+<text>
+	<id>132</id>
+	<name>Insaciable</name>
+</text>
+
+<text>
+	<id>133</id>
+	<name>El infierno está vacío</name>
+</text>
+
+
+<text>
+	<id>151</id>
+	<name>Sobrevive durante 1/2/3 días</name>
+</text>
+
+<text>
+	<id>152</id>
+	<name>Detén el sangrado 2/4/6 veces</name></text>
+
+<text>
+	<id>153</id>
+	<name>Utiliza 1/2/3 bolsas de sangre o de solución salina</name>
+</text>
+
+<text>
+	<id>154</id>
+	<name>Encuentra 1/2/3 sitios de accidentes militares</name>
+</text>
+
+<text>
+	<id>155</id>
+	<name>Mata a 5/15/30 infectados con pistolas.</name>
+</text>
+
+<text>
+	<id>156</id>
+	<name>Mata a 5/15/30 infectados con escopetas</name>
+</text>
+
+<text>
+	<id>157</id>
+	<name>Mata a 5/15/30 infectados con rifles de asalto.</name>
+</text>
+
+<text>
+	<id>158</id>
+	<name>Sobrevive a 10/20/30 disparos</name>
+</text>
+
+<text>
+	<id>159</id>
+	<name>Mata a 5/15/30 infectados con arcos o ballestas</name>
+</text>
+
+<text>
+	<id>160</id>
+	<name>Sobrevive al 10/20/30 ataques de infectados o de animales.</name>
+</text>
+
+<text>
+	<id>161</id>
+	<name>Aprende todas las habilidades</name>
+</text>
+
+<text>
+	<id>162</id>
+	<name>Recoge 5/10/15 bayas</name>
+</text>
+
+<text>
+	<id>163</id>
+	<name>Mata a 5/15/30 infectados con rifles semiautomáticos o de cerrojo.</name>
+</text>
+
+<text>
+	<id>164</id>
+	<name>Mata a 20/40/80 infectados</name>
+</text>
+
+<text>
+	<id>165</id>
+	<name>Llega a una ciudad en al menos 1/2/3 isla(s)</name>
+</text>
+
+<text>
+	<id>166</id>
+	<name>Come 15/30/50 alimentos</name>
+</text>
+
+<text>
+	<id>167</id>
+	<name>Abre 50/100/150 cajuelas</name>
+</text>
+
+<text>
+	<id>168</id>
+	<name>Bebe Nuko-Cola</name>
+</text>
+
+<text>
+	<id>169</id>
+	<name>Coloca 1/2/3 vallas de Madera o alambres de púas</name>
+</text>
+
+<text>
+	<id>170</id>
+	<name>Enciende 1/2/3 fogatas</name>
+</text>
+
+<text>
+	<id>171</id>
+	<name>Mata a 1/2/3 supervivientes</name>
+</text>
+
+<text>
+	<id>172</id>
+	<name>No sufras daños durante 12/24/36 horas</name>
+</text>
+
+<text>
+	<id>173</id>
+	<name>Planta 5/10/15 plantas</name>
+</text>
+
+<text>
+	<id>174</id>
+	<name>Instala 1/2/3 tiendas de campaña</name>
+</text>
+
+<text>
+	<id>175</id>
+	<name>Tala 3/6/10 árboles</name>
+</text>
+
+<text>
+	<id>176</id>
+	<name>Encuentra a un superviviente aliado</name>
+</text>
+
+<text>
+	<id>177</id>
+	<name>Bebe 10/20/30 bebidas</name></text>
+
+<text>
+	<id>178</id>
+	<name>Despelleja animales 1/2/3 veces</name>
+</text>
+
+<text>
+	<id>179</id>
+	<name>Encuentra el castillo medieval, sé testigo de una gloriosa era.</name>
+</text>
+
+<text>
+	<id>180</id>
+	<name>Entra en el búnker, la fortaleza militar que no logró frenar el virus</name>
+</text>
+
+<text>
+	<id>181</id>
+	<name>Equipa un traje de protección completo y una máscara antigás.</name>
+</text>
+
+<text>
+	<id>182</id>
+	<name>Cocina carne humana 1 vez.</name>
+</text>
+
+<text>
+	<id>183</id>
+	<name>Mata a todo tipo de infectados en dificultad Legendaria.</name>
+</text>
+
+
+<text>
+	<id>228</id>
+	<name>COMBATE</name>
+</text>
+
+<text>
+	<id>229</id>
+	<name>Puedes combatir a puño limpio o con armas cuerpo a cuerpo. El combate cuerpo a cuerpo ocurre automáticamente cuando estás cerca de un enemigo.
+Cada arma cuerpo a cuerpo tiene una probabilidad diferente de bloquear o causar daño crítico.</name>
+</text>
+
+<text>
+	<id>230</id>
+	<name>Para armas de largo alcance, apuntar es automático, pero disparar es manual.
+La precisión se reduce considerablemente si corres.</name>
+</text>
+
+<text>
+	<id>231</id>
+	<name>Las fogatas proporcionan calor, luz y una forma de cocinar los alimentos. Se puede encender hasta 3 veces una vez elaborado.</name>
+</text>
+
+<text>
+	<id>232</id>
+	<name>Puedes cultivar plantas para obtener comida. Necesitarás semillas y una pala, horca o pico para plantar.</name>
+</text>
+
+<text>
+	<id>233</id>
+	<name>Necesitarás recursos para elaborar objetos. Puedes encontrarlos o reunirlos.</name>
+</text>
+
+<text>
+	<id>234</id>
+	<name>Cuando eres lastimado, puedes sangrar. Mientras estés sangrando, tu salud no se regenerará y perderás Sangre. Utiliza vendajes o harapos para detener el sangrado, aunque también puede detenerse de forma natural.</name>
+</text>
+
+<text>
+	<id>235</id>
+	<name>Puedes enfermarte y si tu temperatura baja a 0%, o en casos raros ser intoxicado por el ataque de un infectado. Cuando estás enfermo o intoxicado tu salud no se regenerará y tu bienestar disminuirá.Para curar enfermedades o intoxicaciones, toma tetraciclina, mantén el Hambre, la Sed y la Temperatura por encima del 75%</name>
+</text>
+
+<text>
+	<id>236</id>
+	<name>CONDICIONES</name>
+</text>
+
+<text>
+	<id>237</id>
+	<name>El clima frío reduce la temperatura corporal
+Por la noche, cuando llueve o nieva, hace aún más frío.</name>
+</text>
+
+<text>
+	<id>238</id>
+	<name>Necesitas comer y beber para sobrevivir. Revisa tus barras de Hambre y Sed, si están por debajo del 50% no regenerarás la vida.</name>
+</text>
+
+<text>
+	<id>239</id>
+	<name>JUGADOR: HAMBRE/SED</name>
+</text>
+
+<text>
+	<id>240</id>
+	<name>MINIMAPA</name>
+</text>
+
+<text>
+	<id>241</id>
+	<name>MAPA DEL MUNDO</name>
+</text>
+
+<text>
+	<id>250</id>
+	<name>Guía</name>
+</text>
+
+<text>
+	<id>251</id>
+	<name>Elaboración</name>
+</text>
+
+<text>
+	<id>252</id>
+	<name>Mapa</name>
+</text>
+
+<text>
+	<id>253</id>
+	<name>JUGADOR: SANGRE</name>
+</text>
+
+<text>
+	<id>254</id>
+	<name>Si tu Sangre llega a 0, morirás, existe la posibilidad de comenzar a sangrar al recibir daño, si tu Hambre, Sed o Temperatura llega a 0 también a sangrarás.</name>
+</text>
+
+<text>
+	<id>255</id>
+	<name>Utiliza vendas o harapos para detener el sangrado (algunas prendas se pueden rasgar para obtener harapos).</name>
+</text>
+
+<text>
+	<id>256</id>
+	<name>Utiliza bolsas de sangre o de solución salina para restaurar rápidamente Sangre.</name>
+</text>
+
+<text>
+	<id>257</id>
+	<name>Si tu Hambre, Sed y Temperatura están por encima del 50%, empezarás a regenerar salud.</name>
+</text>
+
+<text>
+	<id>258</id>
+	<name>JUGADOR: HAMBRE/SED</name>
+</text>
+
+<text>
+	<id>259</id>
+	<name>JUGADOR: Temperatura</name>
+</text>
+
+<text>
+	<id>260</id>
+	<name>Puedes mantenerte caliente dentro de los edificios.</name>
+</text>
+
+<text>
+	<id>261</id>
+	<name>Usa ropa abrigada para mantenerse caliente</name>
+</text>
+
+<text>
+	<id>262</id>
+	<name>Bebe whisky o cerveza para subir la Temperatura.</name>
+</text>
+
+<text>
+	<id>263</id>
+	<name>Enciende una fogata para mantenerte caliente</name>
+</text>
+
+<text>
+	<id>264</id>
+	<name>Encuentra y despliega una tienda de campaña para resguardarte de la lluvia; podrás calentarte un poco.</name>
+</text>
+
+
+<text>
+	<id>265</id>
+	<name>EXPLORACIÓN</name>
+</text>
+
+<text>
+	<id>266</id>
+	<name>La mayoría de objetos se pueden encontrar en los edificios.</name>
+</text>
+
+<text>
+	<id>267</id>
+	<name>Los objetos se pueden encontrar en cajuelas de vehículos.</name>
+</text>
+
+<text>
+	<id>268</id>
+	<name>Puedes encontrar bayas silvestres en algunos arbustos.</name>
+</text>
+
+
+<text>
+	<id>269</id>
+	<name>RECURSOS</name>
+</text>
+
+<text>
+	<id>270</id>
+	<name>Utiliza un hacha o un hacha de incendios para talar árboles. Diferentes árboles proporcionan diferentes cantidades de madera. Se pueden encontrar otros recursos útiles en el mundo.</name>
+</text>
+
+
+<text>
+	<id>271</id>
+	<name>NOCHE</name>
+</text>
+
+<text>
+	<id>272</id>
+	<name>Busca una linterna frontal o gafas de visión nocturna para ver en la oscuridad. Necesitan pilas para funcionar</name>
+</text>
+
+<text>
+	<id>273</id>
+	<name>Las bengalas iluminan un área pequeña por un corto tiempo cuando se lanzan</name>
+</text>
+
+<text>
+	<id>274</id>
+	<name>Las fogatas iluminan un área pequeña durante mucho tiempo.</name>
+</text>
+
+
+<text>
+	<id>275</id>
+	<name>BOMBAS DE AGUA</name>
+</text>
+
+<text>
+	<id>276</id>
+	<name>Las bombas de agua contienen agua potable. Puedes beber directamente de ellas, pero la cantidad disponible por día es limitada.</name>
+</text>
+
+<text>
+	<id>277</id>
+	<name>Puedes llenar botellas de agua o cantimploras en las bombas de agua.</name>
+</text>
+
+
+<text>
+	<id>278</id>
+	<name>REPARACIONES</name>
+</text>
+
+<text>
+	<id>279</id>
+	<name>La cinta adhesiva aumenta la durabilidad de un objeto en un 15%</name>
+</text>
+
+<text>
+	<id>280</id>
+	<name>El kit de costura aumenta la durabilidad de la ropa en un 50%</name>
+</text>
+
+<text>
+	<id>281</id>
+	<name>El kit de limpieza aumenta la durabilidad de las armas de fuego en un 25%</name>
+</text>
+
+
+<text>
+	<id>282</id>
+	<name>CACERÍA</name>
+</text>
+
+<text>
+	<id>283</id>
+	<name>Puedes encontrar ciervos o conejos en bosques o cerca de lagos, ellos están alerta, necesitarás armas a distancia para cazarlos.</name>
+</text>
+
+<text>
+	<id>284</id>
+	<name>Utiliza un cuchillo para despellejar animales.
+Conseguir carne</name>
+</text>
+
+<text>
+	<id>285</id>
+	<name>La carne cruda se puede cocinar con una fogata.</name>
+</text>
+
+
+<text>
+	<id>286</id>
+	<name>ARCO IMPROVISADO</name>
+</text>
+
+<text>
+	<id>287</id>
+	<name>Rama de fresno + Cuerda = arco</name>
+</text>
+
+<text>
+	<id>288</id>
+	<name>Palo + Cuchillo (cualquiera)= Flecha improvisada</name>
+</text>
+
+
+<text>
+	<id>289</id>
+	<name>MOCHILAS IMPROVISADAS</name>
+</text>
+
+<text>
+	<id>290</id>
+	<name>Cuerda + Bolsa = Bolso improvisado (3 espacios)</name>
+</text>
+
+<text>
+	<id>291</id>
+	<name>Mochila improvisada + Palo×3 = Mochila improvisada (5 espacios)</name>
+</text>
+
+
+<text>
+	<id>292</id>
+	<name>FOGATA</name>
+</text>
+
+<text>
+	<id>293</id>
+	<name>Madera + Harapos/Palos de madera/Periódico = Kit de fogata</name>
+</text>
+
+<text>
+	<id>294</id>
+	<name>Coloca el kit de fogata en el suelo y enciéndelo con cerillas.</name>
+</text>
+
+<text>
+	<id>295</id>
+	<name>El mapa estará disponible después del tutorial.</name>
+</text>
+
+<text>
+	<id>296</id>
+	<name>BOTES</name>
+</text>
+
+<text>
+	<id>297</id>
+	<name>Los botes pueden usarse para moverse de la isla actual a la siguiente. Tienen que ser reparados (con madera o conta adhesiva).
+Hay múltiples islas para visitar, ¡pero atención! Después de llegar a la siguiente isla no podrás volver a lo anterior.</name>
+</text>
+
+<text>
+	<id>298</id>
+	<name>CONSTRUCCIÓN DE BASES</name>
+</text>
+
+<text>
+	<id>299</id>
+	<name>Las tiendas de campaña pueden desplegarse y usarse para entrar en calor y almacenar objetos. Los objetos permanecerán ahí permanentemente
+Los artículos dentro de la tienda no desaparecerán.</name>
+</text>
+
+<text>
+	<id>300</id>
+	<name>Valla de madera (Madera + Palo × 5 = Valla de madera) bloquea a los enemigos
+El alambre de púas inflige daño y ralentiza a los enemigos.</name>
+</text>
+
+
+
+
+
+
+<text>
+	<id>301</id>
+	<name>Dañado</name>
+</text>
+
+
+<text>
+	<id>302</id>
+	<name>Desabastecer</name>
+</text>
+
+<text>
+	<id>303</id>
+	<name>Rasgar en harapos</name>
+</text>
+
+
+<text>
+	<id>304</id>
+	<name>Encender/Apagar</name>
+</text>
+
+
+<text>
+	<id>305</id>
+	<name>Desplegar</name>
+</text>
+
+<text>
+	<id>306</id>
+	<name>Amontonar</name>
+</text>
+
+<text>
+	<id>307</id>
+	<name>Cargar arma principal</name>
+</text>
+
+<text>
+	<id>308</id>
+	<name>Crear bolso</name>
+</text>
+
+<text>
+	<id>309</id>
+	<name>Crear arco</name>
+</text>
+
+<text>
+	<id>310</id>
+	<name>Crear flechas</name>
+</text>
+
+<text>
+	<id>311</id>
+	<name>Crear hoguera</name>
+</text>
+
+<text>
+	<id>312</id>
+	<name>Limpiar</name>
+</text>
+
+<text>
+	<id>313</id>
+	<name>Usar como cuerpo a cuerpo</name>
+</text>
+
+<text>
+	<id>314</id>
+	<name>Enfundar cuchillo</name>
+</text>
+
+<text>
+	<id>315</id>
+	<name>Colocar parche</name>
+</text>
+
+<text>
+	<id>316</id>
+	<name>Insertar batería</name>
+</text>
+
+<text>
+	<id>317</id>
+	<name>Crear mochila</name>
+</text>
+
+<text>
+	<id>318</id>
+	<name>Comer</name>
+</text>
+
+<text>
+	<id>319</id>
+	<name>Beber</name>
+</text>
+
+<text>
+	<id>320</id>
+	<name>Plantar</name>
+</text>
+
+<text>
+	<id>321</id>
+	<name>Desollar</name>
+</text>
+
+
+<text>
+	<id>322</id>
+	<name>Llenar con agua</name>
+</text>
+
+<text>
+	<id>323</id>
+	<name>Cocinar</name>
+</text>
+
+<text>
+	<id>324</id>
+	<name>Usar</name>
+</text>
+
+<text>
+	<id>325</id>
+	<name>Poner vendaje</name>
+</text>
+
+<text>
+	<id>326</id>
+	<name>Transfundir sangre</name>
+</text>
+
+
+<text>
+	<id>327</id>
+	<name>Encender y lanzar</name>
+</text>
+
+<text>
+	<id>328</id>
+	<name>Lanzar granada</name>
+</text>
+
+<text>
+	<id>329</id>
+	<name>Encender un fuego</name>
+</text>
+
+<text>
+	<id>330</id>
+	<name>Aplicar solución salina</name>
+</text>
+
+<text>
+	<id>331</id>
+	<name>Dividir</name>
+</text>
+
+<text>
+	<id>332</id>
+	<name>Tomar tetraciclina</name>
+</text>
+
+<text>
+	<id>333</id>
+	<name>Tomar vitaminas</name>
+</text>
+
+<text>
+	<id>334</id>
+	<name>Construir una valla de madera</name>
+</text>
+
+<text>
+	<id>335</id>
+	<name>Iluminar</name>
+</text>
+
+<text>
+	<id>336</id>
+	<name>Crítico</name>
+</text>
+
+<text>
+	<id>337</id>
+	<name>Experiencia</name>
+</text>
+
+<text>
+	<id>338</id>
+	<name>Recibir señal</name>
+</text>
+
+<text>
+	<id>339</id>
+	<name>Llevar arma secundaria</name>
+</text>
+
+
+
+<text>
+	<id>400</id>
+	<name>Francotirador de élite
+Nivel 1: aumenta la probabilidad crítica con armas de fuego en un 10%
+Nivel 2: Aumenta el daño crítico con armas de fuego en un 30%</name>
+</text>
+
+<text>
+	<id>401</id>
+	<name>Reconocimiento
+Nivel 1: puedes detectar a los supervivientes desde una distancia mayor.
+Nivel 2: Puedes identificar a los supervivientes distantes más fácilmente</name>
+</text>
+
+<text>
+	<id>402</id>
+	<name>Velocista
+Nivel 1: aumenta la velocidad de movimiento en un 5%.
+Nivel 2: aumenta la velocidad de movimiento en un 10%</name>
+</text>
+
+<text>
+	<id>403</id>
+	<name>Camello
+Nivel 1: Reduce la tasa de sed en un 10%
+Nivel 2: Todas las bebidas enlatadas proporcionan +10 de sed extra</name>
+</text>
+
+<text>
+	<id>404</id>
+	<name>Hámster
+Nivel 1: Reduce la tasa de hambre en un 10%
+Nivel 2: Todos los alimentos enlatados aportan +10 de hambre extra</name>
+</text>
+
+<text>
+	<id>405</id>
+	<name>Nacido de la nieve
+Nivel 1: Reduce la pérdida de calor en un 50 % durante la lluvia o la nieve.
+Nivel 2: Otorga +2 calor</name>
+</text>
+
+<text>
+	<id>406</id>
+	<name>Agricultor de municiones
+Nivel 1: todas las armas encontradas contienen al menos 1 munición.
+Nivel 2: las pilas de munición encontradas contienen 10 balas adicionales</name>
+</text>
+
+<text>
+	<id>407</id>
+	<name>Voluntad de vivir
+Nivel 1: aumenta la regeneración de salud por debajo del 50%.
+Nivel 2: aumenta la velocidad en un 10% por debajo del 20% de salud</name>
+</text>
+
+<text>
+	<id>408</id>
+	<name>Bloqueador
+Nivel 1: aumenta la probabilidad de bloquear armas cuerpo a cuerpo en un 5%.
+Nivel 2: aumenta la probabilidad de bloqueo en un 10%</name>
+</text>
+
+<text>
+	<id>409</id>
+	<name>Golpeador
+Nivel 1: aumenta la probabilidad crítica cuerpo a cuerpo en un 10%
+Nivel 2: aumenta el daño crítico cuerpo a cuerpo en un 30%</name>
+</text>
+
+<text>
+	<id>410</id>
+	<name>Carroñero de cajuelas
+Nivel 1: aumenta la posibilidad de encontrar suministros en los baúles en un 20%.
+Nivel 2: aumenta la posibilidad de encontrar 2 suministros en un 10%</name>
+</text>
+
+<text>
+	<id>411</id>
+	<name>Cazador
+Nivel 1: Reduce la posibilidad de que los animales te detecten
+Nivel 2: 50% de probabilidad de obtener carne extra al desollar</name>
+</text>
+
+<text>
+	<id>412</id>
+	<name>Hogar acogedor
+Nivel 1: Recibe un 50% más de calor en el interior de los edificios
+Nivel 2: Reduce el hambre y la sed en un 30% mientras duermes</name>
+</text>
+
+<text>
+	<id>413</id>
+	<name>Rojo+
+Nivel 1: Reduce la tasa de sangrado en un 50%
+Nivel 2: Duplica la velocidad natural para detener el sangrado.</name>
+</text>
+
+<text>
+	<id>414</id>
+	<name>Alerta
+Nivel 1: Detectas enemigos ocultos con mayor claridad
+Nivel 2: Tu visión es ligeramente mejor por la noche</name>
+</text>
+
+<text>
+	<id>415</id>
+	<name>Agrónomo
+Nivel 1: 50% de probabilidad de obtener una fruta extra al recolectar
+Nivel 2: 50% de posibilidades de obtener una verdura extra al cosechar</name>
+</text>
+
+
+
+
+
+<text>
+	<id>340</id>
+	<name>Montar</name>
+</text>
+
+<text>
+	<id>341</id>
+	<name>Desmontar</name>
+</text>
+
+<text>
+	<id>342</id>
+	<name>Mira telescópica</name>
+</text>
+
+<text>
+	<id>343</id>
+	<name>Silenciador</name>
+</text>
+
+<text>
+	<id>344</id>
+	<name>Caja de munición</name>
+</text>
+
+<text>
+	<id>345</id>
+	<name>Bandolera</name>
+</text>
+
+<text>
+	<id>346</id>
+	<name>Serrar cañón</name>
+</text>
+
+<text>
+	<id>347</id>
+	<name>Calor</name>
+</text>
+
+<text>
+	<id>348</id>
+	<name>Defensa</name>
+</text>
+
+<text>
+	<id>349</id>
+	<name>Puedes repostar este barco.</name>
+</text>
+
+<text>
+	<id>350</id>
+	<name>Reponer</name></text>
+
+<text>
+	<id>351</id>
+	<name>Necesitas un galón completo para repostar este barco.</name>
+</text>
+
+<text>
+	<id>352</id>
+	<name>¿Entrar al búnker?</name>
+</text>
+
+<text>
+	<id>353</id>
+	<name>¿Salir del búnker?
+Lleva lo necesario, podrás regresar después de un período de tiempo</name>
+</text>
+
+<text>
+	<id>354</id>
+	<name>No se pueden solicitar suministros por aire dentro de un búnker.</name>
+</text>
+
+<text>
+	<id>355</id>
+	<name>Perdiste el conocimiento...</name>
+</text>
+
+<text>
+	<id>356</id>
+	<name>Mira el anuncio para despertar.</name>
+</text>
+
+<text>
+	<id>357</id>
+	<name>Tiempo hasta la apertura del búnker:</name>
+</text>
+
+<text>
+	<id>358</id>
+	<name>MDZ+ Wiki</name>
+</text>
+
+<text>
+	<id>359</id>
+	<name>Estás a punto de morir. Tu única oportunidad de seguir jugando es utilizar esta inyección de adrenalina después de ver el anuncio en vídeo.</name>
+</text>
+
+<text>
+	<id>360</id>
+	<name>Necesitas una conexión a Internet para continuar.</name>
+</text>
+
+<text>
+	<id>361</id>
+	<name>Usar inyección</name>
+</text>
+
+<text>
+	<id>362</id>
+	<name>Rechazar</name>
+</text>
+
+
+
+<text>
+	<id>242</id>
+	<name>ACCESORIOS</name>
+</text>
+
+<text>
+	<id>243</id>
+	<name>Bandolera: aumenta la velocidad de recarga en un 30%.</name>
+</text>
+
+<text>
+	<id>244</id>
+	<name>Vista de punto rojo: reduce ligeramente la dispersión</name>
+</text>
+
+<text>
+	<id>245</id>
+	<name>Mira telescópica: reduce la dispersión y aumenta la probabilidad de crítico.</name>
+</text>
+
+<text>
+	<id>246</id>
+	<name>Silenciador: elimina el fogonazo y reduce el ruido de los disparos.</name>
+</text>
+
+
+
+<text>
+	<id>363</id>
+	<name>Reparar vehículo</name>
+</text>
+
+<text>
+	<id>92</id>
+	<name>Kate "Viajera"
+Equipo: Vaqueros, impermeable, tienda de campaña civil, faro
+Habilidades especiales: Cazador, Alerta</name>
+</text>
+
+<text>
+	<id>93</id>
+	<name>Jasmine "Leñador"
+Equipo: pantalones de cazador, camisa, boina, hacha, cinta
+Habilidades especiales: Resistencia al hambre, resistencia a la sed, resistencia al frío</name>
+</text>
+
+<text>
+	<id>94</id>
+	<name>Aika "Corresponsal"Equipo: Vaqueros, camiseta, gorra, chaleco de prensa, cantimplora, radio.
+Habilidades especiales: Corredor, Reconocimiento</name>
+</text>
+
+<text>
+	<id>140</id>
+	<name>Kate "Viajera"
+Requisito: Encuentra dos vehículos funcionales en la cuarta isla o más allá
+En dificultad "Veterano" o superior</name>
+</text>
+
+<text>
+	<id>141</id>
+	<name>Jasmine "Leñador"
+Requisito: Reduce tu reputación a -100 y luego súbela a +100 en una sola vida.
+En dificultad "Veterano" o superior</name>
+</text>
+
+<text>
+	<id>142</id>
+	<name>Aika "Corresponsal"
+Requisito: completar 3 tareas de supervivientes en una sola partida 
+En dificultad "Veterano" o superior</name>
+</text>
+
+
+<text>
+	<id>138</id>
+	<name>Completado</name>
+</text>
+
+<text>
+	<id>139</id>
+	<name>Tareas</name>
+</text>
+
+<text>
+	<id>364</id>
+	<name>¡Hola superviviente! estamos buscando</name>
+</text>
+
+<text>
+	<id>365</id>
+	<name>Como recompensa recibirás</name>
+</text>
+
+<text>
+	<id>366</id>
+	<name>¡Gracias! Tu recompensa ha sido marcada en el mapa.</name>
+</text>
+
+<text>
+	<id>367</id>
+	<name>No hay tareas disponibles en este momento</name>
+</text>
+
+<text>
+	<id>368</id>
+	<name>Ubicaciones de vehículos funcionales</name>
+</text>
+
+<text>
+	<id>369</id>
+	<name>Coordenadas de entrada al búnker</name>
+</text>
+
+<text>
+	<id>370</id>
+	<name>Coordenadas de un lugar interesante</name>
+</text>
+
+<text>
+	<id>371</id>
+	<name>Un grupo de supervivientes busca:</name>
+</text>
+
+<text>
+	<id>372</id>
+	<name>¡Oye, superviviente! ¡Necesitamos ayuda!
+Un grupo de bandidos instaló un campamento cerca
+Elimínalos y te recompensaremos con:</name>
+</text>
+
+<text>
+	<id>373</id>
+	<name>¿Encontraste los objetos que necesitamos?</name>
+</text>
+
+<text>
+	<id>374</id>
+	<name>Reputación</name>
+</text>
+
+<text>
+	<id>375</id>
+	<name>Abrir</name>
+</text>
+
+<text>
+	<id>376</id>
+	<name>Coordenadas del barco en la costa este.</name>
+</text>
+
+<text>
+	<id>377</id>
+	<name>¡Oye! Nuestro grupo fue emboscado y perdió una caja de suministros.Si puedes recuperarla te recompensaré con:</name>
+</text>
+
+<text>
+	<id>378</id>
+	<name>Elimina a los bandidos primero y luego regresa.</name>
+</text>
+
+<text>
+	<id>379</id>
+	<name>¿Encontraste nuestra caja de suministros?</name>
+</text>
+
+<text>
+	<id>380</id>
+	<name>¡Gracias! Tu recompensa ha sido marcada en el mapa.</name>
+</text>
+
+<text>
+	<id>381</id>
+	<name>La recompensa por esta tarea es:</name>
+</text>
+
+<text>
+	<id>382</id>
+	<name>Un grupo de supervivientes perdió una caja de suministros.
+Puedo devolverla o abrirla y robar sus objetos.</name>
+</text>
+
+<text>
+	<id>383</id>
+	<name>Un grupo de supervivientes me pidió que eliminara a los bandidos.</name>
+</text>
+
+<text>
+	<id>384</id>
+	<name>Tiempo restante:</name>
+</text>
+
+<text>
+	<id>385</id>
+	<name>Días sobrevividos</name>
+</text>
+
+<text>
+	<id>386</id>
+	<name>Los bandidos han sido eliminados.
+Debo regresar con los supervivientes a buscar mi recompensa.</name>
+</text>
+
+<text>
+	<id>387</id>
+	<name>Tarea fallida</name>
+</text>
+
+<text>
+	<id>388</id>
+	<name>Empezar a pescar</name>
+</text>
+
+<text>
+	<id>389</id>
+	<name>Crear caña de pescar</name>
+</text>
+
+<text>
+	<id>390</id>
+	<name>Desbloquear</name>
+</text>
+
+<text>
+	<id>391</id>
+	<name>Armas</name>
+</text>
+
+<text>
+	<id>392</id>
+	<name>Metralleta MAC-10
+Requisito: Matar a 200 infectados con pistolas.
+En dificultad Regular o superior
+Progreso actual:</name>
+</text>
+
+<text>
+	<id>393</id>
+	<name>Escopeta automática Saiga-12K
+Requisito: Mata a 150 infectados con escopetas.
+En dificultad Regular o superior
+Progreso actual:</name>
+</text>
+
+<text>
+	<id>394</id>
+	<name>Fusil de asalto AUG
+Requisito: Mata a 200 infectados con cualquier arma automática.
+En dificultad Regular o superior
+Progreso actual:</name>
+</text>
+
+<text>
+	<id>395</id>
+	<name>Metralleta MAC-10
+Desbloqueado
+Ubicaciones: tiendas de armas, sitios de accidentes miliatares de la OTAN, búnkeres</name>
+</text>
+
+<text>
+	<id>396</id>
+	<name>Escopeta automática Saiga-12K
+Desbloqueado
+Ubicaciones: tiendas de armas, búnkeres, bases militares del Pacto de Varsovia</name>
+</text>
+
+<text>
+	<id>397</id>
+	<name>Fusil de asalto AUG
+Desbloqueado
+Ubicaciones: Sitios de accidentes militares de la OTAN, búnkeres, bases militares de la OTAN</name>
+</text>
+
+<text>
+	<id>398</id>
+	<name>¡Nueva arma desbloqueada!</name>
+</text>
+
+
+
+<text>
+	<id>416</id>
+	<name>Rifle de asalto AS-VAL
+Requisito: encontrar 6 lugares de accidentes militares en una sola vida
+En dificultad Legendario
+Progreso actual:</name>
+</text>
+
+<text>
+	<id>417</id>
+	<name>Rifle de asalto AS-VAL
+Desbloqueado
+Ubicaciones: Búnkeres</name>
+</text>
+
+<text>
+	<id>418</id>
+	<name>Rifle de francotirador SV-98
+Requisito: Matar a 200 infectados con rifles de francotirador.
+En dificultad Veterano o superior
+Progreso actual:</name>
+</text>
+
+<text>
+	<id>419</id>
+	<name>Rifle de francotirador SV-98
+Desbloqueado
+Ubicaciones: Búnkeres</name>
+</text>
+
+<text>
+	<id>420</id>
+	<name>Lanzagranadas MGL
+Requisito: Mata a 'Tank' 3 veces con explosivos
+En dificultad Legendario
+Progreso actual:</name>
+</text>
+
+<text>
+	<id>421</id>
+	<name>Lanzagranadas MGL
+Desbloqueado
+Ubicaciones: Búnkeres de la zona de radiación</name>
+</text>
+
+<text>
+	<id>422</id>
+	<name>Presiona este botón cuando estés listo para la próxima ola</name>
+</text>
+
+<text>
+	<id>423</id>
+	<name>¡Se acercan infectados!</name>
+</text>
+
+<text>
+	<id>424</id>
+	<name>Área despejada, los suministros llegarán pronto</name>
+</text>
+
+<text>
+	<id>425</id>
+	<name>Navidad</name>
+</text>
+
+<text>
+	<id>426</id>
+	<name>Víspera de Todos los Santos</name>
+</text>
+
+<text>
+	<id>427</id>
+	<name>Expansión</name>
+</text>
+
+<text>
+	<id>428</id>
+	<name>• Aparecen nuevos infectados festivos durante la nieve.
+• Nuevo objeto cosmético: Gorro de Papá Noel.
+• Nuevo objeto: Caja navideña misteriosa</name>
+</text>
+
+<text>
+	<id>429</id>
+	<name>• Los comerciantes en la noche tendrán una apariencia única.
+• Nuevo objeto cosmético: Jack O'Lantern, Sombrero de bruja.
+• Nueva locación: Cementerio</name>
+</text>
+
+<text>
+	<id>430</id>
+	<name>• Incluye un conjunto de características de expansión</name>
+</text>
+
+<text>
+	<id>431</id>
+	<name>Característica - Intercambio equivalente
+Le permite convertir ciertos tipos de objetos a su equivalente.</name>
+</text>
+
+<text>
+	<id>432</id>
+	<name>Característica: Persistencia de elementos
++6 espacios de capacidad extra
+Te permite llevar objetos al siguiente juego.
+Guardado:</name>
+</text>
+
+<text>
+	<id>433</id>
+	<name>Característica - Modo de construcción
+Le permite almacenar todas las estructuras posicionables sin restricciones.</name>
+</text>
+
+<text>
+	<id>434</id>
+	<name>Característica - Tienda de experiencia
+Te permite intercambiar experiencia por suministros.</name>
+</text>
+
+
+
+<text>
+	<id>435</id>
+	<name>• Las armas, equipos y vehículos no pierden durabilidad.
+• (La activación puede reducir el desafío de supervivencia)</name>
+</text>
+
+<text>
+	<id>436</id>
+	<name>• Monto infinito de objetos</name>
+</text>
+
+<text>
+	<id>437</id>
+	<name>• +50% de salud máxima
+• Duplicar el hambre y la sed máximas</name>
+</text>
+
+<text>
+	<id>438</id>
+	<name>• Reaparece en la Costa Oeste después de la muerte</name>
+</text>
+
+<text>
+	<id>439</id>
+	<name>• Oculta las barras de salud de las criaturas.
+• Número significativamente mayor de infectados</name>
+</text>
+
+<text>
+	<id>440</id>
+	<name>• Losinfectados normales tienen más posibilidades de volverse especiales.
+• Desde la isla 3, vida y daño de los infectados +50%
+• Desde la isla 5, vida y daño de los infectados +100% (acumulado)</name>
+</text>
+
+<text>
+	<id>441</id>
+	<name>• No dormir por la noche provoca fatiga
+• La Luna de Sangre ocurre cada 7 días.
+• Todos los infectados pueden sentir dónde estás durante la Luna de Sangre.</name>
+</text>
+
+<text>
+	<id>442</id>
+	<name>• Los NPC con armas automáticas disparan continuamente.</name>
+</text>
+
+<text>
+	<id>443</id>
+	<name>Los logros no se pueden desbloquear en los modos casuales.</name>
+</text>
+
+
+
+<text>
+	<id>444</id>
+	<name>Supervivencia</name>
+</text>
+
+<text>
+	<id>445</id>
+	<name>Casual</name>
+</text>
+
+<text>
+	<id>446</id>
+	<name>Comenzar</name>
+</text>
+
+<text>
+	<id>447</id>
+	<name>Ondas</name>
+</text>
+
+
+
+<text>
+	<id>448</id>
+	<name>Sacar</name>
+</text>
+
+<text>
+	<id>449</id>	<name>Desequipar</name>
+</text>
+
+<text>
+	<id>450</id>
+	<name>Dividir</name>
+</text>
+
+<text>
+	<id>451</id>
+	<name>Colocar</name>
+</text>
+
+<text>
+	<id>452</id>
+	<name>Equipar</name>
+</text>
+
+<text>
+	<id>453</id>
+	<name>Desequipar</name>
+</text>
+
+<text>
+	<id>454</id>
+	<name>Encender</name>
+</text>
+
+<text>
+	<id>455</id>
+	<name>Apagar</name>
+</text>
+
+<text>
+	<id>456</id>
+	<name>Repostar</name>
+</text>
+
+<text>
+	<id>457</id>
+	<name>Llenar galón</name>
+</text>
+
+<text>
+	<id>458</id>
+	<name>Sin combustible</name>
+</text>
+
+<text>
+	<id>459</id>
+	<name>Convertir</name>
+</text>
+
+<text>
+	<id>460</id>
+	<name>Zona de radiación</name>
+</text>
+
+<text>
+	<id>461</id>
+	<name>Construir comedero</name>
+</text>
+
+<text>
+	<id>462</id>
+	<name>Almacenar en la mochila</name>
+</text>
+
+<text>
+	<id>463</id>
+	<name>Remover</name>
+</text>
+
+<text>
+	<id>464</id>
+	<name>Almacenar</name>
+</text>
+
+<text>
+	<id>465</id>
+	<name>Rellenar</name>
+</text>
+
+<text>
+	<id>466</id>
+	<name>Crear Bate con púas</name>
+</text>
+
+<text>
+	<id>467</id>
+	<name>Funda en las botas de asalto</name>
+</text>
+
+<text>
+	<id>468</id>
+	<name>Llamar perro</name>
+</text>
+
+<text>
+	<id>469</id>
+	<name>Juntar granada</name>
+</text>
+
+<text>
+	<id>470</id>
+	<name>Almacenar arma principal</name>
+</text>
+
+<text>
+	<id>471</id>
+	<name>Juntar granada de humo</name>
+</text>
+
+<text>
+	<id>472</id>
+	<name>Remover cuchillo</name>
+</text>
+
+<text>
+	<id>473</id>
+	<name>Visualización del mapa: Opaco</name>
+</text>
+
+<text>
+	<id>474</id>
+	<name>Visualización del mapa: Translúcido</name>
+</text>
+
+<text>
+	<id>475</id>
+	<name>Cambiar color del vehículo</name>
+</text>
+
+<text>
+	<id>476</id>
+	<name>Restaurar el color original del vehículo</name>
+</text>
+
+<text>
+	<id>477</id>
+	<name>Retire el cargador del tambor</name>
+</text>
+
+<text>
+	<id>478</id>
+	<name>Repintar</name>
+</text>
+
+<text>
+	<id>479</id>
+	<name>Quitar tinte</name>
+</text>
+
+<text>
+	<id>480</id>
+	<name>Cambiar</name>
+</text>
+
+<text>
+	<id>481</id>	<name>Terreno nivelado</name>
+</text>
+
+<text>
+	<id>482</id>
+	<name>Pintar de negro</name>
+</text>
+
+<text>
+	<id>483</id>
+	<name>Cambiar estilo de mapa</name>
+</text>
+
+<text>
+	<id>484</id>
+	<name>Ladrido de perro: desactivado</name>
+</text>
+
+<text>
+	<id>485</id>
+	<name>Ladrido de perro: activado</name>
+</text>
+
+<text>
+	<id>486</id>
+	<name>Iniciar temporizador y lanzar</name>
+</text>
+
+<text>
+	<id>487</id>
+	<name>Filtrar agua del lago</name>
+</text>
+
+<text>
+	<id>488</id>
+	<name>Quitar las gafas de visión nocturna</name>
+</text>
+
+<text>
+	<id>489</id>
+	<name>Instalar linterna</name>
+</text>
+
+<text>
+	<id>490</id>
+	<name>Colocar gafas de visión nocturna</name>
+</text>
+
+<text>
+	<id>491</id>
+	<name>Quitar linterna</name>
+</text>
+
+<text>
+	<id>492</id>
+	<name>Liberar</name>
+</text>
+
+<text>
+	<id>493</id>
+	<name>Cavar tumba</name>
+</text>
+
+<text>
+	<id>494</id>
+	<name>Labrar parcela</name>
+</text>
+
+<text>
+	<id>495</id>
+	<name>Reforzar vehículo</name>
+</text>
+
+<text>
+	<id>496</id>
+	<name>Instalar generador</name>
+</text>
+
+<text>
+	<id>497</id>
+	<name>Instalar reflector</name>
+</text>
+
+<text>
+	<id>498</id>
+	<name>Ver Isla normal</name>
+</text>
+
+<text>
+	<id>499</id>
+	<name>Ver Isla nevada</name>
+</text>
+
+<text>
+	<id>500</id>
+	<name>Ver Isla contaminada</name>
+</text>
+
+<text>
+	<id>501</id>
+	<name>Sellar</name>
+</text>
+
+<text>
+	<id>502</id>
+	<name>Crear granada improvisada</name>
+</text>
+
+<text>
+	<id>503</id>
+	<name>Colocar en la caja de munición</name>
+</text>
+
+<text>
+	<id>504</id>
+	<name>Desabastecer munición</name>
+</text>
+
+<text>
+	<id>505</id>
+	<name>Bolsa con pollo</name>
+</text>
+
+<text>
+	<id>506</id>
+	<name>Bolsa con cerdo</name>
+</text>
+
+<text>
+	<id>507</id>
+	<name>Pesadilla</name>
+</text>
+
+<text>
+	<id>508</id>
+	<name>Curar compañero</name>
+</text>
+
+<text>
+	<id>509</id>
+	<name>Construir una valla de lámina metálica</name>
+</text>
+
+<text>
+	<id>510</id>
+	<name>Modo automático</name>
+</text>
+
+<text>
+	<id>511</id>
+	<name>Modo semiautomático</name>
+</text>
+
+<text>
+	<id>512</id>
+  <name>...</name>
+</text>
+
+<text>
+	<id>513</id>
+	<name>Redesplegar</name>
+</text>
+
+<text>
+	<id>514</id>
+	<name>Cargar batería</name>
+</text>
+
+<text>
+	<id>515</id>
+	<name>Desmontar</name>
+</text>
+
+<text>
+	<id>516</id>
+	<name>Quitar accesorio</name>
+</text>
+
+<text>
+	<id>517</id>
+	<name>Huevo frito</name>
+</text>
+
+<text>
+	<id>518</id>
+	<name>Filete con pimientos</name>
+</text>
+
+<text>
+	<id>519</id>
+	<name>Huevos revueltos con tomate</name>
+</text>
+
+
+
+
+
+	<text>
+		<id>520</id>
+		<name>Inglés</name>
+	</text>
+	<text>
+		<id>521</id>
+		<name>Francés</name>
+	</text>
+	<text>
+		<id>522</id>
+		<name>Italiano</name>
+	</text>
+	<text>
+		<id>523</id>
+		<name>Alemán</name>
+	</text>
+	<text>
+		<id>524</id>
+		<name>Español</name>
+	</text>
+	<text>
+		<id>525</id>
+		<name>Ruso</name>
+	</text>
+
+	<text>
+		<id>526</id>
+		<name>Čeština</name>
+	</text>
+	<text>
+		<id>527</id>
+		<name>Portugués</name>
+	</text>
+<text>
+	<id>528</id>
+	<name>简体中文</name>
+</text>
+<text>
+	<id>529</id>
+	<name>繁體中文</name>
+</text>
+
+<text>
+	<id>530</id>
+	<name>Debes completar los requisitos en una sola vida para desbloquear logros.
+Los logros tienen tres niveles: Bronce, Plata y Oro.
+Puedes desbloquear niveles más altos en dificultades más altas.</name>
+</text>
+
+<text>
+	<id>531</id>
+	<name>Estadística</name>
+</text>
+
+<text>
+	<id>532</id>
+	<name>Habilidades</name>
+</text>
+
+<text>
+	<id>533</id>
+	<name>Puntaje</name>
+</text>
+
+<text>
+	<id>534</id>
+	<name>Opciones</name>
+</text>
+
+<text>
+	<id>535</id>
+	<name>Categoría</name>
+</text>
+
+<text>
+	<id>536</id>
+	<name>Puntuación requerida:</name>
+</text>
+
+<text>
+	<id>537</id>
+	<name>Salir</name>
+</text>
+
+<text>
+	<id>538</id>
+	<name>¡Conexión a Internet lenta!</name>
+</text>
+
+<text>
+	<id>539</id>
+	<name>Cancelar</name>
+</text>
+
+<text>
+	<id>540</id>
+	<name>¿Estás seguro de que quieres salir del juego? El progreso del tutorial no se guardará.</name>
+</text>
+
+<text>
+	<id>541</id>
+	<name>¿Salir del juego?
+Tu progreso se guardará</name>
+</text>
+
+<text>
+	<id>542</id>
+	<name>Estás muerto</name>
+</text>
+
+<text>
+	<id>543</id>
+	<name>Guardando objetos</name>
+</text>
+
+<text>
+	<id>544</id>
+	<name>Desplegar la tienda de campaña</name>
+</text>
+
+<text>
+	<id>545</id>
+	<name>Colocar alambre de púas</name>
+</text>
+
+<text>
+	<id>546</id>
+	<name>Colocar mina terrestre</name>
+</text>
+
+<text>
+	<id>547</id>
+	<name>Colocar Claymore</name>
+</text>
+
+<text>
+	<id>548</id>
+	<name>Colocar caja de suministros</name>
+</text>
+
+<text>
+	<id>549</id>
+	<name>Colocar la valla de madera</name>
+</text>
+
+<text>
+	<id>550</id>
+	<name>Colocar la valla de lámina metálica</name>
+</text>
+
+<text>
+	<id>551</id>
+	<name>Colocar generador</name>
+</text>
+
+<text>
+	<id>552</id>
+	<name>Colocar reflector</name>
+</text>
+
+<text>
+	<id>553</id>
+	<name>Colcoar cama</name>
+</text>
+
+<text>
+	<id>554</id>
+	<name>Colocar comedero</name>
+</text>
+
+<text>
+	<id>555</id>
+	<name>Guardar sombrero</name>
+</text>
+
+<text>
+	<id>556</id>
+	<name>Guardar ropa superior</name>
+</text>
+
+<text>
+	<id>557</id>
+	<name>Guardar pantalones</name>
+</text>
+
+<text>
+	<id>558</id>
+	<name>Defensa del compañero de equipo:</name>
+</text>
+
+<text>
+	<id>559</id>
+	<name>Ear sombrero</name>
+</text>
+
+<text>
+	<id>560</id>
+	<name>Dar chaleco</name>
+</text>
+
+<text>
+	<id>561</id>
+	<name>Degalar camisa</name>
+</text>
+
+<text>
+	<id>562</id>
+	<name>Dar pantalones</name>
+</text>
+
+<text>
+	<id>601</id>
+	<name>Conejo
+Un conejo salvaje común, huye a gran velocidad cuando alguien se acerca
+Vida: 5</name>
+</text>
+
+<text>
+	<id>602</id>
+	<name>Ciervo
+Un ciervo salvaje común permanece alerta a todas las criaturas que lo rodean.
+Vida: 80</name>
+</text>
+
+<text>
+	<id>603</id>
+	<name>Ciervo albino
+Un ciervo albino extremadamente raro, su pelaje blanco combina perfectamente con la nieve.
+Vida: 80</name>
+</text>
+
+<text>
+	<id>604</id>
+	<name>Lobo
+Una criatura peligrosa de la naturaleza, generalmente se mueve en manadas.
+Vida: 50</name>
+</text>
+
+<text>
+	<id>605</id>
+	<name>Oso
+La criatura más peligrosa de la naturaleza, con un tamaño robusto y un poder de ataque aterrador.Vida: 500</name>
+</text>
+
+<text>
+	<id>606</id>
+	<name>Pollo
+Animal doméstico antiguo, que todavía se encuentra en las granjas.
+Vida: 5
+Alimentos favoritos: arándano, mora de pantano, arándanl europeo, bayas de saúco, lombrices de tierra</name>
+</text>
+
+<text>
+	<id>607</id>
+	<name>Cerdo
+Animal doméstico antiguo, que todavía se encuentra en las granjas.
+Vida: 20
+Alimentos favoritos: tomate, manzana, plátano, calabacín, pimiento, naranja, arándano, mora de pantano, mora europea, bayas de saúco</name>
+</text>
+
+<text>
+	<id>608</id>
+	<name>Perro
+El compañero más confiable, capaz de brindar varios tipos de ayuda.
+Vida: N/A</name>
+</text>
+
+<text>
+	<id>609</id>
+	<name>Infectado
+La gente común y corriente que no sobrevivió al brote ahora intenta destrozar cualquier ser vivo que encuentre.
+Salud: 60/120 (Zona de radiación)</name>
+</text>
+
+<text>
+	<id>610</id>
+	<name>Enredador
+Se mueve más rápido y es más peligroso que los infectados normales.
+Salud: 80/160 (Zona de radiación)</name>
+</text>
+
+<text>
+	<id>611</id>
+	<name>Acechador
+A diferencia de otros infectados, no busca objetivos activamente; prefiere esconderse para asestar un golpe mortal a los viajeros descuidados
+Salud: 60/120 (Zona de radiación)</name>
+</text>
+
+<text>
+	<id>612</id>
+	<name>Soldado infectado
+Un soldado infectado, con un cuerpo más fuerte que el de un infectado común.
+Salud: 100/200 (Zona de radiación)</name>
+</text>
+
+<text>
+	<id>613</id>
+	<name>Infectados con traje amarillo de materiales peligrosos
+Un infectado hinchado, con su traje lleno de un fluido corrosivo letal que se filtra después de su muerte.
+Salud: 80/160 (Zona de radiación)</name>
+</text>
+
+<text>
+	<id>614</id>
+	<name>Infectados con traje rojo de materiales peligrosos
+El contacto prolongado con sustancias químicas provocó mutaciones, lo que le otorgó mayor velocidad y un veneno persistente más fuerte.
+Salud: 120/240 (Zona de radiación)</name>
+</text>
+
+<text>
+	<id>615</id>
+	<name>Aullador
+Este infectado débil no puede hacerte daño, pero emitirá aullidos para atraer a los infectados cercanos y rodearte.Salud: 50/100 (Zona de radiación)</name>
+</text>
+
+<text>
+	<id>616</id>
+	<name>Oficial de policía infectado
+El virus ha conservado su instinto de disparo, lo que lo hace más peligroso que las personas infectadas comunes y corrientes.
+Salud: 100/200 (Zona de radiación)</name>
+</text>
+
+<text>
+	<id>617</id>
+	<name>Oficial infectado
+Era oficial antes de la infección, lo que le dió un cuerpo más resistente, conservando su instinto de disparar.
+Salud: 120/240 (Zona de radiación)</name>
+</text>
+
+<text>
+	<id>618</id>
+	<name>Infectado de choque
+Este individuo fuertemente armado antes del brote es ahora uno de los infectados.
+Salud: 250/500 (Zona de radiación)</name>
+</text>
+
+<text>
+	<id>619</id>
+	<name>Saltador
+El virus ha mejorado enormemente su capacidad de salto, lo que le permite atacar a sus víctimas dando largos brincos.
+Salud: 150/300 (Zona de radiación)</name>
+</text>
+
+<text>
+	<id>620</id>
+	<name>Escupidor
+Su boca contiene una gran cantidad de líquido letal debido a la mutación viral, que intenta escupir a cualquier ser vivo que vea.
+Salud: 100/200 (Zona de radiación)</name>
+</text>
+
+<text>
+	<id>621</id>
+	<name>Corredor
+Anteriormente un excelente atleta, su agilidad le hace intentar esquivar ataques a distancia.
+Salud: 100/200 (Zona de radiación)</name>
+</text>
+
+<text>
+	<id>622</id>
+	<name>Instructor militar infectado
+El virus ha conservado su fuerza y agilidad, e intentará esquivar tus ataques a distancia.
+Salud: 120/240 (Zona de radiación)</name>
+</text>
+
+<text>
+	<id>623</id>
+	<name>Humeante
+Este infectado de aspecto grotesco tiene una lengua extremadamente larga e intentará atraer criaturas hacia ella.
+Salud: 100/200 (Zona de radiación)</name>
+</text>
+
+<text>
+	<id>624</id>
+	<name>Infectado armado con Gorka
+Un infectado bien equipado que ha conservado el instinto de disparar e intentará continuamente disparar a seres vivos.
+Salud: 175/350 (Zona de radiación)</name>
+</text>
+
+<text>
+	<id>625</id>
+	<name>Infectados fuertemente blindadosUn infectado muy bien equipado; La armadura pesada que llevaba en vida ahora le ofrece una excelente protección.
+Vida: N/A / 1000 (Zona de radiación)</name>
+</text>
+
+<text>
+	<id>626</id>
+	<name>Bruja con Sombrero
+Hay una pequeña probabilidad de que aparezca a partir de la 3.ª isla.
+Puede parecer una infectada inofensiva, pero es mejor no molestarla...</name>
+</text>
+
+<text>
+	<id>627</id>
+	<name>Infectado Radiactivo
+En dificultad Legendaria, a partir de la Isla 5, existe la posibilidad de encontrar una estación de bomberos o un hospital.
+Vida: NA/500
+Al recibir daño, libera una explosión de veneno.
+Posee una velocidad de movimiento extremadamente alta.
+Sus ataques cuerpo a cuerpo siempre provocan envenenamiento.</name>
+</text>
+
+<text>
+	<id>628</id>
+	<name>Investigador Infectado
+El Instituto de Investigación siempre aparecerá en la dificultad Legendaria.
+Vida: NA/1.000
+Daño cuerpo a cuerpo aumentado.
+Sus ataques cuerpo a cuerpo siempre provocan envenenamiento y desarme.
+Al resultar herido, lanza proyectiles que siempre ciegan al objetivo.
+Mientras esté cegado, el jugador no podrá apuntar con las armas.</name>
+</text>
+
+<text>
+	<id>629</id>
+	<name>Tank
+Un infectado extremadamente aterrador; el virus ha aumentado enormemente su cuerpo y su fuerza. Enfrentarlo en combate cuerpo a cuerpo probablemente sea una muy mala idea.
+Vida: 2000/4000</name>
+</text>
+
+<text>
+	<id>630</id>
+	<name>[Paquete de Contenido de Invierno]
+Muñeco de Nieve
+Este Aullador fue decorado con luces festivas por alguien. Incluso los zombis necesitan celebrar las fiestas.
+Vida: 50/100 (Zona de Radiación)</name>
+</text>
+
+<text>
+	<id>631</id>
+	<name>Bruja con Sombrero
+Hay una pequeña probabilidad de que aparezca a partir de la 3.ª isla.
+Puede parecer una infectada inofensiva, pero es mejor no molestarla...</name>
+</text>
+
+<text>
+	<id>632</id>
+	<name>Superviviente
+Superviviente Neutral: No te atacará y puede comerciar contigo.
+Superviviente Hostil: Ataca a otros supervivientes para saquear suministros.
+Superviviente Aliado: Te acompaña e intenta sobrevivir junto a ti.
+Vida: 100</name>
+</text>
+
+<text>
+	<id>633</id>
+	<name>Operaciones Especiales con Traje Protector
+Equipo de exploración enviado a zonas de radiación, equipado con mejores armas para enfrentar a infectados más fuertes.
+Vida: 150</name>
+</text>
+
+<text>
+	<id>634</id>
+	<name>Operaciones especiales con Altyn
+El más peligroso de los Operaciones Especiales, con excelente blindaje y extrema agresividad.
+Vida: 500</name>
+</text>
+
+<text>
+	<id>635</id>
+	<name>GP-5 Bandido Negro
+Equipo de exploración de la facción de los Bandidos Negros enviado a zonas radiactivas, equipado con mejores armas para enfrentarse a infectados más fuertes.
+Vida: 150</name>
+</text>
+
+<text>
+	<id>636</id>
+	<name>Bandido Altyn
+El Bandido Negro más peligroso, equipado con una excelente armadura, extremadamente agresivo.
+Vida: 500</name>
+</text>
+
+<text>
+	<id>637</id>
+	<name>Ejército
+Unidades neutrales de élite que ofrecen mejores intercambios y protección.
+Vida: 300</name>
+</text>
+
+<text>
+	<id>638</id>
+	<name>Rebeldes Fuertemente Blindados
+Las unidades enemigas más poderosas, equipadas con armamento superior y la armadura más resistente.
+Vida: 600</name>
+</text>
+
+<text>
+	<id>639</id>
+	<name>Rebeldes Disfrazados
+Unidades enemigas altamente sigilosas y con gran poder ofensivo.
+Vida: 300</name>
+</text>
+
+<text>
+	<id>645</id>
+	<name>Modos casuales:</name>
+</text>
+
+<text>
+	<id>646</id>
+	<name>Arena</name>
+</text>
+
+<text>
+	<id>647</id>
+	<name>¿Dejar el juego?
+El progreso en este modo no se guardará.</name>
+</text>
+
+<text>
+	<id>648</id>
+	<name>No hay mapa en este modo</name>
+</text>
+
+<text>
+	<id>649</id>
+	<name>Arena</name>
+</text>
+
+<text>
+	<id>650</id>
+	<name>Tutorial</name>
+</text>
+
+<text>
+	<id>651</id>
+	<name>Puedes reparar este barco con troncos para llegar a la siguiente isla. Usa un hacha para talar un árbol y conseguir troncos.</name>
+</text>
+
+<text>
+	<id>652</id>
+	<name>Parece que hay algunos suministros aquí. Acércate para recogerlos.</name>
+</text>
+
+<text>
+	<id>653</id>
+	<name>Puedes revisar tus objetos en el inventario.</name>
+</text>
+
+<text>
+	<id>654</id>
+	<name>Esta es tu barra de atajos. Se puede utilizar incluso sin ranuras en tu equipamiento. Toca para seleccionar un objeto.</name>
+</text>
+
+<text>
+	<id>655</id>
+	<name>Bienvenido, superviviente. Estás varado en una pequeña isla. La única forma de llegar a otras islas es encontrar un barco o un puente en la costa este.</name>
+</text>
+
+<text>
+	<id>656</id>
+	<name>Toca o arrastra para mover tu personaje.</name>
+</text>
+
+<text>
+	<id>657</id>
+	<name>Usa el joystick análogo virtual para moverte.</name>
+</text>
+
+<text>
+	<id>658</id>
+	<name>Elija su método de movimiento preferido. Puedes cambiarlo en cualquier momento en la configuración.</name>
+</text>
+
+<text>
+	<id>659</id>
+	<name>Al eliminar enemigos y sobrevivir más tiempo, ganas puntos de experiencia. Usa EXP para desbloquear nuevas habilidades.</name>
+</text>
+
+<text>
+	<id>660</id>
+	<name>Selecciona una habilidad para invertir puntos y aprenderla. Cada habilidad tiene dos niveles.</name>
+</text>
+
+<text>
+	<id>661</id>
+	<name>Presiona el botón de interactuar para recolectar elementos o interactuar.</name>
+</text>
+
+<text>
+	<id>662</id>
+	<name>Ahora tienes un arma de largo alcance. Cuando está equipada, apuntar es automático. Pulsa el botón de disparo para disparar.</name>
+</text>
+
+<text>
+	<id>663</id>
+	<name>Una vez que tengas la munición adecuada, presiona el botón de recarga.</name>
+</text>
+
+<text>
+	<id>664</id>
+	<name>Cambia entre armas cuerpo a cuerpo y a distancia. Orden: Cuerpo a cuerpo; Primario; Secundario.</name>
+</text>
+
+<text>
+	<id>665</id>
+	<name>Estás sangrando.
+Busque un vendaje o rasga tu camiseta en harapos para detener em sangrado.</name>
+</text>
+
+<text>
+	<id>666</id>
+	<name>Tu vida ha llegado a cero. En el tutorial, quedarás curado por completo para continuar.</name>
+</text>
+
+<text>
+	<id>667</id>
+	<name>Puedes arrastrar elementos para organizar tu inventario.</name>
+</text>
+
+<text>
+	<id>668</id>
+	<name>Esa es un arma de fuego. Por lo general, se pueden encontrar en bases militares y tiendas de armas.</name>
+</text>
+
+<text>
+	<id>669</id>
+	<name>Hay un infectado más adelante. Tu personaje atacará automáticamente cuando esté cerca.</name>
+</text>
+
+<text>
+	<id>670</id>
+	<name>Eso es un lobo. Suele aparecer en manadas y es bastante peligroso.</name>
+</text>
+
+<text>
+	<id>671</id>
+	<name>Esa es una bomba de agua. Puedes beber directamente de ella o llenar recipientes de agua.</name>
+</text>
+
+<text>
+	<id>672</id>
+	<name>Ese es un auto destrozado. Puedes buscar suministros en el baúl.</name>
+</text>
+
+<text>
+	<id>673</id>
+	<name>Puedes cazar ciervos y usar un cuchillo para conseguir carne de ciervo.</name>
+</text>
+
+<text>
+	<id>674</id>
+	<name>Puedes cazar conejos y usar un cuchillo para conseguir carne de conejo.</name>
+</text>
+
+<text>
+	<id>675</id>
+	<name>Podrás explorar los alrededores y recolectar frutos silvestres de algunos arbustos.</name>
+</text>
+
+</list>
