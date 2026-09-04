@@ -1,0 +1,58 @@
+{
+	"mods":[
+		{
+			"name":"Inject Tool Vi en",
+			"description":"\"Cheat Engine\"của MDZ, hack tgian, vật phẩm, save/load, spawn xe npc, teleport v.v .",
+			"script":"c2injt_loader",
+			"notes":"Đối với máy yếu thì 0 nên bật (siêu lag), nếu muốn bật thì đừng mở màn hình script khi game chưa chạy.",
+			"version":"31.2f",
+			"author":"Civert0, Dungx (VH, script extension)",
+			"extension":""
+		},
+		{
+			"name":"Quicksave/load extension",
+			"description":"Lưu/tải nhanh game",
+			"script":"quicksave_load",
+			"notes":"Đây là một \"Extension\" cho cái Inject Tool. Bạn vẫn phải tự edit script gốc để tạo UI, nút cho extension vì tui ếu có cách để nhét đc code vào script.",
+			"version":"1.0.0",
+			"author":"Dungx, cplusplusnoob, Claude :V (text box bay lên)",
+			"extension":"c2injt"
+		},
+		{
+			"name":"Zoom",
+			"description":"Phóng to, thu nhỏ màn hình game",
+			"script":"zoom",
+			"notes":"\"Nâng cấp nút zoom của game\"",
+			"version":"1.0",
+			"author":"Civert0",
+			"extension":""
+		},
+		{
+			"name":"Perfomance Tab",
+			"description":"Hiển thị chi tiết hiệu năng game theo thời gian thực.",
+			"script":"perf_mdz",
+			"notes":"Cái này trg game 0 tắt đc.<br>Dùng cho việc debug mods, v.v",
+			"version":"1.0",
+			"author":"Civert0",
+			"extension":""
+		},
+		{
+			"name":"Item Spawner",
+			"description":"Spawn item trực tiếp hoặc ở dưới đất. Bấm Alt+I để mở lại.",
+			"script":"item_spawner_test",
+			"notes":"Somehow độ bền bị chỉnh xuống 1%.",
+			"version":"1.0",
+			"author":"Civert0",
+			"extension":""
+		},
+		{
+			"name":"Placeholder",
+			"description":"",
+			"script":"",
+			"notes":"",
+			"version":"",
+			"author":"",
+			"extension":""
+		}
+	]
+}

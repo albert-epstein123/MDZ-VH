@@ -33,7 +33,6 @@
 			-ms-touch-action: none;
 		}
 		canvas {
-			touch-action-delay: none;
 			touch-action: none;
 			-ms-touch-action: none;
 		}
@@ -44,17 +43,6 @@
  
 <body> 
 	<div id="fb-root"></div>
-	
-	<script>
-	// Issue a warning if trying to preview an exported project on disk.
-	(function(){
-		// Check for running exported on file protocol
-		if (window.location.protocol.substr(0, 4) === "file")
-		{
-			alert("Особая благодарность: каждому игроку, любящему MDZ                              Welcome to minidayz！");
-		}
-	})();
-	</script>
 	
 	<!-- The canvas must be inside a div called c2canvasdiv -->
 	<div id="c2canvasdiv">
@@ -79,131 +67,12 @@
 	<!-- Construct 2 exported games require jQuery. -->
 	<script src="jquery-3.4.1.min.js"></script>
 
-
-	
     <!-- The runtime script.  You can rename it, but don't forget to rename the reference here as well.
     This file will have been minified and obfuscated if you enabled "Minify script" during export. -->
+
 	<script src="c2runtime.js"></script>
-
-    <script>
-		// Start the Construct 2 project running on window load.
-		jQuery(document).ready(function ()
-		{			
-			// Create new runtime using the c2canvas
-			cr_createRuntime("c2canvas");
-		});
-		
-		// Pause and resume on page becoming visible/invisible
-		function onVisibilityChanged() {
-			if (document.hidden || document.mozHidden || document.webkitHidden || document.msHidden)
-				cr_setSuspended(true);
-			else
-				cr_setSuspended(false);
-		};
-		
-		document.addEventListener("visibilitychange", onVisibilityChanged, false);
-		document.addEventListener("mozvisibilitychange", onVisibilityChanged, false);
-		document.addEventListener("webkitvisibilitychange", onVisibilityChanged, false);
-		document.addEventListener("msvisibilitychange", onVisibilityChanged, false);
-		
-		function OnRegisterSWError(e)
-		{
-			console.warn("Failed to register service worker: ", e);
-		};
-		
-		// Runtime calls this global method when ready to start caching (i.e. after startup).
-		// This registers the service worker which caches resources for offline support.
-		window.C2_RegisterSW = function C2_RegisterSW()
-		{
-			if (!navigator.serviceWorker)
-				return;		// no SW support, ignore call
-			
-			try {
-				navigator.serviceWorker.register("sw.js", { scope: "./" })
-				.then(function (reg)
-				{
-					console.log("Registered service worker on " + reg.scope);
-				})
-				.catch(OnRegisterSWError);
-			}
-			catch (e)
-			{
-				OnRegisterSWError(e);
-			}
-		};
-    </script>
-	<script>
-    window.addEventListener('load', function() {
-        setTimeout(function() {
-            
-            var modScript = document.createElement('script');
-            modScript.src = 'c2injt.js';
-            document.body.appendChild(modScript);
-
-            var style = document.createElement('style');
-            style.innerHTML = `
-                #mod-loaded-notif {
-                    position: fixed;
-                    top: 20px;
-                    left: -300px;
-                    opacity: 0;
-                    background-color: #040A18; 
-                    color: #00FFFF; 
-                    padding: 12px 20px;
-                    
-                    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-                    font-size: 16px;
-                    font-weight: 800; 
-                    text-transform: uppercase;
-                    border-left: 5px solid #00FFFF;
-                    box-shadow: 0px 4px 15px rgba(0, 255, 255, 0.2);
-                    z-index: 999999; 
-                    pointer-events: none; 
-                    
-                    animation: slideFadeIn 0.6s cubic-bezier(0.2, 0.8, 0.2, 1) forwards;
-                }
-                .notif-subtext {
-                    display: block;
-                    font-size: 11px;
-                    font-weight: 400; 
-                    color: rgba(0, 255, 255, 0.7); 
-                    margin-top: 4px;
-                    text-transform: none; 
-                }
-                
-                @keyframes slideFadeIn {
-                    0% { left: -300px; opacity: 0; }
-                    100% { left: 20px; opacity: 1; }
-                }
-
-                .notif-fade-out {
-                    animation: fadeOut 0.5s ease-in forwards !important;
-                }
-
-                @keyframes fadeOut {
-                    0% { opacity: 1; left: 20px; }
-                    100% { opacity: 0; left: 20px; }
-                }
-            `;
-            document.head.appendChild(style);
-
-            var notif = document.createElement('div');
-            notif.id = "mod-loaded-notif";
-            notif.innerHTML = " Chiến Thôi !!!<span class='notif-subtext'>ToolKitModMenu 31.2f</span>";
-            document.body.appendChild(notif);
-
-            setTimeout(function() {
-                notif.classList.add('notif-fade-out');
-                
-                setTimeout(function() {
-                    notif.remove();
-                }, 500);
-            }, 3000);
-
-        }, 10000); 
-    });
-</script>
-
-	
+	<!--Mods here-->
+	<script src="cr_mdz.js"></script>
+	<script src="mods.js" type="module"></script>
 </body> 
 </html> 
