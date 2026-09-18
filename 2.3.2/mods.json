@@ -10,15 +10,6 @@
 			"extension":""
 		},
 		{
-			"name":"Quicksave/load extension",
-			"description":"Lưu/tải nhanh game",
-			"script":"quicksave_load",
-			"notes":"Đây là một \"Extension\" cho cái Inject Tool. Bạn vẫn phải tự edit script gốc để tạo UI, nút cho extension vì tui ếu có cách để nhét đc code vào script.",
-			"version":"1.0.0",
-			"author":"Dungx, cplusplusnoob, Claude :V (text box bay lên)",
-			"extension":"c2injt"
-		},
-		{
 			"name":"Zoom",
 			"description":"Phóng to, thu nhỏ màn hình game",
 			"script":"zoom",
