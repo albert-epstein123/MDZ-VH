@@ -13,9 +13,6 @@
 - Script toolkit của **civert0**
 [FB](https://www.facebook.com/darren276/)<br>
 ***!!LƯU Ý !!*** : *đối với iphone, hãy bật toolkit sau khi load game xong, không thì bay game ráng chịu*
-- Code quicksave của **cplusplusnoob**
-[YTB](https://www.youtube.com/@cplusplusnoob-g3h)<br>
-(*Tui tạo code đấy thành 1 script rồi thêm vào toolkit*<br>trên dưới dạng nút lưu/tải ở phần hồi phục*)
 - Telegram MiniDAYZ Start:<br>
 https://web.telegram.org/k/#@likefreefun
 - Grip Minidayz vn:<br>
