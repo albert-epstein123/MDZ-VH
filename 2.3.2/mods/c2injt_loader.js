@@ -3,21 +3,6 @@
 // Required to load extension for inject Tool script
 
 (function() {
-	let displayText = ``
-	let extList = []
-	for (const mod of mods) {
-		if (mod.extension == "c2injt" && install.includes(mod.script)) {
-			extList.push(mod.script);
-			displayText += ", "+mod.name
-		}
-	};
-	extList.push("c2injt");
-	if (extList.length == 1) console.log("No extension is loaded!");
-	extList.forEach(function(src) {
-		var loadScript = document.createElement('script');
-		loadScript.src = `./mods/${src}.js`
-		document.body.appendChild(loadScript); 
-	});
  	var style = document.createElement('style');
 	style.innerHTML = `
 		#mod-loaded-notif {
@@ -75,4 +60,19 @@
 			notif.remove();
 		}, 500);
 	}, 3000);
+	let displayText = ``
+	let extList = []
+	for (const mod of mods) {
+		if (mod.extension == "c2injt" && install.includes(mod.script)) {
+			extList.push(mod.script);
+			displayText += ", "+mod.name
+		}
+	};
+	extList.push("c2injt");
+	if (extList.length == 1) console.log("No extension is loaded!");
+	extList.forEach(function(src) {
+		var loadScript = document.createElement('script');
+		loadScript.src = `./mods/${src}.js`
+		document.body.appendChild(loadScript); 
+	});
 })();
