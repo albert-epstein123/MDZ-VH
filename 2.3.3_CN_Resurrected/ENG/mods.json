@@ -1,0 +1,58 @@
+{
+	"mods":[
+		{
+			"name":"Inject Tool",
+			"description":"\"Toolhack\" for MDZ.",
+			"script":"c2injt_loader",
+			"notes":"Not recommended for low-end devices. If you want to use it, dont open the tab when the game isnt loading and then turn on \"Disable Panel Animation\"",
+			"version":"31.2f",
+			"author":"Civert0",
+			"extension":""
+		},
+		{
+			"name":"Hold-to-aim",
+			"description":"Just hold to aim",
+			"script":"hold_to_aim",
+			"notes":"idk",
+			"version":"1.0",
+			"author":"",
+			"extension":""
+		},
+		{
+			"name":"Zoom",
+			"description":"Zoom button",
+			"script":"zoom",
+			"notes":"\"Change behaviours of ingame zoom buttons\"",
+			"version":"1.0",
+			"author":"Civert0",
+			"extension":""
+		},
+		{
+			"name":"Perfomance Tab",
+			"description":"Real-time performance monitor",
+			"script":"perf_mdz",
+			"notes":"Cannot turn off<br>Only for performance debug uses",
+			"version":"1.0",
+			"author":"Civert0",
+			"extension":""
+		},
+		{
+			"name":"Item Spawner",
+			"description":"Spawn item",
+			"script":"item_spawner_test",
+			"notes":"Cannot change items' durability",
+			"version":"1.0",
+			"author":"Civert0",
+			"extension":""
+		},
+		{
+			"name":"Placeholder",
+			"description":"",
+			"script":"",
+			"notes":"",
+			"version":"",
+			"author":"",
+			"extension":""
+		}
+	]
+}
