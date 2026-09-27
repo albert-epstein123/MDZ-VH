@@ -224,7 +224,7 @@ console.log("mod.js is loaded");
 // Some mods require c2runtime.js to be in same mods' directory
 async function start(){
 	var styletrick = document.createElement("style");
-	var styletrick = `
+	styletrick.innerHTML = `
 	@media (orientation: portrait) {
 		#c2canvasdiv {
 			position: fixed;
