@@ -2,7 +2,6 @@
 //Made by AlphaSystemsPL
 //Altered by Dungx
 
-
 const {mods} = await(await fetch("mods.json")).json();
 let install = localStorage.getItem("mods") || `["server-simulator"]`;
 install = JSON.parse(install);
@@ -14,6 +13,17 @@ document.head.append(link);
 
 const style = document.createElement("style");
 style.innerHTML = /*css*/ `
+@media (orientation: portrait) {
+	#c2canvasdiv {
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100dvh;
+		height: 100dvw;
+		transform: rotate(90deg) translateY(-100%);
+		transform-origin: top left;
+	}
+}
 #mods{
 	font-family: monospace;
 	position:fixed;
@@ -221,7 +231,6 @@ div.innerHTML = /*html*/`
 div.querySelector(".start").addEventListener("pointerup",start);
 document.body.append(div);
 console.log("mod.js is loaded");
-
 // Wait until START button is pressed, then load the mods
 // Some mods require c2runtime.js to be in same mods' directory
 async function start(){
