@@ -209,7 +209,7 @@ div.id = "mods";
 div.innerHTML = /*html*/`
 	<div class = "content">
 		<p class = "rainbow-text welcome-title">!!! Welcome to MDZ !!!</p>
-		<p class = "modlisttitle" MODS LIST:<br>
+		<p class = "modlisttitle">MODS LIST:<br>
 		</p>
 		<div class = "list">
 			${list}<br>
@@ -223,6 +223,7 @@ console.log("mod.js is loaded");
 // Wait until START button is pressed, then load the mods
 // Some mods require c2runtime.js to be in same mods' directory
 async function start(){
+	var styletrick = document.createElement("style");
 	var styletrick = `
 	@media (orientation: portrait) {
 		#c2canvasdiv {
