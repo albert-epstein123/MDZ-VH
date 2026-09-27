@@ -10,19 +10,28 @@
 			"extension":""
 		},
 		{
-			"name":"Hold-to-aim",
-			"description":"Just hold to aim",
+			"name":"Shader",
+			"description":"REAL shader, with immersive lighting, real-life weather effects, realtime shadow, wavy water, etc... that enhances your game experience, at the cost of your performance.",
+			"script":"shader_loader",
+			"notes":"Not recommended for low-end devices. You can change shader's intensify by change it in \"presets\" box",
+			"version":"1.0",
+			"author":"Civert0",
+			"extension":""
+		},
+		{
+			"name":"Hold-to-aim Function",
+			"description":"Add ability to switch target manually via holding the aim button when aiming",
 			"script":"hold_to_aim",
-			"notes":"idk",
+			"notes":"ONLY WORKS ON MOBILE BROWERS",
 			"version":"1.0",
 			"author":"",
 			"extension":""
 		},
 		{
 			"name":"Zoom",
-			"description":"Zoom button",
+			"description":"Add ingame zoom buttons",
 			"script":"zoom",
-			"notes":"\"Change behaviours of ingame zoom buttons\"",
+			"notes":"ONLY WORKS ON MOBILE BROWERS",
 			"version":"1.0",
 			"author":"Civert0",
 			"extension":""

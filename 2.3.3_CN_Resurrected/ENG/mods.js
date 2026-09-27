@@ -191,7 +191,7 @@ for(const mod of mods){
 				<span class = "mod_name">${mod.name}</span>
 				<span class = "version"> ver.${mod.version}</span>
 				<br>
-				<span style = "font-size: 14px;">Làm bởi: </span>
+				<span style = "font-size: 14px;">Made by: </span>
 				${altauthor}
 				<span class = "description">${mod.description}</span>
 				<span class = "notes">${mod.notes}</span>
@@ -225,7 +225,6 @@ console.log("mod.js is loaded");
 // Wait until START button is pressed, then load the mods
 // Some mods require c2runtime.js to be in same mods' directory
 async function start(){
-	globalThis.mods = mods
 	install = [];
 	document.querySelectorAll("#mods input[data-mod]").forEach(function(e){
 		if(e.checked){
@@ -233,16 +232,8 @@ async function start(){
 			install.push(mod);
 		}
 	});
-	globalThis.install = install;
 	div.remove();
 	style.remove();
-	for(const mod of mods){
-		if(!install.includes(mod.script)) continue;
-		if(mod.script == "") continue;
-		if(mod.extension != "") continue;
-		const e = (await import(`./mods/${mod.script}.js`));
-		if(e.install) await e.install();
-	}
 	localStorage.setItem("mods",JSON.stringify(install));
 	// Start the game
 	// Create new runtime using the c2canvas
@@ -285,5 +276,11 @@ async function start(){
 		{
 			OnRegisterSWError(e);
 		}
+	}
+	for(const mod of mods){
+		if(!install.includes(mod.script)) continue;
+		if(mod.script == "") continue;
+		const e = (await import(`./mods/${mod.script}.js`));
+		if(e.install) await e.install();
 	}
 }

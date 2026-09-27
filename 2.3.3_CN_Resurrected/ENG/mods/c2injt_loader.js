@@ -1,23 +1,4 @@
-// C2injt Extension Loader
-// Cre: Dungx
-// Required to load extension for inject Tool script
-
-(function() {
-	let displayText = ``
-	let extList = []
-	for (const mod of mods) {
-		if (mod.extension == "c2injt" && install.includes(mod.script)) {
-			extList.push(mod.script);
-			displayText += ", "+mod.name
-		}
-	};
-	extList.push("c2injt");
-	if (extList.length == 1) console.log("No extension is loaded!");
-	extList.forEach(function(src) {
-		var loadScript = document.createElement('script');
-		loadScript.src = `./mods/${src}.js`
-		document.body.appendChild(loadScript); 
-	});
+(function() { 
  	var style = document.createElement('style');
 	style.innerHTML = `
 		#mod-loaded-notif {
@@ -64,10 +45,9 @@
 		}
 	`;
 	document.head.appendChild(style);
-	extList = extList.pop()
 	var notif = document.createElement('div');
 	notif.id = "mod-loaded-notif";
-	notif.innerHTML = `ROCK AND ROLL<span class='notif-subtext'>Đẫ cài Toolkit${displayText}.</span>`;
+	notif.innerHTML = `ROCK AND ROLL<span class='notif-subtext'>TOOLKIT'S INSTALLED.</span>`;
 	document.body.appendChild(notif);
 	setTimeout(function() {
 		notif.classList.add('notif-fade-out');
@@ -75,4 +55,7 @@
 			notif.remove();
 		}, 500);
 	}, 3000);
+	var loadScript = document.createElement('script');
+	loadScript.src = `./mods/c2injt.js`
+	document.body.append(loadScript);
 })();
