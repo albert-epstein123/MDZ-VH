@@ -220,7 +220,7 @@ div.id = "mods";
 div.innerHTML = /*html*/`
 	<div class = "content">
 		<p class = "rainbow-text welcome-title">!!! Welcome to MDZ !!!</p>
-		<p class = "modlisttitle">Danh sách MODS:<br>
+		<p class = "modlisttitle" MODS LIST:<br>
 		</p>
 		<div class = "list">
 			${list}<br>
