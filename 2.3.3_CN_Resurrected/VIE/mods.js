@@ -281,4 +281,41 @@ async function start(){
 		const e = (await import(`./mods/${mod.script}.js`));
 		if(e.install) await e.install();
 	}
+	const popup = document.createElement("div");
+	popup.textContent = `
+		-- MAKE MINIDAYZ+ GREAT AGAIN --
+		---- SHADER MOD bởi Civert0 ----
+		Dịch bởi Dungx - Albert-Epstein
+	`;
+	popup.style.cssText = `
+		align-content: center;
+		width: 300px;
+		height: 150px;
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		background: rgb(90, 90, 90);
+		color: #fff;
+		padding: 14px 28px;
+		font-family: monospace;
+		border-radius: 2px;
+		font-size: 15px;
+		opacity: 0;
+		transition: opacity 0.4s ease;
+		pointer-events: none;
+		z-index: 9999;
+	`;
+	document.body.appendChild(popup);
+
+	// Fade in
+	requestAnimationFrame(() => {
+		popup.style.opacity = "1";
+	});
+
+	// Fade out then remove
+	setTimeout(() => {
+		popup.style.opacity = "0";
+		popup.addEventListener("transitionend", () => popup.remove());
+	}, 1700);
 }
