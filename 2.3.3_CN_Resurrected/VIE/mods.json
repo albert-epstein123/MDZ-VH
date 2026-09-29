@@ -1,0 +1,67 @@
+{
+	"mods":[
+		{
+			"name":"Inject Tool Vi en",
+			"description":"\"Cheat Engine\"của MDZ, hack tgian, vật phẩm, save/load, spawn xe npc, teleport v.v .",
+			"script":"c2injt_loader",
+			"notes":"Đối với máy yếu thì 0 nên bật (siêu lag), nếu muốn bật thì đừng mở màn hình script khi game chưa chạy.",
+			"version":"31.2f",
+			"author":"Civert0, Dungx (VH, script extension)",
+			"extension":""
+		},
+		{
+			"name":"Shader",
+			"description":"Một bộ shader chân thực với hệ thống ánh sáng sống động, hiệu ứng thời tiết như thật, đổ bóng thời gian thực, mặt nước gợn sóng, v.v., giúp nâng cao trải nghiệm chơi game nhưng lại đánh đổi bằng hiệu năng hệ thống.",
+			"script":"shader_loader",
+			"notes":"Không dành cho máy yếu. Nếu muốn chơi thì chỉnh tùy chỉnh sang \"Chế độ nhanh\"",
+			"version":"1.0",
+			"author":"Civert0",
+			"extension":""
+		},
+		{
+			"name":"Hold-to-aim Function",
+			"description":"Cho phép người chơi chuyển mục tiêu sang zombie, kẻ thù khác bằng cách ngắm rồi giữ nút ngắm. (Theo như wiki)",
+			"script":"hold_to_aim",
+			"notes":"CHỈ HOẠT ĐỘNG TRÊN ĐIỆN THOẠI",
+			"version":"1.0",
+			"author":"",
+			"extension":""
+		},
+		{
+			"name":"Zoom",
+			"description":"Phóng to, thu nhỏ màn hình game",
+			"script":"zoom",
+			"notes":"CHỈ HOẠT ĐỘNG TRÊN ĐIỆN THOẠI",
+			"version":"1.0",
+			"author":"Civert0",
+			"extension":""
+		},
+		{
+			"name":"Perfomance Tab",
+			"description":"Hiển thị chi tiết hiệu năng game theo thời gian thực.",
+			"script":"perf_mdz",
+			"notes":"Cái này trg game 0 tắt đc.<br>Dùng cho việc debug mods, v.v",
+			"version":"1.0",
+			"author":"Civert0",
+			"extension":""
+		},
+		{
+			"name":"Item Spawner",
+			"description":"Spawn item trực tiếp hoặc ở dưới đất. Bấm Alt+I để mở lại.",
+			"script":"item_spawner_test",
+			"notes":"Somehow độ bền bị chỉnh xuống 1%.",
+			"version":"1.0",
+			"author":"Civert0",
+			"extension":""
+		},
+		{
+			"name":"Placeholder",
+			"description":"",
+			"script":"",
+			"notes":"",
+			"version":"",
+			"author":"",
+			"extension":""
+		}
+	]
+}

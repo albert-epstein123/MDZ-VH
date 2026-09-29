@@ -11,9 +11,9 @@
 		},
 		{
 			"name":"Shader",
-			"description":"REAL shader, with immersive lighting, real-life weather effects, realtime shadow, wavy water, etc... that enhances your game experience, at the cost of your performance.",
+			"description":"A shader mod that delivers realistic visuals, featuring dynamic lighting, vivid weather effects, real-time shadows, rippling water, and more. Thereby enhancing the gaming experience but demanding significant system resources.",
 			"script":"shader_loader",
-			"notes":"Not recommended for low-end devices. You can change shader's intensify by change it in \"presets\" box",
+			"notes":"Not recommended for low-end devices. You can change shader's preset to \"Performance\"",
 			"version":"1.0",
 			"author":"Civert0",
 			"extension":""
