@@ -49,7 +49,7 @@
 			"name":"Item Spawner",
 			"description":"Spawn item",
 			"script":"item_spawner_test",
-			"notes":"Cannot change items' durability",
+			"notes":"Spawned items always have their durability at 1%",
 			"version":"1.0",
 			"author":"Civert0",
 			"extension":""

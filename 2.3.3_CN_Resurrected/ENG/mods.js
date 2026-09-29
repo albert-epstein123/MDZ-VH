@@ -223,21 +223,6 @@ console.log("mod.js is loaded");
 // Wait until START button is pressed, then load the mods
 // Some mods require c2runtime.js to be in same mods' directory
 async function start(){
-	var styletrick = document.createElement("style");
-	styletrick.innerHTML = `
-	@media (orientation: portrait) {
-		#c2canvasdiv {
-			position: fixed;
-			top: 0;
-			left: 0;
-			width: 100dvh;
-			height: 100dvw;
-			transform: rotate(90deg) translateY(-100%);
-			transform-origin: top left;
-		}
-	}
-	`;
-	document.head.append(styletrick);
 	install = [];
 	document.querySelectorAll("#mods input[data-mod]").forEach(function(e){
 		if(e.checked){
