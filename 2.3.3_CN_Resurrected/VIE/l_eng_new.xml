@@ -13,7 +13,7 @@
 	<id>1</id>
 	<name>Một hộp đậu nướng bổ dưỡng, có thể bảo quản lâu từ hai đến năm năm tùy điều kiện lưu trữ.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Thức ăn: ᛭30          Nước: ᛭5
+Thức ăn: ᛭30    Nước: ᛭5
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -53,7 +53,7 @@ Thức ăn: + 65
 	<id>5</id>
 	<name>Một quả cà chua. Nếu bỏ qua tranh luận nó là quả hay rau, thì nó vẫn ngon và ăn được, dù sống hay đã nấu chín.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Thức ăn: + 15          Nước: + 5
+Thức ăn: + 15    Nước: + 5
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Được chồng tối đa: 3
 Dùng để làm: Shakshuka
@@ -66,7 +66,7 @@ Có thể trồng bằng cuốc chim, chĩa, hoặc xẻng.
 	<id>6</id>
 	<name>Một quả táo chín bình thường. Vẫn còn chắc, ngon và không có sâu.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Thức ăn: + 15          Nước: + 5
+Thức ăn: + 15    Nước: + 5
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Được chồng tối đa: 3
 </name>
@@ -77,7 +77,7 @@ Thức ăn: + 15          Nước: + 5
 	<id>7</id>
 	<name>Một quả chuối tươi, giàu kali.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Thức ăn: + 15          Nước: + 5
+Thức ăn: + 15    Nước: + 5
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Được chồng tối đa: 3
 </name>
@@ -207,8 +207,8 @@ Cất trong túi y tế để sử dụng nhanh.
 	<id>19</id>
 	<name>Một túi máu (O−) kèm bộ truyền dịch, sẵn sàng để truyền máu và chỉ dùng được một lần để bù lại lượng máu đã mất.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Máu: + 50               Thể lực: + 50
-Thời gian sử dụng: 6 s                         
+Máu: + 50      Thể lực: + 50
+Thời gian sử dụng: 6 s          
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -231,8 +231,8 @@ Cất trong túi quân dụng để sử dụng nhanh.
 	<id>21</id>
 	<name>Loại lựu đạn phân mảnh của quân đội Nga, gây chết người trong bán kính nhỏ và gây thương tích nghiêm trọng ở trung gian.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 1800          Sát thương mỗi mảnh: 75
-Thời gian nổ: 2 giây           Số mảnh: 24                     
+Sát thương: 1800    Sát thương mỗi mảnh: 75
+Thời gian nổ: 2 giây     Số mảnh: 24         
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể gài vào áo giáp được chọn để sử dụng nhanh.
 </name>
@@ -254,7 +254,7 @@ Có thể sạc lại bằng máy phát điện đang hoạt động.
 	<id>23</id>
 	<name>Sau khi đặt, có thể đốt và cung cấp một vùng sáng cũng như lượng nhiệt lớn cho nhiều mục đích, chẳng hạn như nấu ăn và tăng cảm giác ấm.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Số lần dùng: 3          Thời gian hiệu lực: 180 giây
+Số lần dùng: 3    Thời gian hiệu lực: 180 giây
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Công thức chế tạo: Đống củi +  3 que gỗ/3 vải rách/1 tờ báo
 Dùng để đốt thuốc lá.
@@ -275,7 +275,7 @@ Dùng để đốt bộ dựng lửa trại hoặc thuốc lá.
 	<id>25</id>
 	<name>"Tôi đã uống whisky... và tôi cảm thấy khỏe mạnh"
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Nước: + 20          Nhiệt: + 40
+Nước: + 20    Nhiệt: + 40
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Dùng để làm: Bom xăng Molotov
 </name>
@@ -298,7 +298,7 @@ Dùng để làm: Bộ dựng lửa trại, dây thừng, đuốc
 	<id>27</id>
 	<name>Nam việt quất, được hái từ các bụi cây mọng trong rừng, dễ nhận biết qua màu đỏ, chín và mọng nước.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Thức ăn: + 15          Nước: + 15
+Thức ăn: + 15    Nước: + 15
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Được chồng tối đa: 5
 </name>
@@ -309,8 +309,8 @@ Thức ăn: + 15          Nước: + 15
 	<id>28</id>
 	<name>Một túi dung dịch nước muối kèm bộ truyền dịch, sẵn sàng để truyền, chỉ dùng được một lần để bù lại một phần máu đã mất.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Máu: + 25               Thể lực: + 25
-Thời gian sử dụng: 6 s                          
+Máu: + 25      Thể lực: + 25
+Thời gian sử dụng: 6 s           
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -320,8 +320,8 @@ Thời gian sử dụng: 6 s
 	<id>29</id>
 	<name>Viên uống bổ sung đa vitamin giúp tăng cường sản sinh máu, phục hồi sức khỏe nhanh gấp hai lần.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Thể lực: + 10                    Hồi máu: x 2
-Thời gian hiệu lực: 60 s                                    
+Thể lực: + 10        Hồi máu: x 2
+Thời gian hiệu lực: 60 s               
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Được chồng tối đa: 3
 </name>
@@ -342,7 +342,7 @@ Nước: + 30
 	<id>31</id>
 	<name>Bí ngòi vừa chín tới để ăn sống.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Thức ăn: + 20          Nước: + 20
+Thức ăn: + 20    Nước: + 20
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể trồng bằng cuốc chim, chĩa, hoặc xẻng.
 </name>
@@ -353,7 +353,7 @@ Có thể trồng bằng cuốc chim, chĩa, hoặc xẻng.
 	<id>32</id>
 	<name>Ớt chuông, loại xanh. Không cay lắm và giàu chất dinh dưỡng, vitamin, Dùng để nấu hoặc ăn sống.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Thức ăn: + 20          Nước: + 5
+Thức ăn: + 20    Nước: + 5
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Được chồng tối đa: 3
 Dùng để làm: Thịt xào ớt chuông
@@ -366,7 +366,7 @@ Có thể trồng bằng cuốc chim, chĩa, hoặc xẻng.
 	<id>33</id>
 	<name>Một loại quả có múi phổ biến, giàu vitamin "C".
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Thức ăn: + 15          Nước: + 15
+Thức ăn: + 15    Nước: + 15
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Được chồng tối đa: 3
 </name>
@@ -463,9 +463,9 @@ Có thể gắn để đeo thêm một vũ khí cận chiến trên lưng.
 	<id>42</id>
 	<name>Dao chiến đấu sắc bén với lưỡi chắc chắn, rất hợp để tự vệ và cũng có nhiều công dụng đời thường khác.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 16-26               Tỉ lệ chí mạng: 20%   
-Tỉ lệ đỡ: 5%          Tốc độ đánh: 0.8s
-Hao mòn (chém): 1%           Hao mòn (dùng): 3%  
+Sát thương: 16-26      Tỉ lệ chí mạng: 20%   
+Tỉ lệ đỡ: 5%    Tốc độ đánh: 0.8s
+Hao mòn (chém): 1%     Hao mòn (dùng): 3%  
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Cắm trong ủng quân đội để lột da nhanh.
 </name>
@@ -476,9 +476,9 @@ Cắm trong ủng quân đội để lột da nhanh.
 	<id>43</id>
 	<name>Một con dao chặt lớn, nặng, đã hoen rỉ. Được thiết kế để chặt qua thịt sống dày và có thể bẻ xương dễ dàng. Chủ yếu dùng bởi người mổ thịt.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 14-24               Tỉ lệ chí mạng: 10%   
-Tỉ lệ đỡ: 5%          Tốc độ đánh: 0.8s
-Hao mòn (chém): 1%           Hao mòn (dùng): 3%  
+Sát thương: 14-24      Tỉ lệ chí mạng: 10%   
+Tỉ lệ đỡ: 5%    Tốc độ đánh: 0.8s
+Hao mòn (chém): 1%     Hao mòn (dùng): 3%  
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Cắm trong ủng quân đội để lột da nhanh.
 </name>
@@ -489,9 +489,9 @@ Cắm trong ủng quân đội để lột da nhanh.
 	<id>44</id>
 	<name>Một loại dao chuyên dụng với mũi cong nhẹ, chủ yếu dùng để xẻ thịt thú săn.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 15-25               Tỉ lệ chí mạng: 15%   
-Tỉ lệ đỡ: 5%          Tốc độ đánh: 0.8s
-Hao mòn (chém): 1%           Hao mòn (dùng): 3%  
+Sát thương: 15-25      Tỉ lệ chí mạng: 15%   
+Tỉ lệ đỡ: 5%    Tốc độ đánh: 0.8s
+Hao mòn (chém): 1%     Hao mòn (dùng): 3%  
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Cắm trong ủng quân đội để lột da nhanh.
 </name>
@@ -502,8 +502,8 @@ Cắm trong ủng quân đội để lột da nhanh.
 	<id>45</id>
 	<name>Adrenaline, còn gọi theo y học là epinephrine, giúp cơ thể chuẩn bị cho trạng thái "chiến hay chạy" bằng cách tăng nhịp tim, lưu lượng máu và độ tỉnh táo.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Hồi máu: + 50/s     Tốc độ di chuyển: + 15%
-Thời gian sử dụng: 2 s                Thời gian hiệu lực: 20 s      
+Hồi máu: + 50/s  Tốc độ di chuyển: + 15%
+Thời gian sử dụng: 2 s       Thời gian hiệu lực: 20 s   
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Được chồng tối đa: 3
 Máu sẽ giảm xuống còn 10 khi hết hiệu lực!
@@ -515,7 +515,7 @@ Máu sẽ giảm xuống còn 10 khi hết hiệu lực!
 	<id>46</id>
 	<name>Kháng sinh phổ thông. Dùng để điều trị các bệnh nhiễm virus và vi khuẩn.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Thể lực: + 10          Thời gian hiệu lực: 60 s
+Thể lực: + 10    Thời gian hiệu lực: 60 s
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Hiệu ứng thuốc: Ngăn ngừa và chữa bệnh, độc trong thời gian hiệu lực.
 Được chồng tối đa: 3
@@ -609,7 +609,7 @@ Có thể được đổ đầy lại tại các trạm xăng.
 	<id>54</id>
 	<name>Một chai nhựa dùng lại được thông thường.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Nước: + 12          Số lần dùng: 4
+Nước: + 12    Số lần dùng: 4
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Dùng để làm: Giảm thanh tự chế
 Có thể được đổ đầy nước từ các máy bơm nước, hứng được nước mưa khi để trên mặt đất lúc mưa.
@@ -621,7 +621,7 @@ Có thể được đổ đầy nước từ các máy bơm nước, hứng đư
 	<id>55</id>
 	<name>Một bình đựng nước cấp quân dụng Dùng lại, được quân đội và người đi cắm trại sử dụng, đi kèm túi đựng riêng.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Nước: + 25          Số lần dùng: 4
+Nước: + 25    Số lần dùng: 4
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể được đổ đầy nước từ các máy bơm nước.
 </name>
@@ -632,8 +632,8 @@ Có thể được đổ đầy nước từ các máy bơm nước.
 	<id>56</id>
 	<name>Mìn chống người, mang lại một bất ngờ khó chịu cho bất kỳ ai không may bước lên nó.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 1800          Sát thương mỗi mảnh: 75
-Số mảnh: 24                                                         
+Sát thương: 1800    Sát thương mỗi mảnh: 75
+Số mảnh: 24                        
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể được đặt xuống, không bị kích hoạt bởi người chơi.
 </name>
@@ -676,7 +676,7 @@ Dùng cho: Amphibia S, Ruger 10/22
 	<id>60</id>
 	<name>Một miếng thịt sống của gia súc, thú rừng. Thịt dai, có màu sẫm nhưng khá ngon khi được chế biến kỹ.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Thức ăn: + 25          Nước: + 10
+Thức ăn: + 25    Nước: + 10
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Dùng để làm: Thịt xào ớt chuông
 Có thể nướng trên đống lửa.
@@ -689,8 +689,8 @@ Có thể nướng trên đống lửa.
 	<id>61</id>
 	<name>Miếng thịt sống được nướng trên đống lửa đến độ mềm hoàn hảo.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Máu: + 15          Thức ăn: + 50
-Nước: + 10                            
+Máu: + 15    Thức ăn: + 50
+Nước: + 10             
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -700,8 +700,8 @@ Nước: + 10
 	<id>62</id>
 	<name>Một chai Nuka-Cola, loại nước ngọt có hương vị của thế giới hậu hột nhãn.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Hồi máu: x 2          Kinh nghiệm: + 200    
-Nước: + 100                  Thời gian hiệu lực: 60 s
+Hồi máu: x 2    Kinh nghiệm: + 200    
+Nước: + 100         Thời gian hiệu lực: 60 s
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -711,8 +711,8 @@ Nước: + 100                  Thời gian hiệu lực: 60 s
 	<id>63</id>
 	<name>Một lựa chọn đơn giản để có một nguồn năng lượng vận động, kết hợp với caffeine, vitamin, vị mountain dew quen thuộc.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Tốc độ di chuyển: + 15%     Nước: + 20
-Thời gian hiệu lực: 20 s                                
+Tốc độ di chuyển: + 15%  Nước: + 20
+Thời gian hiệu lực: 20 s              
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Dùng để loại bỏ trạng thái kiệt sức.
 </name>
@@ -801,7 +801,7 @@ Có thể đặt trên mặt đất để gây sát thương nhẹ và làm ch�
 	<id>71</id>
 	<name>Đùi sau của một con thỏ. Khi được nấu chín sẽ cho ra một món ăn nhẹ khá ngon.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Thức ăn: + 25          Nước: + 10
+Thức ăn: + 25    Nước: + 10
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Dùng để làm: Thịt xào ớt chuông
 Có thể nướng trên đống lửa.
@@ -814,8 +814,8 @@ Có thể nướng trên đống lửa.
 	<id>72</id>
 	<name>Đùi thỏ được nướng trên đống lửa, mềm và đậm đà hương vị.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Máu: + 30          Thức ăn: + 35
-Nước: + 10                           
+Máu: + 30    Thức ăn: + 35
+Nước: + 10            
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -825,8 +825,8 @@ Nước: + 10
 	<id>73</id>
 	<name>Quả cloudberry, chỉ có thể tìm thấy quanh các hồ. Dù rất bổ dưỡng nhưng loại quả mọng lạ này có mùi hơi hắc.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Hồi máu: x 2     Thức ăn: + 10                  
-Nước: + 10               Thời gian hiệu lực: 30 s
+Hồi máu: x 2  Thức ăn: + 10         
+Nước: + 10      Thời gian hiệu lực: 30 s
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Được chồng tối đa: 5
 </name>
@@ -837,7 +837,7 @@ Nước: + 10               Thời gian hiệu lực: 30 s
 	<id>74</id>
 	<name>Quả việt quất xanh (bilberry), được hái từ các bụi cây mọng trong rừng. Loại quả này rất mọng nước, chứa hàm lượng nước cao hơn các loại quả mọng khác.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Thức ăn: + 10          Nước: + 20
+Thức ăn: + 10    Nước: + 20
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Được chồng tối đa: 5
 </name>
@@ -848,7 +848,7 @@ Thức ăn: + 10          Nước: + 20
 	<id>75</id>
 	<name>Một thiết bị phát hoặc nhận tín hiệu radio. Tần số đang cài đặt của nó bắt được sóng radio yếu ớt từ các phương tiện quân sự bị rơi và các hầm ngầm.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Số lần dùng: 10          Cần sử dụng: Pin
+Số lần dùng: 10    Cần sử dụng: Pin
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể tìm ra vị trí chính xác của xe humvee, trực thăng rơi và hầm ngầm trong bán kính 5 ô bản đồ.
 </name>
@@ -859,7 +859,7 @@ Có thể tìm ra vị trí chính xác của xe humvee, trực thăng rơi và 
 	<id>76</id>
 	<name>Một loại kính ngắm chuẩn gắn rail, không phóng đại, có điểm đỏ chiếu lên mặt kính.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Tỉ lệ headshot: + 5%     Độ tản đạn: - 2
+Tỉ lệ headshot: + 5%  Độ tản đạn: - 2
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Gắn trên: Nỏ săn, PP-19, UMP-45, Vector, MP5K, M4A1, L85A2, M16A2, Mini-14, M249, AKs-74u, AK-74, AN-94, AKM, RPK, FAL, Saiga-12K, OTs-14, VSS, AS-VAL, SV-98
 </name>
@@ -870,8 +870,8 @@ Gắn trên: Nỏ săn, PP-19, UMP-45, Vector, MP5K, M4A1, L85A2, M16A2, Mini-14
 	<id>77</id>
 	<name>Kính ngắm 3.5x do Liên Xô sản xuất từ thời Thế chiến II.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Tỉ lệ headshot: + 5%     Độ tản đạn: - 2
-Tầm bắn: + 20%                                
+Tỉ lệ headshot: + 5%  Độ tản đạn: - 2
+Tầm bắn: + 20%              
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Gắn trên: SKS, Blaze, M70, Mosin
 </name>
@@ -882,8 +882,8 @@ Gắn trên: SKS, Blaze, M70, Mosin
 	<id>78</id>
 	<name>Một kính ngắm viễn vọng của Nga với độ phóng đại cố định 4x, được sản xuất tại Novosibirsk.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Tỉ lệ headshot: + 15%     Độ tản đạn: - 2
-Tầm bắn: + 20%                                 
+Tỉ lệ headshot: + 15%  Độ tản đạn: - 2
+Tầm bắn: + 20%               
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Gắn trên: PP-19, AKs-74u, AK-74, AN-94, AKM, RPK, SVD, PKM, OTs-14, VSS, Saiga-12K, OSV-96
 </name>
@@ -894,8 +894,8 @@ Gắn trên: PP-19, AKs-74u, AK-74, AN-94, AKM, RPK, SVD, PKM, OTs-14, VSS, Saig
 	<id>79</id>
 	<name>Loại kính ngắm quang học tiên tiến với độ phóng đại 4x, có thể gắn lên bất kỳ vũ khí nào có hệ thống ray picatinny.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Tỉ lệ headshot: + 15%     Độ tản đạn: - 2
-Tầm bắn: + 20%                                 
+Tỉ lệ headshot: + 15%  Độ tản đạn: - 2
+Tầm bắn: + 20%               
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Gắn trên: UMP-45, Vector, MP5K, M4A1, L85A2, M16A2, Mini-14, M249, FAL, AS-VAL, SV-98
 </name>
@@ -949,8 +949,8 @@ Gắn trên: M92, SKS, Blaze, M70, IZh-43, R870, Mosin
 	<id>85</id>
 	<name>Suất ăn dã chiến dành cho từng cá nhân, dùng trong quân đội. Những phần ăn này được thiết kế để cung cấp một bữa ăn đầy đủ và cân bằng cho người lính.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Thức ăn: + 40          Nước: + 40
-Số lần dùng: 2                                  
+Thức ăn: + 40    Nước: + 40
+Số lần dùng: 2                
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -1013,7 +1013,7 @@ Gắn trên: IZh-43, R870, Saiga-12K
 	<id>91</id>
 	<name>Một loài cá nhỏ màu bạc, nổi tiếng với thân hình thuôn dài và vảy óng ánh.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Thức ăn: + 10          Nước: + 10
+Thức ăn: + 10    Nước: + 10
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể nướng trên đống lửa.
 50% khả năng bị ngộ độc khi ăn sống!
@@ -1025,7 +1025,7 @@ Có thể nướng trên đống lửa.
 	<id>92</id>
 	<name>Một nhóm cá đa dạng, nổi tiếng với đường di cư đặc trưng, di chuyển giữa môi trường nước ngọt và nước mặn.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Thức ăn: + 35          Nước: + 15
+Thức ăn: + 35    Nước: + 15
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể nướng trên đống lửa.
 50% khả năng bị ngộ độc khi ăn sống!
@@ -1037,7 +1037,7 @@ Có thể nướng trên đống lửa.
 	<id>93</id>
 	<name>Một loài cá nước ngọt nhỏ, thường dài khoảng 4-6 inch, thân hình mảnh và dài.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Thức ăn: + 10          Nước: + 10
+Thức ăn: + 10    Nước: + 10
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể nướng trên đống lửa.
 50% khả năng bị ngộ độc khi ăn sống!
@@ -1049,7 +1049,7 @@ Có thể nướng trên đống lửa.
 	<id>94</id>
 	<name>Nhận biết qua hai vây lưng, một gai và một mềm, thường là loài ăn tạp sống ở đáy.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Thức ăn: + 35          Nước: + 15
+Thức ăn: + 35    Nước: + 15
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể nướng trên đống lửa.
 50% khả năng bị ngộ độc khi ăn sống!
@@ -1061,8 +1061,8 @@ Có thể nướng trên đống lửa.
 	<id>95</id>
 	<name>Miếng phi lê cá nhỏ nướng trên đống lửa, cho một món ăn nhẹ ngon và khá đầy đặn.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Máu: + 10          Thức ăn: + 25
-Nước: + 10                           
+Máu: + 10    Thức ăn: + 25
+Nước: + 10            
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -1072,8 +1072,8 @@ Nước: + 10
 	<id>96</id>
 	<name>Phi lê cá đã được sơ chế, áp chảo và nướng trên đống lửa. Đã chín hoàn toàn, mềm, bông và no bụng.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Máu: + 10          Thức ăn: + 50
-Nước: + 10                           
+Máu: + 10    Thức ăn: + 50
+Nước: + 10            
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -1083,12 +1083,12 @@ Nước: + 10
 	<id>97</id>
 	<name>🍄SMOKE WEED EVERYDAY M8🍄
 "ᴛᴇᴄʜɴᴏʙʟᴀᴅᴇ ɴᴇᴠᴇʀ ᴅɪᴇs"
-y҉̃̀̋̑ = ḿ̬̏ͤͅx̛̘̠̹͋ +  b̬͖̏́͢                           "𝓞𝓱𝓲𝓸 𝓼𝓴𝓲𝓫𝓲𝓭𝓲 𝓰𝔂𝓪𝓽𝓽 𝓼𝓲𝓰𝓶𝓪 𝓻𝓲𝔃𝔃"
-Ｍ Ｅ Ｔ Ａ Ｍ Ｏ Ｒ Ｐ Ｈ Ｏ Ｓ Ｉ Ｓ  ∀ןıǝns      
-ᗩᒪIEᑎᔕ       ƵØm̷ƀɨɇs̷    🕴🐟 E=mc² 🍅🙊ᴮʳᵘʰ
+y҉̃̀̋̑ = ḿ̬̏ͤͅx̛̘̠̹͋ +  b̬͖̏́͢            "𝓞𝓱𝓲𝓸 𝓼𝓴𝓲𝓫𝓲𝓭𝓲 𝓰𝔂𝓪𝓽𝓽 𝓼𝓲𝓰𝓶𝓪 𝓻𝓲𝔃𝔃"
+Ｍ Ｅ Ｔ Ａ Ｍ Ｏ Ｒ Ｐ Ｈ Ｏ Ｓ Ｉ Ｓ  ∀ןıǝns   
+ᗩᒪIEᑎᔕ    ƵØm̷ƀɨɇs̷    🕴🐟 E=mc² 🍅🙊ᴮʳᵘʰ
 ʜᴜᴄᴋʟᴇ ʙᴇʀʀʏ ғɪɴɴ  ሠዐዪረዕ የቿልርቿ    😐︎♋︎●︎♋︎⬧︎♒︎■︎♓︎🙵□︎❖︎
-                      K͓̽a͓̽l͓̽a͓̽s͓̽h͓̽n͓̽i͓̽k͓̽o͓̽v͓̽       ₑₙ𝓭ₑᵣₘₐₙ 𝓬ₐₙ'ₜ ₛ𝔀ᵢₘ
-ƒ¡$Ω ¢a₪ ₹ΦLL              ιΘΘκ Ʋρ
+          K͓̽a͓̽l͓̽a͓̽s͓̽h͓̽n͓̽i͓̽k͓̽o͓̽v͓̽    ₑₙ𝓭ₑᵣₘₐₙ 𝓬ₐₙ'ₜ ₛ𝔀ᵢₘ
+ƒ¡$Ω ¢a₪ ₹ΦLL        ιΘΘκ Ʋρ
 </name>
 </text>
 
@@ -1097,8 +1097,8 @@ y҉̃̀̋̑ = ḿ̬̏ͤͅx̛̘̠̹͋ +  b̬͖̏́͢                           "�
 	<id>98</id>
 	<name>Một kính ngắm gắn cố định có độ phóng đại thay đổi 4x-8x-12x. Đơn giản, chắc chắn và chính xác.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Tỉ lệ headshot: + 25%     Độ tản đạn: - 3
-Tầm bắn cộng thêm: + 50%                               
+Tỉ lệ headshot: + 25%  Độ tản đạn: - 3
+Tầm bắn cộng thêm: + 50%             
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Gắn trên: Nỏ săn, Mini-14, SKS, Blaze, FAL, M70, AS-VAL, Mosin, SVD, SV-98, OSV-96
 </name>
@@ -1109,8 +1109,8 @@ Gắn trên: Nỏ săn, Mini-14, SKS, Blaze, FAL, M70, AS-VAL, Mosin, SVD, SV-98
 	<id>99</id>
 	<name>Một loại mìn định hướng chống người do Mỹ phát triển. Có nhãn tiện lợi nhắc người dùng hướng nó về phía kẻ địch và gài dây bẫy.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 1575          Sát thương mỗi mảnh: 75
-Số mảnh: 21                                                        
+Sát thương: 1575    Sát thương mỗi mảnh: 75
+Số mảnh: 21                       
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể được đặt xuống, không bị kích hoạt bởi người chơi.
 Các mảnh vẫn có thể gây sát thương cho người chơi dù bị kích hoạt bởi thực thể khác!
@@ -1144,7 +1144,7 @@ Dùng cho: OTs-14, VSS, AS-VAL
 	<id>102</id>
 	<name>Một quả bom xăng molotov, được chế từ một quả pháo sáng và một chai whisky ngon. Bất ngờ là nó vẫn hoạt động hiệu quả :)
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 100          Thời gian hiệu lực: 10s
+Sát thương: 100    Thời gian hiệu lực: 10s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Công thức chế tạo: Whiskey + Pháo
 Có thể ném xuống đất hoặc vào các công trình để đốt cháy và liên tục gây sát thương cho kẻ địch.
@@ -1178,8 +1178,8 @@ Chứa sẵn 100 viên
 	<id>105</id>
 	<name>Đạn lựu cho súng phóng lựu gắn dưới nòng M203. Nổ khi va chạm.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 540          Sát thương mỗi mảnh: 45
-Số mảnh: 12                                                   
+Sát thương: 540    Sát thương mỗi mảnh: 45
+Số mảnh: 12                     
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Được chồng tối đa: 10
 </name>
@@ -1190,8 +1190,8 @@ Số mảnh: 12
 	<id>106</id>
 	<name>Đạn lựu cho súng phóng lựu gắn dưới nòng GP-25. Nổ khi va chạm.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 540          Sát thương mỗi mảnh: 45
-Số mảnh: 12                                                   
+Sát thương: 540    Sát thương mỗi mảnh: 45
+Số mảnh: 12                     
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Được chồng tối đa: 10
 Dùng để làm: VOG-25 Khatabka
@@ -1225,7 +1225,7 @@ Không thể bắn vào mục tiêu quá gần!
 	<id>109</id>
 	<name>Bộ truyền dịch IV cùng một túi máu vô trùng, Dùng để tự lấy máu của mình cho một lần truyền máu trong tương lai.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Máu: − 50          Thời gian sử dụng: 6 s
+Máu: − 50    Thời gian sử dụng: 6 s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Cần có 50 máu hoặc hơn để sử dụng!
 </name>
@@ -1283,8 +1283,8 @@ Sẽ biến mất khỏi túi đồ khi sang đảo tiếp theo!
 	<id>114</id>
 	<name>Những quả mọng đen nhỏ, màu tím sẫm, nổi tiếng với hương vị thơm béo và giàu dưỡng chất. Chúng chỉ mọc ở vùng đầm lầy.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Máu: + 2          Thức ăn: + 10
-Nước: + 10                         
+Máu: + 2    Thức ăn: + 10
+Nước: + 10          
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Được chồng tối đa: 5
 </name>
@@ -1346,7 +1346,7 @@ Tạo ra một màn khói, chặn tầm nhìn của kẻ địch.
 	<id>120</id>
 	<name>Thuốc lá Liên Xô cổ điển. Được cuốn từ loại thuốc lá makhorka nồng nicotine, phổ biến suốt thời Liên Xô.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Nhiệt: + 5          Thời gian hiệu lực: 30 s
+Nhiệt: + 5    Thời gian hiệu lực: 30 s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Hiệu ứng thuốc: dừng thanh thức ăn, nước khi có hiệu lực
 Được chồng tối đa: 10
@@ -1359,7 +1359,7 @@ Có thể tặng cho những người sinh tồn trung lập để nhận + 5 da
 	<id>121</id>
 	<name>Bia đóng lon, thường dùng được trong 6-9 tháng ở nhiệt độ phòng. Vị hơi khác lạ, nhưng vẫn có chút vị mạch nha nhẹ và sảng khoái.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Nước: + 20          Nhiệt: + 10
+Nước: + 20    Nhiệt: + 10
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -1435,8 +1435,8 @@ Công thức chế tạo: Chai nước + băng keo
 	<id>128</id>
 	<name>Một kính ngắm nhìn đêm chuẩn gắn ray với độ phóng đại 3.5x, được biết đến với tên "kính sao" của lực lượng phương Tây.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Tỉ lệ headshot: + 12%     Độ tản đạn: - 2
-Tầm bắn cộng thêm: + 12%                               
+Tỉ lệ headshot: + 12%  Độ tản đạn: - 2
+Tầm bắn cộng thêm: + 12%             
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Gắn trên: UMP-45, Vector, MP5K, M4A1, L85A2, M16A2, Mini-14, M249, FAL, SV-98, AS-VAL
 </name>
@@ -1447,8 +1447,8 @@ Gắn trên: UMP-45, Vector, MP5K, M4A1, L85A2, M16A2, Mini-14, M249, FAL, SV-98
 	<id>129</id>
 	<name>Một kính ngắm nhìn đêm gắn bên với độ phóng đại 3.5x, phù hợp với các súng của khối Vác-xa-va
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Tỉ lệ headshot: + 12%     Độ tản đạn: - 2
-Tầm bắn cộng thêm: + 12%                               
+Tỉ lệ headshot: + 12%  Độ tản đạn: - 2
+Tầm bắn cộng thêm: + 12%             
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể lắp trên: PP-19, AKs-74u, AK-74, AN-94, AKM, RPK, PKM, Saiga-12K, OTs-14, VSS
 </name>
@@ -1530,7 +1530,7 @@ Có thể trang bị như lớp lót, giúp bạn không bị trừ danh tiến!
 	<id>137</id>
 	<name>Găng tay chuyên dụng cho các tình huống chiến thuật, cân bằng giữa khả năng chống trầy xước, đứt tay, va đập với độ khéo tay cần thiết khi vận hành trang thiết bị chiến thuật.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Nhiệt: + 1          Khả năng đỡ đòn: + 5%
+Nhiệt: + 1    Khả năng đỡ đòn: + 5%
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Không bị mất máu khi lột đồ trên xác
 </name>
@@ -1552,7 +1552,7 @@ Dùng cho: Longhorn, Blaze cưa nòng, Blaze, M70, FAL, M134
 	<id>139</id>
 	<name>Một đôi giày thể thao có đế cao su linh hoạt, thiết kế cho sự thoải mái thông thường và phong cách thường ngày.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Nhiệt: + 1     Tốc độ di chuyển: + 5%
+Nhiệt: + 1  Tốc độ di chuyển: + 5%
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Không bảo vệ khỏi các vũng chất độc sinh học!
 </name>
@@ -1563,7 +1563,7 @@ Không bảo vệ khỏi các vũng chất độc sinh học!
 	<id>140</id>
 	<name>Ủng chống nước bền chắc, được thiết kế để bảo vệ chân và cổ chân trong mọi hoạt động ngoài trời ở môi trường ẩm ướt.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Nhiệt: + 2     Tốc độ di chuyển: + 5%
+Nhiệt: + 2  Tốc độ di chuyển: + 5%
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể đi qua đầm lầy mà không bi giảm tốc.
 Không bảo vệ khỏi các vũng chất độc sinh học!
@@ -1575,7 +1575,7 @@ Không bảo vệ khỏi các vũng chất độc sinh học!
 	<id>141</id>
 	<name>Ủng chiến đấu thiết kế cho binh sĩ. Cho sự kết hợp giữa độ bám và độ ổn định phù hợp với môi trường khắc nghiệt.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Nhiệt: + 2     Tốc độ di chuyển: + 10%
+Nhiệt: + 2  Tốc độ di chuyển: + 10%
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể đi qua đầm lầy mà không bi giảm tốc, có thể cắm dao.
 Không bảo vệ khỏi các vũng chất độc sinh học!
@@ -1640,7 +1640,7 @@ Cũng có thể lắp lên mũ đặc nhiệm.
 	<id>147</id>
 	<name>Tay cầm trước và đèn laze gắn bên cho các vũ khí dòng AK.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Tốc độ ngắm: + 30%     Hồi phục độ giật: + 30%
+Tốc độ ngắm: + 30%  Hồi phục độ giật: + 30%
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Gắn trên: AK-74, AKM, RPK
 Công thức chế tạo: Đèn laze + tây cầm AK
@@ -1652,7 +1652,7 @@ Công thức chế tạo: Đèn laze + tây cầm AK
 	<id>148</id>
 	<name>Tay cầm trước kết hợp đèn laze ngắm cho súng có rail picatinny.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Tốc độ ngắm: + 30%     Hồi phục độ giật: + 30%
+Tốc độ ngắm: + 30%  Hồi phục độ giật: + 30%
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Gắn trên: UMP-45, Vector, M4A1, L85A2
 Công thức chế tạo: Đèn laze + tây cầm ray
@@ -1666,11 +1666,11 @@ Công thức chế tạo: Đèn laze + tây cầm ray
 	<id>211</id>
 	<name>Một súng ngắn bán tự động với thiết kế công thái học được nâng cấp mạnh, do FN America sản xuất.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 21-35              Độ tản đạn: 20-6              
-Tốc độ ngắm: 4                 Độ giật: 9                      
-Giảm tốc độ chạy: 2               Thời gian nạp đạn: 2s         
-Sức chứa: 15           Đạn: .45 ACP         
-Hao mòn: 0.5%     Độ trễ mỗi phát: 0.15s
+Sát thương: 21-35        Độ tản đạn: 20-6        
+Tốc độ ngắm: 4        Độ giật: 9          
+Giảm tốc độ chạy: 2      Thời gian nạp đạn: 2s      
+Sức chứa: 15     Đạn: .45 ACP      
+Hao mòn: 0.5%  Độ trễ mỗi phát: 0.15s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -1680,11 +1680,11 @@ Hao mòn: 0.5%     Độ trễ mỗi phát: 0.15s
 	<id>212</id>
 	<name>"Chúa tạo ra con người, còn Sam Colt khiến họ bình đẳng"
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 18-30              Độ tản đạn: 20-6            
-Tốc độ ngắm: 4                 Độ giật: 10                  
-Giảm tốc độ chạy: 2               Thời gian nạp đạn: 2s       
-Sức chứa: 7             Đạn: .45 ACP       
-Hao mòn: 0.5%     Độ trễ mỗi phát: 0.2s
+Sát thương: 18-30        Độ tản đạn: 20-6      
+Tốc độ ngắm: 4        Độ giật: 10         
+Giảm tốc độ chạy: 2      Thời gian nạp đạn: 2s    
+Sức chứa: 7       Đạn: .45 ACP    
+Hao mòn: 0.5%  Độ trễ mỗi phát: 0.2s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -1694,11 +1694,11 @@ Hao mòn: 0.5%     Độ trễ mỗi phát: 0.2s
 	<id>213</id>
 	<name>Một súng lục ổ quay bán tự động sáu viên mạnh mẽ, có thể gây sát thương đáng nể.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 34-54              Độ tản đạn: 20-6                
-Tốc độ ngắm: 2                 Độ giật: 15                      
-Giảm tốc độ chạy: 3               Thời gian nạp đạn: 3s           
-Sức chứa: 6             Đạn: .357 M             
-Hao mòn: 0.5%     Độ trễ mỗi phát: 0.3s
+Sát thương: 34-54        Độ tản đạn: 20-6       
+Tốc độ ngắm: 2        Độ giật: 15          
+Giảm tốc độ chạy: 3      Thời gian nạp đạn: 3s     
+Sức chứa: 6       Đạn: .357 M       
+Hao mòn: 0.5%  Độ trễ mỗi phát: 0.3s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -1708,11 +1708,11 @@ Hao mòn: 0.5%     Độ trễ mỗi phát: 0.3s
 	<id>214</id>
 	<name>Giá thành hợp lý, đáng tin cậy và nhỏ gọn. Rất phổ biến trong lực lượng thực thi pháp luật.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 15-25              Độ tản đạn: 20-5              
-Tốc độ ngắm: 4                 Độ giật: 10                    
-Giảm tốc độ chạy: 2               Thời gian nạp đạn: 2s         
-Sức chứa: 18           Đạn: 9x19 P           
-Hao mòn: 0.5%     Độ trễ mỗi phát: 0.15s
+Sát thương: 15-25        Độ tản đạn: 20-5        
+Tốc độ ngắm: 4        Độ giật: 10        
+Giảm tốc độ chạy: 2      Thời gian nạp đạn: 2s      
+Sức chứa: 18     Đạn: 9x19 P     
+Hao mòn: 0.5%  Độ trễ mỗi phát: 0.15s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -1722,11 +1722,11 @@ Hao mòn: 0.5%     Độ trễ mỗi phát: 0.15s
 	<id>215</id>
 	<name>AWC TM-Amphibian S. Phiên bản có giảm thanh tích hợp của súng ngắn Ruger MkII
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 11-19              Độ tản đạn: 20-4           
-Tốc độ ngắm: 4                 Độ giật: 9                   
-Giảm tốc độ chạy: 3               Thời gian nạp đạn: 2s      
-Sức chứa: 10           Đạn: .22 LR         
-Hao mòn: 0.5%     Độ trễ mỗi phát: 0.2s
+Sát thương: 11-19        Độ tản đạn: 20-4     
+Tốc độ ngắm: 4        Độ giật: 9          
+Giảm tốc độ chạy: 3      Thời gian nạp đạn: 2s   
+Sức chứa: 10     Đạn: .22 LR      
+Hao mòn: 0.5%  Độ trễ mỗi phát: 0.2s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Không thu hút quái khi bắn.
 </name>
@@ -1737,11 +1737,11 @@ Không thu hút quái khi bắn.
 	<id>216</id>
 	<name>Súng săn hai nòng nạp bẻ, đã được cưa ngắn.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 22-188            Độ tản đạn: 30-13      
-Tốc độ ngắm: 3                 Độ giật: 20              
-Giảm tốc độ chạy: 2               Thời gian nạp đạn: 3s   
-Sức chứa: 2             Đạn: 12 Gauge      
-Hao mòn: 0.5%     Độ trễ mỗi phát: 0s
+Sát thương: 22-188      Độ tản đạn: 30-13   
+Tốc độ ngắm: 3        Độ giật: 20        
+Giảm tốc độ chạy: 2      Thời gian nạp đạn: 3s   
+Sức chứa: 2       Đạn: 12 Gauge   
+Hao mòn: 0.5%  Độ trễ mỗi phát: 0s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -1751,11 +1751,11 @@ Hao mòn: 0.5%     Độ trễ mỗi phát: 0s
 	<id>217</id>
 	<name>Phiên bản rút ngắn của súng trường mosin.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 79-131            Độ tản đạn: 25-12          
-Tốc độ ngắm: 3                 Độ giật: 25                   
-Giảm tốc độ chạy: 1               Thời gian nạp đạn: 3s       
-Sức chứa: 5             Đạn: 7.62x54R     
-Hao mòn: 0.5%     Độ trễ mỗi phát: 1.3s
+Sát thương: 79-131      Độ tản đạn: 25-12    
+Tốc độ ngắm: 3        Độ giật: 25          
+Giảm tốc độ chạy: 1      Thời gian nạp đạn: 3s    
+Sức chứa: 5       Đạn: 7.62x54R  
+Hao mòn: 0.5%  Độ trễ mỗi phát: 1.3s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -1765,11 +1765,11 @@ Hao mòn: 0.5%     Độ trễ mỗi phát: 1.3s
 	<id>218</id>
 	<name>Một khẩu Colt 1911 được khắc chạm tinh xảo với băng đạn được nâng cấp.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 18-30              Độ tản đạn: 20-5           
-Tốc độ ngắm: 4                 Độ giật: 10                 
-Giảm tốc độ chạy: 2               Thời gian nạp đạn: 2s      
-Sức chứa: 12           Đạn: .45 ACP      
-Hao mòn: 0.5%     Độ trễ mỗi phát: 0.2s
+Sát thương: 18-30        Độ tản đạn: 20-5     
+Tốc độ ngắm: 4        Độ giật: 10        
+Giảm tốc độ chạy: 2      Thời gian nạp đạn: 2s   
+Sức chứa: 12     Đạn: .45 ACP   
+Hao mòn: 0.5%  Độ trễ mỗi phát: 0.2s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -1779,11 +1779,11 @@ Hao mòn: 0.5%     Độ trễ mỗi phát: 0.2s
 	<id>219</id>
 	<name>Military Armament Corporation model 10, hay MAC-10. Một khẩu tiểu liên nhỏ gọn.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 15-25              Độ tản đạn: 20-10          
-Tốc độ ngắm: 3                 Độ giật: 2                    
-Giảm tốc độ chạy: 0               Thời gian nạp đạn: 2s       
-Sức chứa: 30           Đạn: 9x19 P        
-Hao mòn: 0.2%     Tốc độ bắn: 650 RPM
+Sát thương: 15-25        Độ tản đạn: 20-10    
+Tốc độ ngắm: 3        Độ giật: 2        
+Giảm tốc độ chạy: 0      Thời gian nạp đạn: 2s    
+Sức chứa: 30     Đạn: 9x19 P     
+Hao mòn: 0.2%  Tốc độ bắn: 650 RPM
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -1793,11 +1793,11 @@ Hao mòn: 0.2%     Tốc độ bắn: 650 RPM
 	<id>220</id>
 	<name>"Đây là vùng đất hoang dã, thưa cô." -Josh Randall
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 34-56              Độ tản đạn: 25-11          
-Tốc độ ngắm: 3                 Độ giật: 17                  
-Giảm tốc độ chạy: 2               Thời gian nạp đạn: 3s       
-Sức chứa: 7             Đạn: .357 M         
-Hao mòn: 0.5%     Độ trễ mỗi phát: 0.7s
+Sát thương: 34-56        Độ tản đạn: 25-11    
+Tốc độ ngắm: 3        Độ giật: 17         
+Giảm tốc độ chạy: 2      Thời gian nạp đạn: 3s    
+Sức chứa: 7       Đạn: .357 M      
+Hao mòn: 0.5%  Độ trễ mỗi phát: 0.7s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -1807,11 +1807,11 @@ Hao mòn: 0.5%     Độ trễ mỗi phát: 0.7s
 	<id>221</id>
 	<name>Súng ngắn Makarov, hay PM. Súng ngắn phục vụ tiêu chuẩn của quân đội Liên Xô.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 18-30                Độ tản đạn: 20-8            
-Tốc độ ngắm: 4                   Độ giật: 10                  
-Giảm tốc độ chạy: 2                 Thời gian nạp đạn: 2s       
-Sức chứa: 8               Đạn: 9x18 M        
-Hao mòn: 0.25%     Độ trễ mỗi phát: 0.2s
+Sát thương: 18-30       Độ tản đạn: 20-8      
+Tốc độ ngắm: 4          Độ giật: 10         
+Giảm tốc độ chạy: 2        Thời gian nạp đạn: 2s    
+Sức chứa: 8      Đạn: 9x18 M     
+Hao mòn: 0.25%  Độ trễ mỗi phát: 0.2s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -1821,11 +1821,11 @@ Hao mòn: 0.25%     Độ trễ mỗi phát: 0.2s
 	<id>222</id>
 	<name>Phiên bản có giảm thanh tích hợp của Makarov PM, được KGB và Spetsnaz sử dụng.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 18-30              Độ tản đạn: 20-9             
-Tốc độ ngắm: 4                 Độ giật: 8                     
-Giảm tốc độ chạy: 2               Thời gian nạp đạn: 2s       
-Sức chứa: 8             Đạn: 9x18 M        
-Hao mòn: 0.5%     Độ trễ mỗi phát: 0.2s
+Sát thương: 18-30        Độ tản đạn: 20-9       
+Tốc độ ngắm: 4        Độ giật: 8         
+Giảm tốc độ chạy: 2      Thời gian nạp đạn: 2s    
+Sức chứa: 8       Đạn: 9x18 M     
+Hao mòn: 0.5%  Độ trễ mỗi phát: 0.2s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Không thu hút quái khi bắn.
 </name>
@@ -1836,11 +1836,11 @@ Không thu hút quái khi bắn.
 	<id>223</id>
 	<name>Một khẩu súng ngắn mang tính biểu tượng, nổi bật với hình dáng lớn, sức công phá mạnh.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 30-50              Độ tản đạn: 20-6            
-Tốc độ ngắm: 3                 Độ giật: 13                  
-Giảm tốc độ chạy: 2               Thời gian nạp đạn: 2s       
-Sức chứa: 9             Đạn: .357 M         
-Hao mòn: 0.5%     Độ trễ mỗi phát: 0.2s
+Sát thương: 30-50        Độ tản đạn: 20-6      
+Tốc độ ngắm: 3        Độ giật: 13         
+Giảm tốc độ chạy: 2      Thời gian nạp đạn: 2s    
+Sức chứa: 9       Đạn: .357 M      
+Hao mòn: 0.5%  Độ trễ mỗi phát: 0.2s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -1850,11 +1850,11 @@ Hao mòn: 0.5%     Độ trễ mỗi phát: 0.2s
 	<id>224</id>
 	<name>Súng phóng lựu nạp bẻ một viên, sản xuất từ những năm 1960. Trông nó khá cổ, nhưng vẫn còn hiệu quả.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 45-540              Độ tản đạn: 30-8                  
-Tốc độ ngắm: 3                   Độ giật: 6                           
-Giảm tốc độ chạy: 2                 Thời gian nạp đạn: 3s             
-Sức chứa: 1               Đạn: lựu 40mm
-Hao mòn: 0.25%     Độ trễ mỗi phát: -            
+Sát thương: 45-540        Độ tản đạn: 30-8         
+Tốc độ ngắm: 3          Độ giật: 6            
+Giảm tốc độ chạy: 2        Thời gian nạp đạn: 3s       
+Sức chứa: 1      Đạn: lựu 40mm
+Hao mòn: 0.25%  Độ trễ mỗi phát: -      
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -1864,11 +1864,11 @@ Hao mòn: 0.25%     Độ trễ mỗi phát: -
 	<id>225</id>
 	<name>Súng trường hai nòng nạp bẻ, đã cắt ngắn.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 71-119            Độ tản đạn: 25-12        
-Tốc độ ngắm: 3                 Độ giật: 10                
-Giảm tốc độ chạy: 2               Thời gian nạp đạn: 3s    
-Sức chứa: 2             Đạn: .308 Win  
-Hao mòn: 0.5%     Độ trễ mỗi phát: 0s
+Sát thương: 71-119      Độ tản đạn: 25-12     
+Tốc độ ngắm: 3        Độ giật: 10       
+Giảm tốc độ chạy: 2      Thời gian nạp đạn: 3s    
+Sức chứa: 2       Đạn: .308 Win  
+Hao mòn: 0.5%  Độ trễ mỗi phát: 0s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -1878,11 +1878,11 @@ Hao mòn: 0.5%     Độ trễ mỗi phát: 0s
 	<id>226</id>
 	<name>Súng ngắn săn nạp bẻ một viên, phù hợp để săn thú. Đi kèm kính ngắm tích hợp.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 79-131            Độ tản đạn: 20-1      
-Tốc độ ngắm: 2                 Độ giật: 25            
-Giảm tốc độ chạy: 2               Thời gian nạp đạn: 3s 
-Sức chứa: 1             Đạn: .308 Win
-Hao mòn: 0.5%     Độ trễ mỗi phát: -
+Sát thương: 79-131      Độ tản đạn: 20-1   
+Tốc độ ngắm: 2        Độ giật: 25      
+Giảm tốc độ chạy: 2      Thời gian nạp đạn: 3s 
+Sức chứa: 1       Đạn: .308 Win
+Hao mòn: 0.5%  Độ trễ mỗi phát: -
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 + 15% tỉ lệ headshot khi ngắm chính xác, + tầm bắn cộng thêm.
 </name>
@@ -1893,11 +1893,11 @@ Hao mòn: 0.5%     Độ trễ mỗi phát: -
 	<id>227</id>
 	<name>Một phiên bản nhỏ gọn hơn của khẩu tiểu liên UZI nguyên bản.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 18-30             Độ tản đạn: 20-10          
-Tốc độ ngắm: 3                Độ giật: 2                   
-Giảm tốc độ chạy: 0              Thời gian nạp đạn: 2s       
-Sức chứa: 22          Đạn: .45 ACP       
-Hao mòn: 0.2%     Tốc độ bắn: 600 RPM
+Sát thương: 18-30       Độ tản đạn: 20-10    
+Tốc độ ngắm: 3       Độ giật: 2          
+Giảm tốc độ chạy: 0        Thời gian nạp đạn: 2s    
+Sức chứa: 22    Đạn: .45 ACP    
+Hao mòn: 0.2%  Tốc độ bắn: 600 RPM
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -1907,13 +1907,13 @@ Hao mòn: 0.2%     Tốc độ bắn: 600 RPM
 	<id>228</id>
 	<name>Súng săn ba nòng được cải biên gắn thêm lưỡi rìu!
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 71-119/22-188     Độ tản đạn: 25-12                  
-Tốc độ ngắm: 3                         Độ giật: 10                          
-Giảm tốc độ chạy: 2                      Thời gian nạp đạn: -                  
-Sức chứa: 2/1               Đạn: .308 Win / 12 Gauge
+Sát thương: 71-119/22-188  Độ tản đạn: 25-12         
+Tốc độ ngắm: 3          Độ giật: 10           
+Giảm tốc độ chạy: 2          Thời gian nạp đạn: -         
+Sức chứa: 2/1      Đạn: .308 Win / 12 Gauge
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 38-63            Tỉ lệ chí mạng: 25%  
-Tỉ lệ đỡ: 25%     Tốc độ đánh: 1.5s
+Sát thương: 38-63      Tỉ lệ chí mạng: 25%  
+Tỉ lệ đỡ: 25%  Tốc độ đánh: 1.5s
 Dùng trong cận chiến và đốn cây.
 </name>
 </text>
@@ -1925,11 +1925,11 @@ Dùng trong cận chiến và đốn cây.
 	<id>232</id>
 	<name>Súng trường bolt-action năm viên do Nga thiết kế, được sử dụng rộng rãi trong Thế chiến I và II.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 79-131            Độ tản đạn: 25-3             
-Tốc độ ngắm: 1                 Độ giật: 20                   
-Giảm tốc độ chạy: 5               Thời gian nạp đạn: 4s        
-Sức chứa: 5             Đạn: 7.62x54R     
-Hao mòn: 0.4%     Độ trễ mỗi phát: 1.3s
+Sát thương: 79-131      Độ tản đạn: 25-3       
+Tốc độ ngắm: 1        Độ giật: 20          
+Giảm tốc độ chạy: 5      Thời gian nạp đạn: 4s     
+Sức chứa: 5       Đạn: 7.62x54R  
+Hao mòn: 0.4%  Độ trễ mỗi phát: 1.3s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 + Tầm bắn cộng thêm.
 </name>
@@ -1940,11 +1940,11 @@ Hao mòn: 0.4%     Độ trễ mỗi phát: 1.3s
 	<id>233</id>
 	<name>Một súng cạc bin được phát triển từ M16. Là vũ khí tiêu chuẩn cho bộ binh quân đội Mỹ.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 22-38              Độ tản đạn: 25-4           
-Tốc độ ngắm: 1.5              Độ giật: 3                  
-Giảm tốc độ chạy: 2               Thời gian nạp đạn: 2.5s  
-Sức chứa: 30           Đạn: 5.56x45      
-Hao mòn: 0.2%     Tốc độ bắn: 600 RPM
+Sát thương: 22-38        Độ tản đạn: 25-4     
+Tốc độ ngắm: 1.5        Độ giật: 3         
+Giảm tốc độ chạy: 2      Thời gian nạp đạn: 2.5s  
+Sức chứa: 30     Đạn: 5.56x45   
+Hao mòn: 0.2%  Tốc độ bắn: 600 RPM
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -1954,11 +1954,11 @@ Hao mòn: 0.2%     Tốc độ bắn: 600 RPM
 	<id>234</id>
 	<name>Súng săn nạp bẻ hai nòng song song do Nga sản xuất, dùng để săn thú lớn.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 22-188            Độ tản đạn: 30-13    
-Tốc độ ngắm: 1                 Độ giật: 20           
-Giảm tốc độ chạy: 2               Thời gian nạp đạn: 3s 
-Sức chứa: 2             Đạn: 12 Gauge    
-Hao mòn: 0.5%     Độ trễ mỗi phát: 0
+Sát thương: 22-188      Độ tản đạn: 30-13    
+Tốc độ ngắm: 1        Độ giật: 20     
+Giảm tốc độ chạy: 2      Thời gian nạp đạn: 3s 
+Sức chứa: 2       Đạn: 12 Gauge    
+Hao mòn: 0.5%  Độ trễ mỗi phát: 0
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -1968,11 +1968,11 @@ Hao mòn: 0.5%     Độ trễ mỗi phát: 0
 	<id>235</id>
 	<name>Người kế nhiệm của AKM, do Mikhail Kalashnikov thiết kế để cạnh tranh với các súng trường phương Tây như M16.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 26-44                Độ tản đạn: 25-5            
-Tốc độ ngắm: 1.5                Độ giật: 4                   
-Giảm tốc độ chạy: 2                 Thời gian nạp đạn: 2.50s 
-Sức chứa: 30             Đạn: 5.45x39      
-Hao mòn: 0.15%     Tốc độ bắn: 600 RPM
+Sát thương: 26-44       Độ tản đạn: 25-5      
+Tốc độ ngắm: 1.5       Độ giật: 4          
+Giảm tốc độ chạy: 2        Thời gian nạp đạn: 2.5s 
+Sức chứa: 30       Đạn: 5.45x39   
+Hao mòn: 0.15%  Tốc độ bắn: 600 RPM
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -1980,13 +1980,13 @@ Hao mòn: 0.15%     Tốc độ bắn: 600 RPM
 <!--AKM-->
 <text>
 	<id>236</id>
-	<name>Phiên bản cải tiến của AK-47 kinh điểndo Mikhail Kalashnikov thiết kế, có bù giật, khả năng gắn phụ kiện.
+	<name>Phiên bản cải tiến của AK-47 kinh điển do Mikhail Kalashnikov thiết kế, có bù giật, khả năng gắn phụ kiện.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 30-50                Độ tản đạn: 25-5            
-Tốc độ ngắm: 1.5                Độ giật: 5                   
-Giảm tốc độ chạy: 2                 Thời gian nạp đạn: 2.50s 
-Sức chứa: 30             Đạn: 7.62x39      
-Hao mòn: 0.15%     Tốc độ bắn: 460 RPM
+Sát thương: 30-50       Độ tản đạn: 25-5      
+Tốc độ ngắm: 1.5       Độ giật: 5          
+Giảm tốc độ chạy: 2        Thời gian nạp đạn: 2.5s 
+Sức chứa: 30       Đạn: 7.62x39   
+Hao mòn: 0.15%  Tốc độ bắn: 460 RPM
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -1996,11 +1996,11 @@ Hao mòn: 0.15%     Tốc độ bắn: 460 RPM
 	<id>237</id>
 	<name>Một biến thể cạc bin của AK-74, với nòng rút ngắn và báng gấp được.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 26-44                Độ tản đạn: 25-8           
-Tốc độ ngắm: 2                   Độ giật: 4                  
-Giảm tốc độ chạy: 1                 Thời gian nạp đạn: 2.50s 
-Sức chứa: 30             Đạn: 5.45x39      
-Hao mòn: 0.15%     Tốc độ bắn: 750 RPM
+Sát thương: 26-44       Độ tản đạn: 25-8     
+Tốc độ ngắm: 2          Độ giật: 4         
+Giảm tốc độ chạy: 1        Thời gian nạp đạn: 2.5s 
+Sức chứa: 30       Đạn: 5.45x39   
+Hao mòn: 0.15%  Tốc độ bắn: 750 RPM
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -2010,11 +2010,11 @@ Hao mòn: 0.15%     Tốc độ bắn: 750 RPM
 	<id>238</id>
 	<name>Khẩu cạc bin bán tự động bền chắc này được sử dụng rộng rãi trong kháng chiến chống Mỹ.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 34-56                Độ tản đạn: 25-4           
-Tốc độ ngắm: 1.5                Độ giật: 10                
-Giảm tốc độ chạy: 4                 Thời gian nạp đạn: 3s      
-Sức chứa: 10             Đạn: 7.62x39       
-Hao mòn: 0.25%     Độ trễ mỗi phát: 0.3s
+Sát thương: 34-56       Độ tản đạn: 25-4     
+Tốc độ ngắm: 1.5       Độ giật: 10       
+Giảm tốc độ chạy: 4        Thời gian nạp đạn: 3s   
+Sức chứa: 10       Đạn: 7.62x39    
+Hao mòn: 0.25%  Độ trễ mỗi phát: 0.3s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 + Tầm bắn cộng thêm.
 </name>
@@ -2025,11 +2025,11 @@ Hao mòn: 0.25%     Độ trễ mỗi phát: 0.3s
 	<id>240</id>
 	<name>Một súng trường tấn công bullpup của Anh, được HK cải tiến thành vũ khí đáng tin cậy và chính xác.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 22-38              Độ tản đạn: 25-3           
-Tốc độ ngắm: 1.5              Độ giật: 3                  
-Giảm tốc độ chạy: 3               Thời gian nạp đạn: 3s     
-Sức chứa: 30           Đạn: 5.56x45      
-Hao mòn: 0.2%     Tốc độ bắn: 500 RPM
+Sát thương: 22-38        Độ tản đạn: 25-3     
+Tốc độ ngắm: 1.5        Độ giật: 3         
+Giảm tốc độ chạy: 3      Thời gian nạp đạn: 3s  
+Sức chứa: 30     Đạn: 5.56x45   
+Hao mòn: 0.2%  Tốc độ bắn: 500 RPM
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -2039,11 +2039,11 @@ Hao mòn: 0.2%     Tốc độ bắn: 500 RPM
 	<id>241</id>
 	<name>Súng săn kinh điển của Mỹ, nổi tiếng với âm thanh sóc lọ đặc trưng để đe dọa kẻ địch.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 22-188              Độ tản đạn: 30-15          
-Tốc độ ngắm: 1                   Độ giật: 20                  
-Giảm tốc độ chạy: 2                 Thời gian nạp đạn: 3s       
-Sức chứa: 6               Đạn: 12 Gauge          
-Hao mòn: 0.25%     Độ trễ mỗi phát: 0.9s
+Sát thương: 22-188        Độ tản đạn: 30-15    
+Tốc độ ngắm: 1          Độ giật: 20         
+Giảm tốc độ chạy: 2        Thời gian nạp đạn: 3s    
+Sức chứa: 6      Đạn: 12 Gauge    
+Hao mòn: 0.25%  Độ trễ mỗi phát: 0.9s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -2053,11 +2053,11 @@ Hao mòn: 0.25%     Độ trễ mỗi phát: 0.9s
 	<id>243</id>
 	<name>Một cây cung thô sơ làm từ một cành cây và dây thừng. Vũ khí sơ khai có thể chống lại zombie hiện đại.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 37-94              Độ tản đạn: 25-6            
-Tốc độ ngắm: 2                 Độ giật: -                     
-Giảm tốc độ chạy: 3               Thời gian nạp đạn: 2s       
-Sức chứa: -              Đạn: Mũi tên
-Hao mòn: 0.5%     Độ trễ mỗi phát: -     
+Sát thương: 37-94        Độ tản đạn: 25-6      
+Tốc độ ngắm: 2        Độ giật: -         
+Giảm tốc độ chạy: 3      Thời gian nạp đạn: 2s    
+Sức chứa: -        Đạn: Mũi tên
+Hao mòn: 0.5%  Độ trễ mỗi phát: -  
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Không thu hút quái khi bắn.
 </name>
@@ -2068,11 +2068,11 @@ Không thu hút quái khi bắn.
 	<id>244</id>
 	<name>Một khẩu nỏ săn được ngụy trang, khá hiện đại và chính xác, dùng để săn thú lớn hoặc zombie.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 37-94              Độ tản đạn: 25-3             
-Tốc độ ngắm: 2                 Độ giật: -                      
-Giảm tốc độ chạy: 3               Thời gian nạp đạn: 2s        
-Sức chứa: -              Đạn: Mũi tên
-Hao mòn: 0.4%     Độ trễ mỗi phát: -     
+Sát thương: 37-94        Độ tản đạn: 25-3       
+Tốc độ ngắm: 2        Độ giật: -          
+Giảm tốc độ chạy: 3      Thời gian nạp đạn: 2s     
+Sức chứa: -        Đạn: Mũi tên
+Hao mòn: 0.4%  Độ trễ mỗi phát: -  
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Không thu hút quái khi bắn.
 </name>
@@ -2083,11 +2083,11 @@ Không thu hút quái khi bắn.
 	<id>246</id>
 	<name>Một khẩu súng trường giảm thanh tích hợp với báng gỗ cứng và kiểu dáng tinh tế, tuyệt vời để bắn chơi chơi.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 15-25             Độ tản đạn: 25-4            
-Tốc độ ngắm: 2                Độ giật: 8                   
-Giảm tốc độ chạy: 3              Thời gian nạp đạn: 2.50s  
-Sức chứa: 30          Đạn: .22 LR          
-Hao mòn: 0.2%     Độ trễ mỗi phát: 0.2s
+Sát thương: 15-25       Độ tản đạn: 25-4      
+Tốc độ ngắm: 2       Độ giật: 8          
+Giảm tốc độ chạy: 3        Thời gian nạp đạn: 2.5s  
+Sức chứa: 30    Đạn: .22 LR    
+Hao mòn: 0.2%  Độ trễ mỗi phát: 0.2s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Không thu hút quái khi bắn.
 </name>
@@ -2098,11 +2098,11 @@ Không thu hút quái khi bắn.
 	<id>247</id>
 	<name>Một súng trường bán tự động gạt cần, phiên bản hiện đại của Winchester Model 92 do Rossi thiết kế.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 30-50              Độ tản đạn: 25-5             
-Tốc độ ngắm: 2                 Độ giật: 10                  
-Giảm tốc độ chạy: 3               Thời gian nạp đạn: 3s       
-Sức chứa: 7             Đạn: .357 M         
-Hao mòn: 0.2%     Độ trễ mỗi phát: 0.7s
+Sát thương: 30-50        Độ tản đạn: 25-5       
+Tốc độ ngắm: 2        Độ giật: 10         
+Giảm tốc độ chạy: 3      Thời gian nạp đạn: 3s    
+Sức chứa: 7       Đạn: .357 M      
+Hao mòn: 0.2%  Độ trễ mỗi phát: 0.7s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 + Tầm bắn cộng thêm.
 </name>
@@ -2113,11 +2113,11 @@ Hao mòn: 0.2%     Độ trễ mỗi phát: 0.7s
 	<id>248</id>
 	<name>Súng trường Thiện xạ bán tự động hoạt động bằng trích khí mang tính biểu tượng của Liên Xô, do Yevgeny Dragunov thiết kế.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 71-119            Độ tản đạn: 25-3             
-Tốc độ ngắm: 1                 Độ giật: 13                   
-Giảm tốc độ chạy: 5               Thời gian nạp đạn: 3s       
-Sức chứa: 10           Đạn: 7.62x54R    
-Hao mòn: 0.4%     Độ trễ mỗi phát: 0.4s
+Sát thương: 71-119      Độ tản đạn: 25-3       
+Tốc độ ngắm: 1        Độ giật: 13          
+Giảm tốc độ chạy: 5      Thời gian nạp đạn: 3s    
+Sức chứa: 10     Đạn: 7.62x54R    
+Hao mòn: 0.4%  Độ trễ mỗi phát: 0.4s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 + Tầm bắn cộng thêm.
 </name>
@@ -2128,11 +2128,11 @@ Hao mòn: 0.4%     Độ trễ mỗi phát: 0.4s
 	<id>249</id>
 	<name>Một khẩu tiểu liên nhỏ gọn của MP5. Chữ K "Kurz" có nghĩa là ngắn trong tiếng Đức.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 21-35                Độ tản đạn: 20-10         
-Tốc độ ngắm: 2                   Độ giật: 1                    
-Giảm tốc độ chạy: 0                 Thời gian nạp đạn: 2s      
-Sức chứa: 30             Đạn: 9x19 P        
-Hao mòn: 0.15%     Tốc độ bắn: 850 RPM
+Sát thương: 21-35       Độ tản đạn: 20-10      
+Tốc độ ngắm: 2          Độ giật: 1        
+Giảm tốc độ chạy: 0        Thời gian nạp đạn: 2s   
+Sức chứa: 30       Đạn: 9x19 P     
+Hao mòn: 0.15%  Tốc độ bắn: 850 RPM
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Đi kèm tay cầm tích hợp.
 </name>
@@ -2149,11 +2149,11 @@ Hao mòn: 0.15%     Tốc độ bắn: 850 RPM
 	<id>251</id>
 	<name>Universale Maschinen Pistole. Phiên bản nhẹ hơn của MP5 phổ biến.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 21-35                Độ tản đạn: 20-9            
-Tốc độ ngắm: 2                   Độ giật: 2                    
-Giảm tốc độ chạy: 0                 Thời gian nạp đạn: 2s      
-Sức chứa: 30             Đạn: .45 ACP      
-Hao mòn: 0.15%     Tốc độ bắn: 650 RPM
+Sát thương: 21-35       Độ tản đạn: 20-9      
+Tốc độ ngắm: 2          Độ giật: 2        
+Giảm tốc độ chạy: 0        Thời gian nạp đạn: 2s   
+Sức chứa: 30       Đạn: .45 ACP   
+Hao mòn: 0.15%  Tốc độ bắn: 650 RPM
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -2163,11 +2163,11 @@ Hao mòn: 0.15%     Tốc độ bắn: 650 RPM
 	<id>252</id>
 	<name>Một phiên bản súng máy hạng nhẹ của AKM, do Mikhail Kalashnikov thiết kế.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 30-50                Độ tản đạn: 20-5            
-Tốc độ ngắm: 1.5                Độ giật: 6                   
-Giảm tốc độ chạy: 2                 Thời gian nạp đạn: 3s      
-Sức chứa: 40             Đạn: 7.62x39      
-Hao mòn: 0.15%     Tốc độ bắn: 600 RPM
+Sát thương: 30-50       Độ tản đạn: 20-5      
+Tốc độ ngắm: 1.5       Độ giật: 6          
+Giảm tốc độ chạy: 2        Thời gian nạp đạn: 3s   
+Sức chứa: 40       Đạn: 7.62x39   
+Hao mòn: 0.15%  Tốc độ bắn: 600 RPM
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Đi kèm chân chống hai càng.
 </name>
@@ -2178,11 +2178,11 @@ Hao mòn: 0.15%     Tốc độ bắn: 600 RPM
 	<id>253</id>
 	<name>Một khẩu súng trường với danh hiệu "Cánh tay phải của thế giới tự do", được phát triển ở Bỉ năm 1953.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 54-90                Độ tản đạn: 25-4            
-Tốc độ ngắm: 1.5                Độ giật: 6                   
-Giảm tốc độ chạy: 2                 Thời gian nạp đạn: 2.50s 
-Sức chứa: 20             Đạn: .308 Win     
-Hao mòn: 0.15%     Tốc độ bắn: 600 RPM
+Sát thương: 54-90       Độ tản đạn: 25-4      
+Tốc độ ngắm: 1.5       Độ giật: 6          
+Giảm tốc độ chạy: 2        Thời gian nạp đạn: 2.5s 
+Sức chứa: 20       Đạn: .308 Win  
+Hao mòn: 0.15%  Tốc độ bắn: 600 RPM
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -2192,11 +2192,11 @@ Hao mòn: 0.15%     Tốc độ bắn: 600 RPM
 	<id>254</id>
 	<name>Một khẩu súng săn liên thanh do Nga sản xuất, nổi tiếng với thiết kế kiểu AK.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 22-188              Độ tản đạn: 30-17         
-Tốc độ ngắm: 1                   Độ giật: 19                 
-Giảm tốc độ chạy: 2                 Thời gian nạp đạn: 3s      
-Sức chứa: 8               Đạn: 12 Gauge         
-Hao mòn: 0.25%     Tốc độ bắn: 200 RPM
+Sát thương: 22-188        Độ tản đạn: 30-17      
+Tốc độ ngắm: 1          Độ giật: 19        
+Giảm tốc độ chạy: 2        Thời gian nạp đạn: 3s   
+Sức chứa: 8      Đạn: 12 Gauge      
+Hao mòn: 0.25%  Tốc độ bắn: 200 RPM
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -2206,11 +2206,11 @@ Hao mòn: 0.25%     Tốc độ bắn: 200 RPM
 	<id>255</id>
 	<name>Phiên bản nguyên bản và mang tính biểu tượng của Steyr AUG, nổi tiếng với tay cầm và kính ngắm tích hợp.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 25-41              Độ tản đạn: 25-3           
-Tốc độ ngắm: 1.5              Độ giật: 1.5               
-Giảm tốc độ chạy: 2.5            Thời gian nạp đạn: 3s     
-Sức chứa: 30           Đạn: 5.56x45      
-Hao mòn: 0.2%     Tốc độ bắn: 650 RPM
+Sát thương: 25-41        Độ tản đạn: 25-3     
+Tốc độ ngắm: 1.5        Độ giật: 1.5      
+Giảm tốc độ chạy: 2.5      Thời gian nạp đạn: 3s  
+Sức chứa: 30     Đạn: 5.56x45   
+Hao mòn: 0.2%  Tốc độ bắn: 650 RPM
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 + 15% tỉ lệ headshot, + tầm bắn cộng thêm.
 </name>
@@ -2221,11 +2221,11 @@ Hao mòn: 0.2%     Tốc độ bắn: 650 RPM
 	<id>256</id>
 	<name>Một khẩu tiểu liên của Nga, nhận biết qua băng đạn nạp kiểu xoắn ốc giúp giữ các viên đạn song song với nòng súng.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 18-30                Độ tản đạn: 20-8            
-Tốc độ ngắm: 2                   Độ giật: 3                    
-Giảm tốc độ chạy: 0                 Thời gian nạp đạn: 3.50s 
-Sức chứa: 64             Đạn: 9x18 M       
-Hao mòn: 0.15%     Tốc độ bắn: 550 RPM
+Sát thương: 18-30       Độ tản đạn: 20-8      
+Tốc độ ngắm: 2          Độ giật: 3        
+Giảm tốc độ chạy: 0        Thời gian nạp đạn: 3.50s 
+Sức chứa: 64       Đạn: 9x18 M    
+Hao mòn: 0.15%  Tốc độ bắn: 550 RPM
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -2235,11 +2235,11 @@ Hao mòn: 0.15%     Tốc độ bắn: 550 RPM
 	<id>257</id>
 	<name>Một khẩu súng trường tấn công kết hợp súng phóng lựu dành cho đặc nhiệm được phát triển vào giữa những năm 90.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 34-56              Độ tản đạn: 25-5          
-Tốc độ ngắm: 1.5              Độ giật: 3                 
-Giảm tốc độ chạy: 3               Thời gian nạp đạn: 3s     
-Sức chứa: 30           Đạn: 9x39           
-Hao mòn: 0.2%     Tốc độ bắn: 600 RPM
+Sát thương: 34-56        Độ tản đạn: 25-5    
+Tốc độ ngắm: 1.5        Độ giật: 3        
+Giảm tốc độ chạy: 3      Thời gian nạp đạn: 3s  
+Sức chứa: 30     Đạn: 9x39     
+Hao mòn: 0.2%  Tốc độ bắn: 600 RPM
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có súng phóng lựu gp-25 tích hợp.
 </name>
@@ -2250,11 +2250,11 @@ Có súng phóng lựu gp-25 tích hợp.
 	<id>258</id>
 	<name>Khẩu súng trường bắn tỉa đặc biệt Vintorez huyền thoại, được thiết kế để tác chiến trong im lặng.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 37-62              Độ tản đạn: 25-2           
-Tốc độ ngắm: 1.5              Độ giật: 4                  
-Giảm tốc độ chạy: 2               Thời gian nạp đạn: 3s     
-Sức chứa: 20           Đạn: 9x39           
-Hao mòn: 0.2%     Tốc độ bắn: 600 RPM
+Sát thương: 37-62        Độ tản đạn: 25-2     
+Tốc độ ngắm: 1.5        Độ giật: 4         
+Giảm tốc độ chạy: 2      Thời gian nạp đạn: 3s  
+Sức chứa: 20     Đạn: 9x39     
+Hao mòn: 0.2%  Tốc độ bắn: 600 RPM
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Không thu hút quái khi bắn, + tầm bắn cộng thêm.
 </name>
@@ -2265,11 +2265,11 @@ Không thu hút quái khi bắn, + tầm bắn cộng thêm.
 	<id>259</id>
 	<name>Súng trường bắn tỉa bolt-action với nòng nổi tự do, có độ chính xác cao nhất.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 86-144            Độ tản đạn: 25-3            
-Tốc độ ngắm: 1.5              Độ giật: 9                    
-Giảm tốc độ chạy: 5               Thời gian nạp đạn: 3s       
-Sức chứa: 10           Đạn: 7.62x54R    
-Hao mòn: 0.3%     Độ trễ mỗi phát: 0.9s
+Sát thương: 86-144      Độ tản đạn: 25-3      
+Tốc độ ngắm: 1.5        Độ giật: 9        
+Giảm tốc độ chạy: 5      Thời gian nạp đạn: 3s    
+Sức chứa: 10     Đạn: 7.62x54R    
+Hao mòn: 0.3%  Độ trễ mỗi phát: 0.9s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 + 10% tỉ lệ headshot khi ngắm chính xác, + tầm bắn cộng thêm.
 </name>
@@ -2280,11 +2280,11 @@ Hao mòn: 0.3%     Độ trễ mỗi phát: 0.9s
 	<id>260</id>
 	<name>Khẩu súng máy hạng nhẹ đầu tiên trên thế giới, được Quân đội Đan Mạch trang bị năm 1902, rất cổ điển.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 52-87              Độ tản đạn: 25-6           
-Tốc độ ngắm: 1.5              Độ giật: 6                   
-Giảm tốc độ chạy: 2               Thời gian nạp đạn: 3s      
-Sức chứa: 30           Đạn: 7.62x54R    
-Hao mòn: 0.5%     Tốc độ bắn: 500 RPM
+Sát thương: 52-87        Độ tản đạn: 25-6     
+Tốc độ ngắm: 1.5        Độ giật: 6          
+Giảm tốc độ chạy: 2      Thời gian nạp đạn: 3s   
+Sức chứa: 30     Đạn: 7.62x54R    
+Hao mòn: 0.5%  Tốc độ bắn: 500 RPM
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Đi kèm chân chống hai càng.
 </name>
@@ -2295,11 +2295,11 @@ Hao mòn: 0.5%     Tốc độ bắn: 500 RPM
 	<id>261</id>
 	<name>Một khẩu súng trường tấn công phức tạp do Nga sản xuất với tính năng "hyper burst" đặc trưng.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 28-46                Độ tản đạn: 25-4             
-Tốc độ ngắm: 1.5                Độ giật: 3                     
-Giảm tốc độ chạy: 2                 Thời gian nạp đạn: 2.50s  
-Sức chứa: 30             Đạn: 5.45x39        
-Hao mòn: 0.25%     Tốc độ bắn: 1800 RPM
+Sát thương: 28-46       Độ tản đạn: 25-4       
+Tốc độ ngắm: 1.5       Độ giật: 3         
+Giảm tốc độ chạy: 2        Thời gian nạp đạn: 2.5s  
+Sức chứa: 30       Đạn: 5.45x39     
+Hao mòn: 0.25%  Tốc độ bắn: 1800 RPM
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể chuyển đổi chế độ bắn.
 </name>
@@ -2310,11 +2310,11 @@ Có thể chuyển đổi chế độ bắn.
 	<id>262</id>
 	<name>"Nếu quy tắc mà anh tuân theo lại dẫn anh đến chuyện này, thì quy tắc đó có ích gì?" - Anton Chigurh
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 22-188              Độ tản đạn: 30-15         
-Tốc độ ngắm: 1.5                Độ giật: 20                
-Giảm tốc độ chạy: 2                 Thời gian nạp đạn: 3s      
-Sức chứa: 6               Đạn: 12 Gauge         
-Hao mòn: 0.25%     Độ trễ mỗi phát: 0.9s
+Sát thương: 22-188        Độ tản đạn: 30-15      
+Tốc độ ngắm: 1.5       Độ giật: 20       
+Giảm tốc độ chạy: 2        Thời gian nạp đạn: 3s   
+Sức chứa: 6      Đạn: 12 Gauge      
+Hao mòn: 0.25%  Độ trễ mỗi phát: 0.9s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Không thu hút quái khi bắn.
 </name>
@@ -2325,11 +2325,11 @@ Không thu hút quái khi bắn.
 	<id>263</id>
 	<name>Phiên bản nâng cấp Colt Model 708 được phát triển năm 1998. Được quân đội Hy Lạp ưa chuộng.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 22-38              Độ tản đạn: 25-4             
-Tốc độ ngắm: 1.5              Độ giật: 3                     
-Giảm tốc độ chạy: 3               Thời gian nạp đạn: 2.50s  
-Sức chứa: 30           Đạn: 5.56x45        
-Hao mòn: 0.2%     Tốc độ bắn: 1800 RPM
+Sát thương: 22-38        Độ tản đạn: 25-4       
+Tốc độ ngắm: 1.5        Độ giật: 3         
+Giảm tốc độ chạy: 3      Thời gian nạp đạn: 2.5s  
+Sức chứa: 30     Đạn: 5.56x45     
+Hao mòn: 0.2%  Tốc độ bắn: 1800 RPM
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể chuyển đổi chế độ bắn.
 </name>
@@ -2340,11 +2340,11 @@ Có thể chuyển đổi chế độ bắn.
 	<id>264</id>
 	<name>Một khẩu tiểu liên nổi bật với hệ thống giảm giật độc đáo và ngoại hình tương lai cùng với tốc độ bắn khủng.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 21-35                Độ tản đạn: 20-10           
-Tốc độ ngắm: 2                   Độ giật: 2                     
-Giảm tốc độ chạy: 0                 Thời gian nạp đạn: 2s        
-Sức chứa: 30             Đạn: .45 ACP        
-Hao mòn: 0.15%     Tốc độ bắn: 1200 RPM
+Sát thương: 21-35       Độ tản đạn: 20-10     
+Tốc độ ngắm: 2          Độ giật: 2         
+Giảm tốc độ chạy: 0        Thời gian nạp đạn: 2s     
+Sức chứa: 30       Đạn: .45 ACP     
+Hao mòn: 0.15%  Tốc độ bắn: 1200 RPM
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -2354,11 +2354,11 @@ Hao mòn: 0.15%     Tốc độ bắn: 1200 RPM
 	<id>265</id>
 	<name>M4A1 có băng đạn trống.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 22-38              Độ tản đạn: 25-4           
-Tốc độ ngắm: 1.5              Độ giật: 3                   
-Giảm tốc độ chạy: 2               Thời gian nạp đạn: 2.5s  
-Sức chứa: 30           Đạn: 5.56x45      
-Hao mòn: 0.2%     Tốc độ bắn: 600 RPM
+Sát thương: 22-38        Độ tản đạn: 25-4     
+Tốc độ ngắm: 1.5        Độ giật: 3          
+Giảm tốc độ chạy: 2      Thời gian nạp đạn: 2.5s  
+Sức chứa: 30     Đạn: 5.56x45   
+Hao mòn: 0.2%  Tốc độ bắn: 600 RPM
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -2368,11 +2368,11 @@ Hao mòn: 0.2%     Tốc độ bắn: 600 RPM
 	<id>266</id>
 	<name>AKM có băng đạn trống.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 30-50                Độ tản đạn: 25-5            
-Tốc độ ngắm: 1.5                Độ giật: 5                   
-Giảm tốc độ chạy: 2                 Thời gian nạp đạn: 2.50s 
-Sức chứa: 30             Đạn: 7.62x39      
-Hao mòn: 0.15%     Tốc độ bắn: 460 RPM
+Sát thương: 30-50       Độ tản đạn: 25-5      
+Tốc độ ngắm: 1.5       Độ giật: 5          
+Giảm tốc độ chạy: 2        Thời gian nạp đạn: 2.5s 
+Sức chứa: 30       Đạn: 7.62x39   
+Hao mòn: 0.15%  Tốc độ bắn: 460 RPM
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -2382,11 +2382,11 @@ Hao mòn: 0.15%     Tốc độ bắn: 460 RPM
 	<id>267</id>
 	<name>Winchester Model 70. Một súng trường bolt-action nđược các xạ thủ đánh giá cao.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 79-131            Độ tản đạn: 25-3            
-Tốc độ ngắm: 1                 Độ giật: 20                  
-Giảm tốc độ chạy: 5               Thời gian nạp đạn: 4s       
-Sức chứa: 5             Đạn: .308 Win     
-Hao mòn: 0.4%     Độ trễ mỗi phát: 1.3s
+Sát thương: 79-131      Độ tản đạn: 25-3      
+Tốc độ ngắm: 1        Độ giật: 20         
+Giảm tốc độ chạy: 5      Thời gian nạp đạn: 4s    
+Sức chứa: 5       Đạn: .308 Win  
+Hao mòn: 0.4%  Độ trễ mỗi phát: 1.3s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 + Tầm bắn cộng thêm.
 </name>
@@ -2397,11 +2397,11 @@ Hao mòn: 0.4%     Độ trễ mỗi phát: 1.3s
 	<id>268</id>
 	<name>Saiga-12k có băng đạn trống.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 22-188              Độ tản đạn: 30-17         
-Tốc độ ngắm: 1                   Độ giật: 19                 
-Giảm tốc độ chạy: 2                 Thời gian nạp đạn: 3s      
-Sức chứa: 8               Đạn: 12 Gauge         
-Hao mòn: 0.25%     Tốc độ bắn: 200 RPM
+Sát thương: 22-188        Độ tản đạn: 30-17      
+Tốc độ ngắm: 1          Độ giật: 19        
+Giảm tốc độ chạy: 2        Thời gian nạp đạn: 3s   
+Sức chứa: 8      Đạn: 12 Gauge      
+Hao mòn: 0.25%  Tốc độ bắn: 200 RPM
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -2411,11 +2411,11 @@ Hao mòn: 0.25%     Tốc độ bắn: 200 RPM
 	<id>269</id>
 	<name>RPK có băng đạn trống.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 30-50                Độ tản đạn: 20-5            
-Tốc độ ngắm: 1.5                Độ giật: 6                   
-Giảm tốc độ chạy: 2                 Thời gian nạp đạn: 3s      
-Sức chứa: 40             Đạn: 7.62x39      
-Hao mòn: 0.15%     Tốc độ bắn: 600 RPM
+Sát thương: 30-50       Độ tản đạn: 20-5      
+Tốc độ ngắm: 1.5       Độ giật: 6          
+Giảm tốc độ chạy: 2        Thời gian nạp đạn: 3s   
+Sức chứa: 40       Đạn: 7.62x39   
+Hao mòn: 0.15%  Tốc độ bắn: 600 RPM
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Đi kèm chân chống hai càng.
 </name>
@@ -2426,11 +2426,11 @@ Hao mòn: 0.15%     Tốc độ bắn: 600 RPM
 	<id>270</id>
 	<name>M16A2 có băng đạn trống.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 22-38              Độ tản đạn: 25-4              
-Tốc độ ngắm: 1.5              Độ giật: 3                      
-Giảm tốc độ chạy: 3               Thời gian nạp đạn: 2.50s   
-Sức chứa: 30           Đạn: 5.56x45        
-Hao mòn: 0.2%     Tốc độ bắn: 1800 RPM
+Sát thương: 22-38        Độ tản đạn: 25-4        
+Tốc độ ngắm: 1.5        Độ giật: 3          
+Giảm tốc độ chạy: 3      Thời gian nạp đạn: 2.5s   
+Sức chứa: 30     Đạn: 5.56x45     
+Hao mòn: 0.2%  Tốc độ bắn: 1800 RPM
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể chuyển đổi chế độ bắn.
 </name>
@@ -2441,11 +2441,11 @@ Có thể chuyển đổi chế độ bắn.
 	<id>271</id>
 	<name>AUG A1 có băng đạn trống.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 25-41              Độ tản đạn: 25-3           
-Tốc độ ngắm: 1.5              Độ giật: 1.5               
-Giảm tốc độ chạy: 2.5            Thời gian nạp đạn: 3s     
-Sức chứa: 30           Đạn: 5.56x45      
-Hao mòn: 0.2%     Tốc độ bắn: 650 RPM
+Sát thương: 25-41        Độ tản đạn: 25-3     
+Tốc độ ngắm: 1.5        Độ giật: 1.5      
+Giảm tốc độ chạy: 2.5      Thời gian nạp đạn: 3s  
+Sức chứa: 30     Đạn: 5.56x45   
+Hao mòn: 0.2%  Tốc độ bắn: 650 RPM
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 + 15% tỉ lệ headshot.
 </name>
@@ -2456,11 +2456,11 @@ Hao mòn: 0.2%     Tốc độ bắn: 650 RPM
 	<id>272</id>
 	<name>Một súng phóng lựu ổ quay 40mm, sáu viên, nhẹ, phát triển tại Nam Phi bởi Milkor.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 45-540              Độ tản đạn: 30-5                    
-Tốc độ ngắm: 1.5                Độ giật: 4                           
-Giảm tốc độ chạy: 2.5              Thời gian nạp đạn: 2.50s        
-Sức chứa: 6               Đạn: lựu 40mm
-Hao mòn: 0.25%     Độ trễ mỗi phát: 0.3s     
+Sát thương: 45-540        Độ tản đạn: 30-5        
+Tốc độ ngắm: 1.5       Độ giật: 4            
+Giảm tốc độ chạy: 2.5        Thời gian nạp đạn: 2.5s     
+Sức chứa: 6      Đạn: lựu 40mm
+Hao mòn: 0.25%  Độ trễ mỗi phát: 0.3s  
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -2470,11 +2470,11 @@ Hao mòn: 0.25%     Độ trễ mỗi phát: 0.3s
 	<id>273</id>
 	<name>Súng trường săn nạp bẻ, được ưa chuộng vì khả năng bắn hai viên gần như ngay lập tức.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 71-119            Độ tản đạn: 25-5       
-Tốc độ ngắm: 1.5              Độ giật: 6              
-Giảm tốc độ chạy: 3               Thời gian nạp đạn: 3s  
-Sức chứa: 2             Đạn: .308 Win 
-Hao mòn: 0.4%     Độ trễ mỗi phát: 0
+Sát thương: 71-119      Độ tản đạn: 25-5    
+Tốc độ ngắm: 1.5        Độ giật: 6        
+Giảm tốc độ chạy: 3      Thời gian nạp đạn: 3s  
+Sức chứa: 2       Đạn: .308 Win 
+Hao mòn: 0.4%  Độ trễ mỗi phát: 0
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -2484,11 +2484,11 @@ Hao mòn: 0.4%     Độ trễ mỗi phát: 0
 	<id>274</id>
 	<name>Một súng trường tấn công bullpup của Pháp, có biệt danh "Chiếc kèn" vì hình dáng, nổi tiếng với tốc độ bắn cao.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 25-41              Độ tản đạn: 25-4           
-Tốc độ ngắm: 1.5              Độ giật: 3                  
-Giảm tốc độ chạy: 2               Thời gian nạp đạn: 2.50s
-Sức chứa: 25           Đạn: 5.56x45      
-Hao mòn: 0.2%     Tốc độ bắn: 900 RPM
+Sát thương: 25-41        Độ tản đạn: 25-4     
+Tốc độ ngắm: 1.5        Độ giật: 3         
+Giảm tốc độ chạy: 2      Thời gian nạp đạn: 2.5s
+Sức chứa: 25     Đạn: 5.56x45   
+Hao mòn: 0.2%  Tốc độ bắn: 900 RPM
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể chuyển đổi chế độ bắn, đi kèm chân chống hai càng.
 </name>
@@ -2499,11 +2499,11 @@ Có thể chuyển đổi chế độ bắn, đi kèm chân chống hai càng.
 	<id>275</id>
 	<name>Ruger Mini-14, là một khẩu DMR bán tự động nhẹ, được đánh giá cao vì kiểu dáng cổ điển và tính đa dụng.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 27-45              Độ tản đạn: 25-4            
-Tốc độ ngắm: 1.5              Độ giật: 3                   
-Giảm tốc độ chạy: 2               Thời gian nạp đạn: 2.50s 
-Sức chứa: 20           Đạn: 5.56x45       
-Hao mòn: 0.2%     Độ trễ mỗi phát: 0.2s
+Sát thương: 27-45        Độ tản đạn: 25-4      
+Tốc độ ngắm: 1.5        Độ giật: 3          
+Giảm tốc độ chạy: 2      Thời gian nạp đạn: 2.5s 
+Sức chứa: 20     Đạn: 5.56x45    
+Hao mòn: 0.2%  Độ trễ mỗi phát: 0.2s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 + Tầm bắn cộng thêm.
 </name>
@@ -2514,11 +2514,11 @@ Hao mòn: 0.2%     Độ trễ mỗi phát: 0.2s
 	<id>276</id>
 	<name>AK-74 có băng đạn trống.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 26-44                Độ tản đạn: 25-5            
-Tốc độ ngắm: 1.5                Độ giật: 4                   
-Giảm tốc độ chạy: 2                 Thời gian nạp đạn: 2.50s 
-Sức chứa: 30             Đạn: 5.45x39      
-Hao mòn: 0.15%     Tốc độ bắn: 600 RPM
+Sát thương: 26-44       Độ tản đạn: 25-5      
+Tốc độ ngắm: 1.5       Độ giật: 4          
+Giảm tốc độ chạy: 2        Thời gian nạp đạn: 2.5s 
+Sức chứa: 30       Đạn: 5.45x39   
+Hao mòn: 0.15%  Tốc độ bắn: 600 RPM
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -2528,11 +2528,11 @@ Hao mòn: 0.15%     Tốc độ bắn: 600 RPM
 	<id>277</id>
 	<name>AKs-74u có băng đạn trống.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 26-44                Độ tản đạn: 25-8           
-Tốc độ ngắm: 2                   Độ giật: 4                  
-Giảm tốc độ chạy: 1                 Thời gian nạp đạn: 2.50s 
-Sức chứa: 30             Đạn: 5.45x39      
-Hao mòn: 0.15%     Tốc độ bắn: 750 RPM
+Sát thương: 26-44       Độ tản đạn: 25-8     
+Tốc độ ngắm: 2          Độ giật: 4         
+Giảm tốc độ chạy: 1        Thời gian nạp đạn: 2.5s 
+Sức chứa: 30       Đạn: 5.45x39   
+Hao mòn: 0.15%  Tốc độ bắn: 750 RPM
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -2542,11 +2542,11 @@ Hao mòn: 0.15%     Tốc độ bắn: 750 RPM
 	<id>278</id>
 	<name>Avtomat Specialniy VAL. Một súng trường tự động giảm thanh dành cho các đơn vị đặc nhiệm, dựa trên VSS.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 37-62                Độ tản đạn: 25-3           
-Tốc độ ngắm: 1.5                Độ giật: 4                  
-Giảm tốc độ chạy: 2                 Thời gian nạp đạn: 3s     
-Sức chứa: 30            Đạn: 9x39           
-Hao mòn: 0.2%     Tốc độ bắn: 800 RPM
+Sát thương: 37-62       Độ tản đạn: 25-3     
+Tốc độ ngắm: 1.5       Độ giật: 4         
+Giảm tốc độ chạy: 2        Thời gian nạp đạn: 3s  
+Sức chứa: 30      Đạn: 9x39     
+Hao mòn: 0.2%  Tốc độ bắn: 800 RPM
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Không thu hút quái khi bắn.
 </name>
@@ -2557,11 +2557,11 @@ Không thu hút quái khi bắn.
 	<id>279</id>
 	<name>M249 Squad Automatic Weapon. Một súng máy hạng nhẹ hoạt động bằng trích khí, nạp bằng dây đạn, do FN America sản xuất.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 25-41                Độ tản đạn: 25-5            
-Tốc độ ngắm: 1.5                Độ giật: 4                    
-Giảm tốc độ chạy: 3                 Thời gian nạp đạn: 6s       
-Sức chứa: 200         Đạn: 5.56x45        
-Hao mòn: 0.1%     Tốc độ bắn: 1000 RPM
+Sát thương: 25-41       Độ tản đạn: 25-5      
+Tốc độ ngắm: 1.5       Độ giật: 4        
+Giảm tốc độ chạy: 3        Thời gian nạp đạn: 6s    
+Sức chứa: 200      Đạn: 5.56x45     
+Hao mòn: 0.1%  Tốc độ bắn: 1000 RPM
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Đi kèm chân chống hai càng.
 </name>
@@ -2572,11 +2572,11 @@ Hao mòn: 0.1%     Tốc độ bắn: 1000 RPM
 	<id>280</id>
 	<name>Một súng trường phản vật chất bán tự động do Nga sản xuất! Nổi tiếng với cỡ đạn lớn và tầm bắn rất xa.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 255-425            Độ tản đạn: 25-3            
-Tốc độ ngắm: 1                   Độ giật: 20                  
-Giảm tốc độ chạy: 5                 Thời gian nạp đạn: 6s       
-Sức chứa: 5              Đạn: 12.7x108     
-Hao mòn: 0.2%     Độ trễ mỗi phát: 1.2s
+Sát thương: 255-425      Độ tản đạn: 25-3      
+Tốc độ ngắm: 1          Độ giật: 20         
+Giảm tốc độ chạy: 5        Thời gian nạp đạn: 6s    
+Sức chứa: 5        Đạn: 12.7x108  
+Hao mòn: 0.2%  Độ trễ mỗi phát: 1.2s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 + Tầm bắn cộng thêm.
 </name>
@@ -2587,8 +2587,8 @@ Hao mòn: 0.2%     Độ trễ mỗi phát: 1.2s
 	<id>281</id>
 	<name>Súng phun lửa Model-40. Một vũ khí chiến thuật hạng nặng chuyên khét ra lửa áp suất cao!
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 60-300      Độ tản đạn: 5-6                                 
-Đạn: Xăng     Tiêu hao nhiên liệu: 2.8%/s
+Sát thương: 60-300   Độ tản đạn: 5-6               
+Đạn: Xăng  Tiêu hao nhiên liệu: 2.8%/s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể đốt cháy kẻ địch.
 Cần bình nhiên liệu để hoạt động!
@@ -2600,11 +2600,11 @@ Cần bình nhiên liệu để hoạt động!
 	<id>282</id>
 	<name>Một súng máy sáu nòng phát triển năm 1960, là phiên bản thu nhỏ của M61 Vulcan.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 60-100             Độ tản đạn: 11-10            
-Tốc độ ngắm: 0                   Độ giật: 0                       
-Giảm tốc độ chạy: 0                 Thời gian nạp đạn: 4s         
-Sức chứa: 300         Đạn: .308 Win       
-Hao mòn: 0.1%     Tốc độ bắn: 1000 RPM
+Sát thương: 60-100       Độ tản đạn: 11-10      
+Tốc độ ngắm: 0          Độ giật: 0           
+Giảm tốc độ chạy: 0        Thời gian nạp đạn: 4s      
+Sức chứa: 300      Đạn: .308 Win    
+Hao mòn: 0.1%  Tốc độ bắn: 1000 RPM
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Giảm 10% tốc độ di chuyển, cần pin.
 </name>
@@ -2615,11 +2615,11 @@ Giảm 10% tốc độ di chuyển, cần pin.
 	<id>283</id>
 	<name>Khẩu súng máy đa dụng của Liên Xô phổ biến nhất, nạp bằng dây đạn, do Mikhail Kalashnikov thiết kế.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 60-100              Độ tản đạn: 25-5            
-Tốc độ ngắm: 1.5                Độ giật: 6                    
-Giảm tốc độ chạy: 2                 Thời gian nạp đạn: 6s       
-Sức chứa: 100          Đạn: 7.62x54R    
-Hao mòn: 0.15%     Tốc độ bắn: 650 RPM
+Sát thương: 60-100        Độ tản đạn: 25-5      
+Tốc độ ngắm: 1.5       Độ giật: 6        
+Giảm tốc độ chạy: 2        Thời gian nạp đạn: 6s    
+Sức chứa: 100    Đạn: 7.62x54R    
+Hao mòn: 0.15%  Tốc độ bắn: 650 RPM
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Đi kèm chân chống hai càng.
 </name>
@@ -2730,7 +2730,7 @@ Có thể trang bị kèm cùng một túi đeo.
 	<id>310</id>
 	<name>Một túi vai quân dụng nhỏ dùng để chứa các vật dụng và công cụ sinh tồn nhỏ, đeo qua ngực để sử dụng nhanh.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 1          Ô độc quyền: + 3
+Ô chứa: + 1    Ô độc quyền: + 3
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Ô chứa: Dao, diêm, bật lửa, pháo, bình đông
 Có thể trang bị kèm cùng một túi đeo.
@@ -2742,7 +2742,7 @@ Có thể trang bị kèm cùng một túi đeo.
 	<id>311</id>
 	<name>Một túi vai y tế cấp IFAK, được thiết kế để chứa thuốc, bảo vệ chúng khỏi các tác nhân gây nhiễm.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 1          Ô độc quyền: + 3
+Ô chứa: + 1    Ô độc quyền: + 3
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Ô chứa: bất kỳ đồ y tế (trừ vải rách)
 Có thể trang bị kèm cùng một túi đeo.
@@ -2777,7 +2777,7 @@ Dùng để cấp nhiên liệu cho xe cộ, cưa máy, máy phát điện và c
 	<id>351</id>
 	<name>Quần jean denim, còn gọi là quần bò. Loại trang phục thường ngày hiện đại phổ biến khắp nơi.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 2          Nhiệt: + 5
+Ô chứa: + 2    Nhiệt: + 5
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -2787,7 +2787,7 @@ Dùng để cấp nhiên liệu cho xe cộ, cưa máy, máy phát điện và c
 	<id>352</id>
 	<name>Quần cắt rộng thích hợp cho công việc nặng ngoài trời, dễ nhận biết qua các túi trên ống quần.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 3          Nhiệt: + 5
+Ô chứa: + 3    Nhiệt: + 5
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -2797,7 +2797,7 @@ Dùng để cấp nhiên liệu cho xe cộ, cưa máy, máy phát điện và c
 	<id>353</id>
 	<name>Quần mặc thường ngày, thiết kế cho sự thoải mái và mục đích thể thao, là một trong những loại trang phục phổ biến nhất ở vùng Slavic.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 1          Nhiệt: + 3
+Ô chứa: + 1    Nhiệt: + 3
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -2807,8 +2807,8 @@ Dùng để cấp nhiên liệu cho xe cộ, cưa máy, máy phát điện và c
 	<id>354</id>
 	<name>Quần chiến thuật do các đơn vị đóng tại Gorka, Chernarus sử dụng. Cho phép tiếp cận nhanh các túi lớn và bảo vệ người mặc tốt trước các yếu tố thời tiết.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 3          Nhiệt: + 8                 
-Giáp: + 2       Khả năng đỡ đòn: + 10%
+Ô chứa: + 3    Nhiệt: + 8        
+Giáp: + 2    Khả năng đỡ đòn: + 10%
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -2818,7 +2818,7 @@ Giáp: + 2       Khả năng đỡ đòn: + 10%
 	<id>355</id>
 	<name>Quần nhân viên y tế tiêu chuẩn, không khác nhiều so với các trang phục làm việc khác, ngoại trừ các dải phản quang sáng màu.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 2          Nhiệt: + 4
+Ô chứa: + 2    Nhiệt: + 4
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -2828,8 +2828,8 @@ Giáp: + 2       Khả năng đỡ đòn: + 10%
 	<id>356</id>
 	<name>Quần đồng phục của đơn vị cảnh sát đặc biệt OREL, cung cấp độ ấm và thoải mái khá tốt với khả năng bảo vệ tối thiểu.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 2          Nhiệt: + 5
-Giáp: + 1                       
+Ô chứa: + 2    Nhiệt: + 5
+Giáp: + 1           
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -2839,8 +2839,8 @@ Giáp: + 1
 	<id>357</id>
 	<name>Một bộ quần bền với hoa văn ngụy trang rừng, thiết kế cho những khoảng thời gian dài đi săn trong hoang dã.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 3          Nhiệt: + 6               
-Giáp: + 1       Khả năng đỡ đòn: + 5%
+Ô chứa: + 3    Nhiệt: + 6      
+Giáp: + 1    Khả năng đỡ đòn: + 5%
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -2850,8 +2850,8 @@ Giáp: + 1       Khả năng đỡ đòn: + 5%
 	<id>358</id>
 	<name>Quần đồng phục lực lượng cứu hỏa, dùng để bảo vệ và giữ nhiệt cho người mặc khỏi lửa và nhiệt độ cực cao.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 2          Nhiệt: + 5               
-Giáp: + 1       Khả năng đỡ đòn: + 5%
+Ô chứa: + 2    Nhiệt: + 5      
+Giáp: + 1    Khả năng đỡ đòn: + 5%
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Miễn nhiễm với lửa (phải mặc kèm với Áo cứu hỏa).
 </name>
@@ -2865,7 +2865,7 @@ Miễn nhiễm với lửa (phải mặc kèm với Áo cứu hỏa).
 	<id>401</id>
 	<name>Một lớp vải phủ lên trên tấm giáp chống đạn. Cung cấp khả năng bảo vệ tốt cho phần thân trước.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Giáp: + 8        Khả năng đỡ đòn: + 10%
+Giáp: + 8     Khả năng đỡ đòn: + 10%
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -2875,8 +2875,8 @@ Giáp: + 8        Khả năng đỡ đòn: + 10%
 	<id>402</id>
 	<name>Một áo giáp chiến thuật thiết kế cho chiến đấu, ưu tiên khả năng mang trang bị và đạn kèm sự thoải mái, cung cấp khả năng bảo vệ hạn chế từ lớp đệm mềm.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Giáp: + 3          Khả năng đỡ đòn: + 5%
-Ô chứa: + 2                                               
+Giáp: + 3    Khả năng đỡ đòn: + 5%
+Ô chứa: + 2                    
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể gài lựu đạn, tối đa 3 quả để sử dụng nhanh.
 </name>
@@ -2887,8 +2887,8 @@ Có thể gài lựu đạn, tối đa 3 quả để sử dụng nhanh.
 	<id>403</id>
 	<name>Áo giáp chống đạn dạng ép. Có thể hấp thụ nhiều loại sát thương va đập. Được nhiều phóng viên trên thế giới sử dụng.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Giáp: + 6          Khả năng đỡ đòn: + 5%
-Ô chứa: + 1                                               
+Giáp: + 6    Khả năng đỡ đòn: + 5%
+Ô chứa: + 1                    
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -2898,8 +2898,8 @@ Giáp: + 6          Khả năng đỡ đòn: + 5%
 	<id>404</id>
 	<name>Một áo giáp chiến thuật thiết kế để chứa được nhiều trang bị nhất có thể một cách thoải mái, đồng thời cung cấp khả năng bảo vệ hạn chế từ lớp đệm mềm.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Giáp: + 3          Khả năng đỡ đòn: + 5%
-Ô chứa: + 3                                              
+Giáp: + 3    Khả năng đỡ đòn: + 5%
+Ô chứa: + 3                   
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể gài lựu đạn, tối đa 3 quả để sử dụng nhanh.
 </name>
@@ -2910,8 +2910,8 @@ Có thể gài lựu đạn, tối đa 3 quả để sử dụng nhanh.
 	<id>405</id>
 	<name>Giáp cứng làm từ sợi kevlar tổng hợp chắc chắn, rất hiệu quả trong việc chặn đạn, đồng thời cung cấp khả năng mang đồ tuyệt vời.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Giáp: + 10          Khả năng đỡ đòn: + 10%
-Ô chứa: + 3                                                  
+Giáp: + 10    Khả năng đỡ đòn: + 10%
+Ô chứa: + 3                    
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể gài lựu đạn, tối đa 3 quả để sử dụng nhanh.
 </name>
@@ -2922,8 +2922,8 @@ Có thể gài lựu đạn, tối đa 3 quả để sử dụng nhanh.
 	<id>406</id>
 	<name>Một áo giáp chiến thuật chuyên dụng của Liên Xô, cung cấp khả năng bảo vệ tốt cho vùng bụng dưới nhờ phần ngực kéo dài.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Giáp: + 8          Khả năng đỡ đòn: + 10%
-Ô chứa: + 2                                                
+Giáp: + 8    Khả năng đỡ đòn: + 10%
+Ô chứa: + 2                     
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -2953,7 +2953,7 @@ Di chuyển hoặc tấn công liên tục sẽ làm mất hiệu lực!
 	<id>409</id>
 	<name>Giáp quân sự cao cấp được phủ một lớp hợp chất thử nghiệm gọi là "Complex M", có thể thoải mái chặn đạn.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Giáp: + 20        Khả năng đỡ đòn: + 15%
+Giáp: + 20     Khả năng đỡ đòn: + 15%
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -2975,8 +2975,8 @@ Có thể khóa kín để miễn nhiễm với khí độc trong 2 phút, có t
 	<id>411</id>
 	<name>Một áo giáp kevlar mặc trên một bộ đồ CBRN, kết hợp hiệu quả các tính năng của cả hai.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Giáp: + 10          Khả năng đỡ đòn: + 10%
-Ô chứa: + 3                                                  
+Giáp: + 10    Khả năng đỡ đòn: + 10%
+Ô chứa: + 3                    
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể gài lựu đạn, tối đa 3 quả để sử dụng nhanh.
 Đi kèm mọi tính năng của một bộ đồ CBRN.
@@ -2988,7 +2988,7 @@ Có thể gài lựu đạn, tối đa 3 quả để sử dụng nhanh.
 	<id>412</id>
 	<name>Một loại giáp M hạng nặng mặc trên một bộ đồ CBRN, kết hợp hiệu quả các tính năng của cả hai.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Giáp: + 20        Khả năng đỡ đòn: + 15%
+Giáp: + 20     Khả năng đỡ đòn: + 15%
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Đi kèm mọi tính năng của một bộ đồ CBRN.
 </name>
@@ -3053,8 +3053,8 @@ Có thể khóa kín để miễn nhiễm với khí độc trong 2 phút, có t
 	<id>451</id>
 	<name>Mũ bảo hiểm có kính che cho người đi xe máy. Vỏ ngoài cứng dễ dàng hấp thụ các va đập nhẹ.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Giáp: + 3          Khả năng đỡ đòn: + 10%
-Nhiệt: + 3                                                 
+Giáp: + 3    Khả năng đỡ đòn: + 10%
+Nhiệt: + 3                      
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -3064,8 +3064,8 @@ Nhiệt: + 3
 	<id>452</id>
 	<name>Mũ trợ chiến bộ binh. Một loại mũ chống đạn được thiết kế để bảo vệ trước mảnh đạn, va đập mạnh và một số loại súng nhỏ.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Giáp: + 4          Khả năng đỡ đòn: + 5%
-Nhiệt: + 2                                              
+Giáp: + 4    Khả năng đỡ đòn: + 5%
+Nhiệt: + 2                   
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Giảm sát thương khi bị bắn vào đầu.
 </name>
@@ -3076,8 +3076,8 @@ Giảm sát thương khi bị bắn vào đầu.
 	<id>453</id>
 	<name>Mũ bảo hộ công trình. Dùng để bảo vệ đầu khỏi sự va đập của dụng cụ hoặc vật liệu rơi.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Giáp: + 2          Khả năng đỡ đòn: + 5%
-Nhiệt: + 2                                              
+Giáp: + 2    Khả năng đỡ đòn: + 5%
+Nhiệt: + 2                   
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -3097,8 +3097,8 @@ Có thể trang bị như lớp lót, độ bền không bị hao mòn khi bộ 
 	<id>455</id>
 	<name>Mũ bảo hiểm có kính che cho người đi xe máy. Vỏ ngoài cứng dễ dàng hấp thụ các va đập nhẹ.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Giáp: + 3          Khả năng đỡ đòn: + 10%
-Nhiệt: + 3                                                 
+Giáp: + 3    Khả năng đỡ đòn: + 10%
+Nhiệt: + 3                      
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -3108,8 +3108,8 @@ Nhiệt: + 3
 	<id>456</id>
 	<name>Mũ bảo hiểm có kính che cho người đi xe máy. Vỏ ngoài cứng dễ dàng hấp thụ các va đập nhẹ.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Giáp: + 3          Khả năng đỡ đòn: + 10%
-Nhiệt: + 3                                                 
+Giáp: + 3    Khả năng đỡ đòn: + 10%
+Nhiệt: + 3                      
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -3170,7 +3170,7 @@ Có thể trang bị như lớp lót.
 	<id>462</id>
 	<name>Một thiết bị chiếu sáng đội đầu, rảnh tay, có dây đai điều chỉnh.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Nhiệt: + 1          Cần sử dụng: Pin
+Nhiệt: + 1    Cần sử dụng: Pin
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể bật lên để chiếu sáng một vùng nhỏ.
 </name>
@@ -3191,7 +3191,7 @@ Nhiệt: + 2
 	<id>464</id>
 	<name>Được thợ hàn dùng để bảo vệ mắt, mặt và cổ khỏi ánh chớp hồ quang, tia lửa và nhiệt khi hàn, dù không phải loại mũ bền nhất nhưng lại rất hợp trong một vùng đất hoang tàn hậu tận thế!
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Giáp: + 1          Nhiệt: + 1
+Giáp: + 1    Nhiệt: + 1
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -3201,8 +3201,8 @@ Giáp: + 1          Nhiệt: + 1
 	<id>465</id>
 	<name>Mũ chiến đấu cấp quân sự của Nga có kính che gắn kèm, giúp bảo vệ mặt và đầu và có thể chống đạn.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Giáp: + 5          Khả năng đỡ đòn: + 10%
-Nhiệt: + 3                                           
+Giáp: + 5    Khả năng đỡ đòn: + 10%
+Nhiệt: + 3                   
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Giảm sát thương khi bị bắn vào đầu.
 </name>
@@ -3223,7 +3223,7 @@ Nhiệt: + 2
 	<id>467</id>
 	<name>Kính nhìn đêm chạy bằng pin, dùng để tăng cường hình ảnh trong môi trường ánh sáng yếu. Đi kèm dây đai đội đầu.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Nhiệt: + 1          Cần sử dụng: Pin
+Nhiệt: + 1    Cần sử dụng: Pin
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể bật lên để nhìn trong tối.
 </name>
@@ -3245,8 +3245,8 @@ Có thể xé thành vải vụn.
 	<id>469</id>
 	<name>"Một khối sắt liền khối tàn nhẫn, không mặt, được rèn từ nhiều thế kỷ trước khi thế giới lụi tàn. Nó không chỉ che đầu bạn, nó chôn vùi cả nhân tính của bạn"
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Giáp: + 5          Khả năng đỡ đòn: + 15%
-Nhiệt: + 4                                                 
+Giáp: + 5    Khả năng đỡ đòn: + 15%
+Nhiệt: + 4                      
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Giảm sát thương khi bị bắn vào đầu.
 Có thể sửa bằng đèn khò.
@@ -3258,8 +3258,8 @@ Có thể sửa bằng đèn khò.
 	<id>470</id>
 	<name>Mũ phi công với kính che, thiết kế để bảo vệ khỏi ánh sáng mặt trời và luồng gió siêu thanh, kèm hệ thống giảm ồn và micro.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Giáp: + 2          Khả năng đỡ đòn: + 5%
-Nhiệt: + 3                                               
+Giáp: + 2    Khả năng đỡ đòn: + 5%
+Nhiệt: + 3                    
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -3269,8 +3269,8 @@ Nhiệt: + 3
 	<id>471</id>
 	<name>Một lớp vỏ titan dập dày 4mm gắn kính che mặt. Được phát triển tại Liên Xô và được KGB trang bị.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Giáp: + 10          Khả năng đỡ đòn: + 10%
-Nhiệt: + 3                                                 
+Giáp: + 10    Khả năng đỡ đòn: + 10%
+Nhiệt: + 3                      
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Giảm sát thương khi bị bắn vào đầu.
 </name>
@@ -3281,8 +3281,8 @@ Giảm sát thương khi bị bắn vào đầu.
 	<id>472</id>
 	<name>Một phiên bản đối trọng, nhẹ hơn của mũ "Altyn" nổi tiếng. Được các đơn vị đột kích của Bộ Nội vụ Nga sử dụng.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Giáp: + 10          Khả năng đỡ đòn: + 10%
-Nhiệt: + 3                                                 
+Giáp: + 10    Khả năng đỡ đòn: + 10%
+Nhiệt: + 3                      
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Giảm sát thương khi bị bắn vào đầu.
 </name>
@@ -3312,8 +3312,8 @@ Có thể trang bị như lớp lót, giúp bạn không bị trừ danh tiến!
 	<id>475</id>
 	<name>Mũ trợ chiến có khung gắn NVG và các rail cho phụ kiện khác. Được thiết kế để đáp ứng các yêu cầu chiến đấu trong bóng tối, đồng thời bảo vệ đầu.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Giáp: + 3          Khả năng đỡ đòn: + 5%
-Nhiệt: + 3                                               
+Giáp: + 3    Khả năng đỡ đòn: + 5%
+Nhiệt: + 3                    
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Giảm sát thương khi bị bắn vào đầu, có thể lắp NVG và đèn pin gắn dưới nòng.
 </name>
@@ -3324,8 +3324,8 @@ Giảm sát thương khi bị bắn vào đầu, có thể lắp NVG và đèn p
 	<id>476</id>
 	<name>Mũ trợ chiến có khung gắn NVG và các rail cho phụ kiện khác. Được thiết kế để đáp ứng các yêu cầu chiến đấu trong bóng tối, đồng thời bảo vệ đầu. Hiện tai đã được gắn đèn pin
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Giáp: + 3          Khả năng đỡ đòn: + 5%
-Nhiệt: + 3                                               
+Giáp: + 3    Khả năng đỡ đòn: + 5%
+Nhiệt: + 3                    
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Giảm sát thương khi bị bắn vào đầu, có thể lắp NVG
 </name>
@@ -3336,8 +3336,8 @@ Giảm sát thương khi bị bắn vào đầu, có thể lắp NVG
 	<id>477</id>
 	<name>Mũ trợ chiến có khung gắn NVG và các rail cho phụ kiện khác. Được thiết kế để đáp ứng các yêu cầu chiến đấu trong bóng tối, đồng thời bảo vệ đầu. Hiện tại đã được gắn kính nhìn đêm
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Giáp: + 3          Khả năng đỡ đòn: + 5%
-Nhiệt: + 3                                               
+Giáp: + 3    Khả năng đỡ đòn: + 5%
+Nhiệt: + 3                    
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Giảm sát thương khi bị bắn vào đầu, có thể lắp đèn pin gắn dưới nòng.
 </name>
@@ -3348,8 +3348,8 @@ Giảm sát thương khi bị bắn vào đầu, có thể lắp đèn pin gắn
 	<id>478</id>
 	<name>Mũ trợ chiến có khung gắn NVG và các rail cho phụ kiện khác. Được thiết kế để đáp ứng các yêu cầu chiến đấu trong bóng tối, đồng thời bảo vệ đầu. Hiện tại đã gắn kính nhìn đêm và đèn pin gắn súng
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Giáp: + 3          Khả năng đỡ đòn: + 5%
-Nhiệt: + 3                                               
+Giáp: + 3    Khả năng đỡ đòn: + 5%
+Nhiệt: + 3                    
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 
 </name>
@@ -3360,8 +3360,8 @@ Nhiệt: + 3
 	<id>479</id>
 	<name>Một lớp vỏ titan dập dày 4mm gắn kính che mặt. Được phát triển tại Liên Xô và được KGB trang bị. Phiên bản này được lắp thêm NVG.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Giáp: + 10          Khả năng đỡ đòn: + 10%
-Nhiệt: + 3                                                 
+Giáp: + 10    Khả năng đỡ đòn: + 10%
+Nhiệt: + 3                      
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Giảm sát thương khi bị bắn vào đầu.
 Cần pin để dùng kính nhìn đêm
@@ -3375,7 +3375,7 @@ Cần pin để dùng kính nhìn đêm
 	<id>501</id>
 	<name>Áo hoodie có khóa kéo dọc và hai túi lớn. Cung cấp khả năng bảo vệ khá tốt khỏi các yếu tố thời tiết.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 2          Nhiệt: + 5
+Ô chứa: + 2    Nhiệt: + 5
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể xé thành vải vụn.
 </name>
@@ -3386,7 +3386,7 @@ Có thể xé thành vải vụn.
 	<id>502</id>
 	<name>Áo sơ mi dài tay cài nút thông thường, làm từ vải polyester và cotton.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 1          Nhiệt: + 3
+Ô chứa: + 1    Nhiệt: + 3
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể xé thành vải vụn.
 </name>
@@ -3397,7 +3397,7 @@ Có thể xé thành vải vụn.
 	<id>504</id>
 	<name>Áo hoodie có khóa kéo dọc và hai túi lớn. Cung cấp khả năng bảo vệ khá tốt khỏi các yếu tố thời tiết.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 2          Nhiệt: + 5
+Ô chứa: + 2    Nhiệt: + 5
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể xé thành vải vụn.
 </name>
@@ -3408,7 +3408,7 @@ Có thể xé thành vải vụn.
 	<id>505</id>
 	<name>Áo khoác làm từ vải chống nước với cổ và mũ mở rộng, giữ khô người khỏi mưa.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 2          Nhiệt: + 6
+Ô chứa: + 2    Nhiệt: + 6
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Miễn nhiễm với mưa.
 </name>
@@ -3419,7 +3419,7 @@ Miễn nhiễm với mưa.
 	<id>506</id>
 	<name>Áo khoác làm từ vải chống nước với cổ và mũ mở rộng, giữ khô người khỏi mưa.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 2          Nhiệt: + 6
+Ô chứa: + 2    Nhiệt: + 6
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Miễn nhiễm với mưa.
 </name>
@@ -3430,8 +3430,8 @@ Miễn nhiễm với mưa.
 	<id>507</id>
 	<name>Áo khoác da xe máy kinh điển. Bền chắc, chịu lực và có khả năng bảo vệ... chưa kể còn rất ngầu!
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 2          Nhiệt: + 4                 
-Giáp: + 2       Khả năng đỡ đòn: + 5%
+Ô chứa: + 2    Nhiệt: + 4        
+Giáp: + 2    Khả năng đỡ đòn: + 5%
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -3441,7 +3441,7 @@ Giáp: + 2       Khả năng đỡ đòn: + 5%
 	<id>509</id>
 	<name>Một thanh sicula mịn, mượt, có hương ca cao đậm đà kết hợp vừa đủ vị ngọt và một chút hương caramel.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Máu: + 2          Thức ăn: + 10
+Máu: + 2    Thức ăn: + 10
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Được chồng tối đa: 20
 </name>
@@ -3452,8 +3452,8 @@ Máu: + 2          Thức ăn: + 10
 	<id>510</id>
 	<name>Áo khoác chiến thuật do các đơn vị đóng tại Gorka, Chernarus sử dụng. Cho phép tiếp cận nhanh các túi lớn và bảo vệ người mặc tốt trước các yếu tố thời tiết.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 3          Nhiệt: + 8                    
-Giáp: + 2        Khả năng đỡ đòn: + 10%
+Ô chứa: + 3    Nhiệt: + 8        
+Giáp: + 2     Khả năng đỡ đòn: + 10%
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -3463,8 +3463,8 @@ Giáp: + 2        Khả năng đỡ đòn: + 10%
 	<id>511</id>
 	<name>Bộ y tế Sportsman Series Grizzly. Được xem là một trong những bộ cấp cứu tốt nhất. Chứa mọi thứ cần thiết để cấp cứu kịp thời trong điều kiện khắc nghiệt.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Máu: + 40          Thể lực: + 40
-Số lần dùng: 4                  Thời gian sử dụng: 6s
+Máu: + 40    Thể lực: + 40
+Số lần dùng: 4         Thời gian sử dụng: 6s
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Miễn nhiễm mọi bệnh tật trong 30 giây
 
@@ -3476,7 +3476,7 @@ Miễn nhiễm mọi bệnh tật trong 30 giây
 	<id>512</id>
 	<name>Áo nhân viên y tế tiêu chuẩn, không khác nhiều so với các trang phục làm việc khác, ngoại trừ các dải phản quang sáng màu.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 2          Nhiệt: + 5
+Ô chứa: + 2    Nhiệt: + 5
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -3486,8 +3486,8 @@ Miễn nhiễm mọi bệnh tật trong 30 giây
 	<id>513</id>
 	<name>Áo đồng phục của đơn vị cảnh sát đặc biệt OREL, cung cấp độ ấm, thoải mái khá tốt và giáp tối thiểu.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 2          Nhiệt: + 5
-Giáp: + 1                       
+Ô chứa: + 2    Nhiệt: + 5
+Giáp: + 1           
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -3497,7 +3497,7 @@ Giáp: + 1
 	<id>514</id>
 	<name>Áo khoác mặc thường ngày, thiết kế cho sự thoải mái và mục đích thể thao, là một trong những loại trang phục phổ biến nhất ở vùng Slavic.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 1          Nhiệt: + 4
+Ô chứa: + 1    Nhiệt: + 4
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -3507,7 +3507,7 @@ Giáp: + 1
 	<id>515</id>
 	<name>Một chiếc váy nữ thoải mái, sẽ giúp bạn trông xinh đẹp trong mọi tình huống.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 1          Nhiệt: + 4
+Ô chứa: + 1    Nhiệt: + 4
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể xé thành vải vụn.
 </name>
@@ -3518,7 +3518,7 @@ Có thể xé thành vải vụn.
 	<id>516</id>
 	<name>Áo khoác phao có thể nén, được nhồi lông vũ mềm và ấm từ vịt hoặc ngỗng, cảm giác rất ấm áp.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 2          Nhiệt: + 8
+Ô chứa: + 2    Nhiệt: + 8
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -3528,8 +3528,8 @@ Có thể xé thành vải vụn.
 	<id>517</id>
 	<name>Một áo khoác bền với hoa văn ngụy trang rừng, thiết kế cho những khoảng thời gian dài đi săn trong hoang dã.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 3          Nhiệt: + 6                  
-Giáp: + 1        Khả năng đỡ đòn: + 5%
+Ô chứa: + 3    Nhiệt: + 6         
+Giáp: + 1     Khả năng đỡ đòn: + 5%
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -3539,7 +3539,7 @@ Giáp: + 1        Khả năng đỡ đòn: + 5%
 	<id>518</id>
 	<name>Áo len dài tay dày, rất ấm, nhưng rất hút nước và ngứa kinh khủng.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 1          Nhiệt: + 6
+Ô chứa: + 1    Nhiệt: + 6
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -3549,7 +3549,7 @@ Giáp: + 1        Khả năng đỡ đòn: + 5%
 	<id>519</id>
 	<name>Chiếc hoodie huyền thoại thuộc về người đàn ông, huyền thoại, biểu tượng... CannedBits! ❤️
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 3          Nhiệt: + 8
+Ô chứa: + 3    Nhiệt: + 8
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -3559,8 +3559,8 @@ Giáp: + 1        Khả năng đỡ đòn: + 5%
 	<id>520</id>
 	<name>Áo đồng phục lực lượng cứu hỏa. Bảo vệ và giữ nhiệt cho người mặc khỏi lửa và nhiệt độ cực cao.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 2          Nhiệt: + 5                  
-Giáp: + 1        Khả năng đỡ đòn: + 5%
+Ô chứa: + 2    Nhiệt: + 5         
+Giáp: + 1     Khả năng đỡ đòn: + 5%
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Miễn nhiễm với lửa (phải mặc kèm với Quần cứu hỏa).
 </name>
@@ -3571,8 +3571,8 @@ Miễn nhiễm với lửa (phải mặc kèm với Quần cứu hỏa).
 	<id>521</id>
 	<name>"Từ tàn tích của thế giới cũ, con quái ảnh của một thời đại xa xưa vươn mình trỗi dậy"
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Giáp: + 10        Khả năng đỡ đòn: + 15%
-Nhiệt: + 3                                              
+Giáp: + 10     Khả năng đỡ đòn: + 15%
+Nhiệt: + 3                   
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể sửa bằng đèn khò.
 </name>
@@ -3585,9 +3585,9 @@ Có thể sửa bằng đèn khò.
 	<id>551</id>
 	<name>Một cây rìu một tay có đầu búa ở một bên. Công cụ lý tưởng cho bất kỳ ai yêu thích hoạt động ngoài trời.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 38-63                Tỉ lệ chí mạng: 25%    
-Tỉ lệ đỡ: 25%          Tốc độ đánh: 1.5s
-Hao mòn (chém): 0.5%       Hao mòn (dùng): 2%  
+Sát thương: 38-63       Tỉ lệ chí mạng: 25%    
+Tỉ lệ đỡ: 25%    Tốc độ đánh: 1.5s
+Hao mòn (chém): 0.5%    Hao mòn (dùng): 2%  
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể đốn cây.
 </name>
@@ -3598,9 +3598,9 @@ Có thể đốn cây.
 	<id>552</id>
 	<name>Một cây xẻng thông thường với lưỡi thép chắc, dễ dàng xẻ cả đất và đầu lâu.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 19-31                Tỉ lệ chí mạng: 15%            
-Tỉ lệ đỡ: 35%          Tốc độ đánh: 1.6s         
-Hao mòn (chém): 0.5%       Hao mòn (dùng): 5% / 15%
+Sát thương: 19-31       Tỉ lệ chí mạng: 15%      
+Tỉ lệ đỡ: 35%    Tốc độ đánh: 1.6s      
+Hao mòn (chém): 0.5%    Hao mòn (dùng): 5% / 15%
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể đào ô trồng, mộ và trồng cây.
 </name>
@@ -3611,9 +3611,9 @@ Có thể đào ô trồng, mộ và trồng cây.
 	<id>553</id>
 	<name>Cờ lê ống điều chỉnh được. Từng dùng để siết đai ốc hoặc bu-lông, giờ trở thành vũ khí đập khá ổn.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 23-38                Tỉ lệ chí mạng: 25%   
-Tỉ lệ đỡ: 15%          Tốc độ đánh: 1.3s
-Hao mòn (chém): 0.2%                                         
+Sát thương: 23-38       Tỉ lệ chí mạng: 25%   
+Tỉ lệ đỡ: 15%    Tốc độ đánh: 1.3s
+Hao mòn (chém): 0.2%                 
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể phá dỡ công trình và đập xe hỏng để lấy tấm kim loại.
 </name>
@@ -3624,9 +3624,9 @@ Có thể phá dỡ công trình và đập xe hỏng để lấy tấm kim lo�
 	<id>554</id>
 	<name>Một cây chày bóng chày gỗ. Vũ khí mang tính biểu tượng của thời tận thế zombie để đập vỡ đầu lâu.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 26-44                Tỉ lệ chí mạng: 25% 
-Tỉ lệ đỡ: 15%          Tốc độ đánh: 1s
-Hao mòn (chém): 1%                                         
+Sát thương: 26-44       Tỉ lệ chí mạng: 25% 
+Tỉ lệ đỡ: 15%    Tốc độ đánh: 1s
+Hao mòn (chém): 1%                 
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Dùng để làm: Gậy cuốn dây thép gai
 </name>
@@ -3637,9 +3637,9 @@ Dùng để làm: Gậy cuốn dây thép gai
 	<id>555</id>
 	<name>Một cây rìu cứu hỏa! Câu trả lời cho câu hỏi là một thị trấn đầy zombie.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 45-75                Tỉ lệ chí mạng: 25%            
-Tỉ lệ đỡ: 25%          Tốc độ đánh: 1.6s        
-Hao mòn (chém): 0.2%       Hao mòn (dùng): 2% / 10%
+Sát thương: 45-75       Tỉ lệ chí mạng: 25%      
+Tỉ lệ đỡ: 25%    Tốc độ đánh: 1.6s     
+Hao mòn (chém): 0.2%    Hao mòn (dùng): 2% / 10%
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể đốn cây, phá dỡ công trình và đập xe hỏng để lấy tấm kim loại.
 </name>
@@ -3650,9 +3650,9 @@ Có thể đốn cây, phá dỡ công trình và đập xe hỏng để lấy t
 	<id>556</id>
 	<name>Một vũ khí cận chiến kiêm công cụ đa dụng, bền chắc, dùng để cạy mở cửa và hòm.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 19-31                Tỉ lệ chí mạng: 25%    
-Tỉ lệ đỡ: 15%          Tốc độ đánh: 1.2s
-Hao mòn (chém): 0.2%       Hao mòn (dùng): 10%
+Sát thương: 19-31       Tỉ lệ chí mạng: 25%    
+Tỉ lệ đỡ: 15%    Tốc độ đánh: 1.2s
+Hao mòn (chém): 0.2%    Hao mòn (dùng): 10%
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -3662,9 +3662,9 @@ Hao mòn (chém): 0.2%       Hao mòn (dùng): 10%
 	<id>557</id>
 	<name>Một con dao chặt lớn, nặng, đã hoen rỉ. Được thiết kế để chặt qua thịt sống dày và có thể bẻ xương dễ dàng. Chủ yếu dùng bởi người mổ thịt.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 14-24               Tỉ lệ chí mạng: 10%   
-Tỉ lệ đỡ: 5%          Tốc độ đánh: 0.8s
-Hao mòn (chém): 1%         Hao mòn (dùng): 3%  
+Sát thương: 14-24      Tỉ lệ chí mạng: 10%   
+Tỉ lệ đỡ: 5%    Tốc độ đánh: 0.8s
+Hao mòn (chém): 1%      Hao mòn (dùng): 3%  
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Cắm trong ủng quân đội để lột da nhanh.
 </name>
@@ -3675,9 +3675,9 @@ Cắm trong ủng quân đội để lột da nhanh.
 	<id>558</id>
 	<name>Một loại dao chuyên dụng với mũi cong nhẹ, chủ yếu dùng để xẻ thịt thú săn.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 15-25               Tỉ lệ chí mạng: 15%   
-Tỉ lệ đỡ: 5%          Tốc độ đánh: 0.8s
-Hao mòn (chém): 1%         Hao mòn (dùng): 3%  
+Sát thương: 15-25      Tỉ lệ chí mạng: 15%   
+Tỉ lệ đỡ: 5%    Tốc độ đánh: 0.8s
+Hao mòn (chém): 1%      Hao mòn (dùng): 3%  
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Cắm trong ủng quân đội để lột da nhanh.
 </name>
@@ -3688,9 +3688,9 @@ Cắm trong ủng quân đội để lột da nhanh.
 	<id>559</id>
 	<name>Dao chiến đấu sắc bén với lưỡi chắc chắn, rất hợp để tự vệ và cũng có nhiều công dụng đời thường khác.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 16-26               Tỉ lệ chí mạng: 20%   
-Tỉ lệ đỡ: 5%          Tốc độ đánh: 0.8s
-Hao mòn (chém): 1%         Hao mòn (dùng): 3%  
+Sát thương: 16-26      Tỉ lệ chí mạng: 20%   
+Tỉ lệ đỡ: 5%    Tốc độ đánh: 0.8s
+Hao mòn (chém): 1%      Hao mòn (dùng): 3%  
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Cắm trong ủng quân đội để lột da nhanh.
 </name>
@@ -3701,9 +3701,9 @@ Cắm trong ủng quân đội để lột da nhanh.
 	<id>560</id>
 	<name>Một cây cuốc chim đầu sắt cán gỗ được thợ mỏ dùng để đào đá và than, nhưng trong thời đại này nó sẽ dùng để đập sọ.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 33-55                Tỉ lệ chí mạng: 15%            
-Tỉ lệ đỡ: 35%          Tốc độ đánh: 1.3s          
-Hao mòn (chém): 0.5%        Hao mòn (dùng): 5% / 15%
+Sát thương: 33-55       Tỉ lệ chí mạng: 15%      
+Tỉ lệ đỡ: 35%    Tốc độ đánh: 1.3s    
+Hao mòn (chém): 0.5%     Hao mòn (dùng): 5% / 15%
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể đào ô trồng và trồng cây.
 </name>
@@ -3714,9 +3714,9 @@ Có thể đào ô trồng và trồng cây.
 	<id>561</id>
 	<name>Một công cụ nông nghiệp với các răng dày ở đầu để xới cỏ khô, cũng khá có khả năng đâm xuyên qua thịt.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 30-50                Tỉ lệ chí mạng: 15%              
-Tỉ lệ đỡ: 35%          Tốc độ đánh: 1.2s           
-Hao mòn (chém): 0.5%       Hao mòn (dùng): 5% / 15%
+Sát thương: 30-50       Tỉ lệ chí mạng: 15%        
+Tỉ lệ đỡ: 35%    Tốc độ đánh: 1.2s     
+Hao mòn (chém): 0.5%    Hao mòn (dùng): 5% / 15%
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể đào ô trồng và trồng cây.
 </name>
@@ -3727,9 +3727,9 @@ Có thể đào ô trồng và trồng cây.
 	<id>562</id>
 	<name>Một cây búa tạ đầu kim loại dẹt có thể gây sát thương lớn nhờ kích thước to. Chắc chắn cũng hữu ích cho nhiều mục đích phá dỡ khác.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 41-69                Tỉ lệ chí mạng: 40%    
-Tỉ lệ đỡ: 15%          Tốc độ đánh: 1.8s 
-Hao mòn (chém): 0.5%       Hao mòn (dùng): 10%
+Sát thương: 41-69       Tỉ lệ chí mạng: 40%    
+Tỉ lệ đỡ: 15%    Tốc độ đánh: 1.8s 
+Hao mòn (chém): 0.5%    Hao mòn (dùng): 10%
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể phá dỡ công trình và đập xe hỏng để lấy tấm kim loại.
 </name>
@@ -3740,9 +3740,9 @@ Có thể phá dỡ công trình và đập xe hỏng để lấy tấm kim lo�
 	<id>563</id>
 	<name>"Tên hành hình bạc của một thời đại cổ xưa! Lưỡi của nó không phân biệt giữa sống và chết"
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 56-94                Tỉ lệ chí mạng: 35%    
-Tỉ lệ đỡ: 25%          Tốc độ đánh: 1.5s
-Hao mòn (chém): 0.5%         Hao mòn (dùng): 2%   
+Sát thương: 56-94       Tỉ lệ chí mạng: 35%    
+Tỉ lệ đỡ: 25%    Tốc độ đánh: 1.5s
+Hao mòn (chém): 0.5%      Hao mòn (dùng): 2%   
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể đốn cây.
 </name>
@@ -3753,9 +3753,9 @@ Có thể đốn cây.
 	<id>564</id>
 	<name>Một chiếc chảo gang được chế tạo với mục đích riêng để nấu sự căm ghét dành cho kẻ địch của bạn.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 25-41                Tỉ lệ chí mạng: 40%    
-Tỉ lệ đỡ: 35%          Tốc độ đánh: 0.9s
-Hao mòn (chém): 0.2%                                          
+Sát thương: 25-41       Tỉ lệ chí mạng: 40%    
+Tỉ lệ đỡ: 35%    Tốc độ đánh: 0.9s
+Hao mòn (chém): 0.2%                  
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể cất gọn, dùng để chiên xào đồ ăn
 </name>
@@ -3766,9 +3766,9 @@ Có thể cất gọn, dùng để chiên xào đồ ăn
 	<id>565</id>
 	<name>Một lưỡi kiếm một cạnh của Nhật, từng được tầng lớp samurai sử dụng trong thời phong kiến Nhật Bản. Thiết kế thanh lịch được coi là cả vũ khí lẫn tác phẩm nghệ thuật.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 48-81                Tỉ lệ chí mạng: 35%   
-Tỉ lệ đỡ: 25%          Tốc độ đánh: 1.2s
-Hao mòn (chém): 1%            Hao mòn (dùng): 2%  
+Sát thương: 48-81       Tỉ lệ chí mạng: 35%   
+Tỉ lệ đỡ: 25%    Tốc độ đánh: 1.2s
+Hao mòn (chém): 1%      Hao mòn (dùng): 2%  
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể đốn cây.
 </name>
@@ -3779,9 +3779,9 @@ Có thể đốn cây.
 	<id>566</id>
 	<name>Một cây chày bóng chày thông thường được quấn dây thép gai hung dữ. Có khắc tên "Lucille" trên đó!
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 37-63                Tỉ lệ chí mạng: 35% 
-Tỉ lệ đỡ: 20%          Tốc độ đánh: 1s
-Hao mòn (chém): 0.5%                                      
+Sát thương: 37-63       Tỉ lệ chí mạng: 35% 
+Tỉ lệ đỡ: 20%    Tốc độ đánh: 1s
+Hao mòn (chém): 0.5%                 
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Công thức chế tạo: Gậy bóng chày + dây thép gai
 </name>
@@ -3792,8 +3792,8 @@ Công thức chế tạo: Gậy bóng chày + dây thép gai
 	<id>567</id>
 	<name>Texas, Texas của chúng ta! Tuyệt vời biết bao, vĩ đại biết bao!
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 0/10                     Tỉ lệ chí mạng: 0%/20%
-Tỉ lệ đỡ: 0%/40%     Tốc độ đánh: 0.1s     
+Sát thương: 0/10         Tỉ lệ chí mạng: 0%/20%
+Tỉ lệ đỡ: 0%/40%  Tốc độ đánh: 0.1s  
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Tiêu hao nhiên liệu khi hoạt động, có thể tiếp thêm xăng.
 Có thể đốn cây (khi được khởi động).
@@ -3826,8 +3826,8 @@ Người chơi không thể sử dụng bất kỳ vũ khí nào khi đang khuâ
 	<id>570</id>
 	<name>Một cây đuốc tự chế dùng để đập và đốt quái, cũng cung cấp một vùng sáng nhỏ.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 8-13            Tỉ lệ chí mạng: 0%
-Tỉ lệ đỡ: 0%     Tốc độ đánh: 1.5s
+Sát thương: 8-13      Tỉ lệ chí mạng: 0%
+Tỉ lệ đỡ: 0%  Tốc độ đánh: 1.5s
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Tiêu hao độ bền liên tục khi đang cháy.
 </name>
@@ -3918,7 +3918,7 @@ Việc trồng cây tiêu hao ít độ bền công cụ hơn, giảm thời gia
 	<id>587</id>
 	<name>Một củ khoai tây thông thường, giàu tinh bột.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Thức ăn: + 15          Nước: + 5
+Thức ăn: + 15    Nước: + 5
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Được chồng tối đa: 3
 Có thể trồng bằng cuốc chim, chĩa, hoặc xẻng
@@ -3930,7 +3930,7 @@ Có thể trồng bằng cuốc chim, chĩa, hoặc xẻng
 	<id>588</id>
 	<name>Một loại rau củ rất bổ dưỡng, có vị ngọt và giòn.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Thức ăn: + 15          Nước: + 5
+Thức ăn: + 15    Nước: + 5
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Được chồng tối đa:  3
 Có thể trồng bằng cuốc chim, chĩa, hoặc xẻng
@@ -3982,7 +3982,7 @@ Có thể đun sôi bằng đống lửa hoặc túi giữ nhiệt.
 	<id>792</id>
 	<name>Nước hồ đã được đun sôi hoàn toàn để diệt mầm bệnh và vi khuẩn trong nước, an toàn để sử dụng.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Máu: + 10          Nước: + 50
+Máu: + 10    Nước: + 50
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -3992,11 +3992,11 @@ Máu: + 10          Nước: + 50
 	<id>793</id>
 	<name>APS Stechkin. Một súng ngắn tự động chọn chế độ bắn của Liên Xô.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 18-30                  Độ tản đạn: 20-10            
-Tốc độ ngắm: 3                     Độ giật: 6.5                  
-Giảm tốc độ chạy: 1.3               Thời gian nạp đạn: 2.5s
-Sức chứa: 20                      Loại đạn: 9x18     
-Hao mòn: 0.15%     Tốc độ bắn: 600 rpm    
+Sát thương: 18-30         Độ tản đạn: 20-10      
+Tốc độ ngắm: 3         Độ giật: 6.5         
+Giảm tốc độ chạy: 1.3      Thời gian nạp đạn: 2.5s
+Sức chứa: 20          Loại đạn: 9x18  
+Hao mòn: 0.15%  Tốc độ bắn: 600 rpm    
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -4006,11 +4006,11 @@ Hao mòn: 0.15%     Tốc độ bắn: 600 rpm
 	<id>794</id>
 	<name>APS Stechkin. Một súng ngắn tự động chọn chế độ bắn của Liên Xô.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 18-30                  Độ tản đạn: 20-10            
-Tốc độ ngắm: 3                     Độ giật: 6.5                  
-Giảm tốc độ chạy: 1.3               Thời gian nạp đạn: 2.5s
-Sức chứa: 20                      Loại đạn: 9x18     
-Hao mòn: 0.15%     Tốc độ bắn: 600 rpm    
+Sát thương: 18-30         Độ tản đạn: 20-10      
+Tốc độ ngắm: 3         Độ giật: 6.5         
+Giảm tốc độ chạy: 1.3      Thời gian nạp đạn: 2.5s
+Sức chứa: 20          Loại đạn: 9x18  
+Hao mòn: 0.15%  Tốc độ bắn: 600 rpm    
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -4020,8 +4020,8 @@ Hao mòn: 0.15%     Tốc độ bắn: 600 rpm
 	<id>900</id>
 	<name>Một dây garo chiến đấu (CAT). Thiết bị nhẹ, dùng một tay, được thiết kế để cầm máu bằng cách tạo áp lực qua một dây đai.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Máu: − 5          Thời gian sử dụng: 0.5s
-Số lần dùng: 20                                                 
+Máu: − 5    Thời gian sử dụng: 0.5s
+Số lần dùng: 20                      
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể sử dụng nhanh, cầm máu từ từ.
 Mất một ít máu khi sử dụng!
@@ -4033,7 +4033,7 @@ Mất một ít máu khi sử dụng!
 	<id>901</id>
 	<name>"THE CAKE IS A LIE"
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Máu: + 20          Thức ăn: + 100
+Máu: + 20    Thức ăn: + 100
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -4043,7 +4043,7 @@ Máu: + 20          Thức ăn: + 100
 	<id>902</id>
 	<name>Một thiết bị liên lạc chuyên dụng, giúp quân nhân liên lạc với các căn cứ quân sự ở rất xa trong những điều kiện khắc nghiệt nhất. Chiếc radio cụ thể này có vẻ đã được đặt ở một tần số nội bộ.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Số lần dùng: 10          Cần sử dụng: Pin
+Số lần dùng: 10    Cần sử dụng: Pin
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể tìm ra vị trí chính xác của nhóm sinh tồn trung lập trên đảo.
 </name>
@@ -4057,7 +4057,7 @@ Có thể tìm ra vị trí chính xác của nhóm sinh tồn trung lập trên
 	<id>523</id>
 	<name>Áo hoodie có khóa kéo dọc và hai túi lớn. Cung cấp khả năng bảo vệ khá tốt khỏi các yếu tố thời tiết.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 2          Nhiệt: + 5
+Ô chứa: + 2    Nhiệt: + 5
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể xé thành vải vụn.
 </name>
@@ -4068,7 +4068,7 @@ Có thể xé thành vải vụn.
 	<id>524</id>
 	<name>Áo sơ mi dài tay cài nút thông thường, làm từ vải polyester và cotton.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 1          Nhiệt: + 3
+Ô chứa: + 1    Nhiệt: + 3
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể xé thành vải vụn.
 </name>
@@ -4079,7 +4079,7 @@ Có thể xé thành vải vụn.
 	<id>526</id>
 	<name>Áo hoodie có khóa kéo dọc và hai túi lớn. Cung cấp khả năng bảo vệ khá tốt khỏi các yếu tố thời tiết.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 2          Nhiệt: + 5
+Ô chứa: + 2    Nhiệt: + 5
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể xé thành vải vụn.
 </name>
@@ -4090,7 +4090,7 @@ Có thể xé thành vải vụn.
 	<id>527</id>
 	<name>Áo khoác làm từ vải chống nước với cổ và mũ mở rộng, giữ khô người khỏi mưa.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 2          Nhiệt: + 6
+Ô chứa: + 2    Nhiệt: + 6
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Miễn nhiễm với mưa.
 </name>
@@ -4101,7 +4101,7 @@ Miễn nhiễm với mưa.
 	<id>528</id>
 	<name>Áo khoác làm từ vải chống nước với cổ và mũ mở rộng, giữ khô người khỏi mưa.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 2          Nhiệt: + 6
+Ô chứa: + 2    Nhiệt: + 6
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Miễn nhiễm với mưa.
 </name>
@@ -4112,8 +4112,8 @@ Miễn nhiễm với mưa.
 	<id>529</id>
 	<name>Áo khoác da xe máy kinh điển. Bền chắc, chịu lực và có khả năng bảo vệ... chưa kể còn rất ngầu!
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 2          Nhiệt: + 4                 
-Giáp: + 2       Khả năng đỡ đòn: + 5%
+Ô chứa: + 2    Nhiệt: + 4        
+Giáp: + 2    Khả năng đỡ đòn: + 5%
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -4123,7 +4123,7 @@ Giáp: + 2       Khả năng đỡ đòn: + 5%
 	<id>531</id>
 	<name>Một chiếc áo khoác lông dài, rộng, có dây đai, kiểu dáng tương tự áo khoác quân đội hoặc đồ của thám tử cổ điển.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 1          Nhiệt: + 9
+Ô chứa: + 1    Nhiệt: + 9
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -4133,8 +4133,8 @@ Giáp: + 2       Khả năng đỡ đòn: + 5%
 	<id>532</id>
 	<name>Áo khoác chiến thuật do các đơn vị đóng tại Gorka, Chernarus sử dụng. Cho phép tiếp cận nhanh các túi lớn và bảo vệ người mặc tốt trước các yếu tố thời tiết.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 3          Nhiệt: + 8                    
-Giáp: + 2        Khả năng đỡ đòn: + 10%
+Ô chứa: + 3    Nhiệt: + 8        
+Giáp: + 2     Khả năng đỡ đòn: + 10%
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -4155,7 +4155,7 @@ Có thể xé thành vải vụn.
 	<id>534</id>
 	<name>Áo nhân viên y tế tiêu chuẩn, không khác nhiều so với các trang phục làm việc khác, ngoại trừ các dải phản quang sáng màu.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 2          Nhiệt: + 5
+Ô chứa: + 2    Nhiệt: + 5
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -4165,8 +4165,8 @@ Có thể xé thành vải vụn.
 	<id>535</id>
 	<name>Áo đồng phục của đơn vị cảnh sát đặc biệt OREL, cung cấp độ ấm, thoải mái khá tốt và giáp tối thiểu.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 2          Nhiệt: + 5
-Giáp: + 1                       
+Ô chứa: + 2    Nhiệt: + 5
+Giáp: + 1           
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -4176,7 +4176,7 @@ Giáp: + 1
 	<id>536</id>
 	<name>Áo khoác mặc thường ngày, thiết kế cho sự thoải mái và mục đích thể thao, là một trong những loại trang phục phổ biến nhất ở vùng Slavic.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 1          Nhiệt: + 4
+Ô chứa: + 1    Nhiệt: + 4
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -4186,7 +4186,7 @@ Giáp: + 1
 	<id>537</id>
 	<name>Một chiếc váy nữ thoải mái, sẽ giúp bạn trông xinh đẹp trong mọi tình huống.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 1          Nhiệt: + 4
+Ô chứa: + 1    Nhiệt: + 4
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể xé thành vải vụn.
 </name>
@@ -4197,7 +4197,7 @@ Có thể xé thành vải vụn.
 	<id>538</id>
 	<name>Áo khoác phao có thể nén, nhồi lông vũ mềm và ấm từ vịt hoặc ngỗng, cảm giác rất ấm áp.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 2          Nhiệt: + 8
+Ô chứa: + 2    Nhiệt: + 8
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -4207,8 +4207,8 @@ Có thể xé thành vải vụn.
 	<id>539</id>
 	<name>Một áo khoác bền với hoa văn ngụy trang rừng, thiết kế cho những khoảng thời gian dài đi săn trong hoang dã.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 3          Nhiệt: + 6                  
-Giáp: + 1        Khả năng đỡ đòn: + 5%
+Ô chứa: + 3    Nhiệt: + 6         
+Giáp: + 1     Khả năng đỡ đòn: + 5%
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -4218,7 +4218,7 @@ Giáp: + 1        Khả năng đỡ đòn: + 5%
 	<id>540</id>
 	<name>Áo len dài tay dày, rất ấm, rất hút nước và ngứa kinh khủng.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 1          Nhiệt: + 6
+Ô chứa: + 1    Nhiệt: + 6
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -4228,7 +4228,7 @@ Giáp: + 1        Khả năng đỡ đòn: + 5%
 	<id>541</id>
 	<name>Chiếc hoodie huyền thoại thuộc về người đàn ông, huyền thoại, biểu tượng... CannedBits! ❤️
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 3          Nhiệt: + 8
+Ô chứa: + 3    Nhiệt: + 8
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -4238,8 +4238,8 @@ Giáp: + 1        Khả năng đỡ đòn: + 5%
 	<id>542</id>
 	<name>Áo đồng phục lực lượng cứu hỏa. Bảo vệ và giữ nhiệt cho người mặc khỏi lửa và nhiệt độ cực cao.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 2          Nhiệt: + 5                  
-Giáp: + 1        Khả năng đỡ đòn: + 5%
+Ô chứa: + 2    Nhiệt: + 5         
+Giáp: + 1     Khả năng đỡ đòn: + 5%
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Miễn nhiễm với lửa (phải mặc kèm với Quần cứu hỏa).
 </name>
@@ -4250,8 +4250,8 @@ Miễn nhiễm với lửa (phải mặc kèm với Quần cứu hỏa).
 	<id>543</id>
 	<name>"Từ tàn tích của thế giới cũ, con quái ảnh của một thời đại xa xưa vươn mình trỗi dậy"
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Giáp: + 10        Khả năng đỡ đòn: + 15%
-Nhiệt: + 3                                              
+Giáp: + 10     Khả năng đỡ đòn: + 15%
+Nhiệt: + 3                   
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể sửa bằng đèn khò.
 </name>
@@ -5071,7 +5071,7 @@ Màu sắc cũng có thể được đổi lại về mặc định.
 	<id>706</id>
 	<name>Một thiết bị chiếu sáng đội đầu, rảnh tay, có dây đai điều chỉnh.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Nhiệt: + 1          Cần sử dụng: Pin
+Nhiệt: + 1    Cần sử dụng: Pin
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể bật lên để chiếu sáng một vùng nhỏ.
 </name>
@@ -5082,7 +5082,7 @@ Có thể bật lên để chiếu sáng một vùng nhỏ.
 	<id>707</id>
 	<name>Kính nhìn đêm chạy bằng pin, dùng để tăng cường hình ảnh trong môi trường ánh sáng yếu. Đi kèm dây đai đội đầu.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Nhiệt: + 1          Cần sử dụng: Pin
+Nhiệt: + 1    Cần sử dụng: Pin
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể bật lên để nhìn trong tối.
 </name>
@@ -5093,7 +5093,7 @@ Có thể bật lên để nhìn trong tối.
 	<id>708</id>
 	<name>Bộ dụng cụ y tế AI-2 nguyên bản từ thời chiến tranh lạnh, được thiết kế để bảo vệ công dân và quân nhân Liên Xô khỏi các mối nguy hóa học, sinh học, phóng xạ và hạt nhân (CBRN).
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Thể lực: + 50          Thời gian hiệu lực: 120 s
+Thể lực: + 50    Thời gian hiệu lực: 120 s
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Hiệu ứng thuốc: Cầm máu, thêm khả năng miễn nhiễm với phóng xạ trong thời gian hiệu lực.
 </name>
@@ -5114,9 +5114,9 @@ Con chó có thể khuân vác vật phẩm.
 	<id>710</id>
 	<name>Thuốc tiêm kích thích tâm thần dùng để tăng cường sự tập trung, nhận thức và thể lực.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Máu: + 10                 Tỉ lệ headshot: + 20%
+Máu: + 10        Tỉ lệ headshot: + 20%
 Tỉ lệ đỡ: + 20%  Tốc độ di chuyển: + 20%
-Thời gian hiệu lực: 120 s                                        
+Thời gian hiệu lực: 120 s                
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Được chồng tối đa: 3
 </name>
@@ -5201,7 +5201,7 @@ Nó không thể khuân vật phẩm qua các đảo khác!
 	<id>718</id>
 	<name>Trứng hữu cơ, giàu protein, lấy từ những con gà mái nông thôn hiện đang tự do đi lại trong vùng đất hoang tàn.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Thức ăn: + 10          Nước: + 10
+Thức ăn: + 10    Nước: + 10
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Được chồng tối đa: 3
 Dùng để làm: Trứng rán, Shakshuka
@@ -5213,7 +5213,7 @@ Dùng để làm: Trứng rán, Shakshuka
 	<id>719</id>
 	<name>Thịt gia cầm sống chưa nấu, một nguồn protein vô giá trong vùng đất hoang tàn.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Thức ăn: + 25          Nước: + 10
+Thức ăn: + 25    Nước: + 10
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Dùng để làm: Thịt xào ớt chuông
 Có thể nướng trên đống lửa.
@@ -5226,8 +5226,8 @@ Có thể nướng trên đống lửa.
 	<id>720</id>
 	<name>Ức gà sống được nướng trên đống lửa đến độ thơm ngậy, hun khói.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Thức ăn: + 35          Nước: + 15
-Máu: + 20                            
+Thức ăn: + 35    Nước: + 15
+Máu: + 20             
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -5237,7 +5237,7 @@ Máu: + 20
 	<id>721</id>
 	<name>Kính ngắm không phóng đại gắn cố định với tâm ngắm phát sáng, dùng cho các súng ngắn tương thích.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Tỉ lệ headshot: + 5%     Độ tản đạn: - 2
+Tỉ lệ headshot: + 5%  Độ tản đạn: - 2
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Gắn trên: FNX 45, Glock 17, Desert Eagle, R870, R11-87
 </name>
@@ -5268,9 +5268,9 @@ Gắn trên: FNX 45, Colt 1911, Glock 17
 	<id>724</id>
 	<name>Một quả trứng chiên lòng đào. Đơn giản mà ngon.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Máu: + 5                Thể lực: + 5                
-Thức ăn: + 20                Nước: + 5                   
-Hồi máu:x 2     Thời gian hiệu lực: 10s
+Máu: + 5       Thể lực: + 5       
+Thức ăn: + 20       Nước: + 5          
+Hồi máu:x 2  Thời gian hiệu lực: 10s
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Công thức: Trứng + chảo + lửa trại
 </name>
@@ -5281,9 +5281,9 @@ Công thức: Trứng + chảo + lửa trại
 	<id>725</id>
 	<name>Món xào kiểu cổ điển kết hợp thịt thái mỏng, mềm với ớt chuông giòn trong nước sốt đậm đà.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Máu: + 30             Thể lực: + 30               
-Thức ăn: + 60                Nước: + 15                 
-Hồi máu:x 2     Thời gian hiệu lực: 60s
+Máu: + 30       Thể lực: + 30      
+Thức ăn: + 60       Nước: + 15        
+Hồi máu:x 2  Thời gian hiệu lực: 60s
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Công thức: Thịt gà/hươu/lợn/thỏ + ớt chuông + chảo + lửa trại
 </name>
@@ -5294,9 +5294,9 @@ Công thức: Thịt gà/hươu/lợn/thỏ + ớt chuông + chảo + lửa tr�
 	<id>726</id>
 	<name>Một món ăn đơn giản, dễ chịu, phổ biến trong bữa ăn gia đình Trung Đông, được làm bằng cách đánh tan trứng trên chảo nóng và thêm sốt cà chua.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Máu: + 10             Thể lực: + 10               
-Thức ăn: + 35                Nước: + 20                 
-Hồi máu:x 2     Thời gian hiệu lực: 60s
+Máu: + 10       Thể lực: + 10      
+Thức ăn: + 35       Nước: + 20        
+Hồi máu:x 2  Thời gian hiệu lực: 60s
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Công thức: Trứng + cà chua + chảo + lửa trại
 </name>
@@ -5316,7 +5316,7 @@ Công thức: Trứng + cà chua + chảo + lửa trại
 	<id>728</id>
 	<name>Một loài động vật không xương sống nhỏ sống dưới lòng đất trong đất ẩm.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Thức ăn: + 5          Thể lực: - 10
+Thức ăn: + 5    Thể lực: - 10
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Được chồng tối đa: 10
 + 10% độ bền cần câu
@@ -5328,8 +5328,8 @@ Thức ăn: + 5          Thể lực: - 10
 	<id>729</id>
 	<name>Một phiên bản lựu đạn tay cải biên từ đạn lựu VOG-25 được đăt tên theo thủ lĩnh Mujahideen.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 1800          Sát thương mỗi mảnh: 75
-Thời gian nổ: 2 giây           Số mảnh: 24                       
+Sát thương: 1800    Sát thương mỗi mảnh: 75
+Thời gian nổ: 2 giây     Số mảnh: 24           
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể gài vào áo giáp được chọn để sử dụng nhanh.
 </name>
@@ -5342,11 +5342,11 @@ Có thể gài vào áo giáp được chọn để sử dụng nhanh.
 	<id>730</id>
 	<name>Một súng ngắn bán tự động với thiết kế công thái học được nâng cấp mạnh, do FN America sản xuất.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 21-35              Độ tản đạn: 20-6              
-Tốc độ ngắm: 4                 Độ giật: 9                      
-Giảm tốc độ chạy: 2               Thời gian nạp đạn: 2s         
-Sức chứa: 15           Đạn: .45 ACP         
-Hao mòn: 0.5%     Độ trễ mỗi phát: 0.15s
+Sát thương: 21-35        Độ tản đạn: 20-6        
+Tốc độ ngắm: 4        Độ giật: 9          
+Giảm tốc độ chạy: 2      Thời gian nạp đạn: 2s      
+Sức chứa: 15     Đạn: .45 ACP      
+Hao mòn: 0.5%  Độ trễ mỗi phát: 0.15s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -5356,11 +5356,11 @@ Hao mòn: 0.5%     Độ trễ mỗi phát: 0.15s
 	<id>731</id>
 	<name>"Chúa tạo ra con người, còn Sam Colt khiến họ bình đẳng"
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 18-30              Độ tản đạn: 20-6            
-Tốc độ ngắm: 4                 Độ giật: 10                  
-Giảm tốc độ chạy: 2               Thời gian nạp đạn: 2s       
-Sức chứa: 7             Đạn: .45 ACP       
-Hao mòn: 0.5%     Độ trễ mỗi phát: 0.2s
+Sát thương: 18-30        Độ tản đạn: 20-6      
+Tốc độ ngắm: 4        Độ giật: 10         
+Giảm tốc độ chạy: 2      Thời gian nạp đạn: 2s    
+Sức chứa: 7       Đạn: .45 ACP    
+Hao mòn: 0.5%  Độ trễ mỗi phát: 0.2s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -5370,11 +5370,11 @@ Hao mòn: 0.5%     Độ trễ mỗi phát: 0.2s
 	<id>732</id>
 	<name>Một súng lục ổ quay bán tự động sáu viên mạnh mẽ, có thể gây sát thương đáng nể.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 34-54              Độ tản đạn: 20-6                
-Tốc độ ngắm: 2                 Độ giật: 15                      
-Giảm tốc độ chạy: 3               Thời gian nạp đạn: 3s           
-Sức chứa: 6             Đạn: .357 M             
-Hao mòn: 0.5%     Độ trễ mỗi phát: 0.3s
+Sát thương: 34-54        Độ tản đạn: 20-6       
+Tốc độ ngắm: 2        Độ giật: 15          
+Giảm tốc độ chạy: 3      Thời gian nạp đạn: 3s     
+Sức chứa: 6       Đạn: .357 M       
+Hao mòn: 0.5%  Độ trễ mỗi phát: 0.3s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -5384,11 +5384,11 @@ Hao mòn: 0.5%     Độ trễ mỗi phát: 0.3s
 	<id>733</id>
 	<name>Giá thành hợp lý, đáng tin cậy và nhỏ gọn. Rất phổ biến trong lực lượng thực thi pháp luật.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 15-25              Độ tản đạn: 20-5              
-Tốc độ ngắm: 4                 Độ giật: 10                    
-Giảm tốc độ chạy: 2               Thời gian nạp đạn: 2s         
-Sức chứa: 18           Đạn: 9x19 P           
-Hao mòn: 0.5%     Độ trễ mỗi phát: 0.15s
+Sát thương: 15-25        Độ tản đạn: 20-5        
+Tốc độ ngắm: 4        Độ giật: 10        
+Giảm tốc độ chạy: 2      Thời gian nạp đạn: 2s      
+Sức chứa: 18     Đạn: 9x19 P     
+Hao mòn: 0.5%  Độ trễ mỗi phát: 0.15s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -5398,11 +5398,11 @@ Hao mòn: 0.5%     Độ trễ mỗi phát: 0.15s
 	<id>734</id>
 	<name>AWC TM-Amphibian S. Phiên bản giảm thanh tích hợp của súng ngắn Ruger Mk II.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 11-19              Độ tản đạn: 20-4           
-Tốc độ ngắm: 4                 Độ giật: 9                   
-Giảm tốc độ chạy: 3               Thời gian nạp đạn: 2s      
-Sức chứa: 10           Đạn: .22 LR         
-Hao mòn: 0.5%     Độ trễ mỗi phát: 0.2s
+Sát thương: 11-19        Độ tản đạn: 20-4     
+Tốc độ ngắm: 4        Độ giật: 9          
+Giảm tốc độ chạy: 3      Thời gian nạp đạn: 2s   
+Sức chứa: 10     Đạn: .22 LR      
+Hao mòn: 0.5%  Độ trễ mỗi phát: 0.2s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Không thu hút quái khi bắn.
 </name>
@@ -5413,11 +5413,11 @@ Không thu hút quái khi bắn.
 	<id>735</id>
 	<name>Súng săn hai nòng nạp bẻ, đã được cưa ngắn.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 22-188            Độ tản đạn: 30-13      
-Tốc độ ngắm: 3                 Độ giật: 20              
-Giảm tốc độ chạy: 2               Thời gian nạp đạn: 3s   
-Sức chứa: 2             Đạn: 12 Gauge      
-Hao mòn: 0.5%     Độ trễ mỗi phát: 0s
+Sát thương: 22-188      Độ tản đạn: 30-13   
+Tốc độ ngắm: 3        Độ giật: 20        
+Giảm tốc độ chạy: 2      Thời gian nạp đạn: 3s   
+Sức chứa: 2       Đạn: 12 Gauge   
+Hao mòn: 0.5%  Độ trễ mỗi phát: 0s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -5427,11 +5427,11 @@ Hao mòn: 0.5%     Độ trễ mỗi phát: 0s
 	<id>736</id>
 	<name>Phiên bản rút ngắn của súng trường mosin.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 79-131            Độ tản đạn: 25-12          
-Tốc độ ngắm: 3                 Độ giật: 25                   
-Giảm tốc độ chạy: 1               Thời gian nạp đạn: 3s       
-Sức chứa: 5             Đạn: 7.62x54R     
-Hao mòn: 0.5%     Độ trễ mỗi phát: 1.3s
+Sát thương: 79-131      Độ tản đạn: 25-12    
+Tốc độ ngắm: 3        Độ giật: 25          
+Giảm tốc độ chạy: 1      Thời gian nạp đạn: 3s    
+Sức chứa: 5       Đạn: 7.62x54R  
+Hao mòn: 0.5%  Độ trễ mỗi phát: 1.3s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -5441,11 +5441,11 @@ Hao mòn: 0.5%     Độ trễ mỗi phát: 1.3s
 	<id>737</id>
 	<name>Một khẩu Colt 1911 được khắc chạm tinh xảo với băng đạn được nâng cấp.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 18-30              Độ tản đạn: 20-5           
-Tốc độ ngắm: 4                 Độ giật: 10                 
-Giảm tốc độ chạy: 2               Thời gian nạp đạn: 2s      
-Sức chứa: 12           Đạn: .45 ACP      
-Hao mòn: 0.5%     Độ trễ mỗi phát: 0.2s
+Sát thương: 18-30        Độ tản đạn: 20-5     
+Tốc độ ngắm: 4        Độ giật: 10        
+Giảm tốc độ chạy: 2      Thời gian nạp đạn: 2s   
+Sức chứa: 12     Đạn: .45 ACP   
+Hao mòn: 0.5%  Độ trễ mỗi phát: 0.2s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -5455,11 +5455,11 @@ Hao mòn: 0.5%     Độ trễ mỗi phát: 0.2s
 	<id>738</id>
 	<name>"Đây là vùng đất hoang dã, thưa cô." -Josh Randall
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 34-56              Độ tản đạn: 25-11          
-Tốc độ ngắm: 3                 Độ giật: 17                  
-Giảm tốc độ chạy: 2               Thời gian nạp đạn: 3s       
-Sức chứa: 7             Đạn: .357 M         
-Hao mòn: 0.5%     Độ trễ mỗi phát: 0.7s
+Sát thương: 34-56        Độ tản đạn: 25-11    
+Tốc độ ngắm: 3        Độ giật: 17         
+Giảm tốc độ chạy: 2      Thời gian nạp đạn: 3s    
+Sức chứa: 7       Đạn: .357 M      
+Hao mòn: 0.5%  Độ trễ mỗi phát: 0.7s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -5469,11 +5469,11 @@ Hao mòn: 0.5%     Độ trễ mỗi phát: 0.7s
 	<id>739</id>
 	<name>Súng ngắn Makarov, hay PM. Súng ngắn phục vụ tiêu chuẩn của quân đội Liên Xô.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 18-30                Độ tản đạn: 20-8            
-Tốc độ ngắm: 4                   Độ giật: 10                  
-Giảm tốc độ chạy: 2                 Thời gian nạp đạn: 2s       
-Sức chứa: 8               Đạn: 9x18 M        
-Hao mòn: 0.25%     Độ trễ mỗi phát: 0.2s
+Sát thương: 18-30       Độ tản đạn: 20-8      
+Tốc độ ngắm: 4          Độ giật: 10         
+Giảm tốc độ chạy: 2        Thời gian nạp đạn: 2s    
+Sức chứa: 8      Đạn: 9x18 M     
+Hao mòn: 0.25%  Độ trễ mỗi phát: 0.2s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -5483,11 +5483,11 @@ Hao mòn: 0.25%     Độ trễ mỗi phát: 0.2s
 	<id>740</id>
 	<name>Phiên bản có giảm thanh tích hợp của Makarov PM, được KGB và Spetsnaz sử dụng.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 18-30              Độ tản đạn: 20-9             
-Tốc độ ngắm: 4                 Độ giật: 8                     
-Giảm tốc độ chạy: 2               Thời gian nạp đạn: 2s       
-Sức chứa: 8             Đạn: 9x18 M        
-Hao mòn: 0.5%     Độ trễ mỗi phát: 0.2s
+Sát thương: 18-30        Độ tản đạn: 20-9       
+Tốc độ ngắm: 4        Độ giật: 8         
+Giảm tốc độ chạy: 2      Thời gian nạp đạn: 2s    
+Sức chứa: 8       Đạn: 9x18 M     
+Hao mòn: 0.5%  Độ trễ mỗi phát: 0.2s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Không thu hút quái khi bắn.
 </name>
@@ -5498,11 +5498,11 @@ Không thu hút quái khi bắn.
 	<id>741</id>
 	<name>Một khẩu súng ngắn mang tính biểu tượng, nổi bật với hình dáng lớn, sức công phá mạnh.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 30-50              Độ tản đạn: 20-6            
-Tốc độ ngắm: 3                 Độ giật: 13                  
-Giảm tốc độ chạy: 2               Thời gian nạp đạn: 2s       
-Sức chứa: 9             Đạn: .357 M         
-Hao mòn: 0.5%     Độ trễ mỗi phát: 0.2s
+Sát thương: 30-50        Độ tản đạn: 20-6      
+Tốc độ ngắm: 3        Độ giật: 13         
+Giảm tốc độ chạy: 2      Thời gian nạp đạn: 2s    
+Sức chứa: 9       Đạn: .357 M      
+Hao mòn: 0.5%  Độ trễ mỗi phát: 0.2s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -5512,11 +5512,11 @@ Hao mòn: 0.5%     Độ trễ mỗi phát: 0.2s
 	<id>742</id>
 	<name>Súng phóng lựu nạp bẻ một viên, sản xuất từ những năm 1960. Trông có thể cổ lỗ, nhưng vẫn còn hiệu quả.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 45-540              Độ tản đạn: 30-8                  
-Tốc độ ngắm: 3                   Độ giật: 6                           
-Giảm tốc độ chạy: 2                 Thời gian nạp đạn: 3s             
-Sức chứa: 1               Đạn: lựu 40mm
-Hao mòn: 0.25%     Độ trễ mỗi phát: -            
+Sát thương: 45-540        Độ tản đạn: 30-8         
+Tốc độ ngắm: 3          Độ giật: 6            
+Giảm tốc độ chạy: 2        Thời gian nạp đạn: 3s       
+Sức chứa: 1      Đạn: lựu 40mm
+Hao mòn: 0.25%  Độ trễ mỗi phát: -      
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -5526,11 +5526,11 @@ Hao mòn: 0.25%     Độ trễ mỗi phát: -
 	<id>743</id>
 	<name>Súng trường hai nòng nạp bẻ, đã cắt ngắn.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 71-119            Độ tản đạn: 25-12        
-Tốc độ ngắm: 3                 Độ giật: 10                
-Giảm tốc độ chạy: 2               Thời gian nạp đạn: 3s    
-Sức chứa: 2             Đạn: .308 Win  
-Hao mòn: 0.5%     Độ trễ mỗi phát: 0s
+Sát thương: 71-119      Độ tản đạn: 25-12     
+Tốc độ ngắm: 3        Độ giật: 10       
+Giảm tốc độ chạy: 2      Thời gian nạp đạn: 3s    
+Sức chứa: 2       Đạn: .308 Win  
+Hao mòn: 0.5%  Độ trễ mỗi phát: 0s
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -5540,11 +5540,11 @@ Hao mòn: 0.5%     Độ trễ mỗi phát: 0s
 	<id>744</id>
 	<name>Súng ngắn săn nạp bẻ một viên. Phù hợp để săn thú, đi kèm kính ngắm tích hợp.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 79-131            Độ tản đạn: 20-1      
-Tốc độ ngắm: 2                 Độ giật: 25            
-Giảm tốc độ chạy: 2               Thời gian nạp đạn: 3s 
-Sức chứa: 1             Đạn: .308 Win
-Hao mòn: 0.5%     Độ trễ mỗi phát: -
+Sát thương: 79-131      Độ tản đạn: 20-1   
+Tốc độ ngắm: 2        Độ giật: 25      
+Giảm tốc độ chạy: 2      Thời gian nạp đạn: 3s 
+Sức chứa: 1       Đạn: .308 Win
+Hao mòn: 0.5%  Độ trễ mỗi phát: -
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 + 15% tỉ lệ headshot khi ngắm chính xác, + tầm bắn cộng thêm.
 </name>
@@ -5555,11 +5555,11 @@ Hao mòn: 0.5%     Độ trễ mỗi phát: -
 	<id>745</id>
 	<name>Military Armament Corporation model 10, hay MAC-10. Một khẩu tiểu liên nhỏ gọn.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 15-25              Độ tản đạn: 20-10          
-Tốc độ ngắm: 3                 Độ giật: 2                    
-Giảm tốc độ chạy: 0               Thời gian nạp đạn: 2s       
-Sức chứa: 30           Đạn: 9x19 P        
-Hao mòn: 0.2%     Tốc độ bắn: 650 RPM
+Sát thương: 15-25        Độ tản đạn: 20-10    
+Tốc độ ngắm: 3        Độ giật: 2        
+Giảm tốc độ chạy: 0      Thời gian nạp đạn: 2s    
+Sức chứa: 30     Đạn: 9x19 P     
+Hao mòn: 0.2%  Tốc độ bắn: 650 RPM
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -5569,11 +5569,11 @@ Hao mòn: 0.2%     Tốc độ bắn: 650 RPM
 	<id>746</id>
 	<name>Một phiên bản nhỏ gọn hơn của khẩu tiểu liên UZI nguyên bản.
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 18-30             Độ tản đạn: 20-10          
-Tốc độ ngắm: 3                Độ giật: 2                   
-Giảm tốc độ chạy: 0              Thời gian nạp đạn: 2s       
-Sức chứa: 22          Đạn: .45 ACP       
-Hao mòn: 0.2%     Tốc độ bắn: 600 RPM
+Sát thương: 18-30       Độ tản đạn: 20-10    
+Tốc độ ngắm: 3       Độ giật: 2          
+Giảm tốc độ chạy: 0        Thời gian nạp đạn: 2s    
+Sức chứa: 22    Đạn: .45 ACP    
+Hao mòn: 0.2%  Tốc độ bắn: 600 RPM
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 </name>
 </text>
@@ -5610,8 +5610,8 @@ Mở ra để nhận vật phẩm ngẫu nhiên!
 	<id>750</id>
 	<name>Thit nguoi
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Thức ăn: + 15          Nước: + 10
-Thể lực: - 10                            
+Thức ăn: + 15    Nước: + 10
+Thể lực: - 10             
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 100% khả năng bị ngộ độc khi ăn sống!
 </name>
@@ -5622,8 +5622,8 @@ Thể lực: - 10
 	<id>751</id>
 	<name>Thit nguoi chin
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Thức ăn: + 25          Nước: + 10
-Thể lực: - 10                            
+Thức ăn: + 25    Nước: + 10
+Thể lực: - 10             
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 50% khả năng bị ngộ độc khi ăn!
 </name>
@@ -5645,7 +5645,7 @@ Có thể trang bị kèm cùng một túi đeo.
 	<id>753</id>
 	<name>Một túi vai quân dụng nhỏ dùng để chứa các vật dụng và công cụ sinh tồn nhỏ, đeo qua ngực để sử dụng nhanh.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 1          Ô độc quyền: + 3
+Ô chứa: + 1    Ô độc quyền: + 3
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Ô chứa: Dao, diêm, bật lửa, pháo, bình đông
 Có thể trang bị kèm cùng một túi đeo.
@@ -5657,7 +5657,7 @@ Có thể trang bị kèm cùng một túi đeo.
 	<id>754</id>
 	<name>Một túi vai y tế cấp IFAK, được thiết kế để chứa thuốc, bảo vệ chúng khỏi các tác nhân gây nhiễm.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Ô chứa: + 1          Ô độc quyền: + 3
+Ô chứa: + 1    Ô độc quyền: + 3
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Ô chứa: bất kỳ đồ y tế (trừ vải rách)
 Có thể trang bị kèm cùng một túi đeo.
@@ -5710,7 +5710,7 @@ Dùng cho: OSV-96
 	<id>759</id>
 	<name>Một bình đựng nước cá nhân dùng lại được, có lõi than hoạt tính bên trong để lọc nước khi di chuyển.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Nước: + 12          Số lần dùng: 4
+Nước: + 12    Số lần dùng: 4
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể lọc nước hồ, có thể được khôi phục bằng viên than hoạt tính khi rỗng.
 Có thể được đổ đầy nước từ các máy bơm nước, hứng được nước mưa khi để trên mặt đất lúc mưa.
@@ -5723,7 +5723,7 @@ Có thể được đổ đầy nước từ các máy bơm nước, hứng đư
 	<id>760</id>
 	<name>Một bình đựng nước cá nhân dùng lại được, có lõi than hoạt tính bên trong để lọc nước khi di chuyển.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Nước: + 12          Số lần dùng: 4
+Nước: + 12    Số lần dùng: 4
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể lọc nước hồ, có thể được khôi phục bằng viên than hoạt tính khi rỗng.
 Có thể được đổ đầy nước từ các máy bơm nước, hứng được nước mưa khi để trên mặt đất lúc mưa.
@@ -5864,7 +5864,7 @@ Chứa gấp 10 lần giới hạn chồng tối đa của bất kỳ loại đ�
 	<id>777</id>
 	<name>Một quả lê chín, không quá bổ dưỡng, nhưng rất ngọt và ngon.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Thức ăn: + 10          Nước: + 20
+Thức ăn: + 10    Nước: + 20
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Được chồng tối đa: 3
 </name>
@@ -5895,8 +5895,8 @@ Heo được thả ra sẽ không biến mất và không đi lang thang nếu �
 	<id>780</id>
 	<name>Thịt dai, gân, lấy từ một loài thú săn mồi giống chó, đầy nguy cơ mầm bệnh!
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Thức ăn: + 20          Nước: + 10
-Thể lực: - 10                            
+Thức ăn: + 20    Nước: + 10
+Thể lực: - 10             
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể nướng trên đống lửa.
 50% khả năng bị ngộ độc và dính bệnh khi ăn sống!
@@ -5909,8 +5909,8 @@ Có thể nướng trên đống lửa.
 	<id>781</id>
 	<name>Một miếng thịt sói dai, gân, được nướng trên lửa mở, dai và có mùi hoang dã rõ rệt.
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Thức ăn: + 40          Nước: + 10
-Thể lực: - 10                            
+Thức ăn: + 40    Nước: + 10
+Thể lực: - 10             
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 50% khả năng bị ngộ độc khi ăn!
 </name>
@@ -5921,8 +5921,8 @@ Thể lực: - 10
 	<id>782</id>
 	<name>Sườn thịt dày, đặc, dai lấy từ một con gấu!
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Thức ăn: + 30          Nước: + 10
-Thể lực: - 10                            
+Thức ăn: + 30    Nước: + 10
+Thể lực: - 10             
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 Có thể nướng trên đống lửa.
 50% khả năng bị ngộ độc và dính bệnh tật khi ăn!
@@ -5934,8 +5934,8 @@ Có thể nướng trên đống lửa.
 	<id>783</id>
 	<name>Trông hệt như sườn bò với mùi hoang dã đậm đà...
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Thức ăn: + 60          Nước: + 10
-Thể lực: - 10                            
+Thức ăn: + 60    Nước: + 10
+Thể lực: - 10             
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
 50% khả năng bị ngộ độc khi ăn sống!
 </name>
@@ -5956,13 +5956,13 @@ Dùng để làm: Giường
 	<id>785</id>
 	<name>Súng săn ba nòng được cải biên gắn thêm rìu!
  ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 71-119/22-188     Độ tản đạn: 25-12                  
-Tốc độ ngắm: 3                         Độ giật: 10                          
-Giảm tốc độ chạy: 2                      Thời gian nạp đạn: -                  
-Sức chứa: 2/1               Đạn: .308 Win / 12 Gauge
+Sát thương: 71-119/22-188  Độ tản đạn: 25-12         
+Tốc độ ngắm: 3          Độ giật: 10           
+Giảm tốc độ chạy: 2          Thời gian nạp đạn: -         
+Sức chứa: 2/1      Đạn: .308 Win / 12 Gauge
 ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ ̶ 
-Sát thương: 38-63            Tỉ lệ chí mạng: 25%  
-Tỉ lệ đỡ: 25%     Tốc độ đánh: 1.5s
+Sát thương: 38-63      Tỉ lệ chí mạng: 25%  
+Tỉ lệ đỡ: 25%  Tốc độ đánh: 1.5s
 Dùng trong cận chiến và đốn cây.
 </name>
 </text>
