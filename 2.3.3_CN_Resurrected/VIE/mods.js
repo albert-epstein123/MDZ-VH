@@ -284,13 +284,12 @@ async function start(){
 	const popup = document.createElement("div");
 	popup.textContent = `
 		-- MAKE MINIDAYZ+ GREAT AGAIN --
-		---- SHADER MOD bởi Civert0 ----
-		Dịch bởi Dungx - Albert-Epstein
+		Dịch bởi Dungx || Albert-Epstein
 	`;
 	popup.style.cssText = `
 		align-content: center;
-		width: 300px;
-		height: 150px;
+		width: 270px;
+		height: 60px;
 		position: absolute;
 		top: 50%;
 		left: 50%;
