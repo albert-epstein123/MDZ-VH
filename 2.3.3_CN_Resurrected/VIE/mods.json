@@ -5,15 +5,15 @@
 			"description":"\"Cheat Engine\"của MDZ, hack tgian, vật phẩm, save/load, spawn xe npc, teleport v.v .",
 			"script":"c2injt_loader",
 			"notes":"Đối với máy yếu thì 0 nên bật (siêu lag), nếu muốn bật thì đừng mở màn hình script khi game chưa chạy.",
-			"version":"31.2f",
-			"author":"Civert0, Dungx (VH, script extension)",
+			"version":"31.8",
+			"author":"Civert0",
 			"extension":""
 		},
 		{
-			"name":"Shader",
-			"description":"Một bộ shader chân thực với hệ thống ánh sáng sống động, hiệu ứng thời tiết như thật, đổ bóng thời gian thực, mặt nước gợn sóng, v.v., giúp nâng cao trải nghiệm chơi game nhưng lại đánh đổi bằng hiệu năng hệ thống.",
+			"name":"REIMAGINED Shader",
+			"description":"Một bộ shader siêu chân thực với hệ thống ánh sáng sống động, hiệu ứng thời tiết như thật, đổ bóng thời gian thực, mặt nước gợn sóng, v.v. Trong đó, có hệ thống Fog-Of-War, xuất hiện trong MDZ2 nhằm tăng tính chân thực của game.",
 			"script":"shader_loader",
-			"notes":"Không dành cho máy yếu. Nếu muốn chơi thì chỉnh tùy chỉnh sang \"Chế độ nhanh\"",
+			"notes":"Đi kèm cả chế dộ tự động chỉnh đồ họa để phù hợp với hiệu năng máy, tránh làm máy nổ.",
 			"version":"1.0",
 			"author":"Civert0",
 			"extension":""

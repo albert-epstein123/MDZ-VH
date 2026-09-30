@@ -2,19 +2,19 @@
 	"mods":[
 		{
 			"name":"Inject Tool",
-			"description":"\"Toolhack\" for MDZ.",
+			"description":"\"Cheat Engine\" of MDZ.",
 			"script":"c2injt_loader",
 			"notes":"Not recommended for low-end devices. If you want to use it, dont open the tab when the game isnt loading and then turn on \"Disable Panel Animation\"",
-			"version":"31.2f",
+			"version":"31.8",
 			"author":"Civert0",
 			"extension":""
 		},
 		{
-			"name":"Shader",
-			"description":"A shader mod that delivers realistic visuals, featuring dynamic lighting, vivid weather effects, real-time shadows, rippling water, and more. Thereby enhancing the gaming experience but demanding significant system resources.",
+			"name":"REIMAGINED Shader",
+			"description":"A shader mod that delivers realistic visuals, featuring dynamic lighting, vivid weather effects, real-time shadows, rippling water, and more. On top of that, Fog-Of-War, featured in MDZ 2, is also included in this mod. This will hide anything behind building, tree, wall inside buidling, etc....  Thereby enhancing the gaming experience, making your games more and more realistic. ",
 			"script":"shader_loader",
-			"notes":"Not recommended for low-end devices. You can change shader's preset to \"Performance\"",
-			"version":"1.0",
+			"notes":"Bundled with Graphic Optimizer. This will adjust your shader settings based on your chipset so you don't have to worry about heat and performance issues.",
+			"version":"3.1",
 			"author":"Civert0",
 			"extension":""
 		},
