@@ -14,7 +14,7 @@
 			"description":"Một bộ shader siêu chân thực với hệ thống ánh sáng sống động, hiệu ứng thời tiết như thật, đổ bóng thời gian thực, mặt nước gợn sóng, v.v. Trong đó, có hệ thống Fog-Of-War, xuất hiện trong MDZ2 nhằm tăng tính chân thực của game.",
 			"script":"shader_loader",
 			"notes":"Đi kèm cả chế dộ tự động chỉnh đồ họa để phù hợp với hiệu năng máy, tránh làm máy nổ.",
-			"version":"1.0",
+			"version":"3.1",
 			"author":"Civert0",
 			"extension":""
 		},
