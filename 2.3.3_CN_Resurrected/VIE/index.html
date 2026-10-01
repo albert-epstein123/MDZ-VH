@@ -43,7 +43,11 @@
  
 <body> 
 	<div id="fb-root"></div>
-	
+	<script>
+ 	if ('serviceWorker' in navigator) {
+    	navigator.serviceWorker.register('sw.js');
+  	}
+	</script>
 	<!-- The canvas must be inside a div called c2canvasdiv -->
 	<div id="c2canvasdiv">
 	

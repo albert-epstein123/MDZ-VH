@@ -231,7 +231,10 @@ async function UpdateCheck(isFirst)
 		const lazyLoadList = data.lazyLoad;
 		const currentCacheName = GetCacheVersionName(version);
 		
-		const cacheExists = await caches.has(currentCacheName);
+		// CacheStorage has no `has()` method. Check the keys explicitly; calling
+		// the old API here rejects every update check before the first cache can
+		// be populated, which leaves the app network-only.
+		const cacheExists = (await caches.keys()).includes(currentCacheName);
 
 		// Don't recache if there is already a cache that exists for this version. Assume it is complete.
 		if (cacheExists)
