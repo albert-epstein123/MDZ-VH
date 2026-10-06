@@ -1,0 +1,883 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<list>
+<text>
+<id>0</id>
+<name></name>
+</text>
+<text>
+<id>1</id>
+<name>Tôi không còn chảy máu nữa.</name>
+</text>
+<text>
+<id>2</id>
+<name>Tôi cảm thấy khỏe mạnh.</name>
+</text>
+<text>
+<id>3</id>
+<name>Tôi có thể cảm thấy máu đang nhỏ giọt!</name>
+</text>
+<text>
+<id>4</id>
+<name>Tôi lạnh cóng!</name>
+</text>
+<text>
+<id>5</id>
+<name>Tôi sắp chết đói rồi!</name>
+</text>
+<text>
+<id>6</id>
+<name>Tôi sắp chết vì mất nước!</name>
+</text>
+<text>
+<id>7</id>
+<name>Tôi tìm thấy thứ gì đó trong cốp xe này.</name>
+</text>
+<text>
+<id>8</id>
+<name>Cốp xe trống rỗng.</name>
+</text>
+<text>
+<id>9</id>
+<name>Tôi hết đạn rồi!</name>
+</text>
+<text>
+<id>10</id>
+<name>Mag trống rỗng!</name>
+</text>
+<text>
+<id>11</id>
+<name>Vũ khí bị hủy hoại!</name>
+</text>
+<text>
+<id>12</id>
+<name>Máy bơm nước bị khô.</name>
+</text>
+<text>
+<id>13</id>
+<name>Tôi đã nguội lạnh.</name>
+</text>
+<text>
+<id>14</id>
+<name>Tôi đã ăn thịt sống.</name>
+</text>
+<text>
+<id>15</id>
+<name>Tôi cần một máy bơm nước cho việc đó.</name>
+</text>
+<text>
+<id>16</id>
+<name>Tôi đã đổ đầy nước vào.</name>
+</text>
+<text>
+<id>17</id>
+<name>tôi đã ăn</name>
+</text>
+<text>
+<id>18</id>
+<name>tôi đã say rồi</name>
+</text>
+<text>
+<id>19</id>
+<name>tôi đã sử dụng</name>
+</text>
+<text>
+<id>32</id>
+<name>Vũ khí đã được nạp đầy đủ.</name>
+</text>
+<text>
+<id>33</id>
+<name>Đã nạp đạn.</name>
+</text>
+<text>
+<id>34</id>
+<name>Nó không phù hợp ở đó.</name>
+</text>
+<text>
+<id>35</id>
+<name>Tôi đã băng bó cho mình.</name>
+</text>
+<text>
+<id>36</id>
+<name>Tôi không chảy máu.</name>
+</text>
+<text>
+<id>37</id>
+<name>Truyền máu hoàn tất.</name>
+</text>
+<text>
+<id>38</id>
+<name>Đã tính phí rồi.</name>
+</text>
+<text>
+<id>39</id>
+<name>Tôi cần đèn pha hoặc NVG.</name>
+</text>
+<text>
+<id>40</id>
+<name>Tôi cần một bộ lửa trại được triển khai trên mặt đất.</name>
+</text>
+<text>
+<id>41</id>
+<name>Tôi đã uống rượu whisky.</name>
+</text>
+<text>
+<id>42</id>
+<name>Truyền nước muối hoàn tất.</name>
+</text>
+<text>
+<id>43</id>
+<name>Tôi đã uống vitamin.</name>
+</text>
+<text>
+<id>44</id>
+<name>Vũ khí bị hủy hoại!</name>
+</text>
+<text>
+<id>45</id>
+<name>Vũ khí đã được làm sạch.</name>
+</text>
+<text>
+<id>46</id>
+<name>Tôi đã dùng tetracycline.</name>
+</text>
+<text>
+<id>47</id>
+<name>Xe đã được tiếp nhiên liệu.</name>
+</text>
+<text>
+<id>48</id>
+<name>Tôi cần một chiếc xe có thể lái được cho việc đó.</name>
+</text>
+<text>
+<id>49</id>
+<name>Chai nước trống rỗng.</name>
+</text>
+<text>
+<id>50</id>
+<name>Tôi đã uống từ chai nước.</name>
+</text>
+<text>
+<id>51</id>
+<name>Căng tin vắng tanh.</name>
+</text>
+<text>
+<id>52</id>
+<name>Tôi đã uống rượu từ căng tin.</name>
+</text>
+<text>
+<id>53</id>
+<name>Đã triển khai mìn.</name>
+</text>
+<text>
+<id>54</id>
+<name>Bẫy gấu được triển khai.</name>
+</text>
+<text>
+<id>55</id>
+<name>Chiếc xe đã được sửa chữa.</name>
+</text>
+<text>
+<id>56</id>
+<name>Tôi đã nướng một ít thịt rồi.</name>
+</text>
+<text>
+<id>57</id>
+<name>Tôi cần một đống lửa trại tích cực cho việc đó.</name>
+</text>
+<text>
+<id>58</id>
+<name>Tôi đã ăn một ít thịt nướng.</name>
+</text>
+<text>
+<id>59</id>
+<name>Tôi đã uống Nuka-Cola... Cảm giác thật tuyệt!</name>
+</text>
+<text>
+<id>60</id>
+<name>Con mồi bị lột da.</name>
+</text>
+<text>
+<id>61</id>
+<name>Không có gì để bong tróc.</name>
+</text>
+<text>
+<id>62</id>
+<name>Không có khe cắm miễn phí.</name>
+</text>
+<text>
+<id>63</id>
+<name>Con dao bị hỏng.</name>
+</text>
+<text>
+<id>64</id>
+<name>Tôi cần thêm gậy gỗ cho việc đó.</name>
+</text>
+<text>
+<id>65</id>
+<name>Đèn pha đã hết pin.</name>
+</text>
+<text>
+<id>66</id>
+<name>NVG đã hết phí.</name>
+</text>
+<text>
+<id>67</id>
+<name>Tôi đã uống Kvas.</name>
+</text>
+<text>
+<id>68</id>
+<name>Nó đòi hỏi một cái cuốc, chĩa hoặc xẻng.</name>
+</text>
+<text>
+<id>69</id>
+<name>Tôi không thể đào ở đây.</name>
+</text>
+<text>
+<id>70</id>
+<name>Tôi đã trồng trọt.</name>
+</text>
+<text>
+<id>71</id>
+<name>Đã triển khai.</name>
+</text>
+<text>
+<id>72</id>
+<name>Tôi cần một con dao để lột da con vật.</name>
+</text>
+<text>
+<id>73</id>
+<name>Tôi không có vũ khí tầm xa.</name>
+</text>
+<text>
+<id>74</id>
+<name>Bấm để ném pháo sáng.</name>
+</text>
+<text>
+<id>75</id>
+<name>Bấm để ném lựu đạn.</name>
+</text>
+<text>
+<id>76</id>
+<name>Nó đã đầy rồi.</name>
+</text>
+<text>
+<id>77</id>
+<name>Tôi đã uống nước từ máy bơm nước.</name>
+</text>
+<text>
+<id>78</id>
+<name>Tôi muốn ăn cái gì đó.</name>
+</text>
+<text>
+<id>79</id>
+<name>Tôi muốn uống gì đó.</name>
+</text>
+<text>
+<id>80</id>
+<name>Tôi rất lạnh.</name>
+</text>
+<text>
+<id>81</id>
+<name>Tôi sắp chết cóng rồi!</name>
+</text>
+<text>
+<id>82</id>
+<name>Tôi đang khởi động.</name>
+</text>
+<text>
+<id>83</id>
+<name>Tôi cần sạc pin nhiều hơn.</name>
+</text>
+<text>
+<id>84</id>
+<name>Có vẻ như không có địa điểm xảy ra vụ tai nạn quân sự nào gần đó.</name>
+</text>
+<text>
+<id>85</id>
+<name>Có vẻ như địa điểm xảy ra tai nạn quân sự ở gần đây.</name>
+</text>
+<text>
+<id>100</id>
+<name>Chết tiệt... tôi bị thương nặng rồi!</name>
+</text>
+<text>
+<id>101</id>
+<name>Được rồi, tôi sẽ trông chừng cậu, anh bạn.</name>
+</text>
+<text>
+<id>102</id>
+<name>Tôi sẽ yểm trợ trong khi anh cướp bóc, anh bạn.</name>
+</text>
+<text>
+<id>103</id>
+<name>Bạn đang chặn mục tiêu!</name>
+</text>
+<text>
+<id>104</id>
+<name>Này! bạn đó...hãy lập nhóm nhé.</name>
+</text>
+<text>
+<id>105</id>
+<name>Mẹ ơi...!</name>
+</text>
+<text>
+<id>106</id>
+<name>Chết tiệt! tên khốn đó có súng!</name>
+</text>
+<text>
+<id>107</id>
+<name>Chết tiệt! Tôi sẽ trượt ván!</name>
+</text>
+<text>
+<id>108</id>
+<name>Hãy đến đây!</name>
+</text>
+<text>
+<id>109</id>
+<name>Ăn chì!</name>
+</text>
+<text>
+<id>110</id>
+<name>Tôi thấy bạn!</name>
+</text>
+<text>
+<id>111</id>
+<name>Bắt được kẻ hút!</name>
+</text>
+<text>
+<id>112</id>
+<name>Tên khốn này đây!</name>
+</text>
+<text>
+<id>125</id>
+<name>Tôi thân thiện.</name>
+</text>
+<text>
+<id>126</id>
+<name>Tốt.</name>
+</text>
+<text>
+<id>127</id>
+<name>Cảm ơn đã sửa chữa thuyền cho chúng tôi.</name>
+</text>
+<text>
+<id>86</id>
+<name>Súng trường này không thể cưa được.</name>
+</text>
+<text>
+<id>87</id>
+<name>Cánh cửa này đã bị hỏng hoàn toàn.</name>
+</text>
+<text>
+<id>88</id>
+<name>Có khí độc xung quanh! Tôi cần một mặt nạ phòng độc.</name>
+</text>
+<text>
+<id>89</id>
+<name>Tôi cần một chiếc xe có thể lái được cho việc đó.</name>
+</text>
+<text>
+<id>90</id>
+<name>Tôi không thể làm điều đó từ bên trong xe.</name>
+</text>
+<text>
+<id>91</id>
+<name>Chiếc xe này đã ở trong tình trạng tốt.</name>
+</text>
+<text>
+<id>92</id>
+<name>Chiếc xe này đã được đổ đầy nhiên liệu.</name>
+</text>
+<text>
+<id>131</id>
+<name>Tôi không có gì để nói với bạn, bạn không đáng tin cậy.</name>
+</text>
+<text>
+<id>132</id>
+<name>Tôi cần phải ở trên bờ hồ hoặc đại dương.</name>
+</text>
+<text>
+<id>133</id>
+<name>Tôi không thấy con cá nào bơi gần đó.</name>
+</text>
+<text>
+<id>135</id>
+<name>Tôi không bị bệnh.</name>
+</text>
+<text>
+<id>136</id>
+<name>Cảm ơn một lần nữa vì sự giúp đỡ của bạn. Chúng tôi sẽ rời đi sớm thôi.</name>
+</text>
+<text>
+<id>137</id>
+<name>Có một ghi chú với thông tin về một số địa điểm trên bản đồ.</name>
+</text>
+<text>
+<id>138</id>
+<name>Cảm ơn! Phần thưởng của bạn được đánh dấu trên bản đồ của bạn.</name>
+</text>
+<text>
+<id>140</id>
+<name>Thật là một điều đáng chú ý!</name>
+</text>
+<text>
+<id>141</id>
+<name>Lại trượt nữa rồi!</name>
+</text>
+<text>
+<id>142</id>
+<name>Mục này không thể được đính kèm.</name>
+</text>
+<text>
+<id>143</id>
+<name>Tôi không có vũ khí để chuyển đổi.</name>
+</text>
+<text>
+<id>144</id>
+<name>Tôi không thể vừa nữa.</name>
+</text>
+<text>
+<id>145</id>
+<name>Tôi không có ba lô.</name>
+</text>
+<text>
+<id>146</id>
+<name>Hết nhiên liệu.</name>
+</text>
+<text>
+<id>147</id>
+<name>Tôi không thể mặc nó bên ngoài lớp lót.</name>
+</text>
+<text>
+<id>148</id>
+<name>Bình gas đã rỗng.</name>
+</text>
+<text>
+<id>149</id>
+<name>Không có gì để tiếp nhiên liệu.</name>
+</text>
+<text>
+<id>150</id>
+<name>Tôi cần một trạm xăng để đổ xăng.</name>
+</text>
+<text>
+<id>151</id>
+<name>Trạm xăng sắp hết nhiên liệu.</name>
+</text>
+<text>
+<id>152</id>
+<name>Máy phát điện hết nhiên liệu.</name>
+</text>
+<text>
+<id>153</id>
+<name>Vũ khí, trang bị và phương tiện sẽ không bị mất độ bền.</name>
+</text>
+<text>
+<id>154</id>
+<name>Tôi cần một cái hồ gần đó để lọc nước.</name>
+</text>
+<text>
+<id>155</id>
+<name>Tôi đã lọc một ít nước từ hồ.</name>
+</text>
+<text>
+<id>156</id>
+<name>Nhấn vào nơi đặt C4.</name>
+</text>
+<text>
+<id>157</id>
+<name>Tôi bị chiếu xạ và chảy máu liên tục!!!</name>
+</text>
+<text>
+<id>158</id>
+<name>Tôi không có chó...</name>
+</text>
+<text>
+<id>159</id>
+<name>Sau khi chết, hồi sinh ở bờ biển phía tây.</name>
+</text>
+<text>
+<id>160</id>
+<name>Chống mưa: Chống ẩm ướt và mưa axit.</name>
+</text>
+<text>
+<id>161</id>
+<name>Miễn dịch khỏi các mối nguy hiểm hóa học và sinh học.</name>
+</text>
+<text>
+<id>162</id>
+<name>Bỏ qua các hình phạt cướp bóc.</name>
+</text>
+<text>
+<id>163</id>
+<name>Miễn dịch chống lại các vũng nước nguy hiểm sinh học.</name>
+</text>
+<text>
+<id>164</id>
+<name>Không có gì có thể chuyển đổi gần đó.</name>
+</text>
+<text>
+<id>165</id>
+<name>Nó đã có cái này rồi.</name>
+</text>
+<text>
+<id>166</id>
+<name>Ướt: tốc độ di chuyển -5%, nhiệt -2</name>
+</text>
+<text>
+<id>167</id>
+<name>Tôi ướt sũng...</name>
+</text>
+<text>
+<id>168</id>
+<name>Ốm đau: Sức khỏe liên tục giảm sút, tình trạng đói khát giảm nhanh.</name>
+</text>
+<text>
+<id>169</id>
+<name>Tôi đã tính toán lộ trình cho hòn đảo tiếp theo...</name>
+</text>
+<text>
+<id>170</id>
+<name>Chống bức xạ, bằng chứng tiếp xúc nguy hiểm sinh học và cách điện.</name>
+</text>
+<text>
+<id>171</id>
+<name>Ô nhiễm khí độc: Máu liên tục cạn kiệt, bị nhiễm độc sau 5 giây.</name>
+</text>
+<text>
+<id>172</id>
+<name>Tôi không thể lắp nó vào xe được.</name>
+</text>
+<text>
+<id>173</id>
+<name>Đây là vùng được chiếu xạ...Tốt nhất tôi nên có bộ đồ NBC hoặc những bộ đồ cấp cao khác!</name>
+</text>
+<text>
+<id>174</id>
+<name>Tôi không thể đeo thêm quả lựu đạn nào nữa.</name>
+</text>
+<text>
+<id>175</id>
+<name>Danh tiếng của tôi không đủ cao.</name>
+</text>
+<text>
+<id>176</id>
+<name>Xếp chồng vô hạn cho các mặt hàng có thể xếp chồng lên nhau.</name>
+</text>
+<text>
+<id>177</id>
+<name>Lẽ ra tôi có thể đưa chiếc thuyền này qua sông, nhưng tôi cần phải tiếp nhiên liệu cho nó trước đã.</name>
+</text>
+<text>
+<id>178</id>
+<name>Mặt nạ phòng độc không được trang bị.</name>
+</text>
+<text>
+<id>179</id>
+<name>Tôi không thể làm điều đó.</name>
+</text>
+<text>
+<id>180</id>
+<name>Bạn cần ít nhất 200 điểm kinh nghiệm để kích hoạt tính năng này.</name>
+</text>
+<text>
+<id>181</id>
+<name>Độ bền ở mức tối đa.</name>
+</text>
+<text>
+<id>182</id>
+<name>Thanh sức khỏe của sinh vật bị ẩn, số lượng người nhiễm bệnh tăng lên.</name>
+</text>
+<text>
+<id>183</id>
+<name>Hãy để người chết yên nghỉ...</name>
+</text>
+<text>
+<id>184</id>
+<name>Tôi cảm thấy không khỏe!</name>
+</text>
+<text>
+<id>185</id>
+<name>Tôi sắp chết rồi!!!</name>
+</text>
+<text>
+<id>186</id>
+<name>Không có súng để cất giữ.</name>
+</text>
+<text>
+<id>187</id>
+<name>Thanh máu tăng 50%; thanh đói và khát tăng 100%</name>
+</text>
+<text>
+<id>188</id>
+<name>Tôi không thể mặc nó nữa.</name>
+</text>
+<text>
+<id>189</id>
+<name>Tôi bị đầu độc, tôi cảm thấy khủng khiếp và cơ thể tôi đang xấu đi!</name>
+</text>
+<text>
+<id>190</id>
+<name>Tôi đã xếp lớp mũ đội đầu bên ngoài.</name>
+</text>
+<text>
+<id>191</id>
+<name>Tôi đã xếp lớp mũ đội đầu bên trong.</name>
+</text>
+<text>
+<id>192</id>
+<name>Hệ số sát thương và sức khỏe bị nhiễm hiện tại:</name>
+</text>
+<text>
+<id>193</id>
+<name>Cơ thể tôi tê dại!</name>
+</text>
+<text>
+<id>194</id>
+<name>Tôi cần một xác người để làm điều đó.</name>
+</text>
+<text>
+<id>195</id>
+<name>Bình gas này đã đầy.</name>
+</text>
+<text>
+<id>196</id>
+<name>Con chó đang làm gì vậy?!</name>
+</text>
+<text>
+<id>197</id>
+<name>Các mặt hàng có thể xếp chồng lên nhau không thể được đặt ở đó.</name>
+</text>
+<text>
+<id>198</id>
+<name>Bình nhiên liệu của máy phát điện này đã hết.</name>
+</text>
+<text>
+<id>199</id>
+<name>Chạy đi!</name>
+</text>
+<text>
+<id>200</id>
+<name>Không thể sử dụng vào lúc này.</name>
+</text>
+<text>
+<id>201</id>
+<name>Thời gian cho đến Trăng Máu tiếp theo:</name>
+</text>
+<text>
+<id>202</id>
+<name>NPC có vũ khí tự động sẽ phun liên tục mà không cần nạp lại.</name>
+</text>
+<text>
+<id>203</id>
+<name>Chiếc xe này không thể được gia cố thêm nữa.</name>
+</text>
+<text>
+<id>204</id>
+<name>Ahh chết tiệt... lại bắt đầu rồi.</name>
+</text>
+<text>
+<id>205</id>
+<name>Tôi không thể nhìn rõ!</name>
+</text>
+<text>
+<id>206</id>
+<name>Tôi cần một tấm kim loại</name>
+</text>
+<text>
+<id>207</id>
+<name>Tôi cần bạn tôi ở gần tôi.</name>
+</text>
+<text>
+<id>208</id>
+<name>Quá khứ đã qua, đây là hiện tại!</name>
+</text>
+<text>
+<id>209</id>
+<name>Bạn là ai vậy?! Một con chó đi lạc...</name>
+</text>
+<text>
+<id>210</id>
+<name>Đã bật hoàn toàn tự động.</name>
+</text>
+<text>
+<id>211</id>
+<name>Đã bật bán tự động.</name>
+</text>
+<text>
+<id>212</id>
+<name>Không có gì được triển khai gần đó.</name>
+</text>
+<text>
+<id>213</id>
+<name>Đã sạc đầy pin.</name>
+</text>
+<text>
+<id>214</id>
+<name>Tôi đã đổ đầy nhiên liệu vào nó.</name>
+</text>
+<text>
+<id>215</id>
+<name>Không có gì để tháo dỡ gần đó.</name>
+</text>
+<text>
+<id>216</id>
+<name>Chống cháy.</name>
+</text>
+<text>
+<id>217</id>
+<name>Thuyền hết nhiên liệu.</name>
+</text>
+<text>
+<id>218</id>
+<name>Bình nhiên liệu của thuyền đã đầy.</name>
+</text>
+<text>
+<id>219</id>
+<name>Độ bền quá thấp.</name>
+</text>
+<text>
+<id>220</id>
+<name>Tôi cần thêm giẻ lau.</name>
+</text>
+<text>
+<id>221</id>
+<name>ngày cho đến khi nó đến.</name>
+</text>
+<text>
+<id>222</id>
+<name>Trăng máu đã xuất hiện!...Người nhiễm bệnh bây giờ ngửi thấy mùi máu cách xa cả dặm!!!</name>
+</text>
+<text>
+<id>223</id>
+<name>Bipod được triển khai, độ giật giảm đáng kể.</name>
+</text>
+<text>
+<id>224</id>
+<name>Tôi đang kéo một vật nặng, tôi không thể làm được điều đó!</name>
+</text>
+<text>
+<id>225</id>
+<name>Tôi không mang theo thiết bị này.</name>
+</text>
+<text>
+<id>226</id>
+<name>Chỉ có dao, mồi lửa, pháo sáng và bình đựng nước mới được cất giữ ở đây.</name>
+</text>
+<text>
+<id>227</id>
+<name>Ở đây chỉ có thuốc, vật tư y tế và băng cứu thương mới được cất giữ.</name>
+</text>
+<text>
+<id>228</id>
+<name>Chỉ có băng keo, keo epoxy và bộ dụng cụ may vá mới được cất giữ ở đây.</name>
+</text>
+<text>
+<id>229</id>
+<name>Pin không có đủ điện tích.</name>
+</text>
+<text>
+<id>230</id>
+<name>Tôi đã phát hiện ra vị trí của hầm ngầm.</name>
+</text>
+<text>
+<id>231</id>
+<name>Cánh cửa nổ này hình như bị mất điện, Nó cần có điện để hoạt động.</name>
+</text>
+<text>
+<id>232</id>
+<name>Tôi cần một máy phát điện gần đó.</name>
+</text>
+<text>
+<id>233</id>
+<name>Pin này đã được sạc đầy.</name>
+</text>
+<text>
+<id>234</id>
+<name>Tôi đã đi vào khu vực bị ô nhiễm khí độc!</name>
+</text>
+<text>
+<id>235</id>
+<name>Tôi đã đi vào vùng phóng xạ!</name>
+</text>
+<text>
+<id>236</id>
+<name>Tôi cần một đống lửa trại và một cái chảo rán.</name>
+</text>
+<text>
+<id>237</id>
+<name>Tôi đã chiên một quả trứng.</name>
+</text>
+<text>
+<id>238</id>
+<name>Tôi đã nấu món bít tết tiêu.</name>
+</text>
+<text>
+<id>239</id>
+<name>Tôi đã nấu shakshuka.</name>
+</text>
+<text>
+<id>240</id>
+<name>Nhấn để chuyển đổi, giữ để ném, giữ để tháo khi ba lô mở.</name>
+</text>
+<text>
+<id>241</id>
+<name>Đêm nay tôi cảm thấy thật tồi tệ! Tôi không thể ngủ được...</name>
+</text>
+<text>
+<id>242</id>
+<name>Số tiền còn lại:</name>
+</text>
+<text>
+<id>243</id>
+<name>Mệt mỏi: Cơ hội chặn -20%, tốc độ di chuyển -10%</name>
+</text>
+<text>
+<id>244</id>
+<name>Thiếu găng tay NBC cho khe này.</name>
+</text>
+<text>
+<id>245</id>
+<name>Thiếu bốt NBC cho vị trí này.</name>
+</text>
+<text>
+<id>246</id>
+<name>Không có mặt hàng như vậy gần đó.</name>
+</text>
+<text>
+<id>247</id>
+<name>tôi cần</name>
+</text>
+<text>
+<id>248</id>
+<name>XP</name>
+</text>
+<text>
+<id>249</id>
+<name>Không có sinh vật như vậy ở gần đây.</name>
+</text>
+<text>
+<id>250</id>
+<name>Nó được lưu trữ trong chế độ xây dựng.</name>
+</text>
+<text>
+<id>251</id>
+<name>Bình xăng bị thiếu!</name>
+</text>
+<text>
+<id>252</id>
+<name>Bình xăng đã đầy.</name>
+</text>
+<text>
+<id>253</id>
+<name>Tôi cần ở cạnh một cái lều.</name>
+</text>
+<text>
+<id>254</id>
+<name>Có lẽ tôi nên đến đây vào buổi tối!</name>
+</text>
+<text>
+<id>255</id>
+<name>Súng đã hết điện.</name>
+</text>
+</list>

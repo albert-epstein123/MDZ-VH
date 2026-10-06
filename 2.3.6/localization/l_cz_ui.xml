@@ -1,0 +1,2664 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<list>
+<text>
+<id>1</id>
+<name>Nová hra</name>
+</text>
+<text>
+<id>2</id>
+<name>Pokračovat</name>
+</text>
+<text>
+<id>3</id>
+<name>Úspěchy</name>
+</text>
+<text>
+<id>4</id>
+<name>Komunity</name>
+</text>
+<text>
+<id>5</id>
+<name>Protokol změn</name>
+</text>
+<text>
+<id>6</id>
+<name>Odhlásit se</name>
+</text>
+<text>
+<id>7</id>
+<name>Nováček</name>
+</text>
+<text>
+<id>8</id>
+<name>Normální</name>
+</text>
+<text>
+<id>9</id>
+<name>Veterán</name>
+</text>
+<text>
+<id>10</id>
+<name>Zpět</name>
+</text>
+<text>
+<id>11</id>
+<name>Zpět do hry</name>
+</text>
+<text>
+<id>12</id>
+<name>Minut naživu</name>
+</text>
+<text>
+<id>13</id>
+<name>Zabito nakažených</name>
+</text>
+<text>
+<id>14</id>
+<name>Zabito banditů</name>
+</text>
+<text>
+<id>15</id>
+<name>Obtížnost</name>
+</text>
+<text>
+<id>16</id>
+<name>Generování světa</name>
+</text>
+<text>
+<id>18</id>
+<name>Kladení cest (krok 1)</name>
+</text>
+<text>
+<id>19</id>
+<name>Kladení cest (krok 2)</name>
+</text>
+<text>
+<id>20</id>
+<name>Přidávání tajných míst</name>
+</text>
+<text>
+<id>21</id>
+<name>Vykreslování sektorů</name>
+</text>
+<text>
+<id>22</id>
+<name>Vytváření minimapy</name>
+</text>
+<text>
+<id>23</id>
+<name>Přeskočit výuku</name>
+</text>
+<text>
+<id>24</id>
+<name>Ano</name>
+</text>
+<text>
+<id>25</id>
+<name>Ne</name>
+</text>
+<text>
+<id>26</id>
+<name>Opravdu chceš výuku přeskočit?</name>
+</text>
+<text>
+<id>27</id>
+<name>Postava</name>
+</text>
+<text>
+<id>28</id>
+<name>Přehled statistik</name>
+</text>
+<text>
+<id>29</id>
+<name>Minut naživu:</name>
+</text>
+<text>
+<id>30</id>
+<name>Zabito nakažených:</name>
+</text>
+<text>
+<id>31</id>
+<name>Zabito banditů:</name>
+</text>
+<text>
+<id>32</id>
+<name>Úmrtí</name>
+</text>
+<text>
+<id>33</id>
+<name>Pohyb: Klepnutí</name>
+</text>
+<text>
+<id>34</id>
+<name>Pohyb: Páčka</name>
+</text>
+<text>
+<id>35</id>
+<name>Zvuk: ZAP</name>
+</text>
+<text>
+<id>36</id>
+<name>Zvuk: VYP</name>
+</text>
+<text>
+<id>37</id>
+<name>Návrat do menu</name>
+</text>
+<text>
+<id>38</id>
+<name>Bronz</name>
+</text>
+<text>
+<id>39</id>
+<name>Stříbro</name>
+</text>
+<text>
+<id>40</id>
+<name>Zlato</name>
+</text>
+<text>
+<id>41</id>
+<name>Ok</name>
+</text>
+<text>
+<id>42</id>
+<name>Na opravu této lodi potřebuješ hromady dřeva.</name>
+</text>
+<text>
+<id>43</id>
+<name>Na opravu této lodi potřebuješ izolační pásku.</name>
+</text>
+<text>
+<id>44</id>
+<name>Opravit</name>
+</text>
+<text>
+<id>45</id>
+<name>Odejít</name>
+</text>
+<text>
+<id>46</id>
+<name>Tuto loď můžeš opravit hromadou dřeva. Už ji máš.</name>
+</text>
+<text>
+<id>47</id>
+<name>Tuto loď můžeš opravit izolační páskou. Už ji máš.</name>
+</text>
+<text>
+<id>48</id>
+<name>Jsem připraven.</name>
+</text>
+<text>
+<id>49</id>
+<name>Ještě ne.</name>
+</text>
+<text>
+<id>50</id>
+<name>Loď je opravena, jsi připraven přeplout na další ostrov? Už se nebudeš moct vrátit.</name>
+</text>
+<text>
+<id>51</id>
+<name>Vybrat</name>
+</text>
+<text>
+<id>52</id>
+<name>Zásoby přistanou po video reklamě. Vyber si bednu.</name>
+</text>
+<text>
+<id>53</id>
+<name>Bedna s jídlem.</name>
+</text>
+<text>
+<id>54</id>
+<name>Bedna s pitím.</name>
+</text>
+<text>
+<id>55</id>
+<name>Bedna s obvazy.</name>
+</text>
+<text>
+<id>56</id>
+<name>„Ahoj, co takhle si vyměnit pár věcí? Nabízím:“</name>
+</text>
+<text>
+<id>57</id>
+<name>Nabídka:</name>
+</text>
+<text>
+<id>58</id>
+<name>Cena:</name>
+</text>
+<text>
+<id>59</id>
+<name>Žádná věc</name>
+</text>
+<text>
+<id>60</id>
+<name>Výměna</name>
+</text>
+<text>
+<id>61</id>
+<name>Získat</name>
+</text>
+<text>
+<id>62</id>
+<name>Vybrat</name>
+</text>
+<text>
+<id>63</id>
+<name>Zamčeno</name>
+</text>
+<text>
+<id>64</id>
+<name>Nynější</name>
+</text>
+<text>
+<id>65</id>
+<name>Odemčena nová postava!</name>
+</text>
+<text>
+<id>66</id>
+<name>V bednách může být cokoliv, od jídla po zbraně.</name>
+</text>
+<text>
+<id>67</id>
+<name></name>
+</text>
+<text>
+<id>68</id>
+<name>Nastavení</name>
+</text>
+<text>
+<id>69</id>
+<name>Umístění páčky</name>
+</text>
+<text>
+<id>70</id>
+<name>Jazyk</name>
+</text>
+<text>
+<id>71</id>
+<name>Billy „Zrzoun“
+Podmínka k odemčení: Zabij 5 zombií libovolnou brokovnicí.
+Jakákoliv obtížnost.
+</name>
+</text>
+<text>
+<id>72</id>
+<name>Emilio „Doktor“
+Podmínka k odemčení: Zastav 6krát krvácení.
+Jakákoliv obtížnost.
+</name>
+</text>
+<text>
+<id>73</id>
+<name>Dave „Boxer“
+Podmínka k odemčení: Zabij 10 zombií holýma rukama.
+Jakákoliv obtížnost.
+</name>
+</text>
+<text>
+<id>74</id>
+<name>Lee „Maniak“
+Podmínka k odemčení: Zabij přeživšího sekerou.
+Obtížnost „Normální“ nebo „Veterán“.
+</name>
+</text>
+<text>
+<id>75</id>
+<name>Sergej „Slovan“
+Podmínka k odemčení: Zabij 3 další přeživší během jedné hry.
+Obtížnost „Normální“ nebo „Veterán“.
+</name>
+</text>
+<text>
+<id>76</id>
+<name>John „Motorkář“
+Podmínka k odemčení: Měj na sobě moto bundu, moto helmu a u sebe hasák.
+Obtížnost „Normální“ nebo „Veterán“.
+</name>
+</text>
+<text>
+<id>77</id>
+<name>Ganzo „Drak“
+Podmínka k odemčení: Zabij 4 nepřátelské přeživší ozbrojené střelnou zbraní.
+Obtížnost „Veterán“.
+</name>
+</text>
+<text>
+<id>78</id>
+<name>Tom „Přeživší“
+Podmínka k odemčení: Přežij 7 dní.
+Obtížnost „Veterán“.
+</name>
+</text>
+<text>
+<id>79</id>
+<name>Garry „Veterán“
+Podmínka k odemčení: Měj na sobě sadu oblečení gorka (kalhoty gorka, bunda gorka, helma gorka) během jedné hry, vše najednou.
+Obtížnost „Veterán“.
+</name>
+</text>
+<text>
+<id>80</id>
+<name>Přeživší 1
+Základní výbava: džíny, tričko.
+Odemčené výhody: Žádné
+</name>
+</text>
+<text>
+<id>81</id>
+<name>Přeživší 2
+Základní výbava: džíny, tričko.
+Odemčené výhody: Žádné
+</name>
+</text>
+<text>
+<id>82</id>
+<name>Přeživší 3
+Základní výbava: džíny, tričko.
+Odemčené výhody: Žádné
+</name>
+</text>
+<text>
+<id>83</id>
+<name>Billy „Zrzoun“
+Základní výbava: džíny, tričko, šátek.
+Odemčené výhody: Ostrostřelec.
+</name>
+</text>
+<text>
+<id>84</id>
+<name>Emilio „Doktor“
+Základní výbava: záchranářské kalhoty, tričko, obvaz.
+Odemčené výhody: Rudé+
+</name>
+</text>
+<text>
+<id>85</id>
+<name>Dave „Boxer“
+Základní výbava: džíny, tričko, hadry.
+Odemčené výhody: Blokař
+</name>
+</text>
+<text>
+<id>86</id>
+<name>Lee „Maniak“
+Základní výbava: džíny, šaty, plynová maska, řeznický nůž.
+Odemčené výhody: Sladký domov
+</name>
+</text>
+<text>
+<id>87</id>
+<name>John „Motorkář“
+Základní výbava: džíny, moto bunda, moto helma, hasák.
+Odemčené výhody: Sprinter
+</name>
+</text>
+<text>
+<id>88</id>
+<name>Sergej „Slovan“
+Základní výbava: teplákové kalhoty, tepláková bunda, kukla, baseballová pálka.
+Odemčené výhody: Ranař
+</name>
+</text>
+<text>
+<id>89</id>
+<name>Ganzo „Drak“
+Základní výbava: lovecké kalhoty, luk, 5 kompozitních šípů.
+Odemčené výhody: Sprinter, Sněhorozený
+</name>
+</text>
+<text>
+<id>90</id>
+<name>Tom „Přeživší“
+Základní výbava: džíny, tričko, kovbojský klobouk, lovecký nůž, vak.
+Odemčené výhody: Lovec, Survivalista
+</name>
+</text>
+<text>
+<id>91</id>
+<name>Garry „Veterán“
+Základní výbava: džíny, tričko, kšiltovka, neprůstřelná vesta, Colt 1911, náboje.
+Odemčené výhody: Ostrostřelec, Zvěd
+</name>
+</text>
+<text>
+<id>95</id>
+<name>K výsadkovému centru nejsi připojen! Zkus prosím obnovit internetové připojení.</name>
+</text>
+<text>
+<id>96</id>
+<name>K výsadkovému centru nejsi připojen!</name>
+</text>
+<text>
+<id>97</id>
+<name>Reset</name>
+</text>
+<text>
+<id>98</id>
+<name>Uložit</name>
+</text>
+<text>
+<id>99</id>
+<name>!!!</name>
+</text>
+<text>
+<id>101</id>
+<name>24 hodin</name>
+</text>
+<text>
+<id>102</id>
+<name>Mumie</name>
+</text>
+<text>
+<id>103</id>
+<name>Upír</name>
+</text>
+<text>
+<id>104</id>
+<name>Sběratel černých skříněk</name>
+</text>
+<text>
+<id>105</id>
+<name>Pistolník</name>
+</text>
+<text>
+<id>106</id>
+<name>Hromoklacek</name>
+</text>
+<text>
+<id>107</id>
+<name>Zteč</name>
+</text>
+<text>
+<id>108</id>
+<name>Terminátor</name>
+</text>
+<text>
+<id>109</id>
+<name>Robin Hood</name>
+</text>
+<text>
+<id>110</id>
+<name>Super Vegan</name>
+</text>
+<text>
+<id>111</id>
+<name>Bůh přeživších</name>
+</text>
+<text>
+<id>112</id>
+<name>Maniak: The Gathering</name>
+</text>
+<text>
+<id>113</id>
+<name>Ostrostřelec</name>
+</text>
+<text>
+<id>114</id>
+<name>Zabiják zombíků</name>
+</text>
+<text>
+<id>115</id>
+<name>Turista</name>
+</text>
+<text>
+<id>116</id>
+<name>Obžerství</name>
+</text>
+<text>
+<id>117</id>
+<name>Vykradač kufrů</name>
+</text>
+<text>
+<id>118</id>
+<name>O úroveň výš</name>
+</text>
+<text>
+<id>119</id>
+<name>Zeď</name>
+</text>
+<text>
+<id>120</id>
+<name>Duše temnoty</name>
+</text>
+<text>
+<id>121</id>
+<name>Nemilosrdný zabiják</name>
+</text>
+<text>
+<id>122</id>
+<name>Nindža</name>
+</text>
+<text>
+<id>123</id>
+<name>Farmář</name>
+</text>
+<text>
+<id>124</id>
+<name>Úkryt</name>
+</text>
+<text>
+<id>125</id>
+<name>Dřevorubec</name>
+</text>
+<text>
+<id>126</id>
+<name>Kámo!</name>
+</text>
+<text>
+<id>127</id>
+<name>Velbloud</name>
+</text>
+<text>
+<id>128</id>
+<name>Lovec jelenů</name>
+</text>
+<text>
+<id>129</id>
+<name>⚔️</name>
+</text>
+<text>
+<id>130</id>
+<name>🚪</name>
+</text>
+<text>
+<id>131</id>
+<name>Plná ochrana</name>
+</text>
+<text>
+<id>132</id>
+<name>Nevysvětlitelně hladový</name>
+</text>
+<text>
+<id>133</id>
+<name>Peklo je prázdné</name>
+</text>
+<text>
+<id>151</id>
+<name>Přežij 1/2/3 dny</name>
+</text>
+<text>
+<id>152</id>
+<name>Zastav krvácení 2/4/6 krát</name>
+</text>
+<text>
+<id>153</id>
+<name>Použij 1/2/3 sáčky s krví nebo solným roztokem</name>
+</text>
+<text>
+<id>154</id>
+<name>Najdi 1/2/3 místa se zřícenou helikoptérou</name>
+</text>
+<text>
+<id>155</id>
+<name>Zabij pistolí 5/15/30 nakažených</name>
+</text>
+<text>
+<id>156</id>
+<name>Zabij brokovnicí 5/15/30 nakažených</name>
+</text>
+<text>
+<id>157</id>
+<name>Zabij samopalem 5/15/30 nakažených</name>
+</text>
+<text>
+<id>158</id>
+<name>Přežij 5/15/30 zásahů kulkou</name>
+</text>
+<text>
+<id>159</id>
+<name>Zabij kuší nebo lukem 5/15/30 nakažených</name>
+</text>
+<text>
+<id>160</id>
+<name>Přežij 10/20/30 útoků nakažených nebo vlků</name>
+</text>
+<text>
+<id>161</id>
+<name>Odemkni všechny výhody</name>
+</text>
+<text>
+<id>162</id>
+<name>Sesbírej 5/10/15 bobulí</name>
+</text>
+<text>
+<id>163</id>
+<name>Zabij samonabíjecí nebo opakovací puškou 5/10/15 nakažených </name>
+</text>
+<text>
+<id>164</id>
+<name>Zabij 20/40/80 nakažených</name>
+</text>
+<text>
+<id>165</id>
+<name>Navštiv alespoň jedno město na 1/2/3 ostrovech (úrovních)</name>
+</text>
+<text>
+<id>166</id>
+<name>Sněz 15/30/50 potravin</name>
+</text>
+<text>
+<id>167</id>
+<name>Otevři 50/100/150 kufrů od auta</name>
+</text>
+<text>
+<id>168</id>
+<name>Najdi Nuko Colu</name>
+</text>
+<text>
+<id>169</id>
+<name>Postav 1/2/3 barikád nebo ostnatých drátů</name>
+</text>
+<text>
+<id>170</id>
+<name>Zapal 1/2/3 táboráků</name>
+</text>
+<text>
+<id>171</id>
+<name>Zabij 1/2/3 přeživších</name>
+</text>
+<text>
+<id>172</id>
+<name>Vyhni se zranění během 12/24/36 herních hodin</name>
+</text>
+<text>
+<id>173</id>
+<name>Zasaď 5/10/15 rostlin</name>
+</text>
+<text>
+<id>174</id>
+<name>Postav 1/2/3 civilních stanů</name>
+</text>
+<text>
+<id>175</id>
+<name>Pokácej 3/6/10 stromů</name>
+</text>
+<text>
+<id>176</id>
+<name>Potkej přátelského přeživšího</name>
+</text>
+<text>
+<id>177</id>
+<name>Vypij 10/20/30 nápojů</name>
+</text>
+<text>
+<id>178</id>
+<name>Stáhni z kůže 1/2/3 zvířata</name>
+</text>
+<text>
+<id>179</id>
+<name>???</name>
+</text>
+<text>
+<id>180</id>
+<name>???</name>
+</text>
+<text>
+<id>181</id>
+<name>Vybavte kompletní ochranný oblek plynovou maskou</name>
+</text>
+<text>
+<id>182</id>
+<name>Jednou uvařte lidské maso</name>
+</text>
+<text>
+<id>183</id>
+<name>Zabijte všechny typy infikovaných na legendární obtížnost</name>
+</text>
+<text>
+<id>228</id>
+<name>BOJ</name>
+</text>
+<text>
+<id>229</id>
+<name>V boji nablízko můžeš používat holé ruce nebo zbraně k boji nablízko.
+Boj nablízko se spustí a probíhá automaticky od chvíle, kdy se přiblížíš k nepříteli. Každá zbraň má jinou šanci způsobit trojité poškození nebo zablokovat útok nepřítele.
+</name>
+</text>
+<text>
+<id>230</id>
+<name>Zbraně na dálku zaměřují automaticky. Střílej stisknutím tlačítka. Střelba při běhu je méně přesná než střelba z místa.</name>
+</text>
+<text>
+<id>231</id>
+<name>Ohniště je zdrojem tepla, světla a také na něm můžeš vařit. Jakmile ho postavíš, můžeš ho použít maximálně třikrát.</name>
+</text>
+<text>
+<id>232</id>
+<name>Můžeš pěstovat rostliny, které pak můžeš sníst. K tomu potřebuješ semínka a lopatu, vidle nebo krumpáč, a můžeš sázet.</name>
+</text>
+<text>
+<id>233</id>
+<name>K výrobě potřebuješ suroviny nebo součástky. Ty můžeš najít či sesbírat.</name>
+</text>
+<text>
+<id>234</id>
+<name>Pokud utrpíš zranění, začneš krvácet. Během krvácení není možné se uzdravovat a také neustále ztrácíš krev. Krvácení zastav obvazem nebo hadry.</name>
+</text>
+<text>
+<id>235</id>
+<name>Můžeš onemocnět, a to několika způsoby: teplota ti klesne na 0 % nebo, ve vzácnějším případě, když na tebe zaútočí nakažený. Během nemoci nemůžeš regenerovat. Vyléčit se můžeš tetracyklinem, případně si udrž ukazatele teploty, jídla a vody nad 75 %.</name>
+</text>
+<text>
+<id>236</id>
+<name>PODMÍNKY</name>
+</text>
+<text>
+<id>237</id>
+<name>Chladné počasí ti může snížit teplotu. Během noci, deště nebo sněhu ti teplota klesne ještě víc.</name>
+</text>
+<text>
+<id>238</id>
+<name>Chceš-li přežít, musíš jíst a pít. Na ukazatelích statistik dávej pozor na hlad a žízeň. Pokud klesnou pod 50 %, nemůžeš regenerovat krev.</name>
+</text>
+<text>
+<id>239</id>
+<name>STATISTIKY HRÁČE: HLAD/ŽÍZEŇ</name>
+</text>
+<text>
+<id>240</id>
+<name>MÍSTNÍ MAPA</name>
+</text>
+<text>
+<id>241</id>
+<name>MAPA SVĚTA</name>
+</text>
+<text>
+<id>250</id>
+<name>Návody</name>
+</text>
+<text>
+<id>251</id>
+<name>Výroba</name>
+</text>
+<text>
+<id>252</id>
+<name>Mapa</name>
+</text>
+<text>
+<id>253</id>
+<name>STATISTIKY HRÁČE: KREV</name>
+</text>
+<text>
+<id>254</id>
+<name>Pokud ti ukazatel krve klesne na nulu, zemřeš. Krev můžeš ztrácet po napadení při boji nablízko nebo pokud tě zasáhne kulka. Ztrácet krev začneš také tehdy, pokud ti teplota, voda, nebo jídlo klesnou na nulu.</name>
+</text>
+<text>
+<id>255</id>
+<name>Krvácení se dá zastavit obvazy nebo hadry (některé oděvy se dají roztrhat na hadry).</name>
+</text>
+<text>
+<id>256</id>
+<name>Krev doplň sáčky s krví nebo solným roztokem.</name>
+</text>
+<text>
+<id>257</id>
+<name>Pokud se ukazatele vody, jídla a tepla budou pohybovat nad 50 %, začne se ti regenerovat krev.</name>
+</text>
+<text>
+<id>258</id>
+<name>STATISTIKY HRÁČE: HLAD/ŽÍZEŇ</name>
+</text>
+<text>
+<id>259</id>
+<name>STATISTIKY HRÁČE: TEPLOTA</name>
+</text>
+<text>
+<id>260</id>
+<name>Schovej se v budově, ohřeješ se tam.</name>
+</text>
+<text>
+<id>261</id>
+<name>Najdi teplé oblečení v dobrém stavu, zahřeje tě.</name>
+</text>
+<text>
+<id>262</id>
+<name>Přihni si trochu whiskey, to tě taky zahřeje.</name>
+</text>
+<text>
+<id>263</id>
+<name>Rozdělej oheň, zahřeje tě.</name>
+</text>
+<text>
+<id>264</id>
+<name>Najdi stan a postav ho. Můžeš se tam schovat před deštěm a trochu se zahřát.</name>
+</text>
+<text>
+<id>265</id>
+<name>RABOVÁNÍ</name>
+</text>
+<text>
+<id>266</id>
+<name>Většina kořisti se dá najít v budovách.</name>
+</text>
+<text>
+<id>267</id>
+<name>Kořist najdeš i v kufrech aut.</name>
+</text>
+<text>
+<id>268</id>
+<name>Na některých keřích rostou jedlé bobule.</name>
+</text>
+<text>
+<id>269</id>
+<name>SUROVINY</name>
+</text>
+<text>
+<id>270</id>
+<name>Pokud máš sekeru, můžeš s ní kácet stromy. Z různých druhů stromů získáš různé suroviny.
+Všechny další užitečné věci najdeš v herním světě.
+</name>
+</text>
+<text>
+<id>271</id>
+<name>NOC</name>
+</text>
+<text>
+<id>272</id>
+<name>Temnou noc si prosvětli čelovkou nebo brýlemi na noční vidění (do nich potřebuješ baterie).</name>
+</text>
+<text>
+<id>273</id>
+<name>Světlice zvládnou na krátkou dobu osvítit malou oblast, kam jsi je hodil.</name>
+</text>
+<text>
+<id>274</id>
+<name>Ohniště také dokáže během noci osvětlit část území na delší dobu.</name>
+</text>
+<text>
+<id>275</id>
+<name>VODNÍ PUMPY</name>
+</text>
+<text>
+<id>276</id>
+<name>Ve vodních pumpách se skrývá pitná voda. Můžeš pít přímo z nich, ale nezapomínej, že zdroj vody je omezený.</name>
+</text>
+<text>
+<id>277</id>
+<name>U vodní pumpy si můžeš vodu napustit do lahví a čutor.</name>
+</text>
+<text>
+<id>278</id>
+<name>OPRAVY</name>
+</text>
+<text>
+<id>279</id>
+<name>Izolační páska přidává určitému vybavení 15 % kondice.</name>
+</text>
+<text>
+<id>280</id>
+<name>Šitíčko přidává určitému vybavení 50 % kondice.</name>
+</text>
+<text>
+<id>281</id>
+<name>Čistící sada přidává střelným zbraním 25 % kondice.</name>
+</text>
+<text>
+<id>282</id>
+<name>LOV</name>
+</text>
+<text>
+<id>283</id>
+<name>Jeleny najdeš poblíž vody nebo v lese. Jsou ostražití, takže k lovu budeš potřebovat zbraň na dálku.</name>
+</text>
+<text>
+<id>284</id>
+<name>Jakmile zastřelíš jelena, můžeš ho stáhnout z kůže a získat tak steaky.</name>
+</text>
+<text>
+<id>285</id>
+<name>Steaky se dají upéct nad ohništěm.</name>
+</text>
+<text>
+<id>286</id>
+<name>IMPROVIZOVANÝ LUK</name>
+</text>
+<text>
+<id>287</id>
+<name>Jasanový prut + lano = luk</name>
+</text>
+<text>
+<id>288</id>
+<name>Klacky + jakýkoliv nůž = šípy</name>
+</text>
+<text>
+<id>289</id>
+<name>IMPROVIZOVANÉ BATOHY</name>
+</text>
+<text>
+<id>290</id>
+<name>Lano + pytel = improvizovaný vak (3 místa)</name>
+</text>
+<text>
+<id>291</id>
+<name>Improvizovaný vak + 3 klacky = improvizovaný batoh (5 míst)</name>
+</text>
+<text>
+<id>292</id>
+<name>OHNIŠTĚ</name>
+</text>
+<text>
+<id>293</id>
+<name>Hromada dřeva + hadry/klacky/papíry = sada na táborák</name>
+</text>
+<text>
+<id>294</id>
+<name>Polož sadu na táborák na zem a zapal ji sirkami.</name>
+</text>
+<text>
+<id>295</id>
+<name>Mapa bude dostupná po výuce.</name>
+</text>
+<text>
+<id>296</id>
+<name>LODĚ</name>
+</text>
+<text>
+<id>297</id>
+<name>"Lodě se dají použít k přepravě ze současného ostrova na další. Nejdříve je však nutné je opravit (hromadami dřeva nebo izolační páskou).
+Můžeš navštívit několik ostrovů, ale nezapomínej! Jakmile se přeplavíš na další ostrov, už nebude možné vrátit se na ten předchozí."
+</name>
+</text>
+<text>
+<id>298</id>
+<name>BUDOVÁNÍ ZÁKLADNY</name>
+</text>
+<text>
+<id>299</id>
+<name>Jestli se chceš ohřát nebo někam uložit věci, postav pár civilních stanů. Věci si zde můžeš uložit natrvalo.</name>
+</text>
+<text>
+<id>300</id>
+<name>Vyrobené ploty a ostnaté dráty mohou v případě útoku zpomalit nepřátele.</name>
+</text>
+<text>
+<id>301</id>
+<name>Zničeno</name>
+</text>
+<text>
+<id>302</id>
+<name>Vyhodit</name>
+</text>
+<text>
+<id>303</id>
+<name>Roztrhat na hadry</name>
+</text>
+<text>
+<id>304</id>
+<name>Přepnout</name>
+</text>
+<text>
+<id>305</id>
+<name>Umístit</name>
+</text>
+<text>
+<id>306</id>
+<name>Navršit</name>
+</text>
+<text>
+<id>307</id>
+<name>Nabít hlavní zbraň</name>
+</text>
+<text>
+<id>308</id>
+<name>Vyrobit vak</name>
+</text>
+<text>
+<id>309</id>
+<name>Vyrobit luk</name>
+</text>
+<text>
+<id>310</id>
+<name>Vyrobit šípy</name>
+</text>
+<text>
+<id>311</id>
+<name>Vyrobit sadu na oheň</name>
+</text>
+<text>
+<id>312</id>
+<name>Vyčistit</name>
+</text>
+<text>
+<id>313</id>
+<name>Vzít jako zbraň</name>
+</text>
+<text>
+<id>314</id>
+<name>Zastrčit do pouzdra</name>
+</text>
+<text>
+<id>315</id>
+<name>Zalepit</name>
+</text>
+<text>
+<id>316</id>
+<name>Připojit baterii</name>
+</text>
+<text>
+<id>317</id>
+<name>Vyrobit batoh</name>
+</text>
+<text>
+<id>318</id>
+<name>Sníst</name>
+</text>
+<text>
+<id>319</id>
+<name>Vypít</name>
+</text>
+<text>
+<id>320</id>
+<name>Zasadit</name>
+</text>
+<text>
+<id>321</id>
+<name>Stáhnout z kůže</name>
+</text>
+<text>
+<id>322</id>
+<name>Naplnit vodou</name>
+</text>
+<text>
+<id>323</id>
+<name>Upéct steak</name>
+</text>
+<text>
+<id>324</id>
+<name>Užít výhřevný sáček</name>
+</text>
+<text>
+<id>325</id>
+<name>Obvázat se</name>
+</text>
+<text>
+<id>326</id>
+<name>Krevní transfuze</name>
+</text>
+<text>
+<id>327</id>
+<name>Zapálit a hodit</name>
+</text>
+<text>
+<id>328</id>
+<name>Hodit granát</name>
+</text>
+<text>
+<id>329</id>
+<name>Zapálit ohniště</name>
+</text>
+<text>
+<id>330</id>
+<name>Transfuze roztoku</name>
+</text>
+<text>
+<id>331</id>
+<name>Rozštípat</name>
+</text>
+<text>
+<id>332</id>
+<name>Použít</name>
+</text>
+<text>
+<id>333</id>
+<name>Sníst vitamíny</name>
+</text>
+<text>
+<id>334</id>
+<name>Postavit plot</name>
+</text>
+<text>
+<id>335</id>
+<name>Zapálit</name>
+</text>
+<text>
+<id>336</id>
+<name>Krit</name>
+</text>
+<text>
+<id>337</id>
+<name>ZK</name>
+</text>
+<text>
+<id>338</id>
+<name>Prohlédnout okolí</name>
+</text>
+<text>
+<id>339</id>
+<name>Nabít druhou zbraň</name>
+</text>
+<text>
+<id>400</id>
+<name>Ostrostřelec
+Při střelbě ze zbraně na dálku zvyšuje šanci na zásah do hlavy</name>
+</text>
+<text>
+<id>401</id>
+<name>Zvěd
+Nepřátelské přeživší uvidíš z větší vzdálenosti</name>
+</text>
+<text>
+<id>402</id>
+<name>Sprinter
+Zvyšuje rychlost běhu o 10 %</name>
+</text>
+<text>
+<id>403</id>
+<name>Velbloud
+Snižuje pocit žízně o 15 %</name>
+</text>
+<text>
+<id>404</id>
+<name>Křeček
+Snižuje pocit hladu o 15 %</name>
+</text>
+<text>
+<id>405</id>
+<name>Sněhorozený
+Zvyšuje odolnost proti chladu o 20 %</name>
+</text>
+<text>
+<id>406</id>
+<name>Pěstitel nábojů
+Každá hrst nábojů obsahuje o tři kulky navíc</name>
+</text>
+<text>
+<id>407</id>
+<name>Survivalista
+Pokud ukazatel krve klesne pod 50 %, rychlost regenerace se zdvojnásobí</name>
+</text>
+<text>
+<id>408</id>
+<name>Blokař
+Při boji nablízko zvyšuje šanci na blokování útoků nepřítele</name>
+</text>
+<text>
+<id>409</id>
+<name>Ranař
+Při boji nablízko zvyšuje šanci na uštědření mnohonásobně většího poškození</name>
+</text>
+<text>
+<id>410</id>
+<name>Hrabáč v kufrech
+Zvyšuje šanci na nalezení kořisti v kufrech aut</name>
+</text>
+<text>
+<id>411</id>
+<name>Lovec
+Hráč má větší šanci, že ho zvířata nespatří</name>
+</text>
+<text>
+<id>412</id>
+<name>Sladký domov
+Pobyt v budově přidá hráči o 50 % víc tepla</name>
+</text>
+<text>
+<id>413</id>
+<name>Rudé+
+Snižuje ztrátu krve, když hráč krvácí nebo se necítí dobře
+</name>
+</text>
+<text>
+<id>414</id>
+<name>Noční tvor
+V noci vidíš o trochu lépe.</name>
+</text>
+<text>
+<id>415</id>
+<name>Agronom
+Nasbíráš víc bobulí. Rostliny už ti nikdy neuvadnou.</name>
+</text>
+<text>
+<id>451</id>
+<name>Tuto loď oprav hromadou dřeva. Pak postoupíš dál. Hromadu dřeva získáš pokácením stromu.</name>
+</text>
+<text>
+<id>452</id>
+<name>Hele! To vypadá jako kořist! Přibliž se a zvedni ji.</name>
+</text>
+<text>
+<id>453</id>
+<name>Tady si můžeš prohlédnout všechny věci, které vezmeš.</name>
+</text>
+<text>
+<id>454</id>
+<name>Toto je pozice rukou. I když nemáš jiné vybavení, ruce budeš mít vždycky. Věci použiješ klepnutím.</name>
+</text>
+<text>
+<id>455</id>
+<name>Vítej, přeživší. Jsi uvězněn na malém ostrově a někam dál se přepravíš jedině tak, že najdeš loď.</name>
+</text>
+<text>
+<id>456</id>
+<name>Pohyb klepnutím/tahem</name>
+</text>
+<text>
+<id>457</id>
+<name>Pohyb páčkou</name>
+</text>
+<text>
+<id>458</id>
+<name>Vyber si způsob ovládání hry. Přepnout ho můžeš kdykoliv.</name>
+</text>
+<text>
+<id>459</id>
+<name>Dokud budeš přežívat a zabíjet nepřátele, získáš tím body zkušeností (ZK), pomocí nichž můžeš odemykat výhody.</name>
+</text>
+<text>
+<id>460</id>
+<name>Vyber si jednu výhodu a klikni na tlačítko plus. Od této chvíle je výhoda aktivní, dokud tvoje postava nezemře.</name>
+</text>
+<text>
+<id>461</id>
+<name>Předměty zvedej a s okolím interaguj pomocí tlačítka interakce.</name>
+</text>
+<text>
+<id>462</id>
+<name>Teď máš zbraň na dálku, míření probíhá automaticky. Vystřel pomocí tohoto tlačítka.</name>
+</text>
+<text>
+<id>463</id>
+<name>Tímto tlačítkem zbraň znovu nabiješ. Pokud máš vhodné náboje, nabiješ je.</name>
+</text>
+<text>
+<id>464</id>
+<name>Můžeš přepínat mezi režimem zbraně zblízka a na dálku.</name>
+</text>
+<text>
+<id>465</id>
+<name>Vypadá to, že krvácíš.</name>
+</text>
+<text>
+<id>466</id>
+<name>Ukazatel krve klesl na nulu. Tohle je naštěstí jen výuka, takže tě uzdravíme. Tak pokračuj.</name>
+</text>
+<text>
+<id>467</id>
+<name>Předměty v inventáři přeorganizuj přetáhnutím.</name>
+</text>
+<text>
+<id>468</id>
+<name>Hele, střelná zbraň. Většinou se dají najít ve vojenských oblastech.</name>
+</text>
+<text>
+<id>469</id>
+<name>Před tebou se šourá nakažený! Přibliž se, zaútočíš na něj. Boj bude probíhat automaticky.</name>
+</text>
+<text>
+<id>470</id>
+<name>Vlci! Buď potichu, jsou totiž dost nebezpeční, obzvlášť ve smečkách.</name>
+</text>
+<text>
+<id>471</id>
+<name>Vodní pumpa. Můžeš se z ní napít a naplnit si čutoru nebo láhev.</name>
+</text>
+<text>
+<id>472</id>
+<name>Opuštěné auto. Podívej se do kufru, jestli se uvnitř neskrývá kořist. Stačí se přiblížit k zadní části auta.</name>
+</text>
+<text>
+<id>473</id>
+<name>Můžeš lovit jeleny, nožem je stahovat z kůže, a získávat tak maso.</name>
+</text>
+<text>
+<id>474</id>
+<name>Můžeš lovit králíky, nožem je stahovat z kůže, a získávat tak maso.</name>
+</text>
+<text>
+<id>475</id>
+<name>Z některých keřů můžeš sesbírat bobule. Stačí se trochu porozhlédnout.</name>
+</text>
+<text>
+<id>340</id>
+<name>Připevnit</name>
+</text>
+<text>
+<id>341</id>
+<name>Sundat</name>
+</text>
+<text>
+<id>342</id>
+<name>optiku</name>
+</text>
+<text>
+<id>343</id>
+<name>tlumič</name>
+</text>
+<text>
+<id>344</id>
+<name>bandalír</name>
+</text>
+<text>
+<id>345</id>
+<name>Upilovat pušku</name>
+</text>
+<text>
+<id>346</id>
+<name>Upilovat pušku</name>
+</text>
+<text>
+<id>347</id>
+<name>Teplo </name>
+</text>
+<text>
+<id>348</id>
+<name>Zbroj </name>
+</text>
+<text>
+<id>349</id>
+<name>Tuto loď můžeš natankovat kanystrem s palivem, který máš.</name>
+</text>
+<text>
+<id>350</id>
+<name>Palivo</name>
+</text>
+<text>
+<id>351</id>
+<name>K natankování této lodě potřebuješ kanystr s palivem.</name>
+</text>
+<text>
+<id>352</id>
+<name>Vstoupit do bunkru? Budeš se moci vrátit.</name>
+</text>
+<text>
+<id>353</id>
+<name>Odejít z bunkru? Později se budeš moci vrátit.</name>
+</text>
+<text>
+<id>354</id>
+<name>Výsadky nejsou pod zemí dostupné.</name>
+</text>
+<text>
+<id>355</id>
+<name>Jsi v bezvědomí.</name>
+</text>
+<text>
+<id>356</id>
+<name>Pokud se chceš probrat, podívej se na reklamu.</name>
+</text>
+<text>
+<id>357</id>
+<name>Bunkr nepřístupný, zkus to později.</name>
+</text>
+<text>
+<id>358</id>
+<name>Další hry</name>
+</text>
+<text>
+<id>359</id>
+<name>Umíráš. Jedinou tvou šancí, jak pokračovat v hraní, je vstříknutí adrenalinové injekce po zhlédnutí následující video reklamy.</name>
+</text>
+<text>
+<id>360</id>
+<name>Pokud chceš pokračovat, je třeba připojení k internetu.</name>
+</text>
+<text>
+<id>361</id>
+<name>Použít injekci</name>
+</text>
+<text>
+<id>362</id>
+<name>Odmítnout</name>
+</text>
+<text>
+<id>242</id>
+<name>Příslušenství</name>
+</text>
+<text>
+<id>243</id>
+<name>Bandalír - zrychluje nabíjení o 30 %</name>
+</text>
+<text>
+<id>244</id>
+<name>Optika RDS - mírně snižuje rozptyl</name>
+</text>
+<text>
+<id>245</id>
+<name>Optiky - snižují rozptyl, +10 % šance na zásah do hlavy</name>
+</text>
+<text>
+<id>246</id>
+<name>Utlumí záblesk a zvuk výstřelu.</name>
+</text>
+<text>
+<id>363</id>
+<name>Opravit auto</name>
+</text>
+<text>
+<id>92</id>
+<name>Kate „Turistka“
+Základní výbava: džíny, pršiplášť, civilní stan, čelovka.
+Odemčené výhody: Lovec, Noční tvor.</name>
+</text>
+<text>
+<id>93</id>
+<name>Jasmine „Dřevařka“
+Základní výbava: lovecké kalhoty, tričko, baret, sekyrka, izolační páska.
+Odemčené výhody: Křeček, Velbloud, Sněhorozený.</name>
+</text>
+<text>
+<id>94</id>
+<name>Aika „Novinářka“
+Základní výbava: džíny, tričko, kšiltovka, novinářská vesta, čutora, rádio.
+Odemčené výhody: Sprinter, Zvěd</name>
+</text>
+<text>
+<id>140</id>
+<name>Kate „Turistka“
+Podmínka k odemčení: Najdi na 4. ostrově dvě řiditelná vozidla.
+Obtížnost „Veterán“.
+</name>
+</text>
+<text>
+<id>141</id>
+<name>Jasmine „Dřevařka“
+Podmínka k odemčení: Klesni s karmou na -100 a následně si ji zvedni na +100 během jedné hry.
+Obtížnost „Veterán“.
+</name>
+</text>
+<text>
+<id>142</id>
+<name>Aika „Novinářka“
+Podmínka k odemčení: Dokonči 3 úkoly od přeživších během jedné hry.
+Obtížnost „Veterán“.
+</name>
+</text>
+<text>
+<id>138</id>
+<name>Dokončeno</name>
+</text>
+<text>
+<id>139</id>
+<name>Úkoly</name>
+</text>
+<text>
+<id>364</id>
+<name>Zdravím! Naše skupina hledá: </name>
+</text>
+<text>
+<id>365</id>
+<name>Za odměnu ti dáme: </name>
+</text>
+<text>
+<id>366</id>
+<name>Moc díky! Tady máš souřadnice s odměnou.</name>
+</text>
+<text>
+<id>367</id>
+<name>No active task at this moment.</name>
+</text>
+<text>
+<id>368</id>
+<name>Souřadnice řiditelného vozidla</name>
+</text>
+<text>
+<id>369</id>
+<name>Souřadnice vchodu do podzemního bunkru</name>
+</text>
+<text>
+<id>370</id>
+<name>Souřadnice zajímavého místa</name>
+</text>
+<text>
+<id>371</id>
+<name>Skupinka přeživších hledá tento předmět:</name>
+</text>
+<text>
+<id>372</id>
+<name>Hej, potřebujeme pomoct! Tlupa banditů se utábořila nedaleko. Zlikviduj je a my tě odměníme.</name>
+</text>
+<text>
+<id>373</id>
+<name>Podařilo se ti najít, co potřebujeme?</name>
+</text>
+<text>
+<id>374</id>
+<name>Karma</name>
+</text>
+<text>
+<id>375</id>
+<name>Otevřít</name>
+</text>
+<text>
+<id>376</id>
+<name>Souřadnice lodě, kterou jsme viděli na východním pobřeží</name>
+</text>
+<text>
+<id>377</id>
+<name>Hej! Přepadli nás a přišli jsme o kufr s kořistí. Když nám ho přineseš, odměníme tě.</name>
+</text>
+<text>
+<id>378</id>
+<name>Nejdřív vyřiď ty bandity. Pak se vrať.</name>
+</text>
+<text>
+<id>379</id>
+<name>Podařilo se ti najít ten náš kufr s kořistí?</name>
+</text>
+<text>
+<id>380</id>
+<name>Moc díky! Tady jsou souřadnice s odměnou.</name>
+</text>
+<text>
+<id>381</id>
+<name>Odměna za tento úkol:</name>
+</text>
+<text>
+<id>382</id>
+<name>Skupinka přeživších přišla o kufr s kořistí. Můžu ho najít a vrátit, nebo otevřít a vykrást.</name>
+</text>
+<text>
+<id>383</id>
+<name>Skupinka přeživších mě požádala, ať se vypořádám s bandity.</name>
+</text>
+<text>
+<id>384</id>
+<name>Zbývající čas: </name>
+</text>
+<text>
+<id>385</id>
+<name>Dny naživu</name>
+</text>
+<text>
+<id>386</id>
+<name>Banditi zlikvidováni. Teď rychle zpátky k přeživším pro odměnu.</name>
+</text>
+<text>
+<id>387</id>
+<name>Aktuální úkol nesplněn.</name>
+</text>
+<text>
+<id>388</id>
+<name>Začít rybařit</name>
+</text>
+<text>
+<id>389</id>
+<name>Vyrobit rybářský prut</name>
+</text>
+<text>
+<id>390</id>
+<name>Odemčení</name>
+</text>
+<text>
+<id>391</id>
+<name>Zbraně</name>
+</text>
+<text>
+<id>392</id>
+<name>MAC-10
+Podmínka k odemčení: Zabij celkem 100 nakažených libovolnými pistolemi.
+Obtížnost „Normální“ nebo „Veterán“.
+Nynější stav:</name>
+</text>
+<text>
+<id>393</id>
+<name>Saiga-12k
+Podmínka k odemčení: Zabij celkem 150 nakažených libovolnými brokovnicemi.
+Obtížnost „Normální“ nebo „Veterán“.
+Nynější stav:</name>
+</text>
+<text>
+<id>394</id>
+<name>AUG
+Podmínka k odemčení: Zabij celkem 200 nakažených libovolnými automatickými zbraněmi nebo samopaly.
+Obtížnost „Normální“ nebo „Veterán“.
+Nynější stav:</name>
+</text>
+<text>
+<id>395</id>
+<name>MAC-10
+Odemčeno.
+Umístění: Obchody se zbraněmi, místa havárie vozidel NATO, podzemní bunkry.
+</name>
+</text>
+<text>
+<id>396</id>
+<name>Saiga-12k
+Odemčeno. 
+Umístění: Obchody se zbraněmi, podzemní bunkry, vojenské základny.
+</name>
+</text>
+<text>
+<id>397</id>
+<name>AUG
+Odemčeno.
+Umístění: Místa havárie vozidel NATO, podzemní bunkry, vojenské základny.
+</name>
+</text>
+<text>
+<id>398</id>
+<name>Odemčena nová zbraň!</name>
+</text>
+<text>
+<id>416</id>
+<name>VSS
+Podmínka k odemčení: Najdi 6 havarovaných vrtulníků během jedné hry.
+Obtížnost „Veterán“.
+Nynější stav:</name>
+</text>
+<text>
+<id>417</id>
+<name>VSS
+Odemčeno.
+Umístění: Podzemní bunkry, vojenské základny VÝCHOD
+</name>
+</text>
+<text>
+<id>418</id>
+<name>SV-98
+Podmínka k odemčení: Zabij 200 nakažených střelou do hlavy z pušky (Mosin Nagant, SKS, SVD, Opakovačka)
+Obtížnost „Veterán“.
+Nynější stav:</name>
+</text>
+<text>
+<id>419</id>
+<name>SV-98
+Odemčeno.
+Umístění: Podzemní bunkry
+</name>
+</text>
+<text>
+<id>420</id>
+<name>Zavolat přátelského přeživšího na pomoc? Dorazí po videoreklamě.
+</name>
+</text>
+<text>
+<id>421</id>
+<name>Zavolat
+</name>
+</text>
+<text>
+<id>422</id>
+<name>Až budeš připraven na další vlnu, klepni na toto tlačítko.</name>
+</text>
+<text>
+<id>423</id>
+<name>Nakažení se už šourají!</name>
+</text>
+<text>
+<id>424</id>
+<name>Oblast čistá, měl bys tam mít zásoby.</name>
+</text>
+<text>
+<id>425</id>
+<name>Prepare for first wave.</name>
+</text>
+<text>
+<id>426</id>
+<name>Herní režim:</name>
+</text>
+<text>
+<id>427</id>
+<name>Casual</name>
+</text>
+<text>
+<id>428</id>
+<name>Radiace
+</name>
+</text>
+<text>
+<id>429</id>
+<name>Battle Royale</name>
+</text>
+<text>
+<id>430</id>
+<name>Veřejný nepřítel</name>
+</text>
+<text>
+<id>431</id>
+<name>Přestřelka</name>
+</text>
+<text>
+<id>432</id>
+<name>Invaze</name>
+</text>
+<text>
+<id>433</id>
+<name>Divočina</name>
+</text>
+<text>
+<id>434</id>
+<name>Breach</name>
+</text>
+<text>
+<id>435</id>
+<name>Casual. Jakmile tvá postava zemře, oživí se na pobřeží aktuálního ostrova.</name>
+</text>
+<text>
+<id>436</id>
+<name>Radiace. Přidává na ostrovy radiační oblasti. Radiaci lze vyléčit.</name>
+</text>
+<text>
+<id>437</id>
+<name>Battle Royale. Od začátku přidává extrémní zóny. Zvyšuje množství kořisti v prostředí.</name>
+</text>
+<text>
+<id>438</id>
+<name>Veřejný nepřítel. Všichni ostatní přeživší tě začnou brzy po začátku hry lovit.
+</name>
+</text>
+<text>
+<id>439</id>
+<name>Přestřelka. Téměř všechny zombie teď mají střelné zbraně.</name>
+</text>
+<text>
+<id>440</id>
+<name>Invaze. Všude je víc zombie!</name>
+</text>
+<text>
+<id>441</id>
+<name>Divočina. Téměř všechny zombie jsou nahrazeny vlky.</name>
+</text>
+<text>
+<id>442</id>
+<name>Breach. Braň svou pozici před zombie co nejdéle můžeš.</name>
+</text>
+<text>
+<id>443</id>
+<name>Během hraní v herních režimech nemůžeš odemykat postavy, zbraně ani úspěchy.</name>
+</text>
+<text>
+<id>444</id>
+<name>Přežívání</name>
+</text>
+<text>
+<id>445</id>
+<name>Speciální</name>
+</text>
+<text>
+<id>446</id>
+<name>Začít</name>
+</text>
+<text>
+<id>447</id>
+<name>Vlna </name>
+</text>
+<text>
+<id>448</id>
+<name>Vyjměte</name>
+</text>
+<text>
+<id>449</id>
+<name>Zrušit slot</name>
+</text>
+<text>
+<id>450</id>
+<name>Rozdělit</name>
+</text>
+<text>
+<id>451</id>
+<name>Tuto loď oprav hromadou dřeva. Pak postoupíš dál. Hromadu dřeva získáš pokácením stromu.</name>
+</text>
+<text>
+<id>452</id>
+<name>Hele! To vypadá jako kořist! Přibliž se a zvedni ji.</name>
+</text>
+<text>
+<id>453</id>
+<name>Tady si můžeš prohlédnout všechny věci, které vezmeš.</name>
+</text>
+<text>
+<id>454</id>
+<name>Toto je pozice rukou. I když nemáš jiné vybavení, ruce budeš mít vždycky. Věci použiješ klepnutím.</name>
+</text>
+<text>
+<id>455</id>
+<name>Vítej, přeživší. Jsi uvězněn na malém ostrově a někam dál se přepravíš jedině tak, že najdeš loď.</name>
+</text>
+<text>
+<id>456</id>
+<name>Pohyb klepnutím/tahem</name>
+</text>
+<text>
+<id>457</id>
+<name>Pohyb páčkou</name>
+</text>
+<text>
+<id>458</id>
+<name>Vyber si způsob ovládání hry. Přepnout ho můžeš kdykoliv.</name>
+</text>
+<text>
+<id>459</id>
+<name>Dokud budeš přežívat a zabíjet nepřátele, získáš tím body zkušeností (ZK), pomocí nichž můžeš odemykat výhody.</name>
+</text>
+<text>
+<id>460</id>
+<name>Vyber si jednu výhodu a klikni na tlačítko plus. Od této chvíle je výhoda aktivní, dokud tvoje postava nezemře.</name>
+</text>
+<text>
+<id>461</id>
+<name>Předměty zvedej a s okolím interaguj pomocí tlačítka interakce.</name>
+</text>
+<text>
+<id>462</id>
+<name>Teď máš zbraň na dálku, míření probíhá automaticky. Vystřel pomocí tohoto tlačítka.</name>
+</text>
+<text>
+<id>463</id>
+<name>Tímto tlačítkem zbraň znovu nabiješ. Pokud máš vhodné náboje, nabiješ je.</name>
+</text>
+<text>
+<id>464</id>
+<name>Můžeš přepínat mezi režimem zbraně zblízka a na dálku.</name>
+</text>
+<text>
+<id>465</id>
+<name>Vypadá to, že krvácíš.</name>
+</text>
+<text>
+<id>466</id>
+<name>Ukazatel krve klesl na nulu. Tohle je naštěstí jen výuka, takže tě uzdravíme. Tak pokračuj.</name>
+</text>
+<text>
+<id>467</id>
+<name>Předměty v inventáři přeorganizuj přetáhnutím.</name>
+</text>
+<text>
+<id>468</id>
+<name>Hele, střelná zbraň. Většinou se dají najít ve vojenských oblastech.</name>
+</text>
+<text>
+<id>469</id>
+<name>Před tebou se šourá nakažený! Přibliž se, zaútočíš na něj. Boj bude probíhat automaticky.</name>
+</text>
+<text>
+<id>470</id>
+<name>Vlci! Buď potichu, jsou totiž dost nebezpeční, obzvlášť ve smečkách.</name>
+</text>
+<text>
+<id>471</id>
+<name>Vodní pumpa. Můžeš se z ní napít a naplnit si čutoru nebo láhev.</name>
+</text>
+<text>
+<id>472</id>
+<name>Opuštěné auto. Podívej se do kufru, jestli se uvnitř neskrývá kořist. Stačí se přiblížit k zadní části auta.</name>
+</text>
+<text>
+<id>473</id>
+<name>Můžeš lovit jeleny, nožem je stahovat z kůže, a získávat tak maso.</name>
+</text>
+<text>
+<id>474</id>
+<name>Můžeš lovit králíky, nožem je stahovat z kůže, a získávat tak maso.</name>
+</text>
+<text>
+<id>475</id>
+<name>Z některých keřů můžeš sesbírat bobule. Stačí se trochu porozhlédnout.</name>
+</text>
+<text>
+<id>476</id>
+<name>Obnovte barvu vozidla</name>
+</text>
+<text>
+<id>477</id>
+<name>Odpojit buben mag</name>
+</text>
+<text>
+<id>478</id>
+<name>Barva barviva</name>
+</text>
+<text>
+<id>479</id>
+<name>Odstraňte barvivo</name>
+</text>
+<text>
+<id>480</id>
+<name>Přepnout</name>
+</text>
+<text>
+<id>481</id>
+<name>Odstraňte zemědělský pozemek</name>
+</text>
+<text>
+<id>482</id>
+<name>Barva černá</name>
+</text>
+<text>
+<id>483</id>
+<name>Změna stylu mapy</name>
+</text>
+<text>
+<id>484</id>
+<name>Psí štěkot: vypnuto</name>
+</text>
+<text>
+<id>485</id>
+<name>Psí štěkot: zapnuto</name>
+</text>
+<text>
+<id>486</id>
+<name>Nastavte časovač a házejte</name>
+</text>
+<text>
+<id>487</id>
+<name>Filtrujte vodu z jezera</name>
+</text>
+<text>
+<id>488</id>
+<name>Odebrat NVG</name>
+</text>
+<text>
+<id>489</id>
+<name>Nainstalujte baterku</name>
+</text>
+<text>
+<id>490</id>
+<name>Nainstalujte NVG</name>
+</text>
+<text>
+<id>491</id>
+<name>Vyjměte baterku</name>
+</text>
+<text>
+<id>492</id>
+<name>Uvolněte</name>
+</text>
+<text>
+<id>493</id>
+<name>Vykopat hrob</name>
+</text>
+<text>
+<id>494</id>
+<name>Až na zemědělský pozemek</name>
+</text>
+<text>
+<id>495</id>
+<name>Posílit vozidlo</name>
+</text>
+<text>
+<id>496</id>
+<name>Nasadit generátor</name>
+</text>
+<text>
+<id>497</id>
+<name>Nasaďte světlomety</name>
+</text>
+<text>
+<id>498</id>
+<name>Zobrazit normální ostrov</name>
+</text>
+<text>
+<id>499</id>
+<name>Zobrazit sněhový ostrov</name>
+</text>
+<text>
+<id>500</id>
+<name>English</name>
+</text>
+<text>
+<id>501</id>
+<name>Français</name>
+</text>
+<text>
+<id>502</id>
+<name>Italiano</name>
+</text>
+<text>
+<id>503</id>
+<name>Deutsch</name>
+</text>
+<text>
+<id>504</id>
+<name>Español</name>
+</text>
+<text>
+<id>505</id>
+<name>Русский</name>
+</text>
+<text>
+<id>506</id>
+<name>Čeština</name>
+</text>
+<text>
+<id>507</id>
+<name>Português(BR)</name>
+</text>
+<text>
+<id>508</id>
+<name>简体中文</name>
+</text>
+<text>
+<id>509</id>
+<name>繁體中文</name>
+</text>
+<text>
+<id>510</id>
+<name>Plně automatický režim</name>
+</text>
+<text>
+<id>511</id>
+<name>Semi/burst režim</name>
+</text>
+<text>
+<id>512</id>
+<name>...</name>
+</text>
+<text>
+<id>513</id>
+<name>Znovu nasadit</name>
+</text>
+<text>
+<id>514</id>
+<name>Nabijte baterii</name>
+</text>
+<text>
+<id>515</id>
+<name>Demontovat</name>
+</text>
+<text>
+<id>516</id>
+<name>Odpojte přílohy</name>
+</text>
+<text>
+<id>517</id>
+<name>Vařte smažená vejce</name>
+</text>
+<text>
+<id>518</id>
+<name>Uvařte pepřový steak</name>
+</text>
+<text>
+<id>519</id>
+<name>Uvařte shakshuku</name>
+</text>
+<text>
+<id>520</id>
+<name>anglicky</name>
+</text>
+<text>
+<id>521</id>
+<name>Français</name>
+</text>
+<text>
+<id>522</id>
+<name>italština</name>
+</text>
+<text>
+<id>523</id>
+<name>německy</name>
+</text>
+<text>
+<id>524</id>
+<name>španělsky</name>
+</text>
+<text>
+<id>525</id>
+<name>Русский</name>
+</text>
+<text>
+<id>526</id>
+<name>Čeština</name>
+</text>
+<text>
+<id>527</id>
+<name>português</name>
+</text>
+<text>
+<id>528</id>
+<name>简体中文</name>
+</text>
+<text>
+<id>529</id>
+<name>繁體中文</name>
+</text>
+<text>
+<id>530</id>
+<name>Abys mohl odemknout úspěchy, musíš odehrát celou jednu hru, dokud tvá postava nezemře. Existují tři úrovně: bronzová pro nováčka, stříbrná pro normální hru a zlatá pro veterána. Pokud si vybereš těžší obtížnost, můžeš odemknout i nižší úrovně, ale ne naopak. Vyšší úrovně je rovněž těžší odemknout.</name>
+</text>
+<text>
+<id>531</id>
+<name>Statistiky</name>
+</text>
+<text>
+<id>532</id>
+<name>Výhody</name>
+</text>
+<text>
+<id>533</id>
+<name>Skóre</name>
+</text>
+<text>
+<id>534</id>
+<name>Nastavení</name>
+</text>
+<text>
+<id>535</id>
+<name>Žebříčky</name>
+</text>
+<text>
+<id>536</id>
+<name>Skóre k odemknutí: </name>
+</text>
+<text>
+<id>537</id>
+<name>Konec</name>
+</text>
+<text>
+<id>538</id>
+<name>Pomalé připojení k internetu!</name>
+</text>
+<text>
+<id>539</id>
+<name>Zrušit</name>
+</text>
+<text>
+<id>540</id>
+<name>Opravdu chceš hru ukončit? Výuka se neuloží.</name>
+</text>
+<text>
+<id>541</id>
+<name>Opravdu chceš hru ukončit? Hra se uloží.</name>
+</text>
+<text>
+<id>542</id>
+<name>Jsi po smrti</name>
+</text>
+<text>
+<id>543</id>
+<name>Ukládání položek</name>
+</text>
+<text>
+<id>544</id>
+<name>Rozmístit civilní stan</name>
+</text>
+<text>
+<id>545</id>
+<name>Nasadit ostnatý drát</name>
+</text>
+<text>
+<id>546</id>
+<name>Nasadit nášlapnou minu</name>
+</text>
+<text>
+<id>547</id>
+<name>Nasadit claymore</name>
+</text>
+<text>
+<id>548</id>
+<name>Nasaďte kořistní skrýš</name>
+</text>
+<text>
+<id>549</id>
+<name>Rozmístěte dřevěnou barikádu</name>
+</text>
+<text>
+<id>550</id>
+<name>Nasaďte kovový plot</name>
+</text>
+<text>
+<id>551</id>
+<name>Nasadit generátor</name>
+</text>
+<text>
+<id>552</id>
+<name>Nasaďte světlomet</name>
+</text>
+<text>
+<id>553</id>
+<name>Rozmístit postel</name>
+</text>
+<text>
+<id>554</id>
+<name>Nasaďte krmný žlab</name>
+</text>
+<text>
+<id>555</id>
+<name>Skladujte pokrývky hlavy</name>
+</text>
+<text>
+<id>556</id>
+<name>Uchovávejte svrchní oblečení</name>
+</text>
+<text>
+<id>557</id>
+<name>Skladujte kalhoty</name>
+</text>
+<text>
+<id>558</id>
+<name>Obrana spoluhráče:</name>
+</text>
+<text>
+<id>559</id>
+<name>Vybavit pokrývky hlavy</name>
+</text>
+<text>
+<id>560</id>
+<name>Vybavit vestu</name>
+</text>
+<text>
+<id>561</id>
+<name>Vybavte vrchní oblečení</name>
+</text>
+<text>
+<id>562</id>
+<name>Vybavit kalhoty</name>
+</text>
+<text>
+<id>563</id>
+<name>Instalujte nad stan</name>
+</text>
+<text>
+<id>564</id>
+<name>Řemeslná pochodeň</name>
+</text>
+<text>
+<id>601</id>
+<name>[králík]
+Běžný divoký králík; při přiblížení utíká vysokou rychlostí.
+ - 
+Zdraví: 5</name>
+</text>
+<text>
+<id>602</id>
+<name>[Jelen]
+Obecný divoký jelen; zůstává ve střehu ke všem tvorům kolem sebe.
+ - 
+Zdraví: 80</name>
+</text>
+<text>
+<id>603</id>
+<name>[Albino Deer]
+Extrémně vzácný jelen albín; jeho sněhově bílá srst dokonale splyne se sněhem.
+ - 
+Zdraví: 80</name>
+</text>
+<text>
+<id>604</id>
+<name>[Timber Wolf]
+Východní lesní vlk; Může jich být více, protože málokdy loví sám.
+ - 
+Zdraví: 50</name>
+</text>
+<text>
+<id>605</id>
+<name>[medvěd]
+Nejnebezpečnější divoký predátor; Má silnou konstrukci a děsivou útočnou sílu.
+ - 
+Zdraví: 500</name>
+</text>
+<text>
+<id>606</id>
+<name>[kuře]
+Venkovská kuřata, která se volně pasou na okolních farmách.
+ - 
+Zdraví: 5
+Oblíbené jídlo: Brusinka, Moruška, Borůvka, Bez a Žížaly</name>
+</text>
+<text>
+<id>607</id>
+<name>[prase]
+Prase domácí; daří se mu na okolních farmách.
+ - 
+Zdraví: 20
+Oblíbené jídlo: rajče, jablko, banán, cuketa, paprika, pomeranč, brusinka, moruška, borůvka a bez</name>
+</text>
+<text>
+<id>608</id>
+<name>[pes]
+Gerberský Shepsky. Nejspolehlivější společník; může poskytnout mnoho forem pomoci.
+ - 
+Zdraví: N/A
+Special Quirk: Může tahat předměty, přikazovat mu, aby aktivně přitahoval a útočil na nepřátele (potřebuje specializované psí vybavení)</name>
+</text>
+<text>
+<id>609</id>
+<name>[Infikovaný]
+Obyčejní lidé, kteří nemohli přežít epidemii; nyní se snaží roztrhat každou živou věc, kterou vidí.
+ - 
+Zdraví: 60/120 (radiační zóna)</name>
+</text>
+<text>
+<id>610</id>
+<name>[Prohledávač]
+Pohybuje se rychleji a je nebezpečnější než běžná infekce.
+ - 
+Zdraví: 80/160 (radiační zóna)</name>
+</text>
+<text>
+<id>611</id>
+<name>[Lurker]
+Na rozdíl od jiných infikovaných aktivně nevyhledává cíle, místo toho se maskuje, aby překvapil neopatrné kolemjdoucí.
+ - 
+Zdraví: 60/120 (radiační zóna)</name>
+</text>
+<text>
+<id>612</id>
+<name>[Infikovaný voják]
+Infikovaný voják; robustnějš�� než běžné infikované.
+ - 
+Zdraví: 100/200 (radiační zóna)</name>
+</text>
+<text>
+<id>613</id>
+<name>[Hazmat Infected]
+Oteklý infikovaný; jeho ochranný oblek je naplněn smrtící biologicky nebezpečnou tekutinou, která se po smrti vylije.
+ - 
+Zdraví: 80/160 (radiační zóna)</name>
+</text>
+<text>
+<id>614</id>
+<name>[Infekce NBC]
+Delší kontakt s chemikáliemi způsobil jeho mutaci, což umožnilo rychlejší pohyb a silnou přetrvávající biologicky nebezpečnou tekutinu.
+ - 
+Zdraví: 120 / 240 (radiační zóna)</name>
+</text>
+<text>
+<id>615</id>
+<name>[křičel]
+Tento slabý infikovaný nemůže ublížit, ale bude plakat, aby přilákal blízké nakažené k rojům kolemjdoucích.
+ - 
+Zdraví: 50/100 (radiační zóna)</name>
+</text>
+<text>
+<id>616</id>
+<name>[Infikovaný policista]
+Infikovaný policista si zachoval svůj instinkt ke střelbě, takže byl nebezpečnější než běžní infikovaní.
+ - 
+Zdraví: 100/200 (radiační zóna)</name>
+</text>
+<text>
+<id>617</id>
+<name>[Beret Infected]
+Infikovaný vojenský důstojník; robustní s instinktem střílet do všeho, co se hýbe.
+ - 
+Zdraví: 120 / 240 (radiační zóna)</name>
+</text>
+<text>
+<id>618</id>
+<name>[Nepokoje nakažené]
+Tento infikovaný je silně obrněný výstrojí Riot, takže je mnohem tankovější než ostatní infikovaní.
+ - 
+Zdraví: 250 / 500 (radiační zóna)</name>
+</text>
+<text>
+<id>619</id>
+<name>[šnorchlovat]
+Divoký mutant s divokou plynovou maskou s pozoruhodným sluchem. Může se vrhnout na své cíle.
+ - 
+Zdraví: 150/300 (radiační zóna)</name>
+</text>
+<text>
+<id>620</id>
+<name>[Splitter]
+Virově mutovaná infikovaná; Na kolemjdoucí chrlí velké množství biologicky nebezpečných tekutin.
+ - 
+Zdraví: 100/200 (radiační zóna)</name>
+</text>
+<text>
+<id>621</id>
+<name>[Neo Runner]
+Kdysi to byl vynikající sportovec, dále mutoval, aby napomáhal své hbitosti a umožňoval uhýbat kulkám.
+ - 
+Zdraví: 100/200 (radiační zóna)</name>
+</text>
+<text>
+<id>622</id>
+<name>[Instruktor Neo Drill]
+Kdysi cvičný instruktor pro jednotky umístěné v bunkrech a výzkumných laboratořích; Jeho mutací podporovaná agilita mu umožňuje vyhýbat se kulkám.
+ - 
+Zdraví: 120 / 240 (radiační zóna)</name>
+</text>
+<text>
+<id>623</id>
+<name>[kuřák]
+Tento nechutně vyhlížející nakažený má vnitřnosti po celém těle a bude se snažit přitáhnout kolemjdoucí směrem k sobě.
+ - 
+Zdraví: 100/200 (radiační zóna)</name>
+</text>
+<text>
+<id>624</id>
+<name>[Nakažený ozbrojený Gorka]
+Dobře vybavený infikovaný se zachovaným střeleckým instinktem bude nepřetržitě střílet na kolemjdoucí.
+ - 
+Zdraví: 175 / 350 (radiační zóna)</name>
+</text>
+<text>
+<id>625</id>
+<name>[Infikovaný Altyn]
+Infikovaný s altynskou helmou; Je těžce pancéřovaný a mnohem více tanker.
+ - 
+Zdraví: N/A / 1000 (radiační zóna)</name>
+</text>
+<text>
+<id>626</id>
+<name>[čarodějnice]
+Tato zdánlivě neškodná nakažená žena sedí na zemi a bez ustání pláče; Nejlepší je ji nerušit...
+ - 
+Zdraví : 500 / 1000 ( radiační zóna )</name>
+</text>
+<text>
+<id>627</id>
+<name>[Ozáření Infikovaní]
+Dlouhodobé vystavení radiaci způsobilo, že strašlivě zmutoval; Je mnohem smrtelnější a rychlejší než ostatní infikovaní.
+ - 
+Zdraví: N/A / 500 (radiační zóna)</name>
+</text>
+<text>
+<id>628</id>
+<name>[Infikovaný výzkumník]
+Vědec, který se snažil najít lék, si píchl neúspěšnou vakcínu; který vytvořil děsivou mutaci.
+ - 
+Zdraví: N/A / 1000 (radiační zóna)</name>
+</text>
+<text>
+<id>629</id>
+<name>[Nádrž]
+Extrémně děsivý zmutovaný infikovaný; Virus výrazně zlepšil jeho sluch, čich, tělo a sílu.
+ - 
+Zdraví: 2000 / 4000 (radiační zóna)</name>
+</text>
+<text>
+<id>630</id>
+<name>(Z balíčku zimního obsahu)
+[Sněhulák]
+Tento křikloun má na hlavě santa klobouk a někdo ho dramaticky zabalil do vánočních světel. I nakažení musí být o svátcích sváteční.
+ - 
+Zdraví: 50/100 (radiační zóna)</name>
+</text>
+<text>
+<id>631</id>
+<name>(Z balíčku Halloween Content Pack)
+[čarodějnice]
+???
+ - 
+Zdraví: 500 / N/A (radiační zóna)</name>
+</text>
+<text>
+<id>632</id>
+<name>[přeživší]
+Neutral Survivor: Neútočí na hráče, pokud není vyprovokován; může obchodovat.
+Hostile Survivor: Útočí na ostatní přeživší, aby ukořistili zásoby.
+Friendly Survivor: Drží se vás, hodlá přežít společně.
+ - 
+Zdraví: 100</name>
+</text>
+<text>
+<id>633</id>
+<name>[Černý bandita]
+Během apokalypsy operují ve skupinách, mají lepší boční zbraně a zaútočí na ostatní přeživší.
+ - 
+Zdraví: 110</name>
+</text>
+<text>
+<id>634</id>
+<name>[Gorka Black Bandit]
+Vůdce mezi černými bandity; lépe vybavené a nebezpečnější.
+ - 
+Zdraví: 250</name>
+</text>
+<text>
+<id>635</id>
+<name>[Stalker Bandit]
+Průzkumný tým frakcí černého bandita poslal do radiačních zón; vybaven lepšími zbraněmi, aby se vypořádal se silnějšími nakaženými.
+ - 
+Zdraví: 150</name>
+</text>
+<text>
+<id>636</id>
+<name>[Altyn Black Bandit]
+Nejnebezpečnější druh černého bandity s vynikajícím brněním a útočnými zbraněmi.
+ - 
+Zdraví: 500</name>
+</text>
+<text>
+<id>637</id>
+<name>[armáda]
+Neutrální jednotky nejvyšší úrovně, které mohou poskytnout lepší obchod a ochranu.
+ - 
+Zdraví: 300</name>
+</text>
+<text>
+<id>638</id>
+<name>[Obří rebel]
+Nejsilnější nepřátelské jednotky, které mají vynikající zbraně a nejsilnější brnění.
+ - 
+Zdraví: 600</name>
+</text>
+<text>
+<id>639</id>
+<name>[Camo Rebel]
+Nejsilnější nepřátelské jednotky s extrémně vysokými schopnostmi plížení a odstřelování.
+ - 
+Zdraví: 300</name>
+</text>
+<text>
+<id>645</id>
+<name>Příležitostné režimy:</name>
+</text>
+<text>
+<id>646</id>
+<name>Porušení</name>
+</text>
+<text>
+<id>647</id>
+<name>Ukončit hru?
+Pokrok v tomto režimu nebude uložen</name>
+</text>
+<text>
+<id>648</id>
+<name>V tomto režimu není žádná mapa</name>
+</text>
+<text>
+<id>649</id>
+<name>Porušení</name>
+</text>
+<text>
+<id>650</id>
+<name>Tutoriál</name>
+</text>
+<text>
+<id>651</id>
+<name>Tuto loď můžete opravit pomocí klád a jít na další ostrov. Použijte sekeru k pokácení stromu a získání klád.</name>
+</text>
+<text>
+<id>652</id>
+<name>Zdá se, že tady jsou nějaké zásoby. Pojďte blíž, abyste je vyzvedli.</name>
+</text>
+<text>
+<id>653</id>
+<name>Své předměty si můžete zkontrolovat v inventáři.</name>
+</text>
+<text>
+<id>654</id>
+<name>Toto je váš hotbar. Je použitelný i bez slotů pro vybavení. Klepnutím vyberte položku.</name>
+</text>
+<text>
+<id>655</id>
+<name>Vítejte, přeživší. Uvízli jste na malém ostrově. Vaší jedinou cestou na další ostrovy je najít loď nebo most na východním pobřeží.</name>
+</text>
+<text>
+<id>656</id>
+<name>Klepnutím nebo přetažením přesunete svou postavu.</name>
+</text>
+<text>
+<id>657</id>
+<name>K pohybu použijte virtuální páku.</name>
+</text>
+<text>
+<id>658</id>
+<name>Vyberte si preferovaný způsob pohybu. Můžete to kdykoli změnit v nastavení.</name>
+</text>
+<text>
+<id>659</id>
+<name>Jak budete zabíjet nepřátele a hrát déle, získáváte zkušenostní body. Pomocí XP můžete odemknout nové dovednosti.</name>
+</text>
+<text>
+<id>660</id>
+<name>Vyberte dovednost, do které chcete investovat body, a naučte se ji. Každá dovednost má dvě úrovně.</name>
+</text>
+<text>
+<id>661</id>
+<name>Stisknutím tlačítka interakce můžete zvedat položky nebo komunikovat.</name>
+</text>
+<text>
+<id>662</id>
+<name>Nyní máte zbraň na dálku. Jeho vybavení automaticky míří. Stisknutím tlačítka střelby střílejte.</name>
+</text>
+<text>
+<id>663</id>
+<name>Až budete mít vhodnou munici, stiskněte tlačítko pro opětovné nabití.</name>
+</text>
+<text>
+<id>664</id>
+<name>Přepínejte mezi zbraněmi na blízko a na dálku. Pořadí: Boj zblízka -&gt; Primární -&gt; Sekundární.</name>
+</text>
+<text>
+<id>665</id>
+<name>Krvácíš.
+Najděte si obvaz nebo si roztrhejte tričko na hadry, abyste je mohli obvázat.</name>
+</text>
+<text>
+<id>666</id>
+<name>Vaše zdraví je prázdné. V tutoriálu budete plně vyléčeni, abyste mohli pokračovat.</name>
+</text>
+<text>
+<id>667</id>
+<name>Přetažením položek můžete uspořádat svůj inventář.</name>
+</text>
+<text>
+<id>668</id>
+<name>To je zbraň. Střelné zbraně lze obvykle nalézt na vojenských základnách a v obchodech se zbraněmi.</name>
+</text>
+<text>
+<id>669</id>
+<name>Před námi je infikovaný. Vaše postava zaútočí automaticky, když se blíží.</name>
+</text>
+<text>
+<id>670</id>
+<name>To je vlk. Často se objevuje ve smečkách, docela nebezpečné.</name>
+</text>
+<text>
+<id>671</id>
+<name>To je vodní pumpa. Můžete z něj pít přímo nebo plnit nádoby.</name>
+</text>
+<text>
+<id>672</id>
+<name>To je nabourané auto. Můžete hledat zásoby v kufru.</name>
+</text>
+<text>
+<id>673</id>
+<name>Můžete lovit jeleny a pomocí nože získat zvěřinu.</name>
+</text>
+<text>
+<id>674</id>
+<name>Můžete lovit králíky a pomocí nože získat králičí maso.</name>
+</text>
+<text>
+<id>675</id>
+<name>Můžete se rozhlédnout a nasbírat bobule z některých keřů.</name>
+</text>
+<text>
+<id>900</id>
+<name>Mapa 16x16</name>
+</text>
+<text>
+<id>901</id>
+<name>Mapa 32x32</name>
+</text>
+<text>
+<id>902</id>
+<name>• Velikost ostrova: 16x16 (klasika) nebo 32x32 (4x větší, 4x více měst, základen, kořisti a aut). Platí pro všechny ostrovy hry.</name>
+</text>
+</list>

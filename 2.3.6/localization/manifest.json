@@ -1,0 +1,149 @@
+{
+  "method": "Machine-assisted additions; existing translations preserved. English IDs and numerical values are authoritative.",
+  "languages": {
+    "RU": {
+      "items": {
+        "keys": 411,
+        "addedOrUpdated": 171
+      },
+      "logs": {
+        "keys": 220,
+        "addedOrUpdated": 123
+      },
+      "new": {
+        "keys": 534,
+        "addedOrUpdated": 427
+      },
+      "ui": {
+        "keys": 600,
+        "addedOrUpdated": 146
+      }
+    },
+    "DE": {
+      "items": {
+        "keys": 411,
+        "addedOrUpdated": 205
+      },
+      "logs": {
+        "keys": 220,
+        "addedOrUpdated": 123
+      },
+      "new": {
+        "keys": 534,
+        "addedOrUpdated": 534
+      },
+      "ui": {
+        "keys": 600,
+        "addedOrUpdated": 146
+      }
+    },
+    "ES": {
+      "items": {
+        "keys": 411,
+        "addedOrUpdated": 0
+      },
+      "logs": {
+        "keys": 220,
+        "addedOrUpdated": 0
+      },
+      "new": {
+        "keys": 534,
+        "addedOrUpdated": 353
+      },
+      "ui": {
+        "keys": 600,
+        "addedOrUpdated": 2
+      }
+    },
+    "FR": {
+      "items": {
+        "keys": 411,
+        "addedOrUpdated": 205
+      },
+      "logs": {
+        "keys": 220,
+        "addedOrUpdated": 123
+      },
+      "new": {
+        "keys": 534,
+        "addedOrUpdated": 534
+      },
+      "ui": {
+        "keys": 600,
+        "addedOrUpdated": 146
+      }
+    },
+    "IT": {
+      "items": {
+        "keys": 411,
+        "addedOrUpdated": 205
+      },
+      "logs": {
+        "keys": 220,
+        "addedOrUpdated": 123
+      },
+      "new": {
+        "keys": 534,
+        "addedOrUpdated": 534
+      },
+      "ui": {
+        "keys": 600,
+        "addedOrUpdated": 146
+      }
+    },
+    "CZ": {
+      "items": {
+        "keys": 411,
+        "addedOrUpdated": 205
+      },
+      "logs": {
+        "keys": 220,
+        "addedOrUpdated": 123
+      },
+      "new": {
+        "keys": 534,
+        "addedOrUpdated": 534
+      },
+      "ui": {
+        "keys": 600,
+        "addedOrUpdated": 146
+      }
+    },
+    "PT": {
+      "items": {
+        "keys": 411,
+        "addedOrUpdated": 0
+      },
+      "logs": {
+        "keys": 220,
+        "addedOrUpdated": 0
+      },
+      "new": {
+        "keys": 534,
+        "addedOrUpdated": 355
+      },
+      "ui": {
+        "keys": 600,
+        "addedOrUpdated": 0
+      }
+    },
+    "VI": {
+      "items": {
+        "keys": 411,
+        "addedOrUpdated": 411
+      },
+      "logs": {
+        "keys": 220,
+        "addedOrUpdated": 220
+      },
+      "new": {
+        "keys": 534,
+        "addedOrUpdated": 534
+      },
+      "ui": {
+        "keys": 600,
+        "addedOrUpdated": 600
+      }
+    }
+  }
+}
